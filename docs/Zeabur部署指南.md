@@ -4,7 +4,7 @@
 
 ## 操作步骤
 
-1. 在 Zeabur 创建项目，添加服务，选择 GitHub 仓库 `pablopeng/jianwei-product-agent` 的 `main` 分支。授权 Zeabur 读取该私有仓库；根目录保持 `/`。仓库内 Dockerfile 用于构建。
+1. 在 Zeabur 创建项目，添加服务，选择 GitHub 仓库 `pablopeng/jianwei-product-agent` 的 `main` 分支。授权 Zeabur 读取该公开仓库；根目录保持 `/`。仓库内 Dockerfile 用于构建。
 2. 在环境变量中填写下表。先绑定一个域名（例如自行选择的 `xxx.zeabur.app`），再把该完整主机名填入 `AGENT_ALLOWED_HOSTS`。未完成访问配置前，服务会拒绝启动。
 3. 添加持久化卷，挂载路径 `/data`，保存会话、上传附件、配置与评测记录。使用单实例；当前文件存储和进程内异步任务不适用于多副本。不要把卷挂载到 `/app`，那会覆盖代码。
 4. 暴露 HTTP 端口 `8080`；若平台设置其他 `PORT`，应用自动读取。绑定 HTTPS 域名后部署。

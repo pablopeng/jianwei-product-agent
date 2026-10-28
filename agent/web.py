@@ -338,7 +338,7 @@ class Handler(BaseHTTPRequestHandler):
                 username, password = '', ''
             if not expected or username != 'demo' or not hmac.compare_digest(password.encode(), expected.encode()):
                 self.send_response(401)
-                self.send_header('WWW-Authenticate', 'Basic realm="Jianwei Demo", charset="UTF-8"')
+                self.send_header('WWW-Authenticate', 'Basic realm="Dianjing Demo", charset="UTF-8"')
                 self.send_header('Cache-Control', 'no-store')
                 self.send_header('Content-Length', '0')
                 self.end_headers()

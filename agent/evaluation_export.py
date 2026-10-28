@@ -10,7 +10,7 @@ def report_xml(report):
     def heading(value): return '<h1>' + escape(value) + '</h1>'
     def table(headers, rows):
         return '<table><thead><tr>' + ''.join('<th>'+escape(str(h))+'</th>' for h in headers) + '</tr></thead><tbody>' + ''.join('<tr>'+''.join('<td>'+escape(str(c))+'</td>' for c in row)+'</tr>' for row in rows)+'</tbody></table>'
-    title = '见微评测报告 · ' + report.get('session_title', '商品') + ' · ' + report.get('created_at', '')[:10]
+    title = '点睛评测报告 · ' + report.get('session_title', '商品') + ' · ' + report.get('created_at', '')[:10]
     content = ['<title>' + escape(title) + '</title>',
         p('评测类型：' + report['type'] + '；时间：' + report.get('created_at', '') + ('；人工设计示例' if report.get('example') else '')),
         p('Session：' + str(report.get('session_id'))),
