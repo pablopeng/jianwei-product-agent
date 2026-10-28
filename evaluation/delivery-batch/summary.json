@@ -178,5 +178,10 @@
         "insufficient": 14
       }
     }
-  ]
+  ],
+  "model": {
+    "model": "deepseek-flash",
+    "vision_model": "deepseek-flash"
+  },
+  "run_mode": "offline batch invoking the same normalize/confirmation/generate kernel; explicitly authorized by user; not 14 human conversations"
 }
