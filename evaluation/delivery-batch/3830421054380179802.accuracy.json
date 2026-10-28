@@ -1,0 +1,1097 @@
+{
+  "type": "accuracy",
+  "product_id": "3830421054380179802",
+  "result_revision": "a6114b5e6136181a09f6cf7a368103817effa560b1b0c837b9eaf33a8992fcbf",
+  "profile_revision": "76e98b94b8714d8348761cf213f088708570a8d280a59b9d38d4b1eccb2f62e4",
+  "material_revision": "22d823ef610decd7eae9549e55ebbff58c2d853845d3a14f33168fadcee3327d",
+  "counts": {
+    "supported": 28,
+    "contradicted": 0,
+    "insufficient": 14
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "椰谷燃燃椰左旋肉碱椰子水运动饮料（山竹口味）580g*8瓶",
+      "source_ids": [
+        "identity",
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名与产品名称、规格可对应，包装图未见额外承诺。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "椰谷燃燃椰左旋肉碱椰子水健身代餐鲜椰水官方正品580g*8瓶"
+            },
+            {
+              "source_id": "attr-11",
+              "quote": "燃燃椰左旋肉碱椰子水运动饮料（山竹口味）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "运动功能饮料/运动饮料",
+      "source_ids": [
+        "identity",
+        "attr-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "supported",
+          "reason": "原始类目为运动功能饮料，饮品种类为运动饮料。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "third_category\": {\"category_name\": \"运动功能饮料\""
+            },
+            {
+              "source_id": "attr-8",
+              "quote": "运动饮料"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "水、赤藓糖醇、苹果汁、椰子水≥5%、左旋肉碱（添加量100mg/100mL）、柠檬酸、食用盐、食用香精、三氯蔗糖、柠檬酸钠、磷酸二氢钠",
+      "source_ids": [
+        "attr-0",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表与长图配料一致，仅将斜杠视为分隔。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "水、赤藓糖醇、苹果汁、椰子水≥5%、左旋肉碱（添加量100mg/100mL）/柠檬酸、食用盐、食用香精、三氯蔗糖、柠檬酸钠、磷酸二氢钠"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "水、赤藓糖醇、苹果汁、椰子水≥5%、左旋肉碱（添加量100mg/100mL）/柠檬酸、食用盐、食用香精、三氯蔗糖、柠檬酸钠、磷酸二氢钠"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "品牌：YEGU/椰谷",
+      "source_ids": [
+        "attr-16"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "属性明确标注品牌为YEGU/椰谷。",
+          "evidence": [
+            {
+              "source_id": "attr-16",
+              "quote": "YEGU/椰谷"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "净含量：580g/瓶",
+      "source_ids": [
+        "attr-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "净含量与包装图可见净含量一致。",
+          "evidence": [
+            {
+              "source_id": "attr-15",
+              "quote": "580g"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "净含量：580克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "贮存条件：常温",
+      "source_ids": [
+        "attr-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "贮存条件明确为常温。",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "常温"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "保质期：9个月",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "保质期字段为9月。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "9月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "产品标准代码：GB 15266",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "产品标准代码字段一致。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "GB 15266"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC10644060703156",
+      "source_ids": [
+        "attr-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "食品生产许可证编号字段一致。",
+          "evidence": [
+            {
+              "source_id": "attr-10",
+              "quote": "SC10644060703156"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "生产企业：佛山市绿岛椰谷食品有限公司",
+      "source_ids": [
+        "attr-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "生产企业名称字段一致。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "佛山市绿岛椰谷食品有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "生产企业地址：佛山市三水工业园区塘九路南88号4座（住所申报）",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "生产企业地址字段与长图一致。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "佛山市三水工业园区塘九路南88号4座（住所申报）"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "佛山市三水工业园区塘九路南88号4座（住所申报）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "产地：中国大陆，国产预包装食品",
+      "source_ids": [
+        "attr-5",
+        "attr-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "产地字段为中国大陆，包装为国产预包装食品。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "中国大陆"
+            },
+            {
+              "source_id": "attr-5",
+              "quote": "国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "包装类型：瓶装",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "包装类型字段为瓶装。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "瓶装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "特产品类：风味饮料",
+      "source_ids": [
+        "attr-13"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "特产品类字段为风味饮料。",
+          "evidence": [
+            {
+              "source_id": "attr-13",
+              "quote": "风味饮料"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "是否临期：否",
+      "source_ids": [
+        "attr-12"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "是否临期字段为否。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "营养成分（每100毫升）：能量0千焦、蛋白质0克、脂肪0克、饱和脂肪0克、碳水化合物3.6克、糖0克、钠28毫克、左旋肉碱100毫克",
+      "source_ids": [
+        "attr-14",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "营养成分表逐项可对应，左旋肉碱100毫克来自长图成分表。",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "能量 0kJ、蛋白质 0.0g、脂肪 0.0g、饱和脂肪（酸） 0.0g、碳水化合物 3.6g、糖（乳糖） 0.0g、钠 28mg"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "左旋肉碱 100毫克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "每瓶添加左旋肉碱580mg，左旋肉碱添加量100mg/100mL",
+      "source_ids": [
+        "image-E",
+        "image-M",
+        "image-M-part-2",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "包装图与长图均标示每瓶580mg左旋肉碱及100mg/100mL添加量。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "左旋肉碱580mg/瓶"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "每瓶含左旋肉碱580mg"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "左旋肉碱（添加量100mg/100mL）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "椰子水含量≥5%",
+      "source_ids": [
+        "image-E",
+        "image-M-part-2",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "多张商品图标示椰子水含量≥5%。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "椰子水含量≥5%"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "椰子水含量≥5%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "低糖",
+      "source_ids": [
+        "image-E",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "商品图标注低糖，并显示糖0克。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "低糖"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "糖 0克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "580g*8瓶",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "规格列表给出580g*8瓶。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "580g*8瓶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "口味分类：燃燃椰左旋肉碱椰子水运动饮料",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "规格中的口味分类可对应。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "燃燃椰左旋肉碱椰子水运动饮料"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "单瓶净含量580g，8瓶组合装",
+      "source_ids": [
+        "specs",
+        "attr-15"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "单瓶净含量580g，8瓶组合装"
+            },
+            {
+              "source_id": "attr-15",
+              "quote": "580g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "人气上新·双效左旋水",
+      "source_ids": [
+        "copy-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "insufficient",
+          "reason": "“人气上新·双效左旋水”仅见营销文描，无销量或上新事实独立佐证。",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "人气上新·双效左旋水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "人气新品",
+      "source_ids": [
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "“人气新品”仅见平台文描，无独立证据证实人气或新品。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "人气新品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "左旋+椰子水，运动更畅快",
+      "source_ids": [
+        "image-E",
+        "image-M"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "图文明示左旋加椰子水及运动更畅快，属于宣传语而非功效保证。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "左旋+椰子水 运动更畅快"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "左旋+椰子水 运动更畅快"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "双效配方：左旋燃动+椰子水",
+      "source_ids": [
+        "image-H"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "商品图明示双效配方：左旋燃动+椰子水。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "双效配方 左旋燃动+椰子水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "每瓶添加580mg左旋肉碱，为管理期加油助力，延缓疲劳、潜在耐力提升",
+      "source_ids": [
+        "image-H",
+        "image-M-part-2",
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "insufficient",
+          "reason": "每瓶580mg左旋肉碱有据，但“延缓疲劳、潜在耐力提升”仅为宣传，无独立资料支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "左旋肉碱在运动训练中的应用：•为管理期加油助力•延缓疲劳•潜在耐力提升"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "椰子水含量≥5%，自带天然椰子电解质（Ca、Na+、K+），补充水分",
+      "source_ids": [
+        "image-M-part-2",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "insufficient",
+          "reason": "椰子水≥5%及补充水分可支持，但“天然椰子电解质（Ca、Na+、K+）”仅为图示，未见具体含量，“天然”亦无独立佐证。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "Ca、Na+、K+、水；椰子水含量≥5% 自带天然椰子电解质，补充水分"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "低糖：采用代糖赤藓糖醇，规避高糖饮品热量负担；赤藓糖醇能量系数0kJ/g、升糖指数0GI、不参与糖代谢、低热量",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "insufficient",
+          "reason": "使用赤藓糖醇与0kJ/g、0GI有图可证，但“规避高糖饮品热量负担”“不参与糖代谢”属宣传，无独立实验或权威依据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "低糖 规避高糖饮品热量负担；采用代糖「赤藓糖醇」；赤藓糖醇 能量系数0kJ/g 升血糖指数0GI 不参与糖代谢"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "专业调配配方，适配健身有氧运动；健身跑步——运动前喝，活力全开；瑜伽运动——辅助运动代谢，畅燃运动；水上运动——潜在耐力提升；健身有氧运动随时畅饮",
+      "source_ids": [
+        "image-J",
+        "image-M-part-2",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "运动场景可对应，但“辅助运动代谢”“潜在耐力提升”等功能表述无独立证据，不能由宣传图自动成立。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "瑜伽运动 辅助运动代谢，畅燃运动；水上运动 潜在耐力提升"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "专业调配配方 适配健身有氧运动"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "口感微甜适中，喝起来有淡淡的椰子香味，冰镇后更好喝",
+      "source_ids": [
+        "copy-0",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "insufficient",
+          "reason": "口感描述来自买家个体体验，不能作为客观口感保证；仅可支持买家有此类评价。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "口感微甜适中"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "喝起来有淡淡的椰子香味，冰镇一下更加好喝"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "有买家觉得喝起来味道怪怪的，可能是不习惯，但也表示还挺好喝（个人感受，评价不一）",
+      "source_ids": [
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "insufficient",
+          "reason": "引述买家“味道怪怪的”属个体主观体验，且原文还称“还挺好喝”，评价不一，不能确认口感。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "喝起来味道怪怪的，可能是喝不习惯吧！不过还挺好喝的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "有低血糖买家表示天热没胃口时早上出门带它，觉得好喝且价格便宜",
+      "source_ids": [
+        "copy-0",
+        "review-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "insufficient",
+          "reason": "低血糖买家带饮品、觉得好喝且便宜属个体体验，不能支持对低血糖人群的适用性。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "我本人有点低血糖……好喝，价格又便宜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "包装完好、性价比高是多名买家的共同反馈",
+      "source_ids": [
+        "review-0",
+        "review-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "insufficient",
+          "reason": "“多名买家共同反馈”仅有两条评价可对应包装与性价比，不能扩大为多名共同反馈。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "质量不错，性价比很高……包装到位"
+            },
+            {
+              "source_id": "review-6",
+              "quote": "物美价廉……包装很好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "有买家反映外包装塑封没坏但里面的箱子是重封的，疑似后拼箱而非原箱发货",
+      "source_ids": [
+        "review-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "有买家明确反映外塑封未坏、内箱重封，并质疑非原箱；该条已限定为买家反映。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "商品发来外边塑封没坏，里面的箱子是重封的，应该不是原箱发货，都是后拼的装一箱里发出来"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "部分买家反馈价格便宜、物美价廉、物超所值",
+      "source_ids": [
+        "review-1",
+        "review-6",
+        "review-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "supported",
+          "reason": "多条评价出现便宜、物美价廉、物超所值等表述，可支持“部分买家反馈”。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "价格又便宜"
+            },
+            {
+              "source_id": "review-6",
+              "quote": "物美价廉"
+            },
+            {
+              "source_id": "review-9",
+              "quote": "物美价廉物超所值"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "左旋肉碱椰子水｜每瓶580g添加左旋肉碱580mg（100mg/100mL），并含椰子水≥5%，把左旋肉碱与椰子水放进同一瓶运动饮料",
+      "source_ids": [
+        "attr-0",
+        "image-M-part-5",
+        "image-E",
+        "image-M",
+        "image-M-part-2",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "左旋肉碱580mg/瓶、添加量100mg/100mL、椰子水≥5%均有图文对应，且产品确为运动饮料。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "每瓶含左旋肉碱580mg"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "左旋肉碱（添加量100mg/100mL）"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "椰子水含量≥5%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "0糖0能量｜营养成分表标示糖0克、能量0千焦，甜味来自赤藓糖醇，想少喝糖时也能有一瓶有味道的饮料",
+      "source_ids": [
+        "attr-0",
+        "image-M-part-5",
+        "attr-14",
+        "image-E",
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "能量 0kJ……糖（乳糖） 0.0g"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "能量 0千焦、糖 0克；配料：赤藓糖醇"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "580g×8瓶组合｜单瓶净含量580g，8瓶整箱组合装，运动或日常饮用不必频繁补货",
+      "source_ids": [
+        "attr-15",
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "580g*8瓶；单瓶净含量580g，8瓶组合装"
+            },
+            {
+              "source_id": "attr-15",
+              "quote": "580g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "买家反馈微甜带椰香｜有买家反馈入口微甜适中、带淡淡椰子香味，冰镇后更好喝；口感评价不一，也有人表示味道不习惯",
+      "source_ids": [
+        "copy-0",
+        "review-5",
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "微甜带椰香、冰镇更好喝及味道不习惯均为个体买家主观反馈，不能作为产品客观口感保证。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "口感微甜适中"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "有淡淡的椰子香味，冰镇一下更加好喝"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "味道怪怪的，可能是喝不习惯吧！不过还挺好喝的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "常温瓶装易携带｜常温贮存，瓶装设计，出门运动前拿起一瓶放入包中即可",
+      "source_ids": [
+        "attr-1",
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "贮存条件常温，包装为瓶装，可支持易携带的日常描述。",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "常温"
+            },
+            {
+              "source_id": "attr-6",
+              "quote": "瓶装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "山竹口味运动饮料｜本品为山竹口味风味饮料，适合健身、跑步、瑜伽等运动场景中作为饮品",
+      "source_ids": [
+        "identity",
+        "attr-11",
+        "attr-8",
+        "attr-13",
+        "specs",
+        "image-J",
+        "image-M-part-2",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "产品名称、规格及运动场景图可支持山竹口味、风味饮料及健身等场景。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "燃燃椰左旋肉碱椰子水运动饮料（山竹口味）"
+            },
+            {
+              "source_id": "attr-13",
+              "quote": "风味饮料"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "健身有氧运动 随时畅饮"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 28 / 冲突 0 / 待核 14"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

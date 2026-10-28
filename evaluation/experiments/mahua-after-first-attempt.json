@@ -1,0 +1,177 @@
+{
+  "profile": {
+    "product_info": {
+      "name": "蜂蜜花生味麻花",
+      "category": "休闲食品",
+      "ingredients": [
+        "花生添加量≥5%",
+        "蜂蜜添加量≥0.7%"
+      ],
+      "attributes": [
+        "独立小包装"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "【蜂蜜花生麻花】278g*1袋",
+        "details": []
+      },
+      {
+        "name": "【蜂蜜花生麻花】278g*2袋",
+        "details": []
+      },
+      {
+        "name": "【蜂蜜花生麻花】278g*3袋",
+        "details": []
+      }
+    ],
+    "original_selling_points": [
+      "商品页描述为香甜酥脆"
+    ],
+    "buyer_feedback": [
+      "部分评价提到口感酥脆"
+    ],
+    "cautions": [
+      "属性与包装标注278克，详情底部产品信息写300克；未核对前暂不在卖点中写克重。"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3825952452159603168",
+      "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+      "sources": {
+        "蜂蜜花生味麻花": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "休闲食品": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "花生添加量≥5%": {
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        "蜂蜜添加量≥0.7%": {
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        "独立小包装": {
+          "source_ids": [
+            "image-M-3"
+          ],
+          "kind": "fact"
+        },
+        "商品页描述为香甜酥脆": {
+          "source_ids": [
+            "copy-19"
+          ],
+          "kind": "description"
+        },
+        "部分评价提到口感酥脆": {
+          "source_ids": [
+            "review-0"
+          ],
+          "kind": "feedback"
+        },
+        "【蜂蜜花生麻花】278g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【蜂蜜花生麻花】278g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【蜂蜜花生麻花】278g*3袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 1
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "蜂蜜花生麻花｜蜂蜜添加量≥0.7%、花生添加量≥5%，两种风味用料都有明确比例",
+        "priority": 1
+      },
+      {
+        "text": "香甜酥脆的麻花口感｜商品页描述为香甜酥脆，部分买家评价也提到口感酥脆，入口是麻花特有的脆香",
+        "priority": 2
+      },
+      {
+        "text": "独立小包装，随手取用｜每根独立小包装，追剧、办公间隙或出门随身带都方便，吃几根拿几根",
+        "priority": 3
+      },
+      {
+        "text": "多袋规格可选｜有1袋、2袋、3袋装可选，自己囤着吃或与家人分享都好安排",
+        "priority": 4
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3825952452159603168",
+      "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+      "knowledge_revision": "df13fb39441d5db9486a0ee1076dba4094c680b320c474829fa78063eede68b6",
+      "support": [
+        {
+          "basis": [
+            "花生添加量≥5%",
+            "蜂蜜添加量≥0.7%"
+          ],
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "商品页描述为香甜酥脆",
+            "部分评价提到口感酥脆"
+          ],
+          "source_ids": [
+            "copy-19",
+            "review-0"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "独立小包装"
+          ],
+          "source_ids": [
+            "image-M-3"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "【蜂蜜花生麻花】278g*1袋",
+            "【蜂蜜花生麻花】278g*2袋",
+            "【蜂蜜花生麻花】278g*3袋"
+          ],
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "elapsed_seconds": 2.86
+}

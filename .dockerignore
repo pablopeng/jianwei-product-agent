@@ -1,0 +1,8 @@
+.git
+.venv
+.agent-state
+.env
+.env.*
+__pycache__
+*.pyc
+preview

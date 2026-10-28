@@ -1,0 +1,1420 @@
+{
+  "product_id": "3790885783632740691",
+  "name": "【到手3条】徽渔桂臭鳜鱼带包装0.6-1斤/条安徽特产正宗三去臭桂鱼",
+  "source_row": 3,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3790885783632740691",
+    "display_name": "【到手3条】徽渔桂臭鳜鱼带包装0.6-1斤/条安徽特产正宗三去臭桂鱼",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L3/identity",
+        "text": "{\"product_name\": \"【到手3条】徽渔桂臭鳜鱼带包装0.6-1斤/条安徽特产正宗三去臭桂鱼\", \"product_category\": {\"first_category\": {\"category_name\": \"海鲜水产\", \"category_code\": 1000003801}, \"second_category\": {\"category_name\": \"海鲜水产制品\", \"category_code\": 1000003804}, \"third_category\": {\"category_name\": \"鱼类制品\", \"category_code\": 1000009770}}, \"brand_name\": \"徽渔桂\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "包装类型",
+        "locator": "sheet2!L3/attr-0",
+        "text": "{\"包装类型\": [\"包装\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "食品生产许可证编号",
+        "locator": "sheet2!L3/attr-1",
+        "text": "{\"食品生产许可证编号\": [\"SC12234172130063\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "营养成分表",
+        "locator": "sheet2!L3/attr-2",
+        "text": "{\"营养成分表\": [\"能量 433kJ、蛋白质 15.8g、脂肪 3.9g、碳水化合物 1.2g、钠 1348mg\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "产地",
+        "locator": "sheet2!L3/attr-3",
+        "text": "{\"产地\": [\"中国大陆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "净含量",
+        "locator": "sheet2!L3/attr-4",
+        "text": "{\"净含量\": [\"260g\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "尺寸",
+        "locator": "sheet2!L3/attr-5",
+        "text": "{\"尺寸\": [\"0\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "生产企业名称",
+        "locator": "sheet2!L3/attr-6",
+        "text": "{\"生产企业名称\": [\"池州市池一鱼农业科技有限公司\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-7",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L3/attr-7",
+        "text": "{\"保质期\": [\"1年\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-8",
+        "kind": "product_attributes",
+        "label": "贮存条件",
+        "locator": "sheet2!L3/attr-8",
+        "text": "{\"贮存条件\": [\"冷冻（0℃及以下）\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-9",
+        "kind": "product_attributes",
+        "label": "品牌",
+        "locator": "sheet2!L3/attr-9",
+        "text": "{\"品牌\": [\"徽渔桂\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-10",
+        "kind": "product_attributes",
+        "label": "加工方式",
+        "locator": "sheet2!L3/attr-10",
+        "text": "{\"加工方式\": [\"腌制\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-11",
+        "kind": "product_attributes",
+        "label": "是否临期",
+        "locator": "sheet2!L3/attr-11",
+        "text": "{\"是否临期\": [\"否\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-12",
+        "kind": "product_attributes",
+        "label": "配料表",
+        "locator": "sheet2!L3/attr-12",
+        "text": "{\"配料表\": [\"新鲜鳜鱼、食用盐、香辛料、饮用水\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L3/specs",
+        "text": "{\"child_spec_seq\": [\"口味分类\", \"单件净含量\"], \"spec_values_seq\": [[\"【3条臭鳜鱼】6-7两x3条+3料包\", \"【3条臭鳜鱼】7-8两x3条+3料包\", \"【3条臭鳜鱼】8-9两x3条+3料包\", \"【3条臭鳜鱼】0.9-1斤x3条+3料包\"], [\"300g\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L3/copy-0",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"味道不错，经济又实惠。孩子非常喜欢吃。\", \"昨天刚到家，就立马拆了一袋，带袋子重量420g，在合理范围里，吃起来口感也不错，没有加盐，我觉得盐度刚刚好，不喜欢那种齁咸的。\", \"非常新鲜，写满四个字能得五元券，得着了新鲜程度，腌制的哪来的新鲜程度\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-1",
+        "kind": "marketing_copy",
+        "label": "商品文描-固定文案",
+        "locator": "sheet2!L3/copy-1",
+        "text": "{\"sale_point_category\": \"商品文描-固定文案\", \"sale_points\": [\"古法工艺香:低温发酵更正宗\", \"无添加安全:老人小孩放心吃\", \"蒜瓣肉鲜嫩:肉质紧实弹嫩易吃\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L3/review-0",
+        "text": "昨天刚到家，就立马拆了一袋，带袋子重量420g，在合理范围里，吃起来口感也不错，没有加盐，我觉得盐度刚刚好，不喜欢那种齁咸的。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L3/review-1",
+        "text": "新鲜度：好\n包装品质：完好\n口感味道：超好\n口感味道：喜欢\n商品分量：足\n性价比：高\n物流速度：快",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L3/review-2",
+        "text": "非常新鲜，写满四个字能得五元券，得着了新鲜程度，腌制的哪来的新鲜程度",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-3",
+        "kind": "buyer_review",
+        "label": "买家评价4",
+        "locator": "sheet2!L3/review-3",
+        "text": "味道不错，经济又实惠。孩子非常喜欢吃。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-4",
+        "kind": "buyer_review",
+        "label": "买家评价5",
+        "locator": "sheet2!L3/review-4",
+        "text": "黄山臭鳜鱼就是好吃，有平台优惠劵更好。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-5",
+        "kind": "buyer_review",
+        "label": "买家评价6",
+        "locator": "sheet2!L3/review-5",
+        "text": "不错很好鱼很大顺丰冷链发货",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-6",
+        "kind": "buyer_review",
+        "label": "买家评价7",
+        "locator": "sheet2!L3/review-6",
+        "text": "不错",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L3/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1922\", \"industry_name\": \"传媒资讯\"}, \"second_industry\": {\"industry_code\": \"192211\", \"industry_name\": \"信息资讯\"}, \"third_industry\": {\"industry_code\": 19221101, \"industry_name\": \"其他资讯\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "short-name",
+        "kind": "marketing_copy",
+        "label": "旧商品短名",
+        "locator": "sheet2!L3/short-name",
+        "text": "正宗臭鳜鱼到手4条",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E3:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-E-0.jpg",
+        "image_token": "Bu3bbaJvxoj3Vaxs2Ihc1KQcnQo",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-F",
+        "kind": "image",
+        "label": "商品图F",
+        "locator": "sheet2!F3:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-F-0.jpg",
+        "image_token": "L2SqbjdnootcfyxcCZsc9XoinAe",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G3:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-G-0.jpg",
+        "image_token": "B3SnbhNKMoRz6QxYee7cxIHOn9c",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H3:y=0..1000",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-H-0.jpg",
+        "image_token": "NijKbEBUCoBNENxBlyyc1UlCneg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I3:y=0..1000",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-I-0.jpg",
+        "image_token": "CcWLbM2LfonlvzxpXp1cg31vngp",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J3:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-J-0.jpg",
+        "image_token": "FUTrbIxW6oNyXCxUyLRc801LnWb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-K",
+        "kind": "image",
+        "label": "商品图K",
+        "locator": "sheet2!K3:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-K-0.jpg",
+        "image_token": "TZP7beUSHoHeLyxtBtncKkranwe",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M",
+        "kind": "image",
+        "label": "商品详情长图 · 片段1",
+        "locator": "sheet2!M3:y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-0.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-2",
+        "kind": "image",
+        "label": "商品详情长图 · 片段2",
+        "locator": "sheet2!M3:y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-1.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-3",
+        "kind": "image",
+        "label": "商品详情长图 · 片段3",
+        "locator": "sheet2!M3:y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-2.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-4",
+        "kind": "image",
+        "label": "商品详情长图 · 片段4",
+        "locator": "sheet2!M3:y=5400..7200",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-3.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-5",
+        "kind": "image",
+        "label": "商品详情长图 · 片段5",
+        "locator": "sheet2!M3:y=7200..9000",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-4.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-6",
+        "kind": "image",
+        "label": "商品详情长图 · 片段6",
+        "locator": "sheet2!M3:y=9000..10800",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-5.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-7",
+        "kind": "image",
+        "label": "商品详情长图 · 片段7",
+        "locator": "sheet2!M3:y=10800..12600",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-6.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-8",
+        "kind": "image",
+        "label": "商品详情长图 · 片段8",
+        "locator": "sheet2!M3:y=12600..14400",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-7.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-9",
+        "kind": "image",
+        "label": "商品详情长图 · 片段9",
+        "locator": "sheet2!M3:y=14400..14712",
+        "text": "",
+        "image_path": "data/assets/3790885783632740691/image-M-8.jpg",
+        "image_token": "SeZzb8KtZoMnMYxXSFPchd5onfh",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:56:14Z",
+  "profile": {
+    "product_info": {
+      "name": "徽渔桂臭鳜鱼（三去臭桂鱼）",
+      "category": "水产制品/鱼类制品-臭鳜鱼",
+      "ingredients": [],
+      "attributes": [
+        "品牌：徽渔桂；部分图片写“微渔桂”，待确认",
+        "产地：安徽池州（安徽特产/徽州风味）",
+        "生产企业：池州市池一鱼农业科技有限公司",
+        "食品生产许可证编号：SC12234172130063",
+        "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵",
+        "贮存条件：冷冻（0℃及以下），详情页标注-18℃冷冻保存",
+        "保质期：1年（详情页标注12个月）",
+        "净含量：260g（产品参数标注）；另有300g口径待确认",
+        "包装类型：包装；真空包装、冰袋锁鲜、泡沫箱冷链发货",
+        "是否临期：否",
+        "营养成分表（每100g）：能量433kJ、蛋白质15.8g、脂肪3.9g、碳水化合物1.2g、钠1348mg",
+        "物流：安徽池州发货，包邮，顺丰冷链",
+        "收货提示：冷冻品加冰袋泡沫箱发货，需及时取货并冰箱存储；签收后24小时内提供坏单照片可负责"
+      ]
+    },
+    "specifications": [],
+    "original_selling_points": [
+      "古法工艺：鲜鱼宰杀、彩木桶腌、古法湿腌，传统工艺低温发酵168小时，自然发酵生臭熟香",
+      "自然发酵，商家宣称无添加剂、无保鲜剂、0添加剂、0防腐剂，老人小孩放心吃",
+      "蒜瓣肉：肉质紧实、形如蒜瓣，片片蒜瓣肉，嫩白如雪，口感鲜嫩滑爽、Q弹爽滑、紧实有嚼劲，鱼肉鲜香透骨",
+      "闻起来臭、吃起来香；闻味识得鳜鱼香，入口鲜香",
+      "肉多无小刺乱刺，更安全",
+      "活鱼宰杀、极冻锁鲜，只做活鱼宰杀，口感鲜嫩、营养丰富；承诺新鲜鳜鱼从养殖基地到厂区速冻库不超过2小时，自家养殖腌制",
+      "安徽招牌臭鳜鱼、徽州头牌菜、徽菜经典头牌，传承徽州家乡味道",
+      "腌制经验30年，无鳜不成席，贵人吃鳜鱼",
+      "搭配烧鱼料包：拍一发四、赠料包，徽州大厨特调全能料包，家常调料地道风味；配视频教学，60秒变“大厨”，15分钟轻松变大厨，厨房小白也能做",
+      "仿生养殖、饵料喂养，活鱼腌制层层把关",
+      "原产地直发，源头工厂、高端品质，严格质检，资质齐全（检验报告：RPC25030165）"
+    ],
+    "buyer_feedback": [
+      "正面：口感好、味道不错，孩子非常喜欢吃",
+      "正面：盐度调得较淡、不齁咸，适合不喜欢重咸的人",
+      "正面：鱼较大，分量足、性价比高",
+      "正面：包装完好、新鲜度好",
+      "个人感受/质疑：臭鳜鱼本身是腌制食品，买家质疑“非常新鲜”的说法",
+      "个人感受：买家实收带包装约420g，认为在合理范围内"
+    ],
+    "cautions": [
+      "商品名称写“到手3条”，旧短名却写“到手4条”，图片宣传“拍一发四”与“3条鱼+3料包”的对应口径需确认，可能与“鱼+料包”合并计数有关",
+      "商品名称标注每条0.6-1斤，规格按6-7两、7-8两、8-9两、0.9-1斤分档，但单件净含量统一写300g，且产品参数净含量写260g，规格重量与净含量不一致，需以实物标签为准",
+      "配料表标“新鲜鳜鱼、食用盐、香辛料、饮用水”，详情页产品参数配料只写“新鲜鳜鱼、食用盐、香辛料”，是否含水需确认",
+      "贮存条件标“冷冻（0℃及以下）”，详情页写“-18℃冷冻保存”，具体冷冻温度口径需确认",
+      "尺寸字段为0，净含量有260g与300g两种口径，需以实物标签为准",
+      "旧模型行业判断为“传媒资讯/信息资讯”，与商品实际水产制品类目明显不符，不可作为商品属性",
+      "宣传“无添加/0添加剂/0防腐剂”属商家原有描述，现有配料表与认证资料不足以核实",
+      "“中国鳜鱼之乡”“示范场”“PONY检测报告”等认证或检测资料图片不完整、关键信息不可清晰辨识，仅作线索，不作确定承诺",
+      "“新鲜”指近期冷冻产品，非活鲜；真空包装可能因运输导致密封不完全，冰袋融化后鱼身轻微软化属正常现象；高温运输可能有水分蒸发导致重量误差",
+      "拒收后退回变质无法全额退款，签收后24小时内提供坏单照片可负责",
+      "资料中出现的配料为：新鲜鳜鱼、食用盐、香辛料、饮用水。部分口味没有独立配料信息，未将这组配料作为全商品通用配料；已明确对应的配方保留在规格信息中。"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3790885783632740691",
+      "material_revision": "7e2e64acab9eb5a799104af334515ad4051db5c202dfaefc17be30393abcd5a5",
+      "sources": {
+        "品牌：徽渔桂；部分图片写“微渔桂”，待确认": {
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-6",
+            "image-M-part-7"
+          ],
+          "kind": "fact"
+        },
+        "产地：安徽池州（安徽特产/徽州风味）": {
+          "source_ids": [
+            "attr-2",
+            "image-M-part-4",
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        "生产企业：池州市池一鱼农业科技有限公司": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "食品生产许可证编号：SC12234172130063": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵": {
+          "source_ids": [
+            "image-M-part-4",
+            "image-M-part-7",
+            "copy-1"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件：冷冻（0℃及以下），详情页标注-18℃冷冻保存": {
+          "source_ids": [
+            "attr-8",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "保质期：1年（详情页标注12个月）": {
+          "source_ids": [
+            "attr-8"
+          ],
+          "kind": "fact"
+        },
+        "净含量：260g（产品参数标注）；另有300g口径待确认": {
+          "source_ids": [
+            "attr-4",
+            "attr-5",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "包装类型：包装；真空包装、冰袋锁鲜、泡沫箱冷链发货": {
+          "source_ids": [
+            "image-M-part-7",
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        "是否临期：否": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "营养成分表（每100g）：能量433kJ、蛋白质15.8g、脂肪3.9g、碳水化合物1.2g、钠1348mg": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "物流：安徽池州发货，包邮，顺丰冷链": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "收货提示：冷冻品加冰袋泡沫箱发货，需及时取货并冰箱存储；签收后24小时内提供坏单照片可负责": {
+          "source_ids": [
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        "每条6-7两，共3条，赠3份烧鱼料包": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "每条7-8两，共3条，赠3份烧鱼料包": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "每条8-9两，共3条，赠3份烧鱼料包": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "每条0.9-1斤，共3条，赠3份烧鱼料包": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "搭配红烧料包60g": {
+          "source_ids": [
+            "image-M-part-6"
+          ],
+          "kind": "fact"
+        },
+        "烹饪步骤：提前30分钟常温水解冻，洗净两面改花刀；热锅凉油（加菜籽油更香）煎鱼至两面金黄，加入等回鱼重量的热水，按比例加入全配酱料，焖煮12分钟，中途可翻面，开盖捞出鱼；起锅装盘，大火收汁，爱吃辣加入青红椒、淋在鱼身上，撒上葱花即可": {
+          "source_ids": [
+            "image-M-part-6"
+          ],
+          "kind": "fact"
+        },
+        "古法工艺：鲜鱼宰杀、彩木桶腌、古法湿腌，传统工艺低温发酵168小时，自然发酵生臭熟香": {
+          "source_ids": [
+            "copy-1",
+            "image-M-part-3",
+            "image-M-part-4",
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        "自然发酵，商家宣称无添加剂、无保鲜剂、0添加剂、0防腐剂，老人小孩放心吃": {
+          "source_ids": [
+            "copy-1",
+            "image-H",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "蒜瓣肉：肉质紧实、形如蒜瓣，片片蒜瓣肉，嫩白如雪，口感鲜嫩滑爽、Q弹爽滑、紧实有嚼劲，鱼肉鲜香透骨": {
+          "source_ids": [
+            "copy-1",
+            "image-I",
+            "image-M-part-3",
+            "image-M-part-4",
+            "image-M-part-5"
+          ],
+          "kind": "description"
+        },
+        "闻起来臭、吃起来香；闻味识得鳜鱼香，入口鲜香": {
+          "source_ids": [
+            "image-H",
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        "肉多无小刺乱刺，更安全": {
+          "source_ids": [
+            "image-H",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "活鱼宰杀、极冻锁鲜，只做活鱼宰杀，口感鲜嫩、营养丰富；承诺新鲜鳜鱼从养殖基地到厂区速冻库不超过2小时，自家养殖腌制": {
+          "source_ids": [
+            "image-M-part-3",
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        "安徽招牌臭鳜鱼、徽州头牌菜、徽菜经典头牌，传承徽州家乡味道": {
+          "source_ids": [
+            "image-E",
+            "image-M-part-2",
+            "image-M-part-5"
+          ],
+          "kind": "description"
+        },
+        "腌制经验30年，无鳜不成席，贵人吃鳜鱼": {
+          "source_ids": [
+            "image-M-part-5"
+          ],
+          "kind": "description"
+        },
+        "搭配烧鱼料包：拍一发四、赠料包，徽州大厨特调全能料包，家常调料地道风味；配视频教学，60秒变“大厨”，15分钟轻松变大厨，厨房小白也能做": {
+          "source_ids": [
+            "image-E",
+            "image-K",
+            "image-M-part-2",
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        "仿生养殖、饵料喂养，活鱼腌制层层把关": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "原产地直发，源头工厂、高端品质，严格质检，资质齐全（检验报告：RPC25030165）": {
+          "source_ids": [
+            "image-J",
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        "正面：口感好、味道不错，孩子非常喜欢吃": {
+          "source_ids": [
+            "copy-0",
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "正面：盐度调得较淡、不齁咸，适合不喜欢重咸的人": {
+          "source_ids": [
+            "copy-0",
+            "review-0"
+          ],
+          "kind": "feedback"
+        },
+        "正面：鱼较大，分量足、性价比高": {
+          "source_ids": [
+            "review-1",
+            "review-5"
+          ],
+          "kind": "feedback"
+        },
+        "正面：包装完好、新鲜度好": {
+          "source_ids": [
+            "review-1",
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受/质疑：臭鳜鱼本身是腌制食品，买家质疑“非常新鲜”的说法": {
+          "source_ids": [
+            "copy-0",
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：买家实收带包装约420g，认为在合理范围内": {
+          "source_ids": [
+            "copy-0",
+            "review-0"
+          ],
+          "kind": "feedback"
+        },
+        "商品名称写“到手3条”，旧短名却写“到手4条”，图片宣传“拍一发四”与“3条鱼+3料包”的对应口径需确认，可能与“鱼+料包”合并计数有关": {
+          "source_ids": [
+            "identity",
+            "short-name",
+            "image-E"
+          ],
+          "kind": "fact"
+        },
+        "商品名称标注每条0.6-1斤，规格按6-7两、7-8两、8-9两、0.9-1斤分档，但单件净含量统一写300g，且产品参数净含量写260g，规格重量与净含量不一致，需以实物标签为准": {
+          "source_ids": [
+            "identity",
+            "attr-4",
+            "attr-5",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "配料表标“新鲜鳜鱼、食用盐、香辛料、饮用水”，详情页产品参数配料只写“新鲜鳜鱼、食用盐、香辛料”，是否含水需确认": {
+          "source_ids": [
+            "attr-12",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件标“冷冻（0℃及以下）”，详情页写“-18℃冷冻保存”，具体冷冻温度口径需确认": {
+          "source_ids": [
+            "attr-8",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "尺寸字段为0，净含量有260g与300g两种口径，需以实物标签为准": {
+          "source_ids": [
+            "attr-4",
+            "attr-5",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "宣传“无添加/0添加剂/0防腐剂”属商家原有描述，现有配料表与认证资料不足以核实": {
+          "source_ids": [
+            "copy-1",
+            "image-H",
+            "image-M-part-4"
+          ],
+          "kind": "fact"
+        },
+        "“中国鳜鱼之乡”“示范场”“PONY检测报告”等认证或检测资料图片不完整、关键信息不可清晰辨识，仅作线索，不作确定承诺": {
+          "source_ids": [
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        "“新鲜”指近期冷冻产品，非活鲜；真空包装可能因运输导致密封不完全，冰袋融化后鱼身轻微软化属正常现象；高温运输可能有水分蒸发导致重量误差": {
+          "source_ids": [
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        "拒收后退回变质无法全额退款，签收后24小时内提供坏单照片可负责": {
+          "source_ids": [
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        "新鲜鳜鱼": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "食用盐": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "香辛料": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "饮用水": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 2
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "蒜瓣肉紧实鲜嫩｜腌制发酵后的鱼肉呈片片蒜瓣状，肉质紧实、嫩白，入口鲜香滑爽",
+        "priority": 1
+      },
+      {
+        "text": "闻臭吃香的老徽州味｜闻着有发酵气味，入口鲜香，是臭鳜鱼标志性的“闻起来臭、吃起来香”",
+        "priority": 2
+      },
+      {
+        "text": "古法木桶湿腌发酵｜活鱼宰杀、人工去鳞净膛，用古法木桶湿腌、传统低温发酵工艺，做出地道徽州风味",
+        "priority": 3
+      },
+      {
+        "text": "已去鳞去脏，省去收拾｜鱼身已做宰杀、去鳞净膛处理，拿到手不用从活鱼开始收拾，可直接进入烹饪",
+        "priority": 4
+      },
+      {
+        "text": "肉多小刺少，吃着省心｜鱼肉厚实、小刺乱刺少，吃起来更省心",
+        "priority": 5
+      },
+      {
+        "text": "冷冻锁鲜冷链到家｜真空包装搭配冰袋、泡沫箱冷链发出，收货后及时取货并冷冻保存即可",
+        "priority": 6
+      },
+      {
+        "text": "附料包和视频教学｜搭配徽菜风味烧鱼料包，并配视频教学，厨房新手也能照着做",
+        "priority": 7
+      },
+      {
+        "text": "安徽池州产地直发｜产自安徽池州，徽州风味特产，源头工厂发货",
+        "priority": 8
+      },
+      {
+        "text": "买家反馈咸淡适口｜有买家反馈盐度调得较淡、不齁咸，适合不喜欢重咸口味的人",
+        "priority": 9
+      },
+      {
+        "text": "买家反馈孩子爱吃｜有买家反馈口感好、味道不错，孩子很喜欢吃",
+        "priority": 10
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3790885783632740691",
+      "material_revision": "7e2e64acab9eb5a799104af334515ad4051db5c202dfaefc17be30393abcd5a5",
+      "knowledge_revision": "d458b6f68078024dbc6151fdff343d3263f728a91004880d553b11c0f0ca3dc3",
+      "support": [
+        {
+          "basis": [
+            "蒜瓣肉：肉质紧实、形如蒜瓣，片片蒜瓣肉，嫩白如雪，口感鲜嫩滑爽、Q弹爽滑、紧实有嚼劲，鱼肉鲜香透骨"
+          ],
+          "source_ids": [
+            "copy-1",
+            "image-I",
+            "image-M-part-3",
+            "image-M-part-4",
+            "image-M-part-5"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "闻起来臭、吃起来香；闻味识得鳜鱼香，入口鲜香"
+          ],
+          "source_ids": [
+            "image-H",
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵"
+          ],
+          "source_ids": [
+            "image-M-part-4",
+            "image-M-part-7",
+            "copy-1"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵"
+          ],
+          "source_ids": [
+            "image-M-part-4",
+            "image-M-part-7",
+            "copy-1"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "肉多无小刺乱刺，更安全"
+          ],
+          "source_ids": [
+            "image-H",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "包装类型：包装；真空包装、冰袋锁鲜、泡沫箱冷链发货",
+            "物流：安徽池州发货，包邮，顺丰冷链",
+            "收货提示：冷冻品加冰袋泡沫箱发货，需及时取货并冰箱存储；签收后24小时内提供坏单照片可负责"
+          ],
+          "source_ids": [
+            "image-M-part-7",
+            "image-M-part-8",
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "搭配烧鱼料包：拍一发四、赠料包，徽州大厨特调全能料包，家常调料地道风味；配视频教学，60秒变“大厨”，15分钟轻松变大厨，厨房小白也能做"
+          ],
+          "source_ids": [
+            "image-E",
+            "image-K",
+            "image-M-part-2",
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "产地：安徽池州（安徽特产/徽州风味）",
+            "物流：安徽池州发货，包邮，顺丰冷链"
+          ],
+          "source_ids": [
+            "attr-2",
+            "image-M-part-4",
+            "image-M-part-8"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "正面：盐度调得较淡、不齁咸，适合不喜欢重咸的人"
+          ],
+          "source_ids": [
+            "copy-0",
+            "review-0"
+          ],
+          "kind": "feedback"
+        },
+        {
+          "basis": [
+            "正面：口感好、味道不错，孩子非常喜欢吃"
+          ],
+          "source_ids": [
+            "copy-0",
+            "review-3"
+          ],
+          "kind": "feedback"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "d458b6f68078024dbc6151fdff343d3263f728a91004880d553b11c0f0ca3dc3",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:56:48.379921+00:00",
+      "profile": {
+        "product_info": {
+          "name": "徽渔桂臭鳜鱼（三去臭桂鱼）",
+          "category": "水产制品/鱼类制品-臭鳜鱼",
+          "ingredients": [],
+          "attributes": [
+            "品牌：徽渔桂；部分图片写“微渔桂”，待确认",
+            "产地：安徽池州（安徽特产/徽州风味）",
+            "生产企业：池州市池一鱼农业科技有限公司",
+            "食品生产许可证编号：SC12234172130063",
+            "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵",
+            "贮存条件：冷冻（0℃及以下），详情页标注-18℃冷冻保存",
+            "保质期：1年（详情页标注12个月）",
+            "净含量：260g（产品参数标注）；另有300g口径待确认",
+            "包装类型：包装；真空包装、冰袋锁鲜、泡沫箱冷链发货",
+            "是否临期：否",
+            "营养成分表（每100g）：能量433kJ、蛋白质15.8g、脂肪3.9g、碳水化合物1.2g、钠1348mg",
+            "物流：安徽池州发货，包邮，顺丰冷链",
+            "收货提示：冷冻品加冰袋泡沫箱发货，需及时取货并冰箱存储；签收后24小时内提供坏单照片可负责"
+          ]
+        },
+        "specifications": [],
+        "original_selling_points": [
+          "古法工艺：鲜鱼宰杀、彩木桶腌、古法湿腌，传统工艺低温发酵168小时，自然发酵生臭熟香",
+          "自然发酵，商家宣称无添加剂、无保鲜剂、0添加剂、0防腐剂，老人小孩放心吃",
+          "蒜瓣肉：肉质紧实、形如蒜瓣，片片蒜瓣肉，嫩白如雪，口感鲜嫩滑爽、Q弹爽滑、紧实有嚼劲，鱼肉鲜香透骨",
+          "闻起来臭、吃起来香；闻味识得鳜鱼香，入口鲜香",
+          "肉多无小刺乱刺，更安全",
+          "活鱼宰杀、极冻锁鲜，只做活鱼宰杀，口感鲜嫩、营养丰富；承诺新鲜鳜鱼从养殖基地到厂区速冻库不超过2小时，自家养殖腌制",
+          "安徽招牌臭鳜鱼、徽州头牌菜、徽菜经典头牌，传承徽州家乡味道",
+          "腌制经验30年，无鳜不成席，贵人吃鳜鱼",
+          "搭配烧鱼料包：拍一发四、赠料包，徽州大厨特调全能料包，家常调料地道风味；配视频教学，60秒变“大厨”，15分钟轻松变大厨，厨房小白也能做",
+          "仿生养殖、饵料喂养，活鱼腌制层层把关",
+          "原产地直发，源头工厂、高端品质，严格质检，资质齐全（检验报告：RPC25030165）"
+        ],
+        "buyer_feedback": [
+          "正面：口感好、味道不错，孩子非常喜欢吃",
+          "正面：盐度调得较淡、不齁咸，适合不喜欢重咸的人",
+          "正面：鱼较大，分量足、性价比高",
+          "正面：包装完好、新鲜度好",
+          "个人感受/质疑：臭鳜鱼本身是腌制食品，买家质疑“非常新鲜”的说法",
+          "个人感受：买家实收带包装约420g，认为在合理范围内"
+        ],
+        "cautions": [
+          "商品名称写“到手3条”，旧短名却写“到手4条”，图片宣传“拍一发四”与“3条鱼+3料包”的对应口径需确认，可能与“鱼+料包”合并计数有关",
+          "商品名称标注每条0.6-1斤，规格按6-7两、7-8两、8-9两、0.9-1斤分档，但单件净含量统一写300g，且产品参数净含量写260g，规格重量与净含量不一致，需以实物标签为准",
+          "配料表标“新鲜鳜鱼、食用盐、香辛料、饮用水”，详情页产品参数配料只写“新鲜鳜鱼、食用盐、香辛料”，是否含水需确认",
+          "贮存条件标“冷冻（0℃及以下）”，详情页写“-18℃冷冻保存”，具体冷冻温度口径需确认",
+          "尺寸字段为0，净含量有260g与300g两种口径，需以实物标签为准",
+          "旧模型行业判断为“传媒资讯/信息资讯”，与商品实际水产制品类目明显不符，不可作为商品属性",
+          "宣传“无添加/0添加剂/0防腐剂”属商家原有描述，现有配料表与认证资料不足以核实",
+          "“中国鳜鱼之乡”“示范场”“PONY检测报告”等认证或检测资料图片不完整、关键信息不可清晰辨识，仅作线索，不作确定承诺",
+          "“新鲜”指近期冷冻产品，非活鲜；真空包装可能因运输导致密封不完全，冰袋融化后鱼身轻微软化属正常现象；高温运输可能有水分蒸发导致重量误差",
+          "拒收后退回变质无法全额退款，签收后24小时内提供坏单照片可负责",
+          "资料中出现的配料为：新鲜鳜鱼、食用盐、香辛料、饮用水。部分口味没有独立配料信息，未将这组配料作为全商品通用配料；已明确对应的配方保留在规格信息中。"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3790885783632740691",
+          "material_revision": "7e2e64acab9eb5a799104af334515ad4051db5c202dfaefc17be30393abcd5a5",
+          "sources": {
+            "品牌：徽渔桂；部分图片写“微渔桂”，待确认": {
+              "source_ids": [
+                "image-M-part-5",
+                "image-M-part-6",
+                "image-M-part-7"
+              ],
+              "kind": "fact"
+            },
+            "产地：安徽池州（安徽特产/徽州风味）": {
+              "source_ids": [
+                "attr-2",
+                "image-M-part-4",
+                "image-M-part-8"
+              ],
+              "kind": "fact"
+            },
+            "生产企业：池州市池一鱼农业科技有限公司": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "食品生产许可证编号：SC12234172130063": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵": {
+              "source_ids": [
+                "image-M-part-4",
+                "image-M-part-7",
+                "copy-1"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件：冷冻（0℃及以下），详情页标注-18℃冷冻保存": {
+              "source_ids": [
+                "attr-8",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "保质期：1年（详情页标注12个月）": {
+              "source_ids": [
+                "attr-8"
+              ],
+              "kind": "fact"
+            },
+            "净含量：260g（产品参数标注）；另有300g口径待确认": {
+              "source_ids": [
+                "attr-4",
+                "attr-5",
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "包装类型：包装；真空包装、冰袋锁鲜、泡沫箱冷链发货": {
+              "source_ids": [
+                "image-M-part-7",
+                "image-M-part-8"
+              ],
+              "kind": "fact"
+            },
+            "是否临期：否": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "营养成分表（每100g）：能量433kJ、蛋白质15.8g、脂肪3.9g、碳水化合物1.2g、钠1348mg": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "物流：安徽池州发货，包邮，顺丰冷链": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "收货提示：冷冻品加冰袋泡沫箱发货，需及时取货并冰箱存储；签收后24小时内提供坏单照片可负责": {
+              "source_ids": [
+                "image-M-part-8"
+              ],
+              "kind": "fact"
+            },
+            "每条6-7两，共3条，赠3份烧鱼料包": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "每条7-8两，共3条，赠3份烧鱼料包": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "每条8-9两，共3条，赠3份烧鱼料包": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "每条0.9-1斤，共3条，赠3份烧鱼料包": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "搭配红烧料包60g": {
+              "source_ids": [
+                "image-M-part-6"
+              ],
+              "kind": "fact"
+            },
+            "烹饪步骤：提前30分钟常温水解冻，洗净两面改花刀；热锅凉油（加菜籽油更香）煎鱼至两面金黄，加入等回鱼重量的热水，按比例加入全配酱料，焖煮12分钟，中途可翻面，开盖捞出鱼；起锅装盘，大火收汁，爱吃辣加入青红椒、淋在鱼身上，撒上葱花即可": {
+              "source_ids": [
+                "image-M-part-6"
+              ],
+              "kind": "fact"
+            },
+            "古法工艺：鲜鱼宰杀、彩木桶腌、古法湿腌，传统工艺低温发酵168小时，自然发酵生臭熟香": {
+              "source_ids": [
+                "copy-1",
+                "image-M-part-3",
+                "image-M-part-4",
+                "image-M-part-7"
+              ],
+              "kind": "description"
+            },
+            "自然发酵，商家宣称无添加剂、无保鲜剂、0添加剂、0防腐剂，老人小孩放心吃": {
+              "source_ids": [
+                "copy-1",
+                "image-H",
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "蒜瓣肉：肉质紧实、形如蒜瓣，片片蒜瓣肉，嫩白如雪，口感鲜嫩滑爽、Q弹爽滑、紧实有嚼劲，鱼肉鲜香透骨": {
+              "source_ids": [
+                "copy-1",
+                "image-I",
+                "image-M-part-3",
+                "image-M-part-4",
+                "image-M-part-5"
+              ],
+              "kind": "description"
+            },
+            "闻起来臭、吃起来香；闻味识得鳜鱼香，入口鲜香": {
+              "source_ids": [
+                "image-H",
+                "image-M-part-3"
+              ],
+              "kind": "description"
+            },
+            "肉多无小刺乱刺，更安全": {
+              "source_ids": [
+                "image-H",
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "活鱼宰杀、极冻锁鲜，只做活鱼宰杀，口感鲜嫩、营养丰富；承诺新鲜鳜鱼从养殖基地到厂区速冻库不超过2小时，自家养殖腌制": {
+              "source_ids": [
+                "image-M-part-3",
+                "image-M-part-7"
+              ],
+              "kind": "description"
+            },
+            "安徽招牌臭鳜鱼、徽州头牌菜、徽菜经典头牌，传承徽州家乡味道": {
+              "source_ids": [
+                "image-E",
+                "image-M-part-2",
+                "image-M-part-5"
+              ],
+              "kind": "description"
+            },
+            "腌制经验30年，无鳜不成席，贵人吃鳜鱼": {
+              "source_ids": [
+                "image-M-part-5"
+              ],
+              "kind": "description"
+            },
+            "搭配烧鱼料包：拍一发四、赠料包，徽州大厨特调全能料包，家常调料地道风味；配视频教学，60秒变“大厨”，15分钟轻松变大厨，厨房小白也能做": {
+              "source_ids": [
+                "image-E",
+                "image-K",
+                "image-M-part-2",
+                "image-M-part-6"
+              ],
+              "kind": "description"
+            },
+            "仿生养殖、饵料喂养，活鱼腌制层层把关": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "原产地直发，源头工厂、高端品质，严格质检，资质齐全（检验报告：RPC25030165）": {
+              "source_ids": [
+                "image-J",
+                "image-M-part-7"
+              ],
+              "kind": "description"
+            },
+            "正面：口感好、味道不错，孩子非常喜欢吃": {
+              "source_ids": [
+                "copy-0",
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "正面：盐度调得较淡、不齁咸，适合不喜欢重咸的人": {
+              "source_ids": [
+                "copy-0",
+                "review-0"
+              ],
+              "kind": "feedback"
+            },
+            "正面：鱼较大，分量足、性价比高": {
+              "source_ids": [
+                "review-1",
+                "review-5"
+              ],
+              "kind": "feedback"
+            },
+            "正面：包装完好、新鲜度好": {
+              "source_ids": [
+                "review-1",
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受/质疑：臭鳜鱼本身是腌制食品，买家质疑“非常新鲜”的说法": {
+              "source_ids": [
+                "copy-0",
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：买家实收带包装约420g，认为在合理范围内": {
+              "source_ids": [
+                "copy-0",
+                "review-0"
+              ],
+              "kind": "feedback"
+            },
+            "商品名称写“到手3条”，旧短名却写“到手4条”，图片宣传“拍一发四”与“3条鱼+3料包”的对应口径需确认，可能与“鱼+料包”合并计数有关": {
+              "source_ids": [
+                "identity",
+                "short-name",
+                "image-E"
+              ],
+              "kind": "fact"
+            },
+            "商品名称标注每条0.6-1斤，规格按6-7两、7-8两、8-9两、0.9-1斤分档，但单件净含量统一写300g，且产品参数净含量写260g，规格重量与净含量不一致，需以实物标签为准": {
+              "source_ids": [
+                "identity",
+                "attr-4",
+                "attr-5",
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "配料表标“新鲜鳜鱼、食用盐、香辛料、饮用水”，详情页产品参数配料只写“新鲜鳜鱼、食用盐、香辛料”，是否含水需确认": {
+              "source_ids": [
+                "attr-12",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件标“冷冻（0℃及以下）”，详情页写“-18℃冷冻保存”，具体冷冻温度口径需确认": {
+              "source_ids": [
+                "attr-8",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "尺寸字段为0，净含量有260g与300g两种口径，需以实物标签为准": {
+              "source_ids": [
+                "attr-4",
+                "attr-5",
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "宣传“无添加/0添加剂/0防腐剂”属商家原有描述，现有配料表与认证资料不足以核实": {
+              "source_ids": [
+                "copy-1",
+                "image-H",
+                "image-M-part-4"
+              ],
+              "kind": "fact"
+            },
+            "“中国鳜鱼之乡”“示范场”“PONY检测报告”等认证或检测资料图片不完整、关键信息不可清晰辨识，仅作线索，不作确定承诺": {
+              "source_ids": [
+                "image-M-part-8"
+              ],
+              "kind": "fact"
+            },
+            "“新鲜”指近期冷冻产品，非活鲜；真空包装可能因运输导致密封不完全，冰袋融化后鱼身轻微软化属正常现象；高温运输可能有水分蒸发导致重量误差": {
+              "source_ids": [
+                "image-M-part-8"
+              ],
+              "kind": "fact"
+            },
+            "拒收后退回变质无法全额退款，签收后24小时内提供坏单照片可负责": {
+              "source_ids": [
+                "image-M-part-8"
+              ],
+              "kind": "fact"
+            },
+            "新鲜鳜鱼": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "食用盐": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "香辛料": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "饮用水": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 2
+        }
+      },
+      "confirmed_at": "2026-10-28T09:56:48.383429+00:00"
+    }
+  ],
+  "elapsed_seconds": 41.8,
+  "trace": []
+}

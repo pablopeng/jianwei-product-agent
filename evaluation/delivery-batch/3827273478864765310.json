@@ -1,0 +1,1193 @@
+{
+  "product_id": "3827273478864765310",
+  "name": "益生元枇杷山楂糕鲜果打浆酸甜软糯大人小孩健康营养解馋小零食",
+  "source_row": 11,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3827273478864765310",
+    "display_name": "益生元枇杷山楂糕鲜果打浆酸甜软糯大人小孩健康营养解馋小零食",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L11/identity",
+        "text": "{\"product_name\": \"益生元枇杷山楂糕鲜果打浆酸甜软糯大人小孩健康营养解馋小零食\", \"product_category\": {\"first_category\": {\"category_name\": \"休闲食品\", \"category_code\": 1000000724}, \"second_category\": {\"category_name\": \"蜜饯果干\", \"category_code\": 1000000737}, \"third_category\": {\"category_name\": \"山楂类制品\", \"category_code\": 1000000882}}, \"brand_name\": \"绿度山庄\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "产品名称",
+        "locator": "sheet2!L11/attr-0",
+        "text": "{\"产品名称\": [\"益生元枇杷山楂糕\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "包装类型",
+        "locator": "sheet2!L11/attr-1",
+        "text": "{\"包装类型\": [\"袋装\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "品牌",
+        "locator": "sheet2!L11/attr-2",
+        "text": "{\"品牌\": [\"LUDUSHANZHUANG/绿度山庄\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "生产企业地址",
+        "locator": "sheet2!L11/attr-3",
+        "text": "{\"生产企业地址\": [\"广东省揭西县凤江镇花寨村委溪子沟6号\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L11/attr-4",
+        "text": "{\"保质期\": [\"10月\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "食品工艺",
+        "locator": "sheet2!L11/attr-5",
+        "text": "{\"食品工艺\": [\"鲜果打浆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "是否为有机食品",
+        "locator": "sheet2!L11/attr-6",
+        "text": "{\"是否为有机食品\": [\"否\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-7",
+        "kind": "product_attributes",
+        "label": "产品标准代码",
+        "locator": "sheet2!L11/attr-7",
+        "text": "{\"产品标准代码\": [\"GB14884\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-8",
+        "kind": "product_attributes",
+        "label": "净含量",
+        "locator": "sheet2!L11/attr-8",
+        "text": "{\"净含量\": [\"250g\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-9",
+        "kind": "product_attributes",
+        "label": "贮存条件",
+        "locator": "sheet2!L11/attr-9",
+        "text": "{\"贮存条件\": [\"常温\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-10",
+        "kind": "product_attributes",
+        "label": "种类",
+        "locator": "sheet2!L11/attr-10",
+        "text": "{\"种类\": [\"山楂糕\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-11",
+        "kind": "product_attributes",
+        "label": "配料表",
+        "locator": "sheet2!L11/attr-11",
+        "text": "{\"配料表\": [\"山楂，枇杷（添加量≥40%），麦芽糖浆、白砂糖、低聚异麦芽糖（添加量≥5%），饮用水\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-12",
+        "kind": "product_attributes",
+        "label": "产地与包装",
+        "locator": "sheet2!L11/attr-12",
+        "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L11/specs",
+        "text": "{\"child_spec_seq\": [\"规格\", \"口味分类\"], \"spec_values_seq\": [[\"150g*1袋\", \"250g*1袋\", \"500g*1袋\"], [\"枇杷+山楂+益生元 /鲜果打浆/健康美味\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L11/copy-0",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"包装很好看，里面有六支山楂糕，酸甜可口，软糯好吃，日期最新的，与描述完全相符，会回购\", \"打开就吃了几个，停不下来，软软糯糯，酸甜可口，太好吃了\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-1",
+        "kind": "marketing_copy",
+        "label": "店铺消费行为卖点",
+        "locator": "sheet2!L11/copy-1",
+        "text": "{\"sale_point_category\": \"店铺消费行为卖点\", \"sale_points\": [\"店铺回头客6000+\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-2",
+        "kind": "marketing_copy",
+        "label": "店铺文描卖点",
+        "locator": "sheet2!L11/copy-2",
+        "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"零食达人\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-3",
+        "kind": "marketing_copy",
+        "label": "店铺文描卖点",
+        "locator": "sheet2!L11/copy-3",
+        "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"零食达人好店\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-4",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L11/copy-4",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"软软糯糯，酸甜可口\", \"酸甜可口，软糯好吃\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-5",
+        "kind": "marketing_copy",
+        "label": "功能优点",
+        "locator": "sheet2!L11/copy-5",
+        "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"独立包装\", \"枇杷+山楂 双重口感\", \"酸甜可口 原果出浆\", \"益生元\", \"清润枇杷\", \"酸甜山楂\", \"三重营养搭配 健康美味\", \"酸甜软糯开胃\", \"双重口感\", \"独立包装 方便卫生\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L11/review-0",
+        "text": "服务态度：很好\n性价比：很高\n发货速度：嘎嘎快\n物流速度：嗷嗷快\n描述相符：相当一致\n包装：完美",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L11/review-1",
+        "text": "包装很好看，里面有六支山楂糕，酸甜可口，软糯好吃，日期最新的，与描述完全相符，会回购",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L11/review-2",
+        "text": "打开就吃了几个，停不下来，软软糯糯，酸甜可口，太好吃了",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L11/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1909\", \"industry_name\": \"家居建材\"}, \"second_industry\": {\"industry_code\": \"190931\", \"industry_name\": \"厨具\"}, \"third_industry\": {\"industry_code\": 19090702, \"industry_name\": \"水具\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "short-name",
+        "kind": "marketing_copy",
+        "label": "旧商品短名",
+        "locator": "sheet2!L11/short-name",
+        "text": "益生元枇杷山楂糕鲜果打浆",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-E-0.jpg",
+        "image_token": "FrMYbJgFToQRaNxLgDYc1PA9nyb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-F",
+        "kind": "image",
+        "label": "商品图F",
+        "locator": "sheet2!F11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-F-0.jpg",
+        "image_token": "DAnBb2pC6osytAxoQS4csUNKn3c",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-G-0.jpg",
+        "image_token": "Wb3ybZ5NZoZcvVxHhJOcg3rznGh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-H-0.jpg",
+        "image_token": "Kkjlbi28OoJCLPxEtgicgpknnZe",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-I-0.jpg",
+        "image_token": "ZuhKb2OeUohGtOxYTTWcdjbsnNe",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-J-0.jpg",
+        "image_token": "MZ1pbjjIto0B1txlFGBcD5Aunmb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-K",
+        "kind": "image",
+        "label": "商品图K",
+        "locator": "sheet2!K11:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-K-0.jpg",
+        "image_token": "YOHPbEj5Hoo6Q8xtTG4cMdnUnpd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M",
+        "kind": "image",
+        "label": "商品详情长图 · 片段1",
+        "locator": "sheet2!M11:y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-M-0.jpg",
+        "image_token": "RQA3boEivopTeSxjSpFcUH6XnLg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-2",
+        "kind": "image",
+        "label": "商品详情长图 · 片段2",
+        "locator": "sheet2!M11:y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-M-1.jpg",
+        "image_token": "RQA3boEivopTeSxjSpFcUH6XnLg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-3",
+        "kind": "image",
+        "label": "商品详情长图 · 片段3",
+        "locator": "sheet2!M11:y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-M-2.jpg",
+        "image_token": "RQA3boEivopTeSxjSpFcUH6XnLg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-4",
+        "kind": "image",
+        "label": "商品详情长图 · 片段4",
+        "locator": "sheet2!M11:y=5400..6522",
+        "text": "",
+        "image_path": "data/assets/3827273478864765310/image-M-3.jpg",
+        "image_token": "RQA3boEivopTeSxjSpFcUH6XnLg",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:58:27Z",
+  "profile": {
+    "product_info": {
+      "name": "益生元枇杷山楂糕",
+      "category": "休闲食品/蜜饯果干/山楂类制品",
+      "ingredients": [
+        "山楂",
+        "枇杷（添加量≥40%）",
+        "麦芽糖浆",
+        "白砂糖",
+        "低聚异麦芽糖（添加量≥5%）",
+        "饮用水"
+      ],
+      "attributes": [
+        "品牌：绿度山庄",
+        "包装类型：袋装",
+        "净含量：250g",
+        "保质期：10个月",
+        "贮存条件：常温",
+        "食品工艺：鲜果打浆",
+        "产品标准代码：GB14884",
+        "是否有机食品：否",
+        "产地与包装：国产预包装食品",
+        "生产企业地址：广东省揭西县凤江镇花寨村委溪子沟6号",
+        "独立纸棒造型，便携不脏手",
+        "独立包装"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "150g*1袋",
+        "details": [
+          "口味：枇杷+山楂+益生元，鲜果打浆"
+        ]
+      },
+      {
+        "name": "250g*1袋",
+        "details": [
+          "口味：枇杷+山楂+益生元，鲜果打浆"
+        ]
+      },
+      {
+        "name": "500g*1袋",
+        "details": [
+          "口味：枇杷+山楂+益生元，鲜果打浆"
+        ]
+      }
+    ],
+    "original_selling_points": [
+      "枇杷+山楂双重口感，原果出浆",
+      "添加益生元，清润枇杷搭配酸甜山楂",
+      "软软糯糯、酸甜可口，酸甜软糯开胃",
+      "独立包装，方便卫生",
+      "鲜果打浆，干净配方，自带天然果香",
+      "文火慢熬收膏，入口绵润酸甜",
+      "三重营养搭配，健康美味，老少皆宜",
+      "独立纸棒造型，便携不脏手",
+      "大人小孩均可食用，健康营养解馋小零食",
+      "零食达人好店",
+      "店铺回头客6000+"
+    ],
+    "buyer_feedback": [
+      "正面：酸甜可口、软糯好吃，打开就停不下来",
+      "正面：包装很好看，与描述相符，会回购",
+      "个人感受：性价比高、发货和物流快、服务态度好"
+    ],
+    "cautions": [
+      "旧模型行业判断为“家居建材/厨具/水具”，与商品实际类目明显不符，判定为错误参考",
+      "买家评价“里面有六支山楂糕”无法确认与哪个规格对应",
+      "宣传图展示为带棒冰棒造型，商品属性页面仅描述为山楂糕，形态描述口径不完全一致",
+      "评价中的“日期最新”属于买家个人收货感受，未作为法定保质期或生产日期承诺",
+      "另一来源未提供配料表，配料成分无法确认；本条已依据含配料来源整理，未将缺配料来源的空白视为冲突",
+      "“益生元”已有低聚异麦芽糖添加量≥5%支撑；无配料来源中关于益生元含量未说明的缺失，不改变已有配料信息"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3827273478864765310",
+      "material_revision": "02bb3d265c91d46e8c8ef246897f77cf41b32806207564828a8e5562044aef7a",
+      "sources": {
+        "益生元枇杷山楂糕": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "休闲食品/蜜饯果干/山楂类制品": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "山楂": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "枇杷（添加量≥40%）": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "麦芽糖浆": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "白砂糖": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "低聚异麦芽糖（添加量≥5%）": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "饮用水": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "品牌：绿度山庄": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "包装类型：袋装": {
+          "source_ids": [
+            "attr-1"
+          ],
+          "kind": "fact"
+        },
+        "净含量：250g": {
+          "source_ids": [
+            "attr-8"
+          ],
+          "kind": "fact"
+        },
+        "保质期：10个月": {
+          "source_ids": [
+            "attr-4"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件：常温": {
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        "食品工艺：鲜果打浆": {
+          "source_ids": [
+            "attr-5"
+          ],
+          "kind": "fact"
+        },
+        "产品标准代码：GB14884": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "是否有机食品：否": {
+          "source_ids": [
+            "attr-6"
+          ],
+          "kind": "fact"
+        },
+        "产地与包装：国产预包装食品": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "生产企业地址：广东省揭西县凤江镇花寨村委溪子沟6号": {
+          "source_ids": [
+            "attr-3"
+          ],
+          "kind": "fact"
+        },
+        "独立纸棒造型，便携不脏手": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "独立包装": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "fact"
+        },
+        "150g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "口味：枇杷+山楂+益生元，鲜果打浆": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "250g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "500g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "枇杷+山楂双重口感，原果出浆": {
+          "source_ids": [
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        "添加益生元，清润枇杷搭配酸甜山楂": {
+          "source_ids": [
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        "软软糯糯、酸甜可口，酸甜软糯开胃": {
+          "source_ids": [
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        "独立包装，方便卫生": {
+          "source_ids": [
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        "鲜果打浆，干净配方，自带天然果香": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "文火慢熬收膏，入口绵润酸甜": {
+          "source_ids": [
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        "三重营养搭配，健康美味，老少皆宜": {
+          "source_ids": [
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        "大人小孩均可食用，健康营养解馋小零食": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "零食达人好店": {
+          "source_ids": [
+            "copy-2",
+            "copy-3"
+          ],
+          "kind": "description"
+        },
+        "店铺回头客6000+": {
+          "source_ids": [
+            "copy-1"
+          ],
+          "kind": "description"
+        },
+        "正面：酸甜可口、软糯好吃，打开就停不下来": {
+          "source_ids": [
+            "review-2",
+            "copy-0"
+          ],
+          "kind": "feedback"
+        },
+        "正面：包装很好看，与描述相符，会回购": {
+          "source_ids": [
+            "review-1"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：性价比高、发货和物流快、服务态度好": {
+          "source_ids": [
+            "review-0"
+          ],
+          "kind": "feedback"
+        },
+        "买家评价“里面有六支山楂糕”无法确认与哪个规格对应": {
+          "source_ids": [
+            "review-1"
+          ],
+          "kind": "feedback"
+        },
+        "宣传图展示为带棒冰棒造型，商品属性页面仅描述为山楂糕，形态描述口径不完全一致": {
+          "source_ids": [
+            "image-E",
+            "attr-10"
+          ],
+          "kind": "fact"
+        },
+        "评价中的“日期最新”属于买家个人收货感受，未作为法定保质期或生产日期承诺": {
+          "source_ids": [
+            "review-1"
+          ],
+          "kind": "feedback"
+        },
+        "另一来源未提供配料表，配料成分无法确认；本条已依据含配料来源整理，未将缺配料来源的空白视为冲突": {
+          "source_ids": [
+            "image-M-part-4",
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "“益生元”已有低聚异麦芽糖添加量≥5%支撑；无配料来源中关于益生元含量未说明的缺失，不改变已有配料信息": {
+          "source_ids": [
+            "image-M-part-4",
+            "attr-11"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 2
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "枇杷山楂双果搭｜山楂配枇杷，枇杷添加量≥40%，再加低聚异麦芽糖≥5%，一口尝到两种果味",
+        "priority": 1
+      },
+      {
+        "text": "鲜果打浆，文火慢熬｜山楂和枇杷先打成浆再慢慢熬成糕，入口绵润，酸甜里带果香",
+        "priority": 2
+      },
+      {
+        "text": "软糯酸甜，开胃解馋｜口感软软糯糯、酸酸甜甜，饭前来一块很开胃",
+        "priority": 3
+      },
+      {
+        "text": "纸棒造型，拿着不脏手｜做成独立纸棒小造型，捏着棒子吃，手指不容易沾上糖浆",
+        "priority": 4
+      },
+      {
+        "text": "独立包装，随手带走｜每块单独包装，放包里或办公室抽屉都方便，想吃时拆一块",
+        "priority": 5
+      },
+      {
+        "text": "三种袋装规格｜150g、250g、500g可选，一人尝鲜或全家分享都能挑到合适的量",
+        "priority": 6
+      },
+      {
+        "text": "常温存放好打理｜放在阴凉干燥处就行，不用占冰箱，追剧、下午茶随时来一块",
+        "priority": 7
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3827273478864765310",
+      "material_revision": "02bb3d265c91d46e8c8ef246897f77cf41b32806207564828a8e5562044aef7a",
+      "knowledge_revision": "1c5275428f40104bf97cc2c8990d7ee55d25ad243c7bffa675815bc3a8c73dc2",
+      "support": [
+        {
+          "basis": [
+            "山楂",
+            "枇杷（添加量≥40%）",
+            "低聚异麦芽糖（添加量≥5%）"
+          ],
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "食品工艺：鲜果打浆",
+            "鲜果打浆，干净配方，自带天然果香",
+            "文火慢熬收膏，入口绵润酸甜"
+          ],
+          "source_ids": [
+            "attr-5",
+            "image-M-part-2",
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "软软糯糯、酸甜可口，酸甜软糯开胃"
+          ],
+          "source_ids": [
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "独立纸棒造型，便携不脏手"
+          ],
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "独立包装",
+            "独立包装，方便卫生"
+          ],
+          "source_ids": [
+            "image-M-part-4",
+            "copy-5"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "净含量：250g",
+            "150g*1袋",
+            "250g*1袋",
+            "500g*1袋"
+          ],
+          "source_ids": [
+            "attr-8",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "保质期：10个月",
+            "贮存条件：常温"
+          ],
+          "source_ids": [
+            "attr-4",
+            "attr-9"
+          ],
+          "kind": "fact"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "1c5275428f40104bf97cc2c8990d7ee55d25ad243c7bffa675815bc3a8c73dc2",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:58:42.764569+00:00",
+      "profile": {
+        "product_info": {
+          "name": "益生元枇杷山楂糕",
+          "category": "休闲食品/蜜饯果干/山楂类制品",
+          "ingredients": [
+            "山楂",
+            "枇杷（添加量≥40%）",
+            "麦芽糖浆",
+            "白砂糖",
+            "低聚异麦芽糖（添加量≥5%）",
+            "饮用水"
+          ],
+          "attributes": [
+            "品牌：绿度山庄",
+            "包装类型：袋装",
+            "净含量：250g",
+            "保质期：10个月",
+            "贮存条件：常温",
+            "食品工艺：鲜果打浆",
+            "产品标准代码：GB14884",
+            "是否有机食品：否",
+            "产地与包装：国产预包装食品",
+            "生产企业地址：广东省揭西县凤江镇花寨村委溪子沟6号",
+            "独立纸棒造型，便携不脏手",
+            "独立包装"
+          ]
+        },
+        "specifications": [
+          {
+            "name": "150g*1袋",
+            "details": [
+              "口味：枇杷+山楂+益生元，鲜果打浆"
+            ]
+          },
+          {
+            "name": "250g*1袋",
+            "details": [
+              "口味：枇杷+山楂+益生元，鲜果打浆"
+            ]
+          },
+          {
+            "name": "500g*1袋",
+            "details": [
+              "口味：枇杷+山楂+益生元，鲜果打浆"
+            ]
+          }
+        ],
+        "original_selling_points": [
+          "枇杷+山楂双重口感，原果出浆",
+          "添加益生元，清润枇杷搭配酸甜山楂",
+          "软软糯糯、酸甜可口，酸甜软糯开胃",
+          "独立包装，方便卫生",
+          "鲜果打浆，干净配方，自带天然果香",
+          "文火慢熬收膏，入口绵润酸甜",
+          "三重营养搭配，健康美味，老少皆宜",
+          "独立纸棒造型，便携不脏手",
+          "大人小孩均可食用，健康营养解馋小零食",
+          "零食达人好店",
+          "店铺回头客6000+"
+        ],
+        "buyer_feedback": [
+          "正面：酸甜可口、软糯好吃，打开就停不下来",
+          "正面：包装很好看，与描述相符，会回购",
+          "个人感受：性价比高、发货和物流快、服务态度好"
+        ],
+        "cautions": [
+          "旧模型行业判断为“家居建材/厨具/水具”，与商品实际类目明显不符，判定为错误参考",
+          "买家评价“里面有六支山楂糕”无法确认与哪个规格对应",
+          "宣传图展示为带棒冰棒造型，商品属性页面仅描述为山楂糕，形态描述口径不完全一致",
+          "评价中的“日期最新”属于买家个人收货感受，未作为法定保质期或生产日期承诺",
+          "另一来源未提供配料表，配料成分无法确认；本条已依据含配料来源整理，未将缺配料来源的空白视为冲突",
+          "“益生元”已有低聚异麦芽糖添加量≥5%支撑；无配料来源中关于益生元含量未说明的缺失，不改变已有配料信息"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3827273478864765310",
+          "material_revision": "02bb3d265c91d46e8c8ef246897f77cf41b32806207564828a8e5562044aef7a",
+          "sources": {
+            "益生元枇杷山楂糕": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "休闲食品/蜜饯果干/山楂类制品": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "山楂": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "枇杷（添加量≥40%）": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "麦芽糖浆": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "白砂糖": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "低聚异麦芽糖（添加量≥5%）": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "饮用水": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "品牌：绿度山庄": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "包装类型：袋装": {
+              "source_ids": [
+                "attr-1"
+              ],
+              "kind": "fact"
+            },
+            "净含量：250g": {
+              "source_ids": [
+                "attr-8"
+              ],
+              "kind": "fact"
+            },
+            "保质期：10个月": {
+              "source_ids": [
+                "attr-4"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件：常温": {
+              "source_ids": [
+                "attr-9"
+              ],
+              "kind": "fact"
+            },
+            "食品工艺：鲜果打浆": {
+              "source_ids": [
+                "attr-5"
+              ],
+              "kind": "fact"
+            },
+            "产品标准代码：GB14884": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "是否有机食品：否": {
+              "source_ids": [
+                "attr-6"
+              ],
+              "kind": "fact"
+            },
+            "产地与包装：国产预包装食品": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "生产企业地址：广东省揭西县凤江镇花寨村委溪子沟6号": {
+              "source_ids": [
+                "attr-3"
+              ],
+              "kind": "fact"
+            },
+            "独立纸棒造型，便携不脏手": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "独立包装": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "fact"
+            },
+            "150g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "口味：枇杷+山楂+益生元，鲜果打浆": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "250g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "500g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "枇杷+山楂双重口感，原果出浆": {
+              "source_ids": [
+                "copy-5"
+              ],
+              "kind": "description"
+            },
+            "添加益生元，清润枇杷搭配酸甜山楂": {
+              "source_ids": [
+                "copy-5"
+              ],
+              "kind": "description"
+            },
+            "软软糯糯、酸甜可口，酸甜软糯开胃": {
+              "source_ids": [
+                "copy-5"
+              ],
+              "kind": "description"
+            },
+            "独立包装，方便卫生": {
+              "source_ids": [
+                "copy-5"
+              ],
+              "kind": "description"
+            },
+            "鲜果打浆，干净配方，自带天然果香": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "文火慢熬收膏，入口绵润酸甜": {
+              "source_ids": [
+                "image-M-part-3"
+              ],
+              "kind": "description"
+            },
+            "三重营养搭配，健康美味，老少皆宜": {
+              "source_ids": [
+                "copy-5"
+              ],
+              "kind": "description"
+            },
+            "大人小孩均可食用，健康营养解馋小零食": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "零食达人好店": {
+              "source_ids": [
+                "copy-2",
+                "copy-3"
+              ],
+              "kind": "description"
+            },
+            "店铺回头客6000+": {
+              "source_ids": [
+                "copy-1"
+              ],
+              "kind": "description"
+            },
+            "正面：酸甜可口、软糯好吃，打开就停不下来": {
+              "source_ids": [
+                "review-2",
+                "copy-0"
+              ],
+              "kind": "feedback"
+            },
+            "正面：包装很好看，与描述相符，会回购": {
+              "source_ids": [
+                "review-1"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：性价比高、发货和物流快、服务态度好": {
+              "source_ids": [
+                "review-0"
+              ],
+              "kind": "feedback"
+            },
+            "买家评价“里面有六支山楂糕”无法确认与哪个规格对应": {
+              "source_ids": [
+                "review-1"
+              ],
+              "kind": "feedback"
+            },
+            "宣传图展示为带棒冰棒造型，商品属性页面仅描述为山楂糕，形态描述口径不完全一致": {
+              "source_ids": [
+                "image-E",
+                "attr-10"
+              ],
+              "kind": "fact"
+            },
+            "评价中的“日期最新”属于买家个人收货感受，未作为法定保质期或生产日期承诺": {
+              "source_ids": [
+                "review-1"
+              ],
+              "kind": "feedback"
+            },
+            "另一来源未提供配料表，配料成分无法确认；本条已依据含配料来源整理，未将缺配料来源的空白视为冲突": {
+              "source_ids": [
+                "image-M-part-4",
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "“益生元”已有低聚异麦芽糖添加量≥5%支撑；无配料来源中关于益生元含量未说明的缺失，不改变已有配料信息": {
+              "source_ids": [
+                "image-M-part-4",
+                "attr-11"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 2
+        }
+      },
+      "confirmed_at": "2026-10-28T09:58:42.768329+00:00"
+    }
+  ],
+  "elapsed_seconds": 20.3,
+  "trace": []
+}

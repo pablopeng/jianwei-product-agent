@@ -1,0 +1,5 @@
+{
+  "chart_type": "flowchart",
+  "dispatcher_reason": "标准流程与条件分支，原生Mermaid可表达；浅底分区仅承载真实阶段而非装饰外框",
+  "style_seed": "flowchart"
+}

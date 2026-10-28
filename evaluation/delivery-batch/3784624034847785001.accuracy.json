@@ -1,0 +1,2065 @@
+{
+  "type": "accuracy",
+  "product_id": "3784624034847785001",
+  "result_revision": "77b8ef98eb6ab2eaf529a08dc507a1082affcd3bb3bcac7420d682333c1bcffc",
+  "profile_revision": "8f6c3a5effe97291985e85681d55cdd39b7575c1e392506466a66e30045ae47e",
+  "material_revision": "b851f374997a0e7a86fc31b1e934d2b6534e98c43693f68848a041adce683fb7",
+  "counts": {
+    "supported": 59,
+    "contradicted": 1,
+    "insufficient": 20
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "渝烧白老字号手工制作扣肉（含烧白、夹沙、粉蒸）",
+      "source_ids": [
+        "identity",
+        "image-M-part-4",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名含“老字号”“手工制作”及烧白、夹沙、粉蒸；组合图也示三种扣肉。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "渝烧白【3碗老字号】手工制作五花肉烧白扣肉夹沙扣肉粉蒸扣肉"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "渝烧白玲珑·小团圆 =玲珑烧白+玲珑夹沙+玲珑粉蒸"
+            }
+          ]
+        },
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名与详情图均指向烧白、夹沙、粉蒸三类扣肉产品，文字为综合概括，未超出范围。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "玲珑夹沙"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "玲珑粉蒸"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "肉禽蛋品/肉禽制品/猪肉制品；川味蒸菜/预制菜",
+      "source_ids": [
+        "identity",
+        "image-M-part-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "肉禽蛋品/肉禽制品/猪肉制品"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "渝烧白白猪肉【3碗老字号】手工制作五花肉烧白扣肉夹沙扣肉粉蒸扣肉"
+            }
+          ]
+        },
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "档案归类为猪肉制品及预制菜，但本批原始图片未显示类目归属或“预制菜”字样，无法用本批证据核实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "精选三线肉、混合农家米粉和香醇豆瓣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "生肉部位：五花肉",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "属性明确生肉部位为五花肉。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "五花肉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "净含量：1200g",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "净含量：1200g"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "净含量 1200g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "贮存条件：-18℃以下冷冻保存",
+      "source_ids": [
+        "attr-9",
+        "image-M-part-2",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "属性为冷冻，详情图明确-18℃以下冷冻保存。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "冷冻"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "储存条件：-18℃以下冷冻保存"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "保质期：30天",
+      "source_ids": [
+        "attr-7",
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "保质期：30天"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "保质期：30天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "产地：重庆市",
+      "source_ids": [
+        "attr-11",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "属性省份为重庆市，详情页也从重庆发货。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "重庆市"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "现货 从重庆发货"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "国产预包装食品",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "属性明确国产预包装食品。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "手工制作",
+      "source_ids": [
+        "identity",
+        "copy-17",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "商品名及详情文案均宣称手工制作。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "手工制作"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "渝烧白，坚持纯手工现做"
+            }
+          ]
+        },
+        {
+          "id": "profile-9",
+          "verdict": "insufficient",
+          "reason": "在可见详情图中，仅“夹沙”段提到每日坚持手工炒馅，没有整品“手工制作”或烧白、粉蒸均手工制作的直接证据；identity/copy-17不在本批材料中。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "传承传统夹沙制作工艺，每日坚持手工炒馅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "生产企业：重庆渝烧百食品有限公司",
+      "source_ids": [
+        "attr-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "属性明确生产企业名称。",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "重庆渝烧百食品有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11150011636612",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "属性及详情许可证编号一致。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "SC11150011636612"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "食品生产许可证编号 SC11150011636612"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "是否临期：否",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "属性明确是否临期为否。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "生鲜食品需冷冻保存，到货后及时拆箱放入冰箱冷冻，勿隔夜放置",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "详情图明确生鲜食品需冷冻、到货后及时拆箱冷冻、勿隔夜。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "本产品属于生鲜食品，需冷冻保存……到货后请您及时拆箱并放入冰箱冷冻，请勿隔夜放置。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "食用说明：解冻后放入锅中蒸40分钟，蒸得越久越软糯；不能使用微波炉加热，会影响产品口感",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "详情食用说明明确解冻蒸40分钟、越久越软糯、不能微波。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "解冻后放入锅中蒸40分钟，蒸得越久越软糯；不能使用微波炉加热，会影响产品口感"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "食用方式：解冻后除去保鲜膜，将碗放入锅中，碗上盖盖子防止水汽进入，蒸40分钟",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "详情图加热方式完整写明解冻后去保鲜膜、碗放入锅中、碗上盖盖防止水汽、蒸40分钟。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "解冻后除去保鲜膜，将碗放入锅中"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "发货带土碗",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "FAQ明确回答烧白发货带土碗。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "Q:烧白发货是否带碗？ A:是的，我们是带土碗发货。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "顺丰物流，下单48小时内发货",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "关于物流写明顺丰物流并承诺下单48小时内发货。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "本产品采用顺丰物流发货，承诺下单48小时内发货"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "生鲜食品，不支持七天无理由退换",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "关于签收写明生鲜食品不支持七天无理由退换。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "本店产品属于生鲜食品，不支持七天无理由退换。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "自选三碗组合装（总件数3碗，单件净含量400g）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"总件数\", \"口味分类\", \"单件净含量\"]……[[\"3碗\"], [...], [\"400g\"]]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "可选组合：1碗烧白+1碗夹沙+1碗粉蒸、3碗烧白、3碗夹沙、3碗粉蒸、2碗烧白+1碗夹沙、2碗烧白+1碗粉蒸、2碗夹沙+1碗烧白、2碗夹沙+1碗粉蒸、2碗粉蒸+1碗烧白、2碗粉蒸+1碗夹沙",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "规格列表逐项列明10种组合，与断言一致。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"1碗烧白+1碗夹沙+1碗粉蒸\", \"3碗烧白\", \"3碗夹沙\", \"3碗粉蒸\", \"2碗烧白+1碗夹沙\", \"2碗烧白+1碗粉蒸\", \"2碗夹沙+1碗烧白\", \"2碗夹沙+1碗粉蒸\", \"2碗粉蒸+1碗烧白\", \"2碗粉蒸+1碗夹沙\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "玲珑烧白 400g×1碗",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "详情产品信息表明确玲珑烧白400g×1碗。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "名称：渝烧白玲珑烧白 规格：400g×1碗（每碗8片肉）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "每碗8片肉",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "详情三款产品信息表均写每碗8片肉，但碗数规格有差异；断言“每碗8片肉”本身可支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "规格：400g×1碗（每碗8片肉）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "咸香口味，制作中会添加微量辣椒和花椒（小于3克每碗）",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "insufficient",
+          "reason": "FAQ原文仅说烧白制作中会稍微加微量辣椒和花椒（小于3克每碗），可支持咸香及微量辣椒、花椒；但本批可见图未出现“小于3克每碗”的文字内容，且未描述“咸香口味”的完整句子，不能确认整条。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "制作过程中会稍微加微量辣椒和花椒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "选用五花肉制作，肉质紧实、肉香浓郁",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "详情图写选用五花肉，且文字为“肉质紧实、肉香浓郁”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "大型国企每日供应精选优质精五花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "每100克：能量825kJ、蛋白质9.8g、脂肪10.3g、碳水化合物16.3g、钠801mg",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "contradicted",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "contradicted",
+          "reason": "详情图玲珑烧白营养表为能量844kJ、蛋白质7.4g、脂肪16g，不是825kJ/9.8g/10.3g/16.3g；钠801mg可对。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "能量 844kJ 10% 蛋白质 7.4g 12% 脂肪 16g 27%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "玲珑粉蒸 400g×1碗",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "详情产品信息表明确玲珑粉蒸400g×1碗。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "名称：渝烧白玲珑粉蒸 规格：400g×1碗（每碗8片肉）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "微辣口味、带点回甜",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "FAQ明确粉蒸肉是微辣口味、带点回甜。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "粉蒸肉是微辣口味的，带点回甜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "经典川味粉蒸肉，软糯爽口又下饭",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "详情图写明经典川味粉蒸肉、软糯爽口又下饭。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "经典川味粉蒸肉，软糯爽口又下饭"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "建议稍微多蒸一会，豆子蒸软更好吃",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "加热方式明确建议粉蒸稍微多蒸一会，豆子蒸软更好吃。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "粉蒸建议稍微多蒸一会，豆子蒸软更好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "每100克：能量825kJ、蛋白质9.8g、脂肪10.3g、碳水化合物16.3g、钠380mg",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "可见详情营养表显示烧白为844kJ/7.4g/16g；没有可见玲珑粉蒸钠380mg及该整组数值的原始证据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "玲珑烧白 营养成分表……能量 844kJ 10% 蛋白质 7.4g 12% 脂肪 16g 27%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "玲珑夹沙 450g×1碗",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "详情产品信息表明确玲珑夹沙450g×1碗。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "名称：渝烧白玲珑夹沙 规格：450克×1碗（每碗8片肉）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "甜味、带点桔皮的清香味",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "FAQ明确夹沙肉是甜味、带点桔皮的清香味。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "夹沙肉是甜味的，带点桔皮的清香味。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "香甜可口、肥而不腻",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "supported",
+          "reason": "详情图夹沙段写香甜可口、肥而不腻。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "香甜可口、肥而不腻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "传承传统夹沙制作工艺，每日坚持手工炒馅，不用汤圆馅，不用豆沙馅",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "supported",
+          "reason": "详情图夹沙段写传承传统夹沙制作工艺、每日坚持手工炒馅、不用汤圆馅、不用豆沙馅。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "传承传统夹沙制作工艺，每日坚持手工炒馅，不用汤圆馅，不用豆沙馅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "优选芝麻、饭豆、桔饼、花生、红糖为馅料，甜而不腻，丝滑爽口",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "详情图夹沙段列出芝麻、饭豆、桔饼、花生、红糖馅料，并描述甜而不腻、丝滑爽口。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "优选芝麻、饭豆、桔饼、花生、红糖为馅料，甜而不腻，丝滑爽口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "每100克：能量1445kJ、蛋白质5.4g、脂肪20.3g、碳水化合物35.4g、钠32mg",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "insufficient",
+          "reason": "可见营养表未显示夹沙的该组1445kJ等数值，无法从本批原文核实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "玲珑烧白 营养成分表……能量 844kJ 10% 蛋白质 7.4g 12% 脂肪 16g 27%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "手工传承：八十年传统技艺还原地道川味",
+      "source_ids": [
+        "copy-17"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "文案仅有“八十年传统烧白制作技艺”，无“手工传承”“还原地道川味”的可验证依据；“八十年”也仅商家宣传。",
+          "evidence": [
+            {
+              "source_id": "copy-17",
+              "quote": "手工传承:八十年传统技艺还原地道川味"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "八十年传统烧白制作技艺，地道川渝口味"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "手工现做：坚持纯手工现做，传统工艺更地道",
+      "source_ids": [
+        "copy-17",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "supported",
+          "reason": "文案及详情图均有纯手工现做、传统工艺表述。",
+          "evidence": [
+            {
+              "source_id": "copy-17",
+              "quote": "手工现做:传统工艺更地道"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "渝烧白，坚持纯手工现做"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "三味组合：咸鲜/香甜/微辣三种口味一次尝鲜",
+      "source_ids": [
+        "copy-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "supported",
+          "reason": "规格列明三种口味组合，文案明确咸鲜/香甜/微辣。",
+          "evidence": [
+            {
+              "source_id": "copy-17",
+              "quote": "三味组合:咸鲜/香甜/微辣三种口味一次尝鲜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "原料精选：新鲜三线肉+农家老咸菜优质配料",
+      "source_ids": [
+        "copy-17"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "insufficient",
+          "reason": "文案写“新鲜三线肉+农家老咸菜”，配料表为精选猪五花肉、老盐菜；未见“新鲜”的客观证明。",
+          "evidence": [
+            {
+              "source_id": "copy-17",
+              "quote": "原料精选:新鲜三线肉+农家老咸菜优质配料"
+            },
+            {
+              "source_id": "attr-3",
+              "quote": "玲珑烧白：精选猪五花肉、老盐菜(青菜、盐)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "坚持传统配方，使用优质原材料",
+      "source_ids": [
+        "copy-23",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "supported",
+          "reason": "详情与功能文案均有坚持传统配方、使用优质原材料表述。",
+          "evidence": [
+            {
+              "source_id": "copy-23",
+              "quote": "坚持传统配方 使用优质原材料"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "坚持传统配方 使用优质原材料"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "不添加任何防腐剂",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "supported",
+          "reason": "详情图明确标注不添加任何防腐剂；但仅为商家宣称，非检测证明。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "不添加任何防腐剂"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-43",
+      "stage": "profile",
+      "text": "不是梅菜扣肉，是咸菜扣肉，是咸鲜口味的扣肉，川渝人称“烧白”",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-43",
+          "verdict": "supported",
+          "reason": "详情文案明确不是梅菜扣肉、是咸鲜咸菜扣肉、川渝人称烧白。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "我们不是梅菜扣肉，我们是咸菜扣肉，是咸鲜口味的扣肉，川渝人称\"烧白\"。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-44",
+      "stage": "profile",
+      "text": "三碗玲珑，三种口味：咸鲜、香甜、软糯",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-44",
+          "verdict": "insufficient",
+          "reason": "图中列三种口味，但“软糯”是口感不是第三种口味名称；不能完整等同于咸鲜、香甜、软糯三种口味。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "三碗玲珑，三种口味 咸鲜 香甜 软糯"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-45",
+      "stage": "profile",
+      "text": "夹沙：香甜软糯、香甜可口、肥而不腻、甜而不腻、丝滑爽口",
+      "source_ids": [
+        "copy-23"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-45",
+          "verdict": "supported",
+          "reason": "功能文案明确夹沙香甜软糯、香甜可口、肥而不腻、甜而不腻、丝滑爽口。",
+          "evidence": [
+            {
+              "source_id": "copy-23",
+              "quote": "香甜软糯"
+            },
+            {
+              "source_id": "copy-23",
+              "quote": "香甜可口、肥而不腻"
+            },
+            {
+              "source_id": "copy-23",
+              "quote": "甜而不腻,丝滑爽口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-46",
+      "stage": "profile",
+      "text": "夹沙馅料：优选芝麻、饭豆、桔饼、花生、红糖为馅料，不用汤圆馅、不用豆沙馅",
+      "source_ids": [
+        "copy-23"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-46",
+          "verdict": "supported",
+          "reason": "功能文案列出芝麻、饭豆、桔饼、花生、红糖，且明确不用汤圆馅、豆沙馅。",
+          "evidence": [
+            {
+              "source_id": "copy-23",
+              "quote": "优选芝麻、饭豆、桔饼、花生、红糖为馅料"
+            },
+            {
+              "source_id": "copy-23",
+              "quote": "不用汤圆馅,不用豆沙馅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-47",
+      "stage": "profile",
+      "text": "夹沙工艺：传承传统夹沙制作工艺，每日坚持手工炒馅",
+      "source_ids": [
+        "copy-23"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-47",
+          "verdict": "supported",
+          "reason": "功能文案明确传承传统夹沙制作工艺、每日手工炒馅。",
+          "evidence": [
+            {
+              "source_id": "copy-23",
+              "quote": "传承传统夹沙制作工艺,每日坚持手工炒馅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-48",
+      "stage": "profile",
+      "text": "中华老字号",
+      "source_ids": [
+        "copy-14"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-48",
+          "verdict": "insufficient",
+          "reason": "仅有平台文案写“中华老字号”，无认定证书或官方佐证；不能仅凭文案认定。",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "中华老字号"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-49",
+      "stage": "profile",
+      "text": "品牌：渝烧白",
+      "source_ids": [
+        "identity",
+        "attr-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-49",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "brand_name: 渝烧白"
+            },
+            {
+              "source_id": "attr-6",
+              "quote": "渝烧白"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-50",
+      "stage": "profile",
+      "text": "传承重庆老咸菜制作工艺，精选农家青菜制作老咸菜",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-50",
+          "verdict": "supported",
+          "reason": "详情图写传承重庆老咸菜制作工艺、精选农家青菜制作老咸菜。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "传承重庆老咸菜制作工艺，精选农家青菜制作老咸菜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-51",
+      "stage": "profile",
+      "text": "大型国企每日供应精选优质精五花，老师傅精工厚切",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-51",
+          "verdict": "supported",
+          "reason": "详情图写大型国企每日供应精选优质精五花、老师傅精工厚切；但“老师傅精工厚切”是原文描述，本批可见图中“大型国企每日供应精选优质精五花”与“老师傅精工厚切”为连续宣传句。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "大型国企每日供应精选优质精五花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-52",
+      "stage": "profile",
+      "text": "玲珑烧白+老咸菜=下饭神器",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-52",
+          "verdict": "supported",
+          "reason": "详情图写玲珑烧白+老咸菜=下饭神器。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "玲珑烧白+老咸菜=下饭神器"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-53",
+      "stage": "profile",
+      "text": "新鲜青豆、粒粒清香",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-53",
+          "verdict": "supported",
+          "reason": "详情图粉蒸段写新鲜青豆、粒粒清香。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "新鲜青豆、粒粒清香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-54",
+      "stage": "profile",
+      "text": "精选三线肉、混合农家米粉和香醇豆瓣",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-54",
+          "verdict": "supported",
+          "reason": "详情图粉蒸段写精选三线肉、混合农家米粉和香醇豆瓣。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "精选三线肉、混合农家米粉和香醇豆瓣"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-55",
+      "stage": "profile",
+      "text": "烧白是咸香口味，制作过程中会稍微加微量辣椒和花椒（小于3克每碗）",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-55",
+          "verdict": "supported",
+          "reason": "FAQ确认烧白是咸香口味，制作过程中会稍微加微量辣椒和花椒。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "烧白是咸香口味的。制作过程中会稍微加微量辣椒和花椒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-56",
+      "stage": "profile",
+      "text": "碗破损后一般仍可食用，将破损处附近咸菜和烧白扔掉，剩余肉和烧白放入其他碗中蒸热即可",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-56",
+          "verdict": "supported",
+          "reason": "FAQ说明碗破损后一般仍可食用，将破损处附近咸菜和烧白扔掉，剩余肉和烧白放入其他碗中蒸热即可。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "将破损处附近的咸菜和烧白扔掉，然后将剩下的肉和烧白放入其他碗中蒸热即可食用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-57",
+      "stage": "profile",
+      "text": "产品不会出现一份都是肥肉的情况",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-57",
+          "verdict": "supported",
+          "reason": "FAQ明确我们的产品不会出现一份都是肥肉的情况。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "我们的产品不会出现一份都是肥肉的情况"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-58",
+      "stage": "profile",
+      "text": "烧白发货是带土碗发货",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-58",
+          "verdict": "supported",
+          "reason": "FAQ确认烧白发货带土碗。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "Q:烧白发货是否带碗？ A:是的，我们是带土碗发货。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-59",
+      "stage": "profile",
+      "text": "色香迷人、优选材料、美味享受",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-59",
+          "verdict": "supported",
+          "reason": "详情图有“色香迷人、优选材料、美味享受”宣传图形文字。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "色香迷人、优选材料、美味享受"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-60",
+      "stage": "profile",
+      "text": "平台标签：味道不错、百人加购、本店同款收藏251件、本店同款热销7446件、10+达人推荐、热门复购、热门加购、96%速食达人好评、店铺回头客2.5万",
+      "source_ids": [
+        "copy-0",
+        "copy-2",
+        "copy-4",
+        "copy-5",
+        "copy-6",
+        "copy-8",
+        "copy-10",
+        "copy-11",
+        "copy-19"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-60",
+          "verdict": "insufficient",
+          "reason": "各标签分见多个来源，但“96%速食达人好评”等统计口径与100%/90.9%好评率互相冲突，不能整体作为确定事实。",
+          "evidence": [
+            {
+              "source_id": "copy-11",
+              "quote": "96%速食达人好评"
+            },
+            {
+              "source_id": "copy-12",
+              "quote": "本店同款好评率0.880734"
+            },
+            {
+              "source_id": "copy-21",
+              "quote": "同款好评率90.9%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-61",
+      "stage": "profile",
+      "text": "正面：口感味道受认可，有买家表示是小时候的味道、偏甜口",
+      "source_ids": [
+        "copy-13",
+        "review-4",
+        "review-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-61",
+          "verdict": "supported",
+          "reason": "评价确有“味道不错，稍微偏甜口”“小时候的味道”，属个体体验。",
+          "evidence": [
+            {
+              "source_id": "review-4",
+              "quote": "味道不错，稍微偏甜口"
+            },
+            {
+              "source_id": "review-6",
+              "quote": "小时候的味道"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-62",
+      "stage": "profile",
+      "text": "正面：烧白肉质软糯不腻，里面的盐菜也很香",
+      "source_ids": [
+        "copy-13",
+        "review-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-62",
+          "verdict": "supported",
+          "reason": "评价明确烧白肉质软糯不腻、里面盐菜很香。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "烧白的肉质鲜美软糯不腻，里面的盐菜也很香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-63",
+      "stage": "profile",
+      "text": "正面：肥瘦相间、肉质新鲜",
+      "source_ids": [
+        "copy-20",
+        "review-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-63",
+          "verdict": "supported",
+          "reason": "评价有“肥瘦相间”“看上去很新鲜”等个体表述。",
+          "evidence": [
+            {
+              "source_id": "review-8",
+              "quote": "新鲜度：日期很新鲜"
+            },
+            {
+              "source_id": "copy-20",
+              "quote": "好吃新鲜，肥瘦相间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-64",
+      "stage": "profile",
+      "text": "正面：包装严实、冰袋保鲜好，收到时冰块未化或仍为冷的",
+      "source_ids": [
+        "copy-13",
+        "review-2",
+        "review-6",
+        "review-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-64",
+          "verdict": "supported",
+          "reason": "评价集中反映包装严实、冰袋保鲜、收到仍冷/冰未化。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "冰袋冷链发货包装很严实收到货没有破损"
+            },
+            {
+              "source_id": "review-9",
+              "quote": "冰袋还没有化"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-65",
+      "stage": "profile",
+      "text": "正面：多次回购，认为品质好、性价比高",
+      "source_ids": [
+        "review-0",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-65",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "第二次购买……性价比高，下次还点"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "味道好，回购多次了。品质优质。性价比高。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-66",
+      "stage": "profile",
+      "text": "正面：发货快",
+      "source_ids": [
+        "copy-13",
+        "review-3",
+        "review-4",
+        "review-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-66",
+          "verdict": "supported",
+          "reason": "多条评价提及发货快。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "发货也很快"
+            },
+            {
+              "source_id": "review-4",
+              "quote": "发货快"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-67",
+      "stage": "profile",
+      "text": "负面或个人感受：有买家备注要瘦的，但只有三片较瘦，其余较肥，觉得太肥",
+      "source_ids": [
+        "review-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-67",
+          "verdict": "supported",
+          "reason": "评价明确备注要瘦的但仅三片较瘦、其余较肥且觉得太肥，属个人感受。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "我备注的是要瘦的，但是只有三片是比较瘦的，剩下都比较肥，娃说太肥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-68",
+      "stage": "profile",
+      "text": "集中评价标签：同款有1千+人评价“味道不错”，268人评价“包装很好”，161人评价“分量足”，109人评价“口感好”，90人评价“肥瘦相间”，80人评价“方便”，73人评价“新鲜”，69人评价“不腻”，86人评价“品质好”，48人评价“冰袋硬的”",
+      "source_ids": [
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-68",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "同款有1千+人评价\"味道不错\"……同款有48人评价\"冰袋硬的\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "三味自选｜烧白咸香、夹沙香甜、粉蒸微辣，三碗可自由搭配，也能单点整组同口味",
+      "source_ids": [
+        "specs",
+        "image-M-part-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"1碗烧白+1碗夹沙+1碗粉蒸\", \"3碗烧白\", \"3碗夹沙\", \"3碗粉蒸\"……]"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "三碗玲珑，三种口味 咸鲜 香甜 软糯"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "本批可见图仅出现夹沙、粉蒸、烧白三种，未出现“三味自选”或具体组合与单点同口味的规格选择信息，不能核实整条。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "夹沙肉是甜味的，带点桔皮的清香味。粉蒸肉是微辣口味的，带点回甜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "川味咸菜扣肉｜五花肉配老盐菜，是川渝人叫“烧白”的咸鲜扣肉，不是梅菜扣肉，蒸好配饭就是一碗下饭咸香",
+      "source_ids": [
+        "attr-8",
+        "image-M-part-2",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "属性生肉部位五花肉，详情明确五花肉配老盐菜、不是梅菜扣肉、咸鲜扣肉川渝称烧白；配饭为合理食用建议。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "五花肉"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "我们不是梅菜扣肉，我们是咸菜扣肉，是咸鲜口味的扣肉，川渝人称\"烧白\"。"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "精选猪五花肉、老盐菜(青菜、盐)"
+            }
+          ]
+        },
+        {
+          "id": "point-2",
+          "verdict": "insufficient",
+          "reason": "可支持烧白为咸香扣肉、使用老咸菜/老青菜，但不能核实“不是梅菜扣肉”以及“五花肉配老盐菜”的明确对应；图片写老咸菜/老咸青菜，非“老盐菜”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "玲珑烧白+老咸青菜=下饭神器"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "夹沙手工炒馅｜芝麻、饭豆、桔饼、花生、红糖做馅，每日手工炒，不用汤圆馅、豆沙馅，甜馅里嚼得到花生芝麻香",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "馅料与手工炒馅、不用汤圆馅/豆沙馅有支撑；但“甜馅里嚼得到花生芝麻香”是新增口感体验，本批没有直接证据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "优选芝麻、饭豆、桔饼、花生、红糖为馅料，甜而不腻，丝滑爽口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "夹沙甜而不腻｜甜香中带一点桔皮清香，口感香甜丝滑，作为一桌菜里的甜口收尾刚好",
+      "source_ids": [
+        "image-M-part-8",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "可支持甜味、带桔皮清香及香甜可口、肥而不腻；“作为一桌菜里的甜口收尾刚好”属于新增场景建议，但未扩大功能效果，核心事实可支持。不过“口感香甜丝滑”与原文“丝滑爽口”表述一致，可支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "夹沙肉是甜味的，带点桔皮的清香味。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "粉蒸软糯微辣｜经典川味粉蒸肉，微辣带点回甜，软糯下饭；建议多蒸一会儿，让豆子更软更好吃",
+      "source_ids": [
+        "image-M-part-8",
+        "image-M-part-5",
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "粉蒸微辣带点回甜、经典川味、软糯下饭及建议多蒸一会均有详情图与FAQ支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "粉蒸建议稍微多蒸一会，豆子蒸软更好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "带土碗上锅｜发货带土碗，解冻后除去保鲜膜、碗上盖盖入锅蒸40分钟，不用另找容器；蒸得越久越软糯",
+      "source_ids": [
+        "image-M-part-3",
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "详情明确解冻后入锅蒸40分钟、越久越软糯；档案有带土碗发货，但本批详情图可见信息未显示“带土碗”和“盖盖子”需注意；该断言部分超出可见详情，故仅能对蒸制说明支持，不能对带土碗作本批图片确证。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "解冻后放入锅中蒸40分钟，蒸得越久越软糯；不能使用微波炉加热"
+            }
+          ]
+        },
+        {
+          "id": "point-6",
+          "verdict": "insufficient",
+          "reason": "带土碗、加热方式有支持；但图片未出现“-18℃”“不用另找容器”等表述，“不用另找容器”为额外推断，不能整条确认。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "解冻后除去保鲜膜，将碗放入锅中"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "一碗8片五花肉｜每碗8片，选用五花肉，肉质紧实、肉香浓郁",
+      "source_ids": [
+        "image-M-part-3",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "详情明确每碗8片肉、精选猪五花肉、肉质紧实肉香浓郁。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "400g×1碗（每碗8片肉）……精选猪五花肉……肉质紧实、肉香浓郁"
+            }
+          ]
+        },
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "本批图片未出现“每碗8片五花肉”的份量信息；“选用五花肉、肉质紧实、肉香浓郁”有支持，但份量数字无本批证据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "肉质紧实，肉香浓郁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "手工制作川味蒸菜｜坚持手工制作，把地道川味蒸菜端上自家餐桌",
+      "source_ids": [
+        "identity",
+        "copy-17",
+        "image-M-part-4",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "supported",
+          "reason": "商品名和详情均宣称手工制作/纯手工现做，可用于营销表述。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "手工制作"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "渝烧白，坚持纯手工现做"
+            }
+          ]
+        },
+        {
+          "id": "point-8",
+          "verdict": "insufficient",
+          "reason": "详情图仅夹沙段提到手工炒馅，未出现整商品“坚持手工制作”或“地道川味蒸菜”的完整表述，不能支持整条。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "传承传统夹沙制作工艺，每日坚持手工炒馅"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "冷冻到家｜-18℃以下冷冻保存，顺丰物流，下单48小时内发货；到货后及时拆箱放入冰箱冷冻",
+      "source_ids": [
+        "attr-9",
+        "image-M-part-2",
+        "image-M-part-3",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "冷冻和到货冷冻可支持，但“顺丰物流”“下单48小时内发货”在本批可见原文中未出现；本批页面只显示“从重庆发货 包邮”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "储存条件：-18℃以下冷冻保存"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "物流 现货 从重庆发货，包邮"
+            }
+          ]
+        },
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "本批图片可支持顺丰物流、下单48小时内发货及生鲜冷冻相关售后，但未出现“-18℃以下冷冻保存”“到货后及时拆箱放入冰箱冷冻”的完整表述，不能支持整条。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "本产品采用顺丰物流发货，承诺下单48小时内发货"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "一桌三种吃法｜烧白配米饭、夹沙当甜口、粉蒸下饭，三碗端上桌各有位置，适合家庭正餐分享",
+      "source_ids": [
+        "specs",
+        "copy-17",
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-17",
+              "quote": "三味组合:咸鲜/香甜/微辣三种口味一次尝鲜"
+            },
+            {
+              "source_id": "specs",
+              "quote": "[\"1碗烧白+1碗夹沙+1碗粉蒸\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-11",
+      "stage": "selling_points",
+      "text": "盐菜别浪费｜烧白里的老盐菜咸香够味，拌饭或就着肉吃，是这道菜的另一层滋味",
+      "source_ids": [
+        "image-M-part-5",
+        "copy-13",
+        "review-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-11",
+          "verdict": "supported",
+          "reason": "详情显示烧白配老盐菜，评价称盐菜很香；拌饭或就肉吃属合理食用建议。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "玲珑烧白：精选猪五花肉、老盐菜(青菜、盐)"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "里面的盐菜也很香"
+            }
+          ]
+        },
+        {
+          "id": "point-11",
+          "verdict": "insufficient",
+          "reason": "图片有“老咸菜”和“下饭神器”宣传，但未出现“老盐菜咸香够味、拌饭或就着肉吃是另一层滋味”的表述；copy-13/review-3不在本批材料中。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "玲珑烧白+老咸青菜=下饭神器"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-12",
+      "stage": "selling_points",
+      "text": "土碗破损也别慌｜万一运输中土碗破损，把破损处附近的咸菜和肉丢掉，剩余部分换碗蒸热即可",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-12",
+          "verdict": "supported",
+          "reason": "FAQ明确说明土碗破损后可将破损处附近咸菜和烧白扔掉，剩余肉和烧白放入其他碗中蒸热即可。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "将破损处附近的咸菜和烧白扔掉，然后将剩下的肉和烧白放入其他碗中蒸热即可食用"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "failed",
+      "detail": "有据 59 / 冲突 1 / 待核 20"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

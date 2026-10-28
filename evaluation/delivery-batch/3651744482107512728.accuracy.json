@@ -1,0 +1,1697 @@
+{
+  "type": "accuracy",
+  "product_id": "3651744482107512728",
+  "result_revision": "69430b7c4025226ed0313e64e96e3032c82be6cb575ec4e96e4b2f6c043b9751",
+  "profile_revision": "5dc64e11cd90db401e6565334d766e62d8a0bf2f6497c67a07a3ac6462a8e2d3",
+  "material_revision": "9660284f95b0d9f998269c296786b3f86edcf2309986c631c8e9ac283d6010c8",
+  "counts": {
+    "supported": 40,
+    "contradicted": 0,
+    "insufficient": 21
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "拾兄弟东北黑米当季新米",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名、公告均含“拾兄弟东北黑米当季新米”",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "拾兄弟东北黑米当季新米优质黑大米粗粮米饭五谷杂粮粥饭健康"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "粮油干货/方便速食 > 五谷杂粮 > 黑米",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "粮油干货/方便速食 > 五谷杂粮 > 黑米"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "品牌：拾兄弟",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "品牌属性为拾兄弟",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "拾兄弟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "产品名称：黑米",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "产品名称属性为黑米",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "黑米"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "净含量：2.5kg",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "净含量属性为2.5kg",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "2.5kg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "售卖方式：单品",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "售卖方式属性为单品",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "单品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "产地：中国大陆",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "产地属性为中国大陆",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "中国大陆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "国产-预包装食品",
+      "source_ids": [
+        "attr-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "产地与包装属性为国产-预包装食品",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "非有机食品",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "是否为有机食品属性为否",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "非地理标志品种",
+      "source_ids": [
+        "attr-5",
+        "attr-13"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "是否地理标志品种为否，地理标志品种为无",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "否"
+            },
+            {
+              "source_id": "attr-13",
+              "quote": "无"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "保质期：12个月",
+      "source_ids": [
+        "attr-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "保质期属性为12月",
+          "evidence": [
+            {
+              "source_id": "attr-10",
+              "quote": "12月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "贮存条件：常温",
+      "source_ids": [
+        "attr-12"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "贮存条件属性为常温",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "常温"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "生产企业：哈尔滨鑫恒德食品有限公司，地址哈尔滨市香坊区幸福镇新香坊村",
+      "source_ids": [
+        "attr-3",
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "企业名称与地址属性一致",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "哈尔滨鑫恒德食品有限公司"
+            },
+            {
+              "source_id": "attr-11",
+              "quote": "哈尔滨市香坊区幸福镇新香坊村"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "产品标准代码：GB 2715",
+      "source_ids": [
+        "attr-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "产品标准代码属性为GB 2715",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "GB 2715"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11723011000348",
+      "source_ids": [
+        "attr-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "许可证编号属性一致；图片页面可辨认同一编号",
+          "evidence": [
+            {
+              "source_id": "attr-15",
+              "quote": "SC11723011000348"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "食品生产许可证编号：SC11723011000348"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "5斤（东北黑米）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "规格列表含“5斤”",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "5斤"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "5斤*2袋（东北黑米）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "规格列表含“5斤*2袋”",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "5斤*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "组合装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "insufficient",
+          "reason": "规格列表以平行选项列出，无组合装这一属性文字；可看出有多件规格，但“组合装”作为档案字段缺乏直接依据",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"5斤\",\"5斤*2袋\",\"600g*1瓶\",\"600g*2瓶\",\"【独立真空小袋】1斤*5袋\",\"【独立真空小袋】1斤*10袋\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "600g*1瓶（东北黑米）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "规格列表含“600g*1瓶”",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "600g*1瓶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "600g*2瓶（东北黑米）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "规格列表含“600g*2瓶”",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "600g*2瓶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "【独立真空小袋】1斤*5袋（东北黑米）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "规格列表含“【独立真空小袋】1斤*5袋”",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【独立真空小袋】1斤*5袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "独立真空小袋分装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "独立真空小袋分装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "【独立真空小袋】1斤*10袋（东北黑米）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "supported",
+          "reason": "规格列表含“【独立真空小袋】1斤*10袋”",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【独立真空小袋】1斤*10袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "含天然花青素及水溶性花青素，泡水后色素渗透呈红褐色属正常现象、非染色米",
+      "source_ids": [
+        "copy-4",
+        "copy-32",
+        "image-J",
+        "image-M-part-4",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "文描与图片均述含天然及水溶性花青素，泡水呈红褐色为正常、非染色米",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "含天然花青素"
+            },
+            {
+              "source_id": "copy-32",
+              "quote": "黑米含水溶性花青素"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "含水性花青素；黑米含水溶性花青素，泡水后色素会渗透呈红褐色，为正常现象，非染色米"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "含天然花青素"
+            }
+          ]
+        },
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "三张详情图共同支撑：黑米含营养花青素、水溶性花青素，泡水后色素渗透呈红褐色属正常现象、非染色；购买须知亦说明清洗或浸泡“褪色、掉色”正常并非染色。花青素前加“天然”属对黑米来源常识的限定性描述，图称“含营养花青素”未与天然冲突。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "{掉色≠染色} 含营养花青素｜黑米含水溶性花青素，泡水后色素会渗透呈红褐色，为正常现象，非染色米"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "因血糯米、紫米和黑米等深色谷物富含花青素，而花青素是易溶于水的一种物质。所以在清洗或浸泡时会出现所谓的“褪色、掉色”的情况，是正常的并非染色，可放心食用！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "当季新米、新粮新鲜，粒粒精选、颗粒饱满",
+      "source_ids": [
+        "copy-4",
+        "image-E"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "新粮新鲜、粒粒精选颗粒饱满均有对应文案",
+          "evidence": [
+            {
+              "source_id": "copy-4",
+              "quote": "新粮新鲜:粒粒精选颗粒饱满"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "东北黑米“黑珍珠”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "色泽黑亮、纤长饱满，被称为黑米“黑珍珠”",
+      "source_ids": [
+        "copy-32",
+        "image-E",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "文案与图片可见黑亮、纤长饱满及“黑珍珠”称谓",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "色泽黑亮,纤长饱满"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "东北黑米“黑珍珠”"
+            }
+          ]
+        },
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "详情图明确“色泽黑亮，纤长饱满”；“黑珍珠”为档案原有别称，属商品名号修饰，未有新功能承诺。本批材料仅M-part-4直接支撑，但整条核心事实有据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "色泽黑亮，纤长饱满"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "口感软糯，香甜Q弹有嚼劲，是粥饭伴侣；商家也称黑米口感相对大米稍“粗糙”",
+      "source_ids": [
+        "copy-4",
+        "image-I",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "软糯、Q弹有嚼劲为文案原意；相对粗糙为商家口感说明，已并列限定",
+          "evidence": [
+            {
+              "source_id": "copy-4",
+              "quote": "口感软糯:香甜Q弹有嚼劲"
+            },
+            {
+              "source_id": "image-I",
+              "quote": "粥饭伴侣 口感软糯"
+            }
+          ]
+        },
+        {
+          "id": "profile-27",
+          "verdict": "insufficient",
+          "reason": "“软糯、香甜Q弹有嚼劲、粥饭伴侣”在本批M部分图中未见直接描述；M-part-6购买须知反而称“口感相对于大米稍微‘粗糙’”，后半句有据，但整条前半口感描述在本批原始图文证据中找不到充分支撑（仅素材归档的旧描述不具备当前证据效力）。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "因为黑米属于五谷杂粮，碳水含量相对大米较少，口感相对于大米稍微“粗糙”。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "优选产地当季新稻谷，自然黑米清香",
+      "source_ids": [
+        "copy-32",
+        "image-I"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "优选产地当季新稻谷、自然黑米清香有原文",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "优选产地当季新稻谷,自然黑米清香"
+            },
+            {
+              "source_id": "image-I",
+              "quote": "优选产地当季新稻谷，自然黑米清香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "源自黑土地优质谷物，北纬45°充足阳光、黑土种植，一年一季自然成熟",
+      "source_ids": [
+        "copy-32",
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "源自黑土地的优质谷物；自然成熟；一年一季"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "北纬45°充足阳光 黑土种植优质谷物；一年一季；自然成熟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "新粮现磨、拒绝陈米，精选产地当季新米",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "supported",
+          "reason": "详情图明确写新粮现磨拒绝陈米、精选产地当季新米",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "新粮现磨 拒绝陈米；精选产地当季出产的新米"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "多次筛选、精挑细选，剔除碎米坏米，干净无杂",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "详情图写多次筛选、剔除碎米坏米、干净无杂",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "多次筛选 干净无杂；层层筛选 剔除碎米、坏米"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "做法多样不单调，可做黑米饭、黑米馒头、黑米寿司、花生黑米粥等，是理想三餐杂粮",
+      "source_ids": [
+        "copy-32",
+        "image-K",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "黑米饭、黑米馒头、黑米寿司及做法多样有文案与图片",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "做法多样不单调"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "做法多样不单调；黑米饭；黑米馒头；黑米寿司"
+            }
+          ]
+        },
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "M-part-5有“做法多样不单调”“理想三餐吃杂粮”文案，并配黑米馒头、黑米寿司、花生黑米粥示例图；黑米饭属黑米煮饭的常规延伸，图文未作违背性限定。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "“做法多样不单调 {把好吃的留给家人}” 理想三餐吃杂粮 ... 花生黑米粥 ... 黑米馒头 ... 黑米寿司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "可与大米、粗粮混搭混煮，商家称营养丰富、口感俱佳",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "supported",
+          "reason": "食用小妙招末条明确可与大米、粗粮混搭混煮，称“营养丰富，口感俱佳”，与claim表述一致，且已用“商家称”限缩归因。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "可与大米、粗粮混搭混煮，营养丰富，口感俱佳。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "东北农业大学研究出品",
+      "source_ids": [
+        "image-E",
+        "image-M"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "insufficient",
+          "reason": "图片确印“东北农业大学研究出品”，但无委托研发或认证材料可核实，属未验证宣传",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "东北农业大学研究出品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "黑米即黑糙米，属全谷物粗粮；可煮粥也可煮饭，商家称营养均衡全面",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "M-part-4直接写明“黑米就是黑糙米”“全谷物粗粮”“可粥可饭，营养均衡全面”，与claim相符，且“商家称”已标明宣传归因。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "{黑米就是黑糙米} “全谷物粗粮” 可粥可饭，营养均衡全面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "食用建议：清洗时用清水淘洗一遍减少营养流失；冬季放阴凉干燥通风处避热避潮，夏季开封后密封冰箱冷藏避光防虫；质地较硬，建议清水泡3小时左右或冷藏浸泡过夜",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "supported",
+          "reason": "M-part-5食用小妙招逐项对应：清水淘洗一遍减少营养流失；冬季阴凉干燥通风避热避潮；夏季开封后密封冰箱冷藏、避光防虫；质地较硬建议泡3小时或冷藏过夜，全部有原文。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "黑米富含花青素，多次淘洗会造成营养流失，建议用清水淘洗一遍即可。●冬季可放在阴凉干燥的通风处，避热避潮即可。●夏季开封后请用夹子或者绳子密封放入冰箱冷藏，避免招引飞虫等。●黑米质地较硬，淘洗干净后，建议泡水3h左右或冷藏浸泡过夜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "正面：实惠划算、性价比高、物美价廉、价格合适、经济实用，多人评价",
+      "source_ids": [
+        "copy-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "145人评价\"实惠划算\"；145人评价\"性价比高\"；145人评价\"物美价廉\"；145人评价\"价格合适\"；111人评价\"经济实用\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "正面：口感好、味道好、软糯有嚼劲，可做杂粮饭、煮粥",
+      "source_ids": [
+        "copy-2",
+        "copy-10",
+        "copy-13",
+        "copy-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "supported",
+          "reason": "买家反馈含口感好、味道好、软糯有嚼劲及做杂粮饭、煮粥",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "东西很不错，口感也很好"
+            },
+            {
+              "source_id": "copy-10",
+              "quote": "米软软的，糯糯的，我是煮杂粮饭吃的"
+            },
+            {
+              "source_id": "copy-15",
+              "quote": "一直煲粥喜欢黑米粥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "正面：颗粒饱满、米粒完整、碎米少",
+      "source_ids": [
+        "copy-3",
+        "copy-13"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "7人评价\"颗粒饱满\""
+            },
+            {
+              "source_id": "copy-13",
+              "quote": "颗粒饱满"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "正面：日期新鲜、生产日期较新、保质期长",
+      "source_ids": [
+        "copy-3",
+        "copy-13",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "6人评价\"日期新鲜\"；6人评价\"好保质期\""
+            },
+            {
+              "source_id": "review-5",
+              "quote": "生产日期都没有超过30天。保质期12个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "正面：包装好，真空包装严密、干净卫生、储存方便",
+      "source_ids": [
+        "copy-13",
+        "review-5",
+        "review-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-13",
+              "quote": "907人说\"包装很好\""
+            },
+            {
+              "source_id": "review-5",
+              "quote": "内包装的真空包装很严密，不透气"
+            },
+            {
+              "source_id": "review-8",
+              "quote": "包装品质：真空包装且完美，与描述的一模一样"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "正面：分量足、足斤足两",
+      "source_ids": [
+        "copy-3",
+        "copy-13",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "6人评价\"足斤足两\"；6人评价\"分量足\""
+            },
+            {
+              "source_id": "review-5",
+              "quote": "重量应该是足称"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-43",
+      "stage": "profile",
+      "text": "正面：米香浓郁、有自然米香",
+      "source_ids": [
+        "copy-11",
+        "copy-28"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-43",
+          "verdict": "supported",
+          "reason": "评价含米香浓郁、自然米香",
+          "evidence": [
+            {
+              "source_id": "copy-11",
+              "quote": "米香浓郁"
+            },
+            {
+              "source_id": "copy-28",
+              "quote": "好吃，新鲜，米香浓郁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-44",
+      "stage": "profile",
+      "text": "正面：质量好、描述相符、正品",
+      "source_ids": [
+        "copy-3",
+        "copy-6",
+        "copy-13"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-44",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "15人评价\"质量很好\"；11人评价\"描述相符\""
+            },
+            {
+              "source_id": "copy-6",
+              "quote": "11人评价为\"正品\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-45",
+      "stage": "profile",
+      "text": "正面：色泽鲜亮、黑亮均匀",
+      "source_ids": [
+        "copy-13",
+        "copy-28"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-45",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-13",
+              "quote": "101人说\"色泽鲜亮\""
+            },
+            {
+              "source_id": "copy-28",
+              "quote": "黑米均匀饱满黑亮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-46",
+      "stage": "profile",
+      "text": "正面：多次复购，家人喜欢",
+      "source_ids": [
+        "copy-2",
+        "copy-10"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-46",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "已经第二次买了；一家人都喜欢吃"
+            },
+            {
+              "source_id": "copy-10",
+              "quote": "会继续回购"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-47",
+      "stage": "profile",
+      "text": "负面/个人感受：部分买家反映快递取件流程繁琐、快递服务态度差",
+      "source_ids": [
+        "review-1",
+        "review-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-47",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "能不能态度好点……态度垃圾不说，还凶神恶煞的"
+            },
+            {
+              "source_id": "review-8",
+              "quote": "送到小区门卫没有短信通知、丢在小区门口杂乱无序，客户找了很久才找到物件"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-48",
+      "stage": "profile",
+      "text": "个人感受：有买家称糖尿病人吃了补肾糖很好，属个人说法，功效无法确认",
+      "source_ids": [
+        "copy-15"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-48",
+          "verdict": "insufficient",
+          "reason": "评价原文仅一句个人说法，无法确认任何功效；断言已限为个人感受但“补肾糖很好”本身无依据",
+          "evidence": [
+            {
+              "source_id": "copy-15",
+              "quote": "糖尿病人吃了补肾糖很好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "当季新米｜选用当季新稻谷，新粮现磨、拒绝陈米，米粒带着新鲜谷物应有的自然米香",
+      "source_ids": [
+        "copy-4",
+        "image-E",
+        "copy-32",
+        "image-I",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "当季新米、新粮现磨拒绝陈米、自然米香均有原文",
+          "evidence": [
+            {
+              "source_id": "copy-4",
+              "quote": "新粮新鲜:粒粒精选颗粒饱满"
+            },
+            {
+              "source_id": "image-I",
+              "quote": "优选产地当季新稻谷，自然黑米清香"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "新粮现磨 拒绝陈米"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "黑亮饱满的“黑珍珠”｜米粒色泽黑亮、纤长饱满，多次筛选剔除碎米坏米，看起来干净少杂",
+      "source_ids": [
+        "copy-32",
+        "image-E",
+        "image-M-part-4",
+        "image-M-part-3",
+        "copy-3",
+        "copy-13"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "色泽黑亮,纤长饱满"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "层层筛选 剔除碎米、坏米"
+            },
+            {
+              "source_id": "copy-3",
+              "quote": "7人评价\"颗粒饱满\""
+            }
+          ]
+        },
+        {
+          "id": "point-2",
+          "verdict": "insufficient",
+          "reason": "“黑亮饱满、色泽黑亮、纤长饱满”有M-part-4支撑；“多次筛选剔除碎米坏米、干净少杂”属档案旧卖点，本批M图未见明确筛选工序表述，故整条只能部分支持，判insufficient。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "色泽黑亮，纤长饱满"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "软糯带嚼劲，粥饭都合适｜煮好入口软糯，香甜中带一点Q弹嚼劲，适合做日常杂粮饭或煮粥",
+      "source_ids": [
+        "copy-4",
+        "image-I",
+        "image-M-part-6",
+        "copy-2",
+        "copy-10",
+        "copy-13",
+        "copy-15"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-4",
+              "quote": "口感软糯:香甜Q弹有嚼劲"
+            },
+            {
+              "source_id": "image-I",
+              "quote": "粥饭伴侣 口感软糯"
+            },
+            {
+              "source_id": "copy-15",
+              "quote": "一直煲粥喜欢黑米粥；买过好多次，蒸米饭，煮粥"
+            }
+          ]
+        },
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "“软糯带嚼劲、粥饭合适”本批M图无直接支撑；购买须知反而称口感相对大米稍“粗糙”，无“软糯Q弹”表述。整条缺乏充分证据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "因为黑米属于五谷杂粮，碳水含量相对大米较少，口感相对于大米稍微“粗糙”。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "泡水轻微变色正常｜黑米含天然花青素及水溶性花青素，淘洗浸泡后水色转为红褐色属正常现象，并非染色米",
+      "source_ids": [
+        "copy-4",
+        "copy-32",
+        "image-J",
+        "image-M-part-4",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "图文明示含水溶性花青素、泡水变红褐色属正常、非染色米",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "黑米含水溶性花青素，泡水后色素会渗透呈红褐色，为正常现象，非染色米"
+            }
+          ]
+        },
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "M-part-4与M-part-6均说明黑米含花青素/水溶性花青素，浸泡淘洗水色变红褐属正常，非染色米，与claim完全对应。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "黑米含水溶性花青素，泡水后色素会渗透呈红褐色，为正常现象，非染色米"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "在清洗或浸泡时会出现所谓的“褪色、掉色”的情况，是正常的并非染色，可放心食用！"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "黑土地一年一季成熟｜源自东北黑土地，北纬45°充足阳光，一年一季自然成熟，谷物有自然黑米清香",
+      "source_ids": [
+        "copy-32",
+        "image-I",
+        "image-M-part-2",
+        "copy-11",
+        "copy-28"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "黑土地、北纬45°、一年一季、自然黑米清香有图文依据",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "北纬45°充足阳光 黑土种植优质谷物；一年一季；自然成熟"
+            },
+            {
+              "source_id": "copy-32",
+              "quote": "自然黑米清香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "全谷粗粮，可混搭搭配｜黑米即黑糙米，属全谷物粗粮，可单独煮粥、煮饭，也可与大米、粗粮搭配混煮",
+      "source_ids": [
+        "copy-32",
+        "image-K",
+        "image-M-part-5",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "insufficient",
+          "reason": "资料无“黑米即黑糙米”“全谷物粗粮”的直接表述，也未说明可否与大米、粗粮混煮；仅见“五谷杂粮”类目及做法图",
+          "evidence": [
+            {
+              "source_id": "copy-32",
+              "quote": "做法多样不单调"
+            }
+          ]
+        },
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "M-part-4有“黑米就是黑糙米/全谷物粗粮/可粥可饭”，M-part-5有“可与大米、粗粮混搭混煮”，支撑单独煮与混搭两种吃法。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "{黑米就是黑糙米} “全谷物粗粮” 可粥可饭"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "可与大米、粗粮混搭混煮，营养丰富，口感俱佳。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "吃法不单调｜可做黑米饭、黑米馒头、黑米寿司、花生黑米粥等，换着花样安排三餐杂粮",
+      "source_ids": [
+        "copy-32",
+        "image-K",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "黑米饭、黑米馒头、黑米寿司及做法多样均有图文",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "做法多样不单调；黑米饭；黑米馒头；黑米寿司"
+            }
+          ]
+        },
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "M-part-5“做法多样不单调”配图黑米馒头、黑米寿司、花生黑米粥，并以“理想三餐吃杂粮”定位，claim所列吃法均有图示或文字支撑。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "“做法多样不单调” ... 花生黑米粥 ... 黑米馒头 ... 黑米寿司"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "理想三餐吃杂粮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "淘洗有讲究，泡够更好煮｜食用建议清水淘洗一遍，减少营养流失；质地较硬，可清水泡约3小时或冷藏浸泡过夜再煮",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "supported",
+          "reason": "食用小妙招明确清水淘洗一遍、多洗流失营养，以及质地较硬建议泡水约3小时或冷藏浸泡过夜，完全对应。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "多次淘洗会造成营养流失，建议用清水淘洗一遍即可。...黑米质地较硬，淘洗干净后，建议泡水3h左右或冷藏浸泡过夜。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "开封后按季存放｜冬季放阴凉干燥通风处，避热避潮；夏季开封后密封冰箱冷藏、避光防虫",
+      "source_ids": [
+        "attr-12",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "属性仅写常温；本批未提供“冬季阴凉干燥通风、夏季开封后冷藏避光防虫”的原文",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "常温"
+            }
+          ]
+        },
+        {
+          "id": "point-9",
+          "verdict": "supported",
+          "reason": "M-part-5分别给出冬季、夏季存放方式；attr-12“贮存条件：常温”与冬季阴凉存放不矛盾，夏季开封后冷藏为具体建议，claim忠实转述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "冬季可放在阴凉干燥的通风处，避热避潮即可。夏季开封后请用夹子或者绳子密封放入冰箱冷藏，避免招引飞虫等。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "多种规格按用量选｜除2.5kg、5斤袋装外，还提供600g*1瓶和600g*2瓶组合装，可按家里用量灵活选择",
+      "source_ids": [
+        "attr-4",
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "2.5kg"
+            },
+            {
+              "source_id": "specs",
+              "quote": "5斤；5斤*2袋；600g*1瓶；600g*2瓶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-11",
+      "stage": "selling_points",
+      "text": "1斤独立真空小袋分装｜可选1斤*5袋或1斤*10袋的独立真空小袋，每次开一小袋，剩余继续真空存放，方便分次取用",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-11",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【独立真空小袋】1斤*5袋；【独立真空小袋】1斤*10袋；独立真空小袋分装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-12",
+      "stage": "selling_points",
+      "text": "真空包装，储存方便｜买家反馈包装好，真空包装严密、干净卫生，便于日常存放",
+      "source_ids": [
+        "copy-13",
+        "review-5",
+        "review-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-12",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-13",
+              "quote": "907人说\"包装很好\""
+            },
+            {
+              "source_id": "review-5",
+              "quote": "内包装的真空包装很严密，不透气"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-13",
+      "stage": "selling_points",
+      "text": "分量足，价格实惠｜买家多次评价分量足、足斤足两，也提到实惠划算、经济实用",
+      "source_ids": [
+        "copy-0",
+        "copy-3",
+        "copy-13",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-13",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "145人评价\"实惠划算\"；111人评价\"经济实用\""
+            },
+            {
+              "source_id": "copy-3",
+              "quote": "6人评价\"分量足\"；6人评价\"足斤足两\""
+            },
+            {
+              "source_id": "review-5",
+              "quote": "重量应该是足称"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 40 / 冲突 0 / 待核 21"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

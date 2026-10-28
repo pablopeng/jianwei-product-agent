@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:jianwei:selling-points:v2",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "selling_points": {
+      "type": "array",
+      "title": "按优先级排列的卖点，不预设条数",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "text": {
+            "type": "string",
+            "minLength": 1,
+            "title": "卖点文案"
+          },
+          "priority": {
+            "type": "integer",
+            "minimum": 1,
+            "title": "优先级，1最高"
+          }
+        },
+        "required": [
+          "text",
+          "priority"
+        ]
+      }
+    }
+  },
+  "required": [
+    "selling_points"
+  ]
+}

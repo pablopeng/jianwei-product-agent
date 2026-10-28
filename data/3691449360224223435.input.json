@@ -1,0 +1,627 @@
+{
+  "schema_version": "1.0",
+  "product_id": "3691449360224223435",
+  "display_name": "【焕新季·暑期大促】云南白背毛木耳丝干货免切 螺蛳粉炒菜火锅凉拌",
+  "materials": [
+    {
+      "id": "identity",
+      "kind": "product_attributes",
+      "label": "商品名与原始类目",
+      "locator": "sheet2!L8/identity",
+      "text": "{\"product_name\": \"【焕新季·暑期大促】云南白背毛木耳丝干货免切 螺蛳粉炒菜火锅凉拌\", \"product_category\": {\"first_category\": {\"category_name\": \"粮油干货/方便速食\", \"category_code\": 1000009090}, \"second_category\": {\"category_name\": \"干货\", \"category_code\": 1000009124}, \"third_category\": {\"category_name\": \"菌类干货\", \"category_code\": 1000009881}, \"fourth_category\": {\"category_name\": \"黑木耳\", \"category_code\": 1000010374}}, \"brand_name\": \"彩滋云\"}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-0",
+      "kind": "product_attributes",
+      "label": "保质期",
+      "locator": "sheet2!L8/attr-0",
+      "text": "{\"保质期\": [\"12月\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-1",
+      "kind": "product_attributes",
+      "label": "产品名称",
+      "locator": "sheet2!L8/attr-1",
+      "text": "{\"产品名称\": [\"白背毛木耳丝\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-2",
+      "kind": "product_attributes",
+      "label": "产地",
+      "locator": "sheet2!L8/attr-2",
+      "text": "{\"产地\": [\"中国大陆\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-3",
+      "kind": "product_attributes",
+      "label": "生产企业地址",
+      "locator": "sheet2!L8/attr-3",
+      "text": "{\"生产企业地址\": [\"云南省滇中新区大板桥街道办事处西冲社区居委会文博路1086号5栋3楼\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-4",
+      "kind": "product_attributes",
+      "label": "食品生产许可证编号",
+      "locator": "sheet2!L8/attr-4",
+      "text": "{\"食品生产许可证编号\": [\"SC11853010105920\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-5",
+      "kind": "product_attributes",
+      "label": "是否临期",
+      "locator": "sheet2!L8/attr-5",
+      "text": "{\"是否临期\": [\"否\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-6",
+      "kind": "product_attributes",
+      "label": "是否为有机食品",
+      "locator": "sheet2!L8/attr-6",
+      "text": "{\"是否为有机食品\": [\"否\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-7",
+      "kind": "product_attributes",
+      "label": "产地与包装",
+      "locator": "sheet2!L8/attr-7",
+      "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-8",
+      "kind": "product_attributes",
+      "label": "贮存条件",
+      "locator": "sheet2!L8/attr-8",
+      "text": "{\"贮存条件\": [\"常温\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-9",
+      "kind": "product_attributes",
+      "label": "品牌",
+      "locator": "sheet2!L8/attr-9",
+      "text": "{\"品牌\": [\"彩滋云\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-10",
+      "kind": "product_attributes",
+      "label": "产品标准代码",
+      "locator": "sheet2!L8/attr-10",
+      "text": "{\"产品标准代码\": [\"Q/NSJ0001S\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-11",
+      "kind": "product_attributes",
+      "label": "配料表",
+      "locator": "sheet2!L8/attr-11",
+      "text": "{\"配料表\": [\"白背木耳\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-12",
+      "kind": "product_attributes",
+      "label": "生产企业名称",
+      "locator": "sheet2!L8/attr-12",
+      "text": "{\"生产企业名称\": [\"云南施家铺子食品有限公司\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-13",
+      "kind": "product_attributes",
+      "label": "营养成分表",
+      "locator": "sheet2!L8/attr-13",
+      "text": "{\"营养成分表\": [\"能量 1399kJ、蛋白质 6.2g、脂肪 0.6g、碳水化合物 74.8g、钠 136mg\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-14",
+      "kind": "product_attributes",
+      "label": "净含量",
+      "locator": "sheet2!L8/attr-14",
+      "text": "{\"净含量\": [\"30g\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "specs",
+      "kind": "specification",
+      "label": "原始规格列表",
+      "locator": "sheet2!L8/specs",
+      "text": "{\"child_spec_seq\": [\"口味分类\", \"规格\"], \"spec_values_seq\": [[\"30g*4袋（万人回购 2026年一路发发发）\", \"30g*2袋（贵在运费）\", \"30g*8袋（70%选择性价比高，支持试吃一包）\"], [\"单件净含量30g*1包\"]]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "copy-0",
+      "kind": "marketing_copy",
+      "label": "商品销量卖点",
+      "locator": "sheet2!L8/copy-0",
+      "text": "{\"sale_point_category\": \"商品销量卖点\", \"sale_points\": [\"双11热销过50万\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-1",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L8/copy-1",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"包装很好\", \"质量很好\", \"分量足\", \"新鲜度好\", \"脆脆的\", \"干净\", \"口感不错\", \"方便\", \"两大包\", \"描述相符\", \"包装很好\", \"脆脆的\", \"包装很好\", \"质量很好\", \"分量足\", \"新鲜度好\", \"脆脆的\", \"干净\", \"口感不错\", \"方便\", \"描述相符\", \"炒菜不错\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-2",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L8/copy-2",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"挺好吃的，特别脆\", \"好吃又下饭\", \"分量很足，很满意\", \"口感脆弹味道鲜美好吃\", \"包装很好，分量很足\", \"很新鲜，清爽\", \"木耳很新鲜，不错\", \"好吃又新鲜\", \"很干净很好吃\", \"新鲜，非常干\", \"脆脆的很有口感，干净\", \"吃起来脆脆的很有口感\", \"可口，香甜，好吃\", \"材质不错，份量很足\", \"泡发后肉质厚实饱满\", \"又厚又脆，非常好吃\", \"好吃也很方便\", \"很干净，量也大\", \"干净无渣 脆爽\", \"很干净，分量很足\", \"吃起来清脆爽口\", \"吃起来口感脆脆的\", \"独立包装很方便\", \"新鲜，分量很足\", \"色泽好，干净卫生\", \"泡发后饱满有嚼劲\", \"不用切很方便\", \"非常满意，脆脆的\", \"很干 新鲜\", \"泡发后香脆爽口\", \"口感细腻鲜美\", \"简单方便也好吃\", \"炒肉丝很好吃，脆脆的\", \"根蒂少杂质\", \"独立包装，质量很好\", \"脆爽弹牙\", \"包装完好无损，份量足\", \"好吃，切好的很方便\", \"满满一大碗，很好看\", \"脆脆的很好吃\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-3",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L8/copy-3",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"下次继续购买\", \"一包炒一碗，好吃\", \"下次再来，快递很快\", \"不错哦炒鱼香肉丝很奈斯\", \"卖家很有信誉\", \"不错，孩子很喜欢吃\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-4",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L8/copy-4",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"达人说：“高泡发”\", \"达人说：“肉厚无根”\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-5",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L8/copy-5",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"103人说\\\"包装很好\\\"\", \"80人说\\\"质量很好\\\"\", \"58人说\\\"分量足\\\"\", \"57人说\\\"新鲜度好\\\"\", \"50人说\\\"脆脆的\\\"\", \"41人说\\\"干净\\\"\", \"40人说\\\"口感不错\\\"\", \"26人说\\\"方便\\\"\", \"22人说\\\"两大包\\\"\", \"24人说\\\"描述相符\\\"\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-6",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L8/copy-6",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": []}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-7",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L8/copy-7",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"10+达人推荐\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-8",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L8/copy-8",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"万人加购\", \"万人加购\", \"万人加购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-9",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L8/copy-9",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"太好吃了，每天晚上都要整一包凉拌，只剩五包了\", \"很好吃，干净，包装非常好，小孩子们特别喜欢吃！真不错👍\", \"收到货了，包装完好无损，木耳丝很好，煲汤炒菜都不错，吃完继续回购。\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-10",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L8/copy-10",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"小镇青年爱买\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-11",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L8/copy-11",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-12",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L8/copy-12",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-13",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L8/copy-13",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"28人评价\\\"便宜实惠\\\"\", \"28人评价\\\"经济实惠\\\"\", \"17人评价\\\"价廉物美\\\"\", \"17人评价\\\"物超所值\\\"\", \"17人评价\\\"实惠好用\\\"\", \"17人评价\\\"经济实用\\\"\", \"28人评价\\\"性价比高\\\"\", \"28人评价\\\"价格合适\\\"\", \"17人评价\\\"经济耐用\\\"\", \"28人评价\\\"实惠划算\\\"\", \"17人评价\\\"实惠耐用\\\"\", \"28人评价\\\"物美价廉\\\"\", \"28人评价\\\"价格美丽\\\"\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-14",
+      "kind": "marketing_copy",
+      "label": "商品文描-固定文案",
+      "locator": "sheet2!L8/copy-14",
+      "text": "{\"sale_point_category\": \"商品文描-固定文案\", \"sale_points\": [\"肉厚质佳:肉质厚实无根更爽口\", \"干净卫生:无需额外清洗直接使用\", \"免切方便:无需处理直接烹饪\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-15",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L8/copy-15",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-16",
+      "kind": "marketing_copy",
+      "label": "功能优点",
+      "locator": "sheet2!L8/copy-16",
+      "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"头茬精挑细选\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-17",
+      "kind": "ai_derived",
+      "label": " 组内LLM生成卖点4-6字",
+      "locator": "sheet2!L8/copy-17",
+      "text": "{\"sale_point_category\": \" 组内LLM生成卖点4-6字\", \"sale_points\": [\"回购之人很多\", \"吃六个月很划算\", \"优质无根味美\", \"温水泡发快速\", \"趁活动多囤点\", \"买一袋吃六个月\", \"价格实惠划算\", \"富含纤维元素\", \"富含蛋白质\", \"头茬白贝毛木耳\", \"天然碱性很健康\", \"头茬毛木耳丝\", \"含丰富蛋白质\", \"脆嫩爽口味鲜\", \"精心切好去根\", \"蛋白质含量很高\", \"营养含量很高\", \"营养美味健康\", \"适合多类人群\", \"富含维生素纤维\", \"肉厚品质好\", \"足足一斤装\", \"一包也是批发价\", \"肉质饱满美味\", \"富含多种营养\", \"容易吸收\", \"爽脆开胃\", \"非常划算\", \"价格很合适\", \"肉质厚实口感弹\", \"做法简单易上手\", \"一斤装还包邮\", \"口感独特\", \"划算量大\", \"爽口解腻全家爱\", \"价格十分合适\", \"做起来简单\", \"无根切好方便\", \"夏天多吃好处多\", \"简单快捷做法\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "review-0",
+      "kind": "buyer_review",
+      "label": "买家评价1",
+      "locator": "sheet2!L8/review-0",
+      "text": "东西质量非常好，与卖家描述的完全一致，非常满意，真的很喜欢，完全超出期望值，发货速度非常快，包装非常仔细、严实，物流公司服务态度很好，运送速度很快，很满意的一次购物。（๑ `▽´๑)۶棒👍🏻棒👍🏻棒棒👍🏻👍🏻棒棒👍🏻棒棒👍🏻👍🏻棒棒👍🏻👍🏻棒棒👍🏻👍🏻棒棒👍🏻👍🏻棒棒👍🏻👍🏻笔芯卖家♥",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-1",
+      "kind": "buyer_review",
+      "label": "买家评价2",
+      "locator": "sheet2!L8/review-1",
+      "text": "描述相符：很好 。描述相符：非常好 。\n服务态度：描述相符：非常好 。\n发货速度：很快",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-2",
+      "kind": "buyer_review",
+      "label": "买家评价3",
+      "locator": "sheet2!L8/review-2",
+      "text": "商品分量：买到了物美价廉的好商品，质量杠杠的。物流给力，商家服务周到，售后有求必应。买到了物美价廉的好商品，质量杠杠的。物流给力，商家服务周到，售后有求必应。谢谢老板。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-3",
+      "kind": "buyer_review",
+      "label": "买家评价4",
+      "locator": "sheet2!L8/review-3",
+      "text": "描述相符：收到木耳是臭的，臭鞋底味，泡完更臭，\n服务态度：客服说是正常的。已退回。没退运费。\n不知道别人收到臭不臭，难道好评都是那啥的，还是大家臭的也吃",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-4",
+      "kind": "buyer_review",
+      "label": "买家评价5",
+      "locator": "sheet2!L8/review-4",
+      "text": "包装品质：不好，两小包，有一包直接漏在快递包装袋里面，应该是打包的时候就漏的，懒得退了，希望以后注意\n\n新鲜度：另一包泡完炒着吃了，口感还是蛮不错的",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-5",
+      "kind": "buyer_review",
+      "label": "买家评价6",
+      "locator": "sheet2!L8/review-5",
+      "text": "第1次买这种木耳丝 吃着口感还行，就是泡的时候会有土不太干净。多洗几遍 然后我又用热水焯了一下，反正炒菜爆炒一下，挺好吃的。比那种大木耳口感好一点。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-6",
+      "kind": "buyer_review",
+      "label": "买家评价7",
+      "locator": "sheet2!L8/review-6",
+      "text": "这家的干木耳丝品质绝了！泡发后肉质厚实饱满，根蒂少杂质，切丝均匀易烹饪。凉拌爽脆入味，煲汤软糯鲜香，随便做都好吃，囤了好几包慢慢吃！",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-7",
+      "kind": "buyer_review",
+      "label": "买家评价8",
+      "locator": "sheet2!L8/review-7",
+      "text": "🌟凉拌口感超赞！木耳丝脆爽弹牙😋，干净无杂质，泡发后饱满有嚼劲💪。包装严实，分量足，保质期也安心📅。整体体验满分，回购必选👍！",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-8",
+      "kind": "buyer_review",
+      "label": "买家评价9",
+      "locator": "sheet2!L8/review-8",
+      "text": "物流速度：物流速度很快\n描述相符：质量挺好的\n服务态度：服务态度好\n发货速度：发货速度快\n包装：包装完好无损\n性价比：性交比高",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-9",
+      "kind": "buyer_review",
+      "label": "买家评价10",
+      "locator": "sheet2!L8/review-9",
+      "text": "收到木耳先抓了一把泡发，出数很多且根蒂处理得干净。焯水后拌凉菜脆脆的，炒菜也不易软塌，比菜场散装的干净省事，家里常备挺合适",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "ai-review-summary",
+      "kind": "ai_derived",
+      "label": "旧AI评价摘要",
+      "locator": "sheet2!L8/ai-review-summary",
+      "text": "很多买家表示这款木耳丝口感爽脆，富有嚼劲，用来炒菜、煲汤、凉拌都非常合适。同时，它的泡发效果好，泡发后肉质厚实饱满。此外，还有不少买家称赞其干净无杂质，食用起来十分放心。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "short-name",
+      "kind": "marketing_copy",
+      "label": "旧商品短名",
+      "locator": "sheet2!L8/short-name",
+      "text": "云南高山头茬白背毛木耳丝",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "image-E",
+      "kind": "image",
+      "label": "商品图E",
+      "locator": "sheet2!E8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-E-0.jpg",
+      "image_token": "OdaPbtdiOoC1PRxoCMbcFw02nOb",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-F",
+      "kind": "image",
+      "label": "商品图F",
+      "locator": "sheet2!F8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-F-0.jpg",
+      "image_token": "V5Ojbk0suoRIVUxMYAecVB52nxc",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-G",
+      "kind": "image",
+      "label": "商品图G",
+      "locator": "sheet2!G8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-G-0.jpg",
+      "image_token": "QCWybFVdKofdvZxTVuecuH4Zn3f",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-H",
+      "kind": "image",
+      "label": "商品图H",
+      "locator": "sheet2!H8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-H-0.jpg",
+      "image_token": "DIBYbSbZQo1rkdxQT1QcKKFonqb",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-I",
+      "kind": "image",
+      "label": "商品图I",
+      "locator": "sheet2!I8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-I-0.jpg",
+      "image_token": "W23YbG66aoJLNkx1rM4cx8o3nvc",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-J",
+      "kind": "image",
+      "label": "商品图J",
+      "locator": "sheet2!J8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-J-0.jpg",
+      "image_token": "MEIqbH445o2q4zx4aNfcVQaJnjh",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-K",
+      "kind": "image",
+      "label": "商品图K",
+      "locator": "sheet2!K8:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-K-0.jpg",
+      "image_token": "F1Iib0amxoaQKYxA0XncPeCdnle",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M",
+      "kind": "image",
+      "label": "商品详情长图 · 片段1",
+      "locator": "sheet2!M8:y=0..1800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-0.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-2",
+      "kind": "image",
+      "label": "商品详情长图 · 片段2",
+      "locator": "sheet2!M8:y=1800..3600",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-1.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-3",
+      "kind": "image",
+      "label": "商品详情长图 · 片段3",
+      "locator": "sheet2!M8:y=3600..5400",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-2.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-4",
+      "kind": "image",
+      "label": "商品详情长图 · 片段4",
+      "locator": "sheet2!M8:y=5400..7200",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-3.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-5",
+      "kind": "image",
+      "label": "商品详情长图 · 片段5",
+      "locator": "sheet2!M8:y=7200..9000",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-4.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-6",
+      "kind": "image",
+      "label": "商品详情长图 · 片段6",
+      "locator": "sheet2!M8:y=9000..10800",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-5.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-7",
+      "kind": "image",
+      "label": "商品详情长图 · 片段7",
+      "locator": "sheet2!M8:y=10800..12600",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-6.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-8",
+      "kind": "image",
+      "label": "商品详情长图 · 片段8",
+      "locator": "sheet2!M8:y=12600..13033",
+      "text": "",
+      "image_path": "data/assets/3691449360224223435/image-M-7.jpg",
+      "image_token": "O5Q7b39n1oJ9FqxxsAWcKyn8nxg",
+      "origin": "merchant"
+    }
+  ]
+}

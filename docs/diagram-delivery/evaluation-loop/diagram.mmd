@@ -1,0 +1,28 @@
+flowchart LR
+  subgraph RULE["规则配置 · 一期已实现"]
+    R("Schema ＋ Prompt<br/>食品饮料 Skill")
+  end
+  subgraph PROD["产物与过程 · 一期已实现"]
+    P("主 Agent 按需生产<br/>商品档案 → 确认 → 卖点") --> S("冻结版本快照<br/>原始输入 · 商品档案<br/>卖点 · 工具调用轨迹")
+  end
+  subgraph EVAL["批量评测与反馈 · 一期已实现"]
+    S1("机评：信息准确性<br/>规则检查：Agent 轨迹") --> J("整批回收与统计<br/>逐维分数 · 人工备注<br/>Prompt／Skill 迭代建议")
+    H("人工：3 底线 · 5 高标<br/>飞书批量 0／1／2 评分") --> J
+    J --> U("人工定位问题<br/>修改规则与提示词<br/>同批样本复测")
+  end
+  subgraph FUT["二期规划 · 尚未实现"]
+    F("分行业 Auto Rubrics<br/>二阶段 SFT 模型<br/>图文商品详情页重构")
+  end
+  R --> P
+  S --> S1
+  S --> H
+  U -.反馈迭代.-> R
+  J -.沉淀评测与训练资产.-> F
+  classDef normal fill:#ffffff,stroke:#5b8ff9,color:#1f2329;
+  classDef hint fill:#f3f1eb,stroke:#8e877a,color:#1f2329;
+  class R,P,S,S1,H,J,U normal;
+  class F hint;
+  style RULE fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style PROD fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style EVAL fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style FUT fill:#f3f1eb,stroke:#8e877a,stroke-dasharray:5 5;

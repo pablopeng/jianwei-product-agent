@@ -1,0 +1,5 @@
+{
+  "route": "code-native",
+  "format": "mermaid",
+  "layout": "Mermaid自动图布局，无硬编码坐标"
+}

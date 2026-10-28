@@ -1,0 +1,133 @@
+{
+  "source_url": "https://bytedance.larkoffice.com/wiki/AiW6wP6sNikPQDkyb7lcDJYUnmd?sheet=o0mF3B",
+  "source_revision": 80,
+  "snapshot_note": "14条真实商品；全部商品图和详情长图均已加载并拆片，可供模型实际读取。",
+  "products": [
+    {
+      "product_id": "3825952452159603168",
+      "name": "矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心",
+      "sheet_row": 2,
+      "input_file": "data/3825952452159603168.input.json",
+      "material_count": 64,
+      "images_registered": 15,
+      "images_ready": 15
+    },
+    {
+      "product_id": "3790885783632740691",
+      "name": "【到手3条】徽渔桂臭鳜鱼带包装0.6-1斤/条安徽特产正宗三去臭桂鱼",
+      "sheet_row": 3,
+      "input_file": "data/3790885783632740691.input.json",
+      "material_count": 42,
+      "images_registered": 16,
+      "images_ready": 16
+    },
+    {
+      "product_id": "3763095539286147186",
+      "name": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺皮薄馅大夜宵早餐面点",
+      "sheet_row": 4,
+      "input_file": "data/3763095539286147186.input.json",
+      "material_count": 63,
+      "images_registered": 24,
+      "images_ready": 24
+    },
+    {
+      "product_id": "3700339768698208495",
+      "name": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+      "sheet_row": 5,
+      "input_file": "data/3700339768698208495.input.json",
+      "material_count": 63,
+      "images_registered": 10,
+      "images_ready": 10
+    },
+    {
+      "product_id": "3645981724996963935",
+      "name": "【618超值购85袋赠2袋试吃】烧仙草免煮白凉粉双皮奶果冻小零食饮料",
+      "sheet_row": 6,
+      "input_file": "data/3645981724996963935.input.json",
+      "material_count": 38,
+      "images_registered": 10,
+      "images_ready": 10
+    },
+    {
+      "product_id": "3651744482107512728",
+      "name": "拾兄弟东北黑米当季新米优质黑大米粗粮米饭五谷杂粮粥饭健康",
+      "sheet_row": 7,
+      "input_file": "data/3651744482107512728.input.json",
+      "material_count": 77,
+      "images_registered": 13,
+      "images_ready": 13
+    },
+    {
+      "product_id": "3691449360224223435",
+      "name": "【焕新季·暑期大促】云南白背毛木耳丝干货免切 螺蛳粉炒菜火锅凉拌",
+      "sheet_row": 8,
+      "input_file": "data/3691449360224223435.input.json",
+      "material_count": 62,
+      "images_registered": 15,
+      "images_ready": 15
+    },
+    {
+      "product_id": "3798810219644059864",
+      "name": "羽晨妈妈新鲜墨鱼仔鲜甜脆嫩足斤足两去皮去脏乌贼火锅烧烤食材",
+      "sheet_row": 9,
+      "input_file": "data/3798810219644059864.input.json",
+      "material_count": 60,
+      "images_registered": 13,
+      "images_ready": 13
+    },
+    {
+      "product_id": "3734999074340995521",
+      "name": "拾兄弟正宗5斤东北大碴粥大碴子粥芸豆玉米碴五谷杂粮健康粗粮",
+      "sheet_row": 10,
+      "input_file": "data/3734999074340995521.input.json",
+      "material_count": 61,
+      "images_registered": 13,
+      "images_ready": 13
+    },
+    {
+      "product_id": "3827273478864765310",
+      "name": "益生元枇杷山楂糕鲜果打浆酸甜软糯大人小孩健康营养解馋小零食",
+      "sheet_row": 11,
+      "input_file": "data/3827273478864765310.input.json",
+      "material_count": 37,
+      "images_registered": 11,
+      "images_ready": 11
+    },
+    {
+      "product_id": "3784624034847785001",
+      "name": "渝烧白【3碗老字号】手工制作五花肉烧白扣肉夹沙扣肉粉蒸扣肉",
+      "sheet_row": 12,
+      "input_file": "data/3784624034847785001.input.json",
+      "material_count": 71,
+      "images_registered": 15,
+      "images_ready": 15
+    },
+    {
+      "product_id": "3812950621942841566",
+      "name": "曲奇四重奏蝴蝶酥香港进口曲奇下午茶糕点礼盒零食饼干伴手礼七夕",
+      "sheet_row": 13,
+      "input_file": "data/3812950621942841566.input.json",
+      "material_count": 30,
+      "images_registered": 16,
+      "images_ready": 16
+    },
+    {
+      "product_id": "3823726720842858647",
+      "name": "茶嫂当家冲天香铁观音2026新茶正宗安溪铁观音新款茶叶浓香型茶叶",
+      "sheet_row": 14,
+      "input_file": "data/3823726720842858647.input.json",
+      "material_count": 65,
+      "images_registered": 15,
+      "images_ready": 15
+    },
+    {
+      "product_id": "3830421054380179802",
+      "name": "椰谷燃燃椰左旋肉碱椰子水健身代餐鲜椰水官方正品580g*8瓶",
+      "sheet_row": 15,
+      "input_file": "data/3830421054380179802.input.json",
+      "material_count": 43,
+      "images_registered": 9,
+      "images_ready": 9
+    }
+  ]
+}

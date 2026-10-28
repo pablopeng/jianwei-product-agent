@@ -1,0 +1,2176 @@
+{
+  "product_id": "3763095539286147186",
+  "name": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺皮薄馅大夜宵早餐面点",
+  "source_row": 4,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3763095539286147186",
+    "display_name": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺皮薄馅大夜宵早餐面点",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L4/identity",
+        "text": "{\"product_name\": \"【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺皮薄馅大夜宵早餐面点\", \"product_category\": {\"first_category\": {\"category_name\": \"冷冻/冷藏制品\", \"category_code\": 1000009089}, \"second_category\": {\"category_name\": \"面点\", \"category_code\": 1000009098}, \"third_category\": {\"category_name\": \"中式面点\", \"category_code\": 1000009267}, \"fourth_category\": {\"category_name\": \"水饺\", \"category_code\": 1000010231}}, \"brand_name\": \"\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "产地与包装",
+        "locator": "sheet2!L4/attr-0",
+        "text": "{\"产地与包装\": [\"包装\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "产地",
+        "locator": "sheet2!L4/attr-1",
+        "text": "{\"产地\": [\"河南省\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "生鲜储存温度",
+        "locator": "sheet2!L4/attr-2",
+        "text": "{\"生鲜储存温度\": [\"-18℃\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "生产企业名称",
+        "locator": "sheet2!L4/attr-3",
+        "text": "{\"生产企业名称\": [\"扶沟县伊轩斋食品有限公司\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L4/attr-4",
+        "text": "{\"保质期\": [\"12月\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "食品生产许可证编号",
+        "locator": "sheet2!L4/attr-5",
+        "text": "{\"食品生产许可证编号\": [\"SC11141162100900\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "品牌",
+        "locator": "sheet2!L4/attr-6",
+        "text": "{\"品牌\": [\"粮与山\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L4/specs",
+        "text": "{\"child_spec_seq\": [\"单件净含量\", \"口味分类\"], \"spec_values_seq\": [[\"400g\"], [\"牛肉大葱*8大袋\", \"羊肉大葱*8大袋\", \"4袋牛肉大葱+4袋羊肉大葱\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L4/copy-0",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-1",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L4/copy-1",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": []}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-2",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L4/copy-2",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-3",
+        "kind": "marketing_copy",
+        "label": "达人推荐卖点",
+        "locator": "sheet2!L4/copy-3",
+        "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"20+达人推荐\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-4",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L4/copy-4",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"43人说\\\"味道不错\\\"\", \"14人说\\\"口感好\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-5",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L4/copy-5",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-6",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L4/copy-6",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"都市银发爱买\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-7",
+        "kind": "marketing_copy",
+        "label": "商品文描-固定文案",
+        "locator": "sheet2!L4/copy-7",
+        "text": "{\"sale_point_category\": \"商品文描-固定文案\", \"sale_points\": [\"烹饪便捷:无需解冻快速出餐\", \"皮薄馅大:一口爆汁更满足\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-8",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L4/copy-8",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"性价比高，物养价廉。口感好，馅大皮薄个头也大超值。下次还会买并口口相传给朋友。\", \"羊肉大葱水饺收到了，口味好，皮薄馅大，物流很快包装完好是很值得信赖购买的商品。\", \"老板新年好！谢谢老板，牛肉大葱饺子收到，描述真实，口感好，快递快，我家经常购，用了方便，推荐大家去买，谢谢老板！祝老板生意兴隆，年年发大财！\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-9",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L4/copy-9",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"味道不错\", \"口感好\", \"味道不错\", \"味道不错\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-10",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L4/copy-10",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"口味好，煮不破\", \"好吃，煮还不坏\", \"有弹性非常不错\", \"口感好，馅大皮薄\", \"很好吃，饺子新鲜\", \"皮薄肉多，香而不腻\", \"每一个都香味十足\", \"口味好，又新鲜\", \"口味好，皮薄馅大\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-11",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L4/copy-11",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"达人短视频带过\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-12",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L4/copy-12",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"优质评价多\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-13",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L4/copy-13",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"百人加购\", \"百人加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-14",
+        "kind": "marketing_copy",
+        "label": "店铺权威背书卖点",
+        "locator": "sheet2!L4/copy-14",
+        "text": "{\"sale_point_category\": \"店铺权威背书卖点\", \"sale_points\": [\"腐坏变质包退\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-15",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L4/copy-15",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"1人评价\\\"经济实用\\\"\", \"3人评价\\\"性价比高\\\"\", \"1人评价\\\"实惠耐用\\\"\", \"3人评价\\\"实惠划算\\\"\", \"1人评价\\\"经济耐用\\\"\", \"1人评价\\\"实惠好用\\\"\", \"1人评价\\\"物超所值\\\"\", \"3人评价\\\"便宜实惠\\\"\", \"3人评价\\\"价格合适\\\"\", \"3人评价\\\"价格美丽\\\"\", \"1人评价\\\"价廉物美\\\"\", \"3人评价\\\"物美价廉\\\"\", \"3人评价\\\"经济实惠\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-16",
+        "kind": "marketing_copy",
+        "label": "功能优点",
+        "locator": "sheet2!L4/copy-16",
+        "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"皮薄馅厚 汁香肉鲜\", \"手工制作\", \"新鲜日期 营养美味\", \"新鲜牛肉馅\", \"纯手工制作\", \"手工包制 鲜香美味\", \"手工制作 皮薄馅厚\", \"清真牛羊肉 个头超大\", \"手工包制\", \"牛肉新鲜采摘\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L4/review-0",
+        "text": "老板新年好！谢谢老板，牛肉大葱饺子收到，描述真实，口感好，快递快，我家经常购，用了方便，推荐大家去买，谢谢老板！祝老板生意兴隆，年年发大财！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L4/review-1",
+        "text": "快递员不愿意给人家送到户头，商家应该和他们说一说，用户对快递站有很远的距离，保鲜食品应该及时送到，为客户服务着想，总得谢谢你们",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L4/review-2",
+        "text": "包装物流：👌🏻👌🏻\n胀包问题：👌🏻👌🏻👌🏻\n口感味道：👌🏻👌🏻\n性价比：👌🏻👌🏻\n整体评价：👌🏻👌🏻👌🏻",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-3",
+        "kind": "buyer_review",
+        "label": "买家评价4",
+        "locator": "sheet2!L4/review-3",
+        "text": "货已收到，物流快，服务态度也好，就是不知道口感如何，口感要好的话再追加评价，先给个五星好评",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-4",
+        "kind": "buyer_review",
+        "label": "买家评价5",
+        "locator": "sheet2!L4/review-4",
+        "text": "宝贝收到了，质量很不错，包装精致，材质优秀，比想象中好，送礼自用非常合适，下次继续购买",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-5",
+        "kind": "buyer_review",
+        "label": "买家评价6",
+        "locator": "sheet2!L4/review-5",
+        "text": "性价比高，物养价廉。口感好，馅大皮薄个头也大超值。下次还会买并口口相传给朋友。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-6",
+        "kind": "buyer_review",
+        "label": "买家评价7",
+        "locator": "sheet2!L4/review-6",
+        "text": "羊肉大葱水饺收到了，口味好，皮薄馅大，物流很快包装完好是很值得信赖购买的商品。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-7",
+        "kind": "buyer_review",
+        "label": "买家评价8",
+        "locator": "sheet2!L4/review-7",
+        "text": "口感风味：非常好吃\n新鲜程度：新鲜美味\n成分品质：品质很好\n分量规格：规格很大",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-8",
+        "kind": "buyer_review",
+        "label": "买家评价9",
+        "locator": "sheet2!L4/review-8",
+        "text": "包装物流：精致\n胀包问题：新鲜冷冻\n口感味道：好\n性价比：高\n整体评价：满意",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-9",
+        "kind": "buyer_review",
+        "label": "买家评价10",
+        "locator": "sheet2!L4/review-9",
+        "text": "餃子味美可口，餃皮厚薄刚好，未发现胀包问题，价挌便宜，性价比高，吃完还要买。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-review-summary",
+        "kind": "ai_derived",
+        "label": "旧AI评价摘要",
+        "locator": "sheet2!L4/ai-review-summary",
+        "text": "不少买家认为这款水饺的味道颇佳，皮薄馅大，且肉嫩多汁，香而不腻。同时，其新鲜度高，食用起来方便快捷，有不错的性价比。此外，还有不少买家称赞其物流迅速，包装完好。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L4/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1930\", \"industry_name\": \"美妆\"}, \"second_industry\": {\"industry_code\": \"193012\", \"industry_name\": \"眼部彩妆\"}, \"third_industry\": {\"industry_code\": 19300506, \"industry_name\": \"眼部彩妆\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "short-name",
+        "kind": "marketing_copy",
+        "label": "旧商品短名",
+        "locator": "sheet2!L4/short-name",
+        "text": "牛肉羊肉水饺400g/包",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E4:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-E-0.jpg",
+        "image_token": "DBsybhJylo9geJxfzhscu0ejnjf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G4:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-G-0.jpg",
+        "image_token": "KNJJbjO1dorB5LxLHvYcRNaxnfc",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H4:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-H-0.jpg",
+        "image_token": "QE6ObkJZGo1fTcxQAQYcqJ6dnyh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I4:y=0..1268",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-I-0.jpg",
+        "image_token": "RfXTbBeuboTJQqxaoF3cyN9WnKd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J4:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-J-0.jpg",
+        "image_token": "PkwHb12nFoubezxnsj9c4nQ6n6c",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-K",
+        "kind": "image",
+        "label": "商品图K",
+        "locator": "sheet2!K4:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-K-0.jpg",
+        "image_token": "ND8JbZcEqoDxw0xkvlGcZ5M8nQb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M",
+        "kind": "image",
+        "label": "商品详情长图 · 片段1",
+        "locator": "sheet2!M4:y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-0.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-2",
+        "kind": "image",
+        "label": "商品详情长图 · 片段2",
+        "locator": "sheet2!M4:y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-1.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-3",
+        "kind": "image",
+        "label": "商品详情长图 · 片段3",
+        "locator": "sheet2!M4:y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-2.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-4",
+        "kind": "image",
+        "label": "商品详情长图 · 片段4",
+        "locator": "sheet2!M4:y=5400..7200",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-3.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-5",
+        "kind": "image",
+        "label": "商品详情长图 · 片段5",
+        "locator": "sheet2!M4:y=7200..9000",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-4.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-6",
+        "kind": "image",
+        "label": "商品详情长图 · 片段6",
+        "locator": "sheet2!M4:y=9000..10800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-5.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-7",
+        "kind": "image",
+        "label": "商品详情长图 · 片段7",
+        "locator": "sheet2!M4:y=10800..12600",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-6.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-8",
+        "kind": "image",
+        "label": "商品详情长图 · 片段8",
+        "locator": "sheet2!M4:y=12600..14400",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-7.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-9",
+        "kind": "image",
+        "label": "商品详情长图 · 片段9",
+        "locator": "sheet2!M4:y=14400..16200",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-8.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-10",
+        "kind": "image",
+        "label": "商品详情长图 · 片段10",
+        "locator": "sheet2!M4:y=16200..18000",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-9.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-11",
+        "kind": "image",
+        "label": "商品详情长图 · 片段11",
+        "locator": "sheet2!M4:y=18000..19800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-10.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-12",
+        "kind": "image",
+        "label": "商品详情长图 · 片段12",
+        "locator": "sheet2!M4:y=19800..21600",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-11.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-13",
+        "kind": "image",
+        "label": "商品详情长图 · 片段13",
+        "locator": "sheet2!M4:y=21600..23400",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-12.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-14",
+        "kind": "image",
+        "label": "商品详情长图 · 片段14",
+        "locator": "sheet2!M4:y=23400..25200",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-13.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-15",
+        "kind": "image",
+        "label": "商品详情长图 · 片段15",
+        "locator": "sheet2!M4:y=25200..27000",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-14.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-16",
+        "kind": "image",
+        "label": "商品详情长图 · 片段16",
+        "locator": "sheet2!M4:y=27000..28800",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-15.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-17",
+        "kind": "image",
+        "label": "商品详情长图 · 片段17",
+        "locator": "sheet2!M4:y=28800..30600",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-16.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-18",
+        "kind": "image",
+        "label": "商品详情长图 · 片段18",
+        "locator": "sheet2!M4:y=30600..30808",
+        "text": "",
+        "image_path": "data/assets/3763095539286147186/image-M-17.jpg",
+        "image_token": "KSsrbc1JYowLwgxaHJWcomddnfH",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:56:53Z",
+  "profile": {
+    "product_info": {
+      "name": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺 皮薄馅大夜宵早餐面点",
+      "category": "冷冻/冷藏制品 > 面点 > 中式面点 > 水饺",
+      "ingredients": [],
+      "attributes": [
+        "产地：河南省",
+        "-18℃冷冻、密封保存",
+        "保质期：12个月",
+        "生产企业：扶沟县伊轩斋食品有限公司",
+        "食品生产许可证编号：SC11141162100900",
+        "品牌：粮与山",
+        "包装方式：包装",
+        "馅含量≥45%",
+        "清真",
+        "食用方式：可蒸、煮、煎、炸",
+        "无需解冻，加热后食用"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "牛肉大葱水饺 400g×8大袋",
+        "details": [
+          "净含量：400g",
+          "口味：牛肉大葱",
+          "产品名称：牛肉大葱水饺"
+        ]
+      },
+      {
+        "name": "羊肉大葱水饺 400g×8大袋",
+        "details": [
+          "净含量：400g",
+          "口味：羊肉大葱"
+        ]
+      },
+      {
+        "name": "牛肉大葱4袋+羊肉大葱4袋组合装",
+        "details": [
+          "含牛肉大葱水饺4袋、羊肉大葱水饺4袋",
+          "每袋净含量：400g"
+        ]
+      },
+      {
+        "name": "清真牛羊肉水饺（拍一发8袋组合装）",
+        "details": [
+          "规格为8袋组合装",
+          "包含牛肉大葱水饺等口味，可蒸、煮、煎、炸"
+        ]
+      }
+    ],
+    "original_selling_points": [
+      "顺丰包邮、送货上门",
+      "手工制作、手工包制",
+      "皮薄馅厚、汁香肉鲜；皮薄馅多、一口爆汁、口感筋道",
+      "现包现发",
+      "新鲜牛肉馅；新鲜现切牛羊肉，真材实料、鲜美多汁",
+      "新鲜日期、营养美味",
+      "个头超大",
+      "急速冷冻锁鲜，现包速冻锁住营养",
+      "还原记忆里妈妈的味道",
+      "强调牛肉、蔬菜、面粉、制作四大优势；牛肉集团特供、蔬菜新鲜采摘、优质小麦粉、传统手工制作",
+      "蒸煮煎炸多种吃法：蒸约7分钟、煮约5分钟、煎制、炸约4分钟",
+      "无需解冻、省时省力",
+      "适合健康早餐、亲朋聚会、加班快餐、健康夜宵等场景",
+      "坏单包赔、腐坏变质包退",
+      "精选鲜牛肉搭配脆嫩大葱，鲜而不腻，汤汁味美",
+      "大馅饱满圆润，馅含量≥45%",
+      "10分钟鲜香出锅，煮、煎、蒸、炸皆可",
+      "0反式脂肪，标注低热量、无腹担",
+      "联合蔬菜基地长期合作，精选新鲜大葱，提供所需绿色蔬菜",
+      "顺丰冷链发货，锁鲜、不坏"
+    ],
+    "buyer_feedback": [
+      "正面：多数评价认为味道不错、口感好、口味好",
+      "正面：皮薄馅大、馅大皮薄、皮薄肉多、个头大",
+      "正面：煮不破、有弹性、香而不腻",
+      "正面：新鲜、品质好、规格大",
+      "正面：性价比高、物美价廉、实惠划算",
+      "正面：包装精致、包装完好",
+      "负面：有买家反馈快递未送货到户、生鲜未能及时送达",
+      "个人感受：有买家表示尚未品尝、待追加评价"
+    ],
+    "cautions": [
+      "配料表来自详情图中“牛肉大葱水饺”产品参数，羊肉大葱口味及其他规格的配料未单独提供，不能直接套用",
+      "“手工制作”为宣传描述，未提供工艺认证或验证材料",
+      "“新鲜牛肉馅”“牛肉集团特供”等为原宣传语，缺乏可核实的供货说明",
+      "“顺丰冷链发货”未看到独立冷链物流凭证，仅见于详情图文宣传",
+      "旧模型行业分类为“美妆/眼部彩妆”，与商品实际类目“水饺”明显不符，不作为分类依据",
+      "详情页储存方式写“-18℃冷冻、密封”，另有“冷藏发货”字样，运输温度口径需确认",
+      "详情页标注“-78°发货”，与常规冷链温度表述差异较大，具体含义待确认",
+      "商品名称标注“拍一发8袋”，但详情未逐袋列明口味搭配或各袋净含量，规格细节不完整",
+      "“0反式脂肪、低热量”等为包装宣传语，缺少营养成分检测数据支撑，暂不作为确定属性",
+      "“清真”标识来自包装图片，缺少可核验的认证证书信息",
+      "未提供营养标签、认证证书等资料，相关认证承诺暂不纳入确定属性",
+      "资料中出现的配料为：小麦粉、饮用水、牛肉、大葱、圆白菜、大豆组织蛋白、姜、酿造酱油、食用盐、味精、鸡粉调味料、白砂糖、植物油、香辛料、食品添加剂（醋酸酯淀粉）。部分口味没有独立配料信息，未将这组配料作为全商品通用配料；已明确对应的配方保留在规格信息中。"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3763095539286147186",
+      "material_revision": "362ae19a0ac73f7ada57aa524ed8f8844ae2ea860cd076e9d642712a3424a0f7",
+      "sources": {
+        "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺 皮薄馅大夜宵早餐面点": {
+          "source_ids": [
+            "identity",
+            "image-M-part-5"
+          ],
+          "kind": "fact"
+        },
+        "冷冻/冷藏制品 > 面点 > 中式面点 > 水饺": {
+          "source_ids": [
+            "identity",
+            "image-M-part-5"
+          ],
+          "kind": "fact"
+        },
+        "小麦粉": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "饮用水": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "牛肉": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "大葱": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "圆白菜": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "大豆组织蛋白": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "姜": {
+          "source_ids": [
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "酿造酱油": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "食用盐": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "味精": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "鸡粉调味料": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "白砂糖": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "植物油": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "香辛料": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "食品添加剂（醋酸酯淀粉）": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "产地：河南省": {
+          "source_ids": [
+            "attr-1",
+            "image-M"
+          ],
+          "kind": "fact"
+        },
+        "-18℃冷冻、密封保存": {
+          "source_ids": [
+            "attr-2",
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "保质期：12个月": {
+          "source_ids": [
+            "attr-4",
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "生产企业：扶沟县伊轩斋食品有限公司": {
+          "source_ids": [
+            "attr-3",
+            "image-M"
+          ],
+          "kind": "fact"
+        },
+        "食品生产许可证编号：SC11141162100900": {
+          "source_ids": [
+            "attr-5"
+          ],
+          "kind": "fact"
+        },
+        "品牌：粮与山": {
+          "source_ids": [
+            "attr-6",
+            "image-M"
+          ],
+          "kind": "fact"
+        },
+        "包装方式：包装": {
+          "source_ids": [
+            "attr-0",
+            "image-M"
+          ],
+          "kind": "fact"
+        },
+        "馅含量≥45%": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-9",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "清真": {
+          "source_ids": [
+            "image-E",
+            "image-I",
+            "image-M-part-7",
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "食用方式：可蒸、煮、煎、炸": {
+          "source_ids": [
+            "image-M-part-3",
+            "image-E",
+            "image-M-part-6",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "无需解冻，加热后食用": {
+          "source_ids": [
+            "image-M-part-3",
+            "copy-7",
+            "image-M-part-6",
+            "image-M-part-16"
+          ],
+          "kind": "fact"
+        },
+        "牛肉大葱水饺 400g×8大袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "净含量：400g": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "口味：牛肉大葱": {
+          "source_ids": [
+            "specs",
+            "image-H"
+          ],
+          "kind": "fact"
+        },
+        "产品名称：牛肉大葱水饺": {
+          "source_ids": [
+            "image-M-part-11"
+          ],
+          "kind": "fact"
+        },
+        "羊肉大葱水饺 400g×8大袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "口味：羊肉大葱": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "牛肉大葱4袋+羊肉大葱4袋组合装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "含牛肉大葱水饺4袋、羊肉大葱水饺4袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "每袋净含量：400g": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "清真牛羊肉水饺（拍一发8袋组合装）": {
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "规格为8袋组合装": {
+          "source_ids": [
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "包含牛肉大葱水饺等口味，可蒸、煮、煎、炸": {
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "顺丰包邮、送货上门": {
+          "source_ids": [
+            "image-E",
+            "image-G",
+            "image-K",
+            "image-M",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        "手工制作、手工包制": {
+          "source_ids": [
+            "image-E",
+            "image-I",
+            "image-M-part-2",
+            "copy-16",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        "皮薄馅厚、汁香肉鲜；皮薄馅多、一口爆汁、口感筋道": {
+          "source_ids": [
+            "image-E",
+            "copy-16",
+            "copy-7",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        "现包现发": {
+          "source_ids": [
+            "image-K",
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        "新鲜牛肉馅；新鲜现切牛羊肉，真材实料、鲜美多汁": {
+          "source_ids": [
+            "image-H",
+            "copy-16",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        "新鲜日期、营养美味": {
+          "source_ids": [
+            "image-H",
+            "copy-16"
+          ],
+          "kind": "description"
+        },
+        "个头超大": {
+          "source_ids": [
+            "image-K",
+            "copy-16",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        "急速冷冻锁鲜，现包速冻锁住营养": {
+          "source_ids": [
+            "image-M-part-3",
+            "image-M-part-15"
+          ],
+          "kind": "description"
+        },
+        "还原记忆里妈妈的味道": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "强调牛肉、蔬菜、面粉、制作四大优势；牛肉集团特供、蔬菜新鲜采摘、优质小麦粉、传统手工制作": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "description"
+        },
+        "蒸煮煎炸多种吃法：蒸约7分钟、煮约5分钟、煎制、炸约4分钟": {
+          "source_ids": [
+            "image-M-part-3",
+            "image-M-part-6",
+            "image-M-part-15",
+            "image-M-part-16"
+          ],
+          "kind": "description"
+        },
+        "无需解冻、省时省力": {
+          "source_ids": [
+            "image-M-part-3",
+            "copy-7",
+            "image-M-part-6",
+            "image-M-part-16"
+          ],
+          "kind": "description"
+        },
+        "适合健康早餐、亲朋聚会、加班快餐、健康夜宵等场景": {
+          "source_ids": [
+            "image-M-part-4",
+            "image-M-part-6",
+            "image-M-part-16"
+          ],
+          "kind": "description"
+        },
+        "坏单包赔、腐坏变质包退": {
+          "source_ids": [
+            "image-H",
+            "copy-14",
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        "精选鲜牛肉搭配脆嫩大葱，鲜而不腻，汤汁味美": {
+          "source_ids": [
+            "image-M-part-9"
+          ],
+          "kind": "description"
+        },
+        "大馅饱满圆润，馅含量≥45%": {
+          "source_ids": [
+            "image-M-part-9"
+          ],
+          "kind": "description"
+        },
+        "10分钟鲜香出锅，煮、煎、蒸、炸皆可": {
+          "source_ids": [
+            "image-M-part-10"
+          ],
+          "kind": "description"
+        },
+        "0反式脂肪，标注低热量、无腹担": {
+          "source_ids": [
+            "image-M-part-9"
+          ],
+          "kind": "description"
+        },
+        "联合蔬菜基地长期合作，精选新鲜大葱，提供所需绿色蔬菜": {
+          "source_ids": [
+            "image-M-part-15"
+          ],
+          "kind": "description"
+        },
+        "顺丰冷链发货，锁鲜、不坏": {
+          "source_ids": [
+            "image-M-part-15"
+          ],
+          "kind": "description"
+        },
+        "正面：多数评价认为味道不错、口感好、口味好": {
+          "source_ids": [
+            "copy-4",
+            "copy-8",
+            "copy-10",
+            "review-5",
+            "review-6"
+          ],
+          "kind": "feedback"
+        },
+        "正面：皮薄馅大、馅大皮薄、皮薄肉多、个头大": {
+          "source_ids": [
+            "copy-8",
+            "copy-10",
+            "review-5",
+            "review-6"
+          ],
+          "kind": "feedback"
+        },
+        "正面：煮不破、有弹性、香而不腻": {
+          "source_ids": [
+            "copy-10",
+            "review-5"
+          ],
+          "kind": "feedback"
+        },
+        "正面：新鲜、品质好、规格大": {
+          "source_ids": [
+            "review-7",
+            "review-8",
+            "review-9"
+          ],
+          "kind": "feedback"
+        },
+        "正面：性价比高、物美价廉、实惠划算": {
+          "source_ids": [
+            "copy-8",
+            "copy-15",
+            "review-5",
+            "review-9"
+          ],
+          "kind": "feedback"
+        },
+        "正面：包装精致、包装完好": {
+          "source_ids": [
+            "review-4",
+            "review-6",
+            "review-8"
+          ],
+          "kind": "feedback"
+        },
+        "负面：有买家反馈快递未送货到户、生鲜未能及时送达": {
+          "source_ids": [
+            "review-1"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：有买家表示尚未品尝、待追加评价": {
+          "source_ids": [
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "配料表来自详情图中“牛肉大葱水饺”产品参数，羊肉大葱口味及其他规格的配料未单独提供，不能直接套用": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-15",
+            "image-M-part-11"
+          ],
+          "kind": "fact"
+        },
+        "“手工制作”为宣传描述，未提供工艺认证或验证材料": {
+          "source_ids": [
+            "image-E",
+            "copy-16",
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "“新鲜牛肉馅”“牛肉集团特供”等为原宣传语，缺乏可核实的供货说明": {
+          "source_ids": [
+            "image-H",
+            "image-M-part-2",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "“顺丰冷链发货”未看到独立冷链物流凭证，仅见于详情图文宣传": {
+          "source_ids": [
+            "image-M-part-3",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "详情页储存方式写“-18℃冷冻、密封”，另有“冷藏发货”字样，运输温度口径需确认": {
+          "source_ids": [
+            "image-M-part-15",
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "详情页标注“-78°发货”，与常规冷链温度表述差异较大，具体含义待确认": {
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        },
+        "商品名称标注“拍一发8袋”，但详情未逐袋列明口味搭配或各袋净含量，规格细节不完整": {
+          "source_ids": [
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "“0反式脂肪、低热量”等为包装宣传语，缺少营养成分检测数据支撑，暂不作为确定属性": {
+          "source_ids": [
+            "image-M-part-9"
+          ],
+          "kind": "fact"
+        },
+        "“清真”标识来自包装图片，缺少可核验的认证证书信息": {
+          "source_ids": [
+            "image-M-part-7",
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        },
+        "未提供营养标签、认证证书等资料，相关认证承诺暂不纳入确定属性": {
+          "source_ids": [
+            "image-M-part-15"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 3
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "皮薄馅大｜馅含量≥45%，每只水饺都包得饱满圆润，面皮轻薄好嚼，咬开是厚实的肉馅",
+        "priority": 1
+      },
+      {
+        "text": "牛羊肉双拼｜组合装含牛肉大葱4袋、羊肉大葱4袋，每袋400g，两种口味一次备齐；牛肉配大葱，鲜香不腻",
+        "priority": 2
+      },
+      {
+        "text": "蒸煮煎炸都行｜可蒸、可煮、可煎、可炸，无需解冻直接下锅，做早餐或宵夜都省事",
+        "priority": 3
+      },
+      {
+        "text": "-18℃冷冻囤着｜密封冷冻保存，保质期12个月，想吃时取一袋直接加热，一袋400g够一家人分食",
+        "priority": 4
+      },
+      {
+        "text": "大葱提鲜的肉馅｜牛肉大葱款以牛肉搭配大葱、圆白菜、姜、酿造酱油等调馅，汁香肉鲜",
+        "priority": 5
+      },
+      {
+        "text": "有清真标识｜包装带清真标识，生产许可编号SC11141162100900，生产企业为扶沟县伊轩斋食品有限公司",
+        "priority": 6
+      },
+      {
+        "text": "买家反馈口感不错｜不少评价提到皮薄馅大、煮不破有弹性、香而不腻",
+        "priority": 7
+      },
+      {
+        "text": "拍一发8袋｜一次到手8大袋，牛肉大葱、羊肉大葱分开选，也可选4+4组合，按家里口味囤",
+        "priority": 8
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3763095539286147186",
+      "material_revision": "362ae19a0ac73f7ada57aa524ed8f8844ae2ea860cd076e9d642712a3424a0f7",
+      "knowledge_revision": "703a5c3c40e0781a6327b4356bdd6b895a59f9eaed443035bfb9b2000cbdb60c",
+      "support": [
+        {
+          "basis": [
+            "馅含量≥45%",
+            "大馅饱满圆润，馅含量≥45%",
+            "皮薄馅厚、汁香肉鲜；皮薄馅多、一口爆汁、口感筋道"
+          ],
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-9",
+            "image-M-part-15",
+            "image-E",
+            "copy-16",
+            "copy-7",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "牛肉大葱4袋+羊肉大葱4袋组合装",
+            "含牛肉大葱水饺4袋、羊肉大葱水饺4袋",
+            "每袋净含量：400g",
+            "精选鲜牛肉搭配脆嫩大葱，鲜而不腻，汤汁味美"
+          ],
+          "source_ids": [
+            "specs",
+            "image-M-part-9"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "食用方式：可蒸、煮、煎、炸",
+            "无需解冻，加热后食用",
+            "无需解冻、省时省力",
+            "适合健康早餐、亲朋聚会、加班快餐、健康夜宵等场景"
+          ],
+          "source_ids": [
+            "image-M-part-3",
+            "image-E",
+            "image-M-part-6",
+            "image-M-part-15",
+            "copy-7",
+            "image-M-part-16",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "-18℃冷冻、密封保存",
+            "保质期：12个月",
+            "无需解冻，加热后食用",
+            "净含量：400g"
+          ],
+          "source_ids": [
+            "attr-2",
+            "image-M-part-2",
+            "image-M-part-15",
+            "attr-4",
+            "image-M-part-3",
+            "copy-7",
+            "image-M-part-6",
+            "image-M-part-16",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "口味：牛肉大葱",
+            "精选鲜牛肉搭配脆嫩大葱，鲜而不腻，汤汁味美",
+            "皮薄馅厚、汁香肉鲜；皮薄馅多、一口爆汁、口感筋道"
+          ],
+          "source_ids": [
+            "specs",
+            "image-H",
+            "image-M-part-9",
+            "image-E",
+            "copy-16",
+            "copy-7",
+            "image-M-part-6",
+            "image-M-part-17"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "清真",
+            "食品生产许可证编号：SC11141162100900",
+            "生产企业：扶沟县伊轩斋食品有限公司"
+          ],
+          "source_ids": [
+            "image-E",
+            "image-I",
+            "image-M-part-7",
+            "image-M-part-17",
+            "attr-5",
+            "attr-3",
+            "image-M"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "正面：多数评价认为味道不错、口感好、口味好",
+            "正面：皮薄馅大、馅大皮薄、皮薄肉多、个头大",
+            "正面：煮不破、有弹性、香而不腻"
+          ],
+          "source_ids": [
+            "copy-4",
+            "copy-8",
+            "copy-10",
+            "review-5",
+            "review-6"
+          ],
+          "kind": "feedback"
+        },
+        {
+          "basis": [
+            "牛肉大葱水饺 400g×8大袋",
+            "羊肉大葱水饺 400g×8大袋",
+            "牛肉大葱4袋+羊肉大葱4袋组合装",
+            "清真牛羊肉水饺（拍一发8袋组合装）",
+            "规格为8袋组合装"
+          ],
+          "source_ids": [
+            "specs",
+            "image-M-part-5",
+            "image-M-part-17"
+          ],
+          "kind": "fact"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "703a5c3c40e0781a6327b4356bdd6b895a59f9eaed443035bfb9b2000cbdb60c",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:57:27.904677+00:00",
+      "profile": {
+        "product_info": {
+          "name": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺 皮薄馅大夜宵早餐面点",
+          "category": "冷冻/冷藏制品 > 面点 > 中式面点 > 水饺",
+          "ingredients": [],
+          "attributes": [
+            "产地：河南省",
+            "-18℃冷冻、密封保存",
+            "保质期：12个月",
+            "生产企业：扶沟县伊轩斋食品有限公司",
+            "食品生产许可证编号：SC11141162100900",
+            "品牌：粮与山",
+            "包装方式：包装",
+            "馅含量≥45%",
+            "清真",
+            "食用方式：可蒸、煮、煎、炸",
+            "无需解冻，加热后食用"
+          ]
+        },
+        "specifications": [
+          {
+            "name": "牛肉大葱水饺 400g×8大袋",
+            "details": [
+              "净含量：400g",
+              "口味：牛肉大葱",
+              "产品名称：牛肉大葱水饺"
+            ]
+          },
+          {
+            "name": "羊肉大葱水饺 400g×8大袋",
+            "details": [
+              "净含量：400g",
+              "口味：羊肉大葱"
+            ]
+          },
+          {
+            "name": "牛肉大葱4袋+羊肉大葱4袋组合装",
+            "details": [
+              "含牛肉大葱水饺4袋、羊肉大葱水饺4袋",
+              "每袋净含量：400g"
+            ]
+          },
+          {
+            "name": "清真牛羊肉水饺（拍一发8袋组合装）",
+            "details": [
+              "规格为8袋组合装",
+              "包含牛肉大葱水饺等口味，可蒸、煮、煎、炸"
+            ]
+          }
+        ],
+        "original_selling_points": [
+          "顺丰包邮、送货上门",
+          "手工制作、手工包制",
+          "皮薄馅厚、汁香肉鲜；皮薄馅多、一口爆汁、口感筋道",
+          "现包现发",
+          "新鲜牛肉馅；新鲜现切牛羊肉，真材实料、鲜美多汁",
+          "新鲜日期、营养美味",
+          "个头超大",
+          "急速冷冻锁鲜，现包速冻锁住营养",
+          "还原记忆里妈妈的味道",
+          "强调牛肉、蔬菜、面粉、制作四大优势；牛肉集团特供、蔬菜新鲜采摘、优质小麦粉、传统手工制作",
+          "蒸煮煎炸多种吃法：蒸约7分钟、煮约5分钟、煎制、炸约4分钟",
+          "无需解冻、省时省力",
+          "适合健康早餐、亲朋聚会、加班快餐、健康夜宵等场景",
+          "坏单包赔、腐坏变质包退",
+          "精选鲜牛肉搭配脆嫩大葱，鲜而不腻，汤汁味美",
+          "大馅饱满圆润，馅含量≥45%",
+          "10分钟鲜香出锅，煮、煎、蒸、炸皆可",
+          "0反式脂肪，标注低热量、无腹担",
+          "联合蔬菜基地长期合作，精选新鲜大葱，提供所需绿色蔬菜",
+          "顺丰冷链发货，锁鲜、不坏"
+        ],
+        "buyer_feedback": [
+          "正面：多数评价认为味道不错、口感好、口味好",
+          "正面：皮薄馅大、馅大皮薄、皮薄肉多、个头大",
+          "正面：煮不破、有弹性、香而不腻",
+          "正面：新鲜、品质好、规格大",
+          "正面：性价比高、物美价廉、实惠划算",
+          "正面：包装精致、包装完好",
+          "负面：有买家反馈快递未送货到户、生鲜未能及时送达",
+          "个人感受：有买家表示尚未品尝、待追加评价"
+        ],
+        "cautions": [
+          "配料表来自详情图中“牛肉大葱水饺”产品参数，羊肉大葱口味及其他规格的配料未单独提供，不能直接套用",
+          "“手工制作”为宣传描述，未提供工艺认证或验证材料",
+          "“新鲜牛肉馅”“牛肉集团特供”等为原宣传语，缺乏可核实的供货说明",
+          "“顺丰冷链发货”未看到独立冷链物流凭证，仅见于详情图文宣传",
+          "旧模型行业分类为“美妆/眼部彩妆”，与商品实际类目“水饺”明显不符，不作为分类依据",
+          "详情页储存方式写“-18℃冷冻、密封”，另有“冷藏发货”字样，运输温度口径需确认",
+          "详情页标注“-78°发货”，与常规冷链温度表述差异较大，具体含义待确认",
+          "商品名称标注“拍一发8袋”，但详情未逐袋列明口味搭配或各袋净含量，规格细节不完整",
+          "“0反式脂肪、低热量”等为包装宣传语，缺少营养成分检测数据支撑，暂不作为确定属性",
+          "“清真”标识来自包装图片，缺少可核验的认证证书信息",
+          "未提供营养标签、认证证书等资料，相关认证承诺暂不纳入确定属性",
+          "资料中出现的配料为：小麦粉、饮用水、牛肉、大葱、圆白菜、大豆组织蛋白、姜、酿造酱油、食用盐、味精、鸡粉调味料、白砂糖、植物油、香辛料、食品添加剂（醋酸酯淀粉）。部分口味没有独立配料信息，未将这组配料作为全商品通用配料；已明确对应的配方保留在规格信息中。"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3763095539286147186",
+          "material_revision": "362ae19a0ac73f7ada57aa524ed8f8844ae2ea860cd076e9d642712a3424a0f7",
+          "sources": {
+            "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺 皮薄馅大夜宵早餐面点": {
+              "source_ids": [
+                "identity",
+                "image-M-part-5"
+              ],
+              "kind": "fact"
+            },
+            "冷冻/冷藏制品 > 面点 > 中式面点 > 水饺": {
+              "source_ids": [
+                "identity",
+                "image-M-part-5"
+              ],
+              "kind": "fact"
+            },
+            "小麦粉": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "饮用水": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "牛肉": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "大葱": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "圆白菜": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "大豆组织蛋白": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "姜": {
+              "source_ids": [
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "酿造酱油": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "食用盐": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "味精": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "鸡粉调味料": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "白砂糖": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "植物油": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "香辛料": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "食品添加剂（醋酸酯淀粉）": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "产地：河南省": {
+              "source_ids": [
+                "attr-1",
+                "image-M"
+              ],
+              "kind": "fact"
+            },
+            "-18℃冷冻、密封保存": {
+              "source_ids": [
+                "attr-2",
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "保质期：12个月": {
+              "source_ids": [
+                "attr-4",
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "生产企业：扶沟县伊轩斋食品有限公司": {
+              "source_ids": [
+                "attr-3",
+                "image-M"
+              ],
+              "kind": "fact"
+            },
+            "食品生产许可证编号：SC11141162100900": {
+              "source_ids": [
+                "attr-5"
+              ],
+              "kind": "fact"
+            },
+            "品牌：粮与山": {
+              "source_ids": [
+                "attr-6",
+                "image-M"
+              ],
+              "kind": "fact"
+            },
+            "包装方式：包装": {
+              "source_ids": [
+                "attr-0",
+                "image-M"
+              ],
+              "kind": "fact"
+            },
+            "馅含量≥45%": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-9",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "清真": {
+              "source_ids": [
+                "image-E",
+                "image-I",
+                "image-M-part-7",
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "食用方式：可蒸、煮、煎、炸": {
+              "source_ids": [
+                "image-M-part-3",
+                "image-E",
+                "image-M-part-6",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "无需解冻，加热后食用": {
+              "source_ids": [
+                "image-M-part-3",
+                "copy-7",
+                "image-M-part-6",
+                "image-M-part-16"
+              ],
+              "kind": "fact"
+            },
+            "牛肉大葱水饺 400g×8大袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "净含量：400g": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "口味：牛肉大葱": {
+              "source_ids": [
+                "specs",
+                "image-H"
+              ],
+              "kind": "fact"
+            },
+            "产品名称：牛肉大葱水饺": {
+              "source_ids": [
+                "image-M-part-11"
+              ],
+              "kind": "fact"
+            },
+            "羊肉大葱水饺 400g×8大袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "口味：羊肉大葱": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "牛肉大葱4袋+羊肉大葱4袋组合装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "含牛肉大葱水饺4袋、羊肉大葱水饺4袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "每袋净含量：400g": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "清真牛羊肉水饺（拍一发8袋组合装）": {
+              "source_ids": [
+                "image-M-part-5",
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "规格为8袋组合装": {
+              "source_ids": [
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "包含牛肉大葱水饺等口味，可蒸、煮、煎、炸": {
+              "source_ids": [
+                "image-M-part-5",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "顺丰包邮、送货上门": {
+              "source_ids": [
+                "image-E",
+                "image-G",
+                "image-K",
+                "image-M",
+                "image-M-part-6",
+                "image-M-part-17"
+              ],
+              "kind": "description"
+            },
+            "手工制作、手工包制": {
+              "source_ids": [
+                "image-E",
+                "image-I",
+                "image-M-part-2",
+                "copy-16",
+                "image-M-part-6",
+                "image-M-part-17"
+              ],
+              "kind": "description"
+            },
+            "皮薄馅厚、汁香肉鲜；皮薄馅多、一口爆汁、口感筋道": {
+              "source_ids": [
+                "image-E",
+                "copy-16",
+                "copy-7",
+                "image-M-part-6",
+                "image-M-part-17"
+              ],
+              "kind": "description"
+            },
+            "现包现发": {
+              "source_ids": [
+                "image-K",
+                "image-M-part-6"
+              ],
+              "kind": "description"
+            },
+            "新鲜牛肉馅；新鲜现切牛羊肉，真材实料、鲜美多汁": {
+              "source_ids": [
+                "image-H",
+                "copy-16",
+                "image-M-part-6",
+                "image-M-part-17"
+              ],
+              "kind": "description"
+            },
+            "新鲜日期、营养美味": {
+              "source_ids": [
+                "image-H",
+                "copy-16"
+              ],
+              "kind": "description"
+            },
+            "个头超大": {
+              "source_ids": [
+                "image-K",
+                "copy-16",
+                "image-M-part-6",
+                "image-M-part-17"
+              ],
+              "kind": "description"
+            },
+            "急速冷冻锁鲜，现包速冻锁住营养": {
+              "source_ids": [
+                "image-M-part-3",
+                "image-M-part-15"
+              ],
+              "kind": "description"
+            },
+            "还原记忆里妈妈的味道": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "强调牛肉、蔬菜、面粉、制作四大优势；牛肉集团特供、蔬菜新鲜采摘、优质小麦粉、传统手工制作": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "description"
+            },
+            "蒸煮煎炸多种吃法：蒸约7分钟、煮约5分钟、煎制、炸约4分钟": {
+              "source_ids": [
+                "image-M-part-3",
+                "image-M-part-6",
+                "image-M-part-15",
+                "image-M-part-16"
+              ],
+              "kind": "description"
+            },
+            "无需解冻、省时省力": {
+              "source_ids": [
+                "image-M-part-3",
+                "copy-7",
+                "image-M-part-6",
+                "image-M-part-16"
+              ],
+              "kind": "description"
+            },
+            "适合健康早餐、亲朋聚会、加班快餐、健康夜宵等场景": {
+              "source_ids": [
+                "image-M-part-4",
+                "image-M-part-6",
+                "image-M-part-16"
+              ],
+              "kind": "description"
+            },
+            "坏单包赔、腐坏变质包退": {
+              "source_ids": [
+                "image-H",
+                "copy-14",
+                "image-M-part-6"
+              ],
+              "kind": "description"
+            },
+            "精选鲜牛肉搭配脆嫩大葱，鲜而不腻，汤汁味美": {
+              "source_ids": [
+                "image-M-part-9"
+              ],
+              "kind": "description"
+            },
+            "大馅饱满圆润，馅含量≥45%": {
+              "source_ids": [
+                "image-M-part-9"
+              ],
+              "kind": "description"
+            },
+            "10分钟鲜香出锅，煮、煎、蒸、炸皆可": {
+              "source_ids": [
+                "image-M-part-10"
+              ],
+              "kind": "description"
+            },
+            "0反式脂肪，标注低热量、无腹担": {
+              "source_ids": [
+                "image-M-part-9"
+              ],
+              "kind": "description"
+            },
+            "联合蔬菜基地长期合作，精选新鲜大葱，提供所需绿色蔬菜": {
+              "source_ids": [
+                "image-M-part-15"
+              ],
+              "kind": "description"
+            },
+            "顺丰冷链发货，锁鲜、不坏": {
+              "source_ids": [
+                "image-M-part-15"
+              ],
+              "kind": "description"
+            },
+            "正面：多数评价认为味道不错、口感好、口味好": {
+              "source_ids": [
+                "copy-4",
+                "copy-8",
+                "copy-10",
+                "review-5",
+                "review-6"
+              ],
+              "kind": "feedback"
+            },
+            "正面：皮薄馅大、馅大皮薄、皮薄肉多、个头大": {
+              "source_ids": [
+                "copy-8",
+                "copy-10",
+                "review-5",
+                "review-6"
+              ],
+              "kind": "feedback"
+            },
+            "正面：煮不破、有弹性、香而不腻": {
+              "source_ids": [
+                "copy-10",
+                "review-5"
+              ],
+              "kind": "feedback"
+            },
+            "正面：新鲜、品质好、规格大": {
+              "source_ids": [
+                "review-7",
+                "review-8",
+                "review-9"
+              ],
+              "kind": "feedback"
+            },
+            "正面：性价比高、物美价廉、实惠划算": {
+              "source_ids": [
+                "copy-8",
+                "copy-15",
+                "review-5",
+                "review-9"
+              ],
+              "kind": "feedback"
+            },
+            "正面：包装精致、包装完好": {
+              "source_ids": [
+                "review-4",
+                "review-6",
+                "review-8"
+              ],
+              "kind": "feedback"
+            },
+            "负面：有买家反馈快递未送货到户、生鲜未能及时送达": {
+              "source_ids": [
+                "review-1"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：有买家表示尚未品尝、待追加评价": {
+              "source_ids": [
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "配料表来自详情图中“牛肉大葱水饺”产品参数，羊肉大葱口味及其他规格的配料未单独提供，不能直接套用": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-15",
+                "image-M-part-11"
+              ],
+              "kind": "fact"
+            },
+            "“手工制作”为宣传描述，未提供工艺认证或验证材料": {
+              "source_ids": [
+                "image-E",
+                "copy-16",
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "“新鲜牛肉馅”“牛肉集团特供”等为原宣传语，缺乏可核实的供货说明": {
+              "source_ids": [
+                "image-H",
+                "image-M-part-2",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "“顺丰冷链发货”未看到独立冷链物流凭证，仅见于详情图文宣传": {
+              "source_ids": [
+                "image-M-part-3",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "详情页储存方式写“-18℃冷冻、密封”，另有“冷藏发货”字样，运输温度口径需确认": {
+              "source_ids": [
+                "image-M-part-15",
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "详情页标注“-78°发货”，与常规冷链温度表述差异较大，具体含义待确认": {
+              "source_ids": [
+                "image-M-part-5",
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            },
+            "商品名称标注“拍一发8袋”，但详情未逐袋列明口味搭配或各袋净含量，规格细节不完整": {
+              "source_ids": [
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "“0反式脂肪、低热量”等为包装宣传语，缺少营养成分检测数据支撑，暂不作为确定属性": {
+              "source_ids": [
+                "image-M-part-9"
+              ],
+              "kind": "fact"
+            },
+            "“清真”标识来自包装图片，缺少可核验的认证证书信息": {
+              "source_ids": [
+                "image-M-part-7",
+                "image-M-part-17"
+              ],
+              "kind": "fact"
+            },
+            "未提供营养标签、认证证书等资料，相关认证承诺暂不纳入确定属性": {
+              "source_ids": [
+                "image-M-part-15"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 3
+        }
+      },
+      "confirmed_at": "2026-10-28T09:57:27.909851+00:00"
+    }
+  ],
+  "elapsed_seconds": 40.8,
+  "trace": []
+}

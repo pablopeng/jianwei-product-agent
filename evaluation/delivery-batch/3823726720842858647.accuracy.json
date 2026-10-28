@@ -1,0 +1,1748 @@
+{
+  "type": "accuracy",
+  "product_id": "3823726720842858647",
+  "result_revision": "cee239b4e902c89bf03d590d841920b7aceda89b85d171d1bb93560d4272730f",
+  "profile_revision": "bb940498257e1125ef09a6143fe723091020704750a3b6d94461d26a3e3362f8",
+  "material_revision": "dcfa22363d20185574dd56ac319522178ba6f96468c918e18db69d579ec030ec",
+  "counts": {
+    "supported": 50,
+    "contradicted": 0,
+    "insufficient": 12
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "茶嫂当家 冲天香 铁观音 2026新茶",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名称含品牌、品名、2026新茶，与原始商品名一致。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "茶嫂当家冲天香铁观音2026新茶正宗安溪铁观音新款茶叶浓香型茶叶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "茶叶 > 乌龙茶（铁观音）",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "茶叶/乌龙茶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "铁观音鲜叶",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表明确为铁观音鲜叶。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "铁观音鲜叶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "高山红心观音叶片",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "详情图可见“高山红心观音”，与“高山红心观音叶片”一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "高山红心观音，色泽绿褐鲜润"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "产品名称：铁观音",
+      "source_ids": [
+        "attr-12"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "产品名称字段为铁观音。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "铁观音"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "商品等级：特级",
+      "source_ids": [
+        "attr-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "商品等级字段为特级。",
+          "evidence": [
+            {
+              "source_id": "attr-10",
+              "quote": "特级"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "香型：浓香型",
+      "source_ids": [
+        "identity",
+        "image-M-part-3",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "商品名标注浓香型，详情参数香型为浓香型。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "浓香型茶叶"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "香型:浓香型"
+            }
+          ]
+        },
+        {
+          "id": "profile-7",
+          "verdict": "insufficient",
+          "reason": "属性字段写“浓香型”，但本批图片证据仅展示兰花香韵、汤色等，未直接标注“浓香型”；买家反馈还存在清香口感描述，香型口径不能仅凭档案定案。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "独特兰花香韵"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "单件净含量：8g",
+      "source_ids": [
+        "attr-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "单件净含量字段为8g。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "8g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "净含量：250g",
+      "source_ids": [
+        "attr-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "净含量字段与详情参数均为250g。",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "250g"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "净含量:250g/盒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "保质期：18个月",
+      "source_ids": [
+        "attr-13",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "保质期字段与详情参数一致为18个月。",
+          "evidence": [
+            {
+              "source_id": "attr-13",
+              "quote": "18月"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "保质期:18个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "贮存条件：冷冻存放，清洁、干燥、无异味、无污染",
+      "source_ids": [
+        "attr-3",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "贮存条件字段与详情参数一致。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "冷冻存放、清洁、干燥、无异味、无污染"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "贮存条件:冷冻存放,清洁、干燥、无异味、无污染"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "产地：福建省泉州市（安溪西坪）",
+      "source_ids": [
+        "attr-7",
+        "image-K",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "地址为安溪县西坪镇，详情产地为福建省泉州市，图片有西坪标识。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "福建省泉州市安溪县西坪镇松岩村瓦窑口29号"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "产地:福建省泉州市"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "安溪西坪原产地茶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "国产-预包装食品",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "字段明确为国产-预包装食品。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11435052404694",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "许可证编号一致。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "SC11435052404694"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "产品标准代码：GB/T 30357.2",
+      "source_ids": [
+        "attr-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "产品标准代码一致。",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "GB/T 30357.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "生产企业：福建省安溪顺华韵农业综合发展有限公司",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "生产企业名称一致。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "福建省安溪顺华韵农业综合发展有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "生产企业地址：福建省泉州市安溪县西坪镇松岩村瓦窑口29号",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "生产企业地址字段一致。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "福建省泉州市安溪县西坪镇松岩村瓦窑口29号"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "品牌：茶嫂当家 茶",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "品牌字段为茶嫂当家 茶。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "茶嫂当家 茶"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "是否地理标志品种：否；地理标志品种：无",
+      "source_ids": [
+        "attr-8",
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "是否地理标志品种为否，地理标志品种为无。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "否"
+            },
+            {
+              "source_id": "attr-11",
+              "quote": "无"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "品质认证：无认证",
+      "source_ids": [
+        "attr-16"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "品质认证字段为无认证。",
+          "evidence": [
+            {
+              "source_id": "attr-16",
+              "quote": "无认证"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "insufficient",
+          "reason": "图4列出手工工序名称、重摇5~6次、摊置时长由短到长，但本批可见证据未明确写出“延长做青时间”的完整表述；档案虽同文，但不能以档案自证。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "红心观音叶肥厚，要重摇并延长做青时间摇青共5~6次 每次摇青的转数由少到多，摇青后摊置历时由短到长"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "采青 晒青 晾青 摇青 炒青 揉捻 初焙 烘干"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "250g*1盒",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "规格列表含250g*1盒。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "250g*1盒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "单盒净含量250g，含8g小泡装",
+      "source_ids": [
+        "attr-9",
+        "attr-14",
+        "image-F"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "supported",
+          "reason": "净含量250g、单件8g，图片显示金色小泡装盒装。",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "250g"
+            },
+            {
+              "source_id": "attr-9",
+              "quote": "8g"
+            },
+            {
+              "source_id": "image-F",
+              "quote": "金色小泡装盒装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "买半斤送10泡国色天香小泡",
+      "source_ids": [
+        "image-J",
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "图片活动文字明确买半斤送10泡国色天香小泡。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "买半斤送10泡国色天香小泡"
+            }
+          ]
+        },
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "图6明确写买半斤送10泡国色天香。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "买半斤送10泡国色天香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "250g*2盒",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "规格列表含250g*2盒。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "250g*2盒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "两盒装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "两盒装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "500g*1盒",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "规格列表含500g*1盒。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "500g*1盒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "一斤装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "一斤装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "买一斤送20包国色天香小泡",
+      "source_ids": [
+        "image-J",
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "图片明确买一斤就送20包小泡，赠品图标注国色天香。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "买一斤就送20包小泡；赠 国色天香"
+            }
+          ]
+        },
+        {
+          "id": "profile-29",
+          "verdict": "insufficient",
+          "reason": "图6写买一斤送20泡国色天香，claim写“20包”，单位由“泡”改为“包”，本批证据不支持该单位转换。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "买一斤送20泡国色天香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "安溪铁观音，干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，整体似蜻蜓头",
+      "source_ids": [
+        "image-E",
+        "image-F",
+        "copy-17",
+        "image-M-part-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "卷曲肥壮·饱满重实"
+            },
+            {
+              "source_id": "copy-17",
+              "quote": "卷曲肥壮·饱满重实；色泽绿褐鲜润"
+            }
+          ]
+        },
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "图5可见干茶卷曲、肥壮圆结、色泽绿褐、形似蜻蜓头，但本批证据未明确出现“安溪铁观音”与“鲜润/重实”的完整对应。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "茶条卷曲，肥壮圆结，承重匀整，色泽砂绿，整体形状似蜻蜓头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "茶汤清亮、入口回甘，茶汤层次感强，汤色金黄明亮，绿叶红镶边",
+      "source_ids": [
+        "image-H",
+        "copy-17",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "茶汤清亮·入口回甘"
+            },
+            {
+              "source_id": "copy-17",
+              "quote": "茶汤层次感强；冲泡后汤色金黄明亮；绿叶红镶边之美感"
+            }
+          ]
+        },
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "本批图片有汤色金黄明亮、叶底红绿相间“绿叶红镶边”的表述；档案原文有汤清、回甘、层次。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "冲泡后汤色金黄明亮 叶片红绿相间 具有明显的“绿叶红镶边”之美感"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "叶底肥厚、饱满匀整",
+      "source_ids": [
+        "image-I",
+        "copy-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "图片文字与文案均称叶底肥厚饱满匀整。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "叶底肥厚·饱满匀整"
+            },
+            {
+              "source_id": "copy-17",
+              "quote": "叶底肥厚·饱满匀整"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "只采春秋正季茶青，充足生长周期，内含物质更丰富",
+      "source_ids": [
+        "image-M-part-2",
+        "copy-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "supported",
+          "reason": "详情图文字直接写明只采春秋正季茶青及生长周期充足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "只采春秋正季茶青；充足的生长周期,内含物质更丰富"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "寻味西坪·观音之源，源自铁观音发源地安溪西坪，核心产区高山茶园，红心观音好喝不好栽，纯种铁观音特征",
+      "source_ids": [
+        "image-M-part-2",
+        "image-M-part-3",
+        "image-K"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "supported",
+          "reason": "详情图有西坪发源地、核心产区高山茶园及红心观音纯种特征描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "寻味西坪·观音之源；在铁观音发源地里西坪"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "核心产区高山茶园"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "红心观音好喝，不好栽；纯种铁观音茶树...特征"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "独特兰花香韵：香气纯正、滋味厚重；绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久",
+      "source_ids": [
+        "copy-17",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-17",
+              "quote": "独特兰花香韵"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "香气纯正、滋味厚重；绵甜甘醇，兰香凝韵"
+            }
+          ]
+        },
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "图6有“独特兰花香韵”“香气纯正、滋味厚重”“绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "独特兰花香韵 汤色金黄透亮，犹如琥珀香气纯正、滋味厚重 绵甜甘醇，兰香凝韵 后知后觉的韵味，令人回味许久"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "茶师力作，摇出经典兰韵：红心观音叶肥厚，重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长，摇青叶厚度由薄到厚，第三、四次摇青必须摇到青味浓强、鲜叶硬挺，俗称“还田”，直至梗叶水分重新分布平衡",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "supported",
+          "reason": "图4完整含茶师力作、红心观音叶肥厚、重摇5~6次、摊置由短到长、摇青叶厚度由薄到厚、第三四次摇至“还田”、梗叶水分平衡。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "《茶师力作，摇出经典兰花韵》 红心观音叶肥厚，要重摇并延长做青时间摇青共5~6次 每次摇青的转数由少到多，摇青后摊置历时由短到长 摊叶厚度由薄到厚第三、四次摇青必须摇到青味浓强 鲜叶硬挺，俗称“还田”，梗叶水分重新分布平衡"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "严格筛选：手工9道工序层层筛选，颗颗精挑细选，品质好茶；优中择优，每斤只严选3两",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "图4有手工工序与“每斤只严选3两”，图5有“手工9道工序层层筛选”“颗颗精挑细选”，但“优中择优/品质好茶”为推广语；现有证据可支持部分事实，不足以整条全支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "《手工9道工序层层筛选》 颗颗精挑细选的品质好茶"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "优中择优 每斤只严选3两"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "冲泡方法：投茶→洗茶→倒出→注水→静置→出汤，将茶水倒入杯中静观汤色、嗅茶香品茶",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "supported",
+          "reason": "图7冲泡步骤明确为投茶、洗茶、倒出、注水、静置、出汤，并说明倒入杯中观汤色、嗅茶香。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "铁观音冲泡方法 1.投茶 2.洗茶 3.倒出 4.注水 5.静置 6.出汤 将茶水倒入杯中，静观汤色，嗅茶香品茗"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "饮茶场景：商务会谈、好友相聚均可，茶是享受，不用刻意去懂，觉得好喝就行，喝茶是一件轻松、享受而健康的事情",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "insufficient",
+          "reason": "图7有商务会谈、好友相聚场景，但“健康”表述未在本批图片中见到；不能仅凭档案补足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "商务会谈 好友相聚"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "购买赠送：买半斤送10泡国色天香小泡，买一斤送20包国色天香小泡",
+      "source_ids": [
+        "image-J",
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "赠品活动描述与图片文字一致。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "买半斤送10泡国色天香小泡；买一斤就送20包小泡"
+            }
+          ]
+        },
+        {
+          "id": "profile-40",
+          "verdict": "insufficient",
+          "reason": "买半斤送10泡有证据，但买一斤送20“包”的“包”单位无本批证据；赠饮规格为小泡/泡，不是包。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "买半斤送10泡国色天香 买一斤送20泡国色天香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "四重保障：到货可免费试喝5包（不满意包退）、安溪西坪原产地茶、赠运费险7天无理由退换（来回运费商家承担）、质检合格正品保证",
+      "source_ids": [
+        "image-K"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "supported",
+          "reason": "四重保障内容与图片文字一致。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "四重保障；到货可免费试喝5包*免费试喝不满意包退；安溪西坪原产地茶；赠运费险7天无理由退换*来回运费我们来承担；质检合格正品保证；产品均通过严格检测"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "六大服务保障：防破碎安全包装、假一赔四、品质服务保证、正规发票、一对一服务、七天无理由退换货",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "supported",
+          "reason": "图7/图8六大保障含防破碎安全包装、假一赔四、品质服务保证、正规发票、一对一服务、七天无理由退换货。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "六大服务保障 防破碎安全包装 假一赔四 品质服务保证 正规发票 一对一服务 七天无理由退换货"
+            },
+            {
+              "source_id": "image-M-part-8",
+              "quote": "6大服务保障 安全包装 防破碎安全保装 正品保证 假一赔四 品质服务保证 正规发票 一对一服务 七天无理由退换货"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-43",
+      "stage": "profile",
+      "text": "茶道中人好店，茶嫂当家（茶山直供）",
+      "source_ids": [
+        "copy-7",
+        "copy-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-43",
+          "verdict": "supported",
+          "reason": "平台卖点含茶道中人好店及茶嫂当家（茶山直供）。",
+          "evidence": [
+            {
+              "source_id": "copy-7",
+              "quote": "茶道中人好店"
+            },
+            {
+              "source_id": "copy-8",
+              "quote": "茶嫂当家（茶山直供）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-44",
+      "stage": "profile",
+      "text": "正面关注口感与香气：味道不错、口感顺滑、醇厚回甘、清香不苦涩、兰花香持久，多次冲泡仍有滋味（七泡有余香）",
+      "source_ids": [
+        "review-0",
+        "review-1",
+        "review-4",
+        "review-6",
+        "review-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-44",
+          "verdict": "supported",
+          "reason": "多条买家评价分别支持味道、顺滑回甘、兰花香与七泡有余香等个体体验。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "入口顺滑回甘明显，一点不苦涩"
+            },
+            {
+              "source_id": "review-1",
+              "quote": "七泡有余香"
+            },
+            {
+              "source_id": "review-8",
+              "quote": "可以冲泡6-7次水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-45",
+      "stage": "profile",
+      "text": "正面关注耐泡度：一小包可泡一天，耐泡度高",
+      "source_ids": [
+        "review-3",
+        "review-5",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-45",
+          "verdict": "supported",
+          "reason": "买家评价为个体体验，归因性表述与原文一致。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "一小包可以泡一天"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "耐泡度在线"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-46",
+      "stage": "profile",
+      "text": "正面关注茶叶干净度：干茶条索完整、无碎渣",
+      "source_ids": [
+        "review-0",
+        "review-3",
+        "review-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-46",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "干茶条索完整干净；干茶无碎渣"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "没有碎末"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-47",
+      "stage": "profile",
+      "text": "正面关注包装：金色包装大气上档次，礼盒完好无磕碰，适合送礼；日常自饮、待客都合适",
+      "source_ids": [
+        "review-0",
+        "review-3",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-47",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "包装大气上档次...礼盒完好无磕碰；日常自饮、待客都合适"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "金色包装大气上档次"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-48",
+      "stage": "profile",
+      "text": "部分买家提到为2026新茶，需暂放冰柜冷藏",
+      "source_ids": [
+        "review-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-48",
+          "verdict": "supported",
+          "reason": "部分买家个人评价提到2026新茶并暂放冰柜，归因表述准确。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "都是2026的新茶，暂时还用不上，先放冰柜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-49",
+      "stage": "profile",
+      "text": "个人感受：有买家原以为冲天香是浓香型，收到细品为清香型回甘",
+      "source_ids": [
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-49",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "一开始不懂以为冲天香是浓香型茶叶，收到后才知道冲天香属于清香型...清香回甘"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-50",
+      "stage": "profile",
+      "text": "个人感受：认为性价比高、价格实惠，多次回购并推荐",
+      "source_ids": [
+        "review-5",
+        "review-7",
+        "review-9"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-50",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-5",
+              "quote": "真心推荐爱喝茶的朋友入手"
+            },
+            {
+              "source_id": "review-7",
+              "quote": "口粮茶优选...后续会继续回购"
+            },
+            {
+              "source_id": "review-9",
+              "quote": "性价比：性价比高"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "安溪西坪源产｜来自铁观音发源地安溪西坪的高山茶园，选用高山红心观音叶片，呈现纯种铁观音特征",
+      "source_ids": [
+        "image-M-part-5",
+        "attr-7",
+        "image-K",
+        "image-M-part-3",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "图片与地址字段支持西坪产地、高山茶园及红心观音特征。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "在铁观音发源地里西坪...核心产区高山茶园"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "红心观音好喝，不好栽；纯种铁观音茶树...特征"
+            },
+            {
+              "source_id": "attr-7",
+              "quote": "福建省泉州市安溪县西坪镇松岩村瓦窑口29号"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "图5有“高山红心观音”，但“安溪西坪”“铁观音发源地核心产区”在本批图片中未直接出现；购买页图片未提供完整产地文字，档案不能自证。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "高山红心观音，色泽绿褐鲜润"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "重摇做青出兰韵｜红心观音叶肥厚，摇青共5~6次，摊置由短到长、摇青叶由薄到厚，第三四次摇到青味浓强、鲜叶硬挺的“还田”状态，直到梗叶水分重新分布平衡",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "图4与销售点文案逐项对应，含重摇、5~6次、摊置由短到长、厚度由薄到厚、“还田”和水分平衡。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "红心观音叶肥厚，要重摇并延长做青时间摇青共5~6次 每次摇青的转数由少到多，摇青后摊置历时由短到长 摊叶厚度由薄到厚第三、四次摇青必须摇到青味浓强 鲜叶硬挺，俗称“还田”，梗叶水分重新分布平衡"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "手工9道工序｜采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干层层走完，每斤只严选3两，颗颗精挑细选",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "图4列工序并写每斤严选3两，图5写手工9道工序层层筛选、颗颗精挑细选，整条可获图片支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "《手工9道工序层层筛选》 颗颗精挑细选的品质好茶"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "采青 晒青 晾青 摇青 炒青 揉捻 初焙 烘干"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "优中择优 每斤只严选3两"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "干茶紧结似蜻蜓头｜干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，条索完整、无碎渣",
+      "source_ids": [
+        "image-E",
+        "image-F",
+        "copy-17",
+        "image-M-part-5",
+        "review-0",
+        "review-3",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "图片、文案及买家评价支持干茶外形与无碎渣的个体体验。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "卷曲肥壮·饱满重实"
+            },
+            {
+              "source_id": "copy-17",
+              "quote": "色泽绿褐鲜润"
+            },
+            {
+              "source_id": "review-0",
+              "quote": "干茶无碎渣"
+            }
+          ]
+        },
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "图5支持卷曲、肥壮圆结、绿褐、蜻蜓头，但“条索完整、无碎渣”本批图片不支持；且图7常见问题明确说泡开有碎叶属正常，不能整条支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "茶条卷曲，肥壮圆结，承重匀整，色泽砂绿，整体形状似蜻蜓头"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "干茶成品有碎有整，泡开叶子有碎有整"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "入口回甘有层次｜茶汤金黄明亮，入口回甘、层次感强，绿叶红镶边；兰香纯正、滋味厚重，绵甜甘醇，韵味久久不散",
+      "source_ids": [
+        "image-H",
+        "copy-17",
+        "image-M-part-5",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "茶汤清亮·入口回甘"
+            },
+            {
+              "source_id": "copy-17",
+              "quote": "茶汤层次感强；冲泡后汤色金黄明亮；绿叶红镶边之美感"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "兰香纯正、滋味厚重，绵甜甘醇，韵味久久不散"
+            }
+          ]
+        },
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "图5支持汤色金黄明亮、绿叶红镶边；图6支持兰香纯正、滋味厚重、绵甜甘醇、回味久，与销售点一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "冲泡后汤色金黄明亮 叶片红绿相间 具有明显的“绿叶红镶边”之美感"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "香气纯正、滋味厚重 绵甜甘醇，兰香凝韵 后知后觉的韵味，令人回味许久"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "只采春秋正季茶青｜茶青生长周期充足，内含物质更丰富",
+      "source_ids": [
+        "image-M-part-2",
+        "copy-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "详情图明示只采春秋正季茶青及生长周期充足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "只采春秋正季茶青；充足的生长周期,内含物质更丰富"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "8g小泡装好取用｜250g盒装内含8g小泡装，一次一泡，取茶不用称量，冲泡投茶更省事",
+      "source_ids": [
+        "attr-9",
+        "attr-14",
+        "image-F"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "净含量与单件净含量支持盒内含小泡装，图片显示小泡装形态；取用便利属场景描述，无新承诺。",
+          "evidence": [
+            {
+              "source_id": "attr-14",
+              "quote": "250g"
+            },
+            {
+              "source_id": "attr-9",
+              "quote": "8g"
+            },
+            {
+              "source_id": "image-F",
+              "quote": "金色小泡装盒装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "耐泡有余香｜有买家反馈一小包能泡上一天，多次冲泡仍有滋味，七泡有余香",
+      "source_ids": [
+        "review-0",
+        "review-1",
+        "review-4",
+        "review-6",
+        "review-8",
+        "review-3",
+        "review-5",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "supported",
+          "reason": "耐泡与余香均为买家个体体验，已标明买家反馈。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "一小包可以泡一天"
+            },
+            {
+              "source_id": "review-1",
+              "quote": "七泡有余香"
+            },
+            {
+              "source_id": "review-0",
+              "quote": "冲泡多次仍有滋味"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "金色礼盒待客送礼｜有买家反馈金色包装大气，礼盒完好无磕碰，适合送礼；日常自饮、待客也合适，商务会谈、好友相聚都能泡上一壶",
+      "source_ids": [
+        "image-M-part-6",
+        "review-0",
+        "review-3",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "金色包装大气上档次"
+            },
+            {
+              "source_id": "review-0",
+              "quote": "礼盒完好无磕碰；日常自饮、待客都合适"
+            }
+          ]
+        },
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "金色礼盒、适合送礼来自买家体验；本批材料未含这些买家评价原文，“商务会谈、好友相聚”有图7支持，但整条因买家反馈不可见而证据不足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "商务会谈 好友相聚"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "冲泡步骤清晰｜投茶、洗茶、倒出、注水、静置、出汤，把茶汤倒入杯中，观汤色、嗅茶香、慢品即可",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "supported",
+          "reason": "图7冲泡步骤与claim一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "铁观音冲泡方法 1.投茶 2.洗茶 3.倒出 4.注水 5.静置 6.出汤 将茶水倒入杯中，静观汤色，嗅茶香品茗"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-11",
+      "stage": "selling_points",
+      "text": "下单有赠饮｜选250g*1盒送10泡国色天香小泡，选500g*1盒送20包国色天香小泡",
+      "source_ids": [
+        "image-J",
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-11",
+          "verdict": "supported",
+          "reason": "图片活动文字支持对应规格赠品数量。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "买半斤送10泡国色天香小泡；买一斤就送20包小泡"
+            }
+          ]
+        },
+        {
+          "id": "point-11",
+          "verdict": "insufficient",
+          "reason": "图6支持半斤送10泡、一斤送20泡，claim写500g送20“包”，单位由泡改为包，且“250g*1盒”与半斤对应也未在本批图片中直接体现。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "买半斤送10泡国色天香 买一斤送20泡国色天香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-12",
+      "stage": "selling_points",
+      "text": "售后有保障｜到货可先免费试喝5包，不满意包退；赠运费险，7天无理由退换，来回运费商家承担",
+      "source_ids": [
+        "image-K"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-12",
+          "verdict": "supported",
+          "reason": "保障图片支持试喝5包、不满意包退及运费险7天无理由退换且来回运费商家承担。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "到货可免费试喝5包*免费试喝不满意包退；赠运费险7天无理由退换*来回运费我们来承担"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 50 / 冲突 0 / 待核 12"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

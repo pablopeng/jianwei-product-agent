@@ -1,0 +1,1880 @@
+{
+  "type": "accuracy",
+  "product_id": "3763095539286147186",
+  "result_revision": "8ebc3640686e650c47fe11510553bbdc67c313636521513a4dd96b801c0746dd",
+  "profile_revision": "66323aa7a15551dff4b29b65f24a28eacccf354ef0d8c45d24abf6d7815a78ec",
+  "material_revision": "362ae19a0ac73f7ada57aa524ed8f8844ae2ea860cd076e9d642712a3424a0f7",
+  "counts": {
+    "supported": 36,
+    "contradicted": 0,
+    "insufficient": 31
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "清真鲜牛肉羊肉水饺",
+      "source_ids": [
+        "identity",
+        "image-M-part-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺皮薄馅大夜宵早餐面点"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "清真牛羊肉水饺"
+            }
+          ]
+        },
+        {
+          "id": "profile-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": ""
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "清真牛羊肉水饺"
+            },
+            {
+              "source_id": "image-M-part-11",
+              "quote": "清真水饺"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "冷冻/冷藏制品 > 面点 > 中式面点 > 水饺",
+      "source_ids": [
+        "identity",
+        "image-M-part-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "first_category 冷冻/冷藏制品；second_category 面点；third_category 中式面点；fourth_category 水饺"
+            }
+          ]
+        },
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "identity 给出类目规则，但本批原始图片未显示“冷冻/冷藏制品 > 面点 > 中式面点 > 水饺”这一精确类目路径，无法由原始证据独立校验。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "品牌：粮与山",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "品牌属性与详情页参数均标“粮与山”。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "{\"品牌\": [\"粮与山\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "产地：河南省",
+      "source_ids": [
+        "attr-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "产地属性标河南省。",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "{\"产地\": [\"河南省\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "生鲜储存温度：-18℃",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "生鲜储存温度属性标-18℃。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "{\"生鲜储存温度\": [\"-18℃\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "保质期：12个月",
+      "source_ids": [
+        "attr-4",
+        "image-M-part-11",
+        "image-M-part-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "{\"保质期\": [\"12月\"]}"
+            },
+            {
+              "source_id": "image-M-part-11",
+              "quote": "保质期：12个月"
+            }
+          ]
+        },
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "图片11产品参数明确“保质期：12个月”，与属性一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-11",
+              "quote": "保质期：12个月"
+            }
+          ]
+        },
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "详情图产品参数明确标注保质期12个月。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "产品参数……保质期：12个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11141162100900",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "食品生产许可证编号属性与所述一致。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "{\"食品生产许可证编号\": [\"SC11141162100900\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "生产企业名称：扶沟县伊轩斋食品有限公司",
+      "source_ids": [
+        "attr-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "生产企业名称属性与所述一致。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "{\"生产企业名称\": [\"扶沟县伊轩斋食品有限公司\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "牛肉大葱水饺馅含量≥45%〔image-M1〕",
+      "source_ids": [
+        "image-M-part-11",
+        "image-M-part-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "图片9、11均标注馅含量≥45%，且图片11产品名称为“牛肉大葱水饺”，专属该口味。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-9",
+              "quote": "馅含量 ≥45%"
+            },
+            {
+              "source_id": "image-M-part-11",
+              "quote": "产品名称：牛肉大葱水饺  馅含量：>45%"
+            }
+          ]
+        },
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "详情图产品参数中牛肉大葱水饺的馅含量标注为≥45%。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "产品名称：牛肉大葱水饺　　馅含量：≥45%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "无需解冻即可烹饪",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-10",
+        "image-M-part-16"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "图片5、10明确“无需解冻省时省力”“无需解冻 美味易烹”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "无需解冻省时省力"
+            },
+            {
+              "source_id": "image-M-part-10",
+              "quote": "无需解冻 美味易烹"
+            }
+          ]
+        },
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "详情图明确写有“无需解冻”，并且蒸、煮、煎、炸的做法说明都写的是直接把冷冻饺子下锅。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-16",
+              "quote": "无需解冻省时省力"
+            },
+            {
+              "source_id": "image-M-part-16",
+              "quote": "汤锅加水煮沸后放入冷冻的饺子中火煮约5分钟至熟。"
+            },
+            {
+              "source_id": "image-M-part-15",
+              "quote": "蒸锅加水煮沸后放入冷冻的饺子大火蒸约7分钟至熟。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "支持蒸、煮、煎、炸多种食用方式",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-10",
+        "image-M-part-16"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "图片5、10、16展示蒸、煮、煎、炸四种烹饪方式。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "蒸 / 煮 / 煎 / 炸"
+            },
+            {
+              "source_id": "image-M-part-10",
+              "quote": "适用多种食用方法 煎炸蒸煮皆可"
+            }
+          ]
+        },
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "详情图分别展示了蒸、煮、煎、炸四种做法。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "蒸……蒸锅加水煮沸后放入冷冻的饺子大火蒸约7分钟至熟。"
+            },
+            {
+              "source_id": "image-M-part-16",
+              "quote": "煮……煎……炸……放入冷冻饺子炸约4分钟至熟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "极速冷冻锁鲜",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "图片5、11均有“极速冷冻锁鲜”文案。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "极速冷冻锁鲜"
+            },
+            {
+              "source_id": "image-M-part-11",
+              "quote": "极速冷冻锁鲜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "顺丰冷运/冷链发货",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-6",
+        "image-M-part-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "图片5、6、15均出现“顺丰冷运/全程冷链”发货描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "顺丰冷运发货"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "顺丰包邮 / 冷藏发货"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "全程冷链"
+            }
+          ]
+        },
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "详情图出现“顺丰冷运发货”和“顺丰包邮”，冷链配送有明确依据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "顺丰冷运发货 -78° 发货"
+            },
+            {
+              "source_id": "image-M-part-17",
+              "quote": "顺丰包邮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "牛肉大葱*8大袋（单袋400g）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"牛肉大葱*8大袋\", \"羊肉大葱*8大袋\", \"4袋牛肉大葱+4袋羊肉大葱\"]；单件净含量 [\"400g\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "口味：牛肉大葱",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "口味分类包含：牛肉大葱*8大袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "单件净含量400g",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"单件净含量\", \"口味分类\"]，[\"400g\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "馅含量≥45%〔image-M1〕",
+      "source_ids": [
+        "image-M-part-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "该条把通用馅含量≥45%作为说法；详情图标注的是牛肉大葱水饺馅含量≥45%，羊肉口味没有单独标注，存在把牛肉款参数推给全部口味的风险，但claim本身写的是“馅含量≥45%”，与来源标注一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "产品名称：牛肉大葱水饺　　馅含量：≥45%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "羊肉大葱*8大袋（单袋400g）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"羊肉大葱*8大袋\"]；单件净含量 [\"400g\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "口味：羊肉大葱",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "口味分类包含：羊肉大葱*8大袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "4袋牛肉大葱+4袋羊肉大葱（单袋400g）",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"4袋牛肉大葱+4袋羊肉大葱\"]；单件净含量 [\"400g\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "牛肉大葱与羊肉大葱组合装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"4袋牛肉大葱+4袋羊肉大葱\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "到手8袋，手工制作速冻水饺，皮薄馅厚、汁香肉鲜",
+      "source_ids": [
+        "image-E",
+        "image-M"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "图片可见“到手8袋”“手工制作 速冻水饺”“皮薄馅厚 汁香肉鲜”。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "到手8袋；手工制作 速冻水饺；皮薄馅厚 汁香肉鲜"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "到手8袋；手工制作 速冻水饺；皮薄馅厚 汁香肉鲜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "清真牛羊肉水饺，顺丰包邮、送货上门",
+      "source_ids": [
+        "image-E",
+        "image-I"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "supported",
+          "reason": "图片有“清真牛羊肉水饺”“顺丰包邮 送货上门”。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "清真牛羊肉水饺；顺丰包邮 送货上门"
+            },
+            {
+              "source_id": "image-I",
+              "quote": "清真食品标识；牛羊水饺"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "牛肉大葱选用新鲜牛肉馅，新鲜日期、营养美味",
+      "source_ids": [
+        "image-H"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "“新鲜牛肉馅、新鲜日期、营养美味”为图片宣传语，但“营养美味”缺营养数据支撑；“新鲜日期”仅为宣传口径。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "新鲜牛肉馅；新鲜日期 营养美味"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "纯手工制作，给家人吃点好的",
+      "source_ids": [
+        "image-I"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "insufficient",
+          "reason": "“纯手工制作”有图片支持，但“给家人吃点好的”为营销修辞，不能独立支撑质量承诺。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "纯手工制作；给家人吃点好的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "手工包制、鲜香美味",
+      "source_ids": [
+        "image-J"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "图片可见“手工包制 鲜香美味”。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "【手工包制 鲜香美味】"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "现包现发，个头超大",
+      "source_ids": [
+        "image-K"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "insufficient",
+          "reason": "图片有“现包现发”“个头超大”，但“现包现发”与速冻预包装食品的“现包”表述有歧义，且“个头超大”为主观描述。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "现包现发；清真牛羊肉 个头超大"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "烹饪便捷：无需解冻快速出餐",
+      "source_ids": [
+        "copy-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "平台固定文案明确“烹饪便捷:无需解冻快速出餐”。",
+          "evidence": [
+            {
+              "source_id": "copy-7",
+              "quote": "烹饪便捷:无需解冻快速出餐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "皮薄馅大：一口爆汁更满足",
+      "source_ids": [
+        "copy-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "平台固定文案明确“皮薄馅大:一口爆汁更满足”。",
+          "evidence": [
+            {
+              "source_id": "copy-7",
+              "quote": "皮薄馅大:一口爆汁更满足"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "腐坏变质包退",
+      "source_ids": [
+        "copy-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "supported",
+          "reason": "店铺权威背书卖点列有“腐坏变质包退”。",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "腐坏变质包退"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "20+达人推荐、达人短视频带过",
+      "source_ids": [
+        "copy-3",
+        "copy-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "平台卖点含“20+达人推荐”“达人短视频带过”。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "20+达人推荐"
+            },
+            {
+              "source_id": "copy-11",
+              "quote": "达人短视频带过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "皮薄馅大、个头超大、饱满圆润",
+      "source_ids": [
+        "image-M-part-6",
+        "image-M-part-9"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "insufficient",
+          "reason": "“皮薄馅大”“个头超大”“饱满圆润”属于主观口感或视觉描述，虽然有图片可见，但没有规格数据或第三方证据能证明其作为事实标准。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "手工制作 皮薄馅厚 / 清真牛羊肉 个头超大"
+            },
+            {
+              "source_id": "image-M-part-9",
+              "quote": "饱满圆润很满足 / 皮薄馅足看得见"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "皮薄馅多、一口爆汁",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "insufficient",
+          "reason": "“皮薄馅多、一口爆汁”是主观口感描述，图片为示意图，不能证明实际产品特性。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "皮薄馅多 一口爆汁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "手工包制，还原记忆里妈妈的味道",
+      "source_ids": [
+        "image-M-part-9",
+        "image-M-part-11"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "insufficient",
+          "reason": "“手工包制，还原记忆里妈妈的味道”属于主观口感或情感描述，虽然有图片，但没有独立证据证明其作为事实标准。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-9",
+              "quote": "手工包制 更显美味鲜香 / 还原记忆里妈妈的味道"
+            },
+            {
+              "source_id": "image-M-part-11",
+              "quote": "手工包制 清真水饺 / 还原记忆里妈妈的味道"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "选用鲜切牛肉/原切牛羊肉，鲜美多汁",
+      "source_ids": [
+        "image-M-part-6",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "insufficient",
+          "reason": "图片仅宣称“选用原切牛羊肉”“鲜切牛肉”，无供应链或检测证明佐证，属于营销性宣称。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "新鲜现切牛羊肉"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "选用原切牛羊肉 鲜美多汁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "精选鲜牛肉搭配脆嫩大葱，鲜而不腻、汤汁味美",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "supported",
+          "reason": "图片8明确“精选鲜牛肉 搭配脆嫩大葱”“鲜而不腻 汤汁味美”，与宣称一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "精选鲜牛肉 搭配脆嫩大葱 / 鲜而不腻 汤汁味美"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "0反式脂肪、低热量、无腹担",
+      "source_ids": [
+        "image-M-part-8",
+        "image-M-part-10"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "“0反式脂肪”“低热量”属于营养声称，图片8、10有该文案，但无营养成分表或检测报告支撑，不能作为客观事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "0反式脂肪 还原食材本味 / 低热量 无腹担"
+            },
+            {
+              "source_id": "image-M-part-10",
+              "quote": "0反式脂肪 低热量 无腹担"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "现包现发、新鲜食材急速锁鲜",
+      "source_ids": [
+        "image-M-part-6",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "insufficient",
+          "reason": "“现包现发、新鲜食材急速锁鲜”属于营销描述，图片6、7有文案，但无法验证是否真的现包现发。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "现包现发"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "新鲜食材 急速锁鲜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "无需解冻、省时省力，约10分钟鲜香出锅",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "supported",
+          "reason": "图片5、10明确“无需解冻”“10分钟鲜香出锅”“就，约7分钟至熟/5分钟至熟”等时长说明。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "无需解冻省时省力"
+            },
+            {
+              "source_id": "image-M-part-10",
+              "quote": "10分钟鲜香出锅 无需解冻 美味易烹"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "适合健康早餐、亲友聚会、加班快餐、健康宵夜等场景",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-6",
+        "image-M-part-16"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "图片5、6、16场景图中出现“健康早餐”“亲朋聚会”“加班快餐”“健康宵夜”等场景文字，商品适用场景描述有依据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "健康早餐 / 亲朋聚会 / 加班快餐"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "健康宵夜"
+            }
+          ]
+        },
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "详情图在“无需解冻省时省力”部分展示了健康早餐、亲朋聚会、加班快餐、健康宵夜四个场景。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-16",
+              "quote": "健康早餐……亲朋聚会……加班快餐……健康宵夜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "顺丰包邮、全程冷链、坏单包赔",
+      "source_ids": [
+        "image-M-part-6",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "insufficient",
+          "reason": "图片6、7有“顺丰包邮”“全程冷链”“坏单包赔”文案，但“顺丰包邮”与“坏单包赔”均属服务承诺，缺少订单履约证据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "顺丰包邮"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "全程冷链 / 坏单包赔"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "牛肉集团特供、蔬菜新鲜采摘、面粉优质小麦粉、传统手工制作",
+      "source_ids": [
+        "image-M-part-11"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "insufficient",
+          "reason": "图片11有“牛肉 集团特供 / 蔬菜 新鲜采摘 / 面粉 优质小麦粉 / 制作 传统手工”文案，但无法验证特供、采摘等真实性。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-11",
+              "quote": "牛肉 集团特供 / 蔬菜 新鲜采摘 / 面粉 优质小麦粉 / 制作 传统手工"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-43",
+      "stage": "profile",
+      "text": "清真鲜牛肉羊肉水饺，皮薄馅大、个头大",
+      "source_ids": [
+        "image-M-part-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-43",
+          "verdict": "supported",
+          "reason": "详情图可见“清真牛羊肉水饺”“皮薄馅多”“个头超大”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-17",
+              "quote": "清真牛羊肉 个头超大　清真牛羊肉水饺"
+            },
+            {
+              "source_id": "image-M-part-17",
+              "quote": "皮薄馅多 一口爆汁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-44",
+      "stage": "profile",
+      "text": "选用新鲜现切牛羊肉、新鲜采摘蔬菜及各色优质面粉，传统手工制作",
+      "source_ids": [
+        "image-M-part-15",
+        "image-M-part-17"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-44",
+          "verdict": "insufficient",
+          "reason": "详情图只写“新鲜现切牛羊肉（皮薄馅大）”“精选鲜大葱”“优质小麦粉”“传统手工”；没有“新鲜采摘蔬菜”“各色优质面粉”和“新鲜现切牛羊肉传统手工制作”的完整组合出处，部分内容是从零散表述拼出来的。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-17",
+              "quote": "选用真材实料 新鲜现切牛羊肉"
+            },
+            {
+              "source_id": "image-M-part-15",
+              "quote": "牛肉 集团特供；蔬菜 新鲜采摘；面粉 优质小麦粉；制作 传统手工"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-45",
+      "stage": "profile",
+      "text": "皮薄馅多、馅厚、一口爆汁，口感劲道",
+      "source_ids": [
+        "image-M-part-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-45",
+          "verdict": "supported",
+          "reason": "详情图有“皮薄馅多 一口爆汁”“馅厚”“口感劲道”这些表述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-17",
+              "quote": "馅厚……皮薄馅多 一口爆汁……口感劲道"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-46",
+      "stage": "profile",
+      "text": "现包现发、手工制作，省时省力无需解冻",
+      "source_ids": [
+        "image-M-part-15",
+        "image-M-part-16",
+        "image-M-part-17"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-46",
+          "verdict": "supported",
+          "reason": "详情图可见“现包现发”“手工包制”“无需解冻省时省力”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-17",
+              "quote": "现包现发……手工水饺……手工包制"
+            },
+            {
+              "source_id": "image-M-part-16",
+              "quote": "无需解冻省时省力"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-47",
+      "stage": "profile",
+      "text": "正面：味道不错、口感好（多人评价）",
+      "source_ids": [
+        "copy-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-47",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-4",
+              "quote": "43人说\"味道不错\"；14人说\"口感好\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-48",
+      "stage": "profile",
+      "text": "正面：皮薄馅大、个头大、馅大皮薄，性价比高、物美价廉",
+      "source_ids": [
+        "copy-8",
+        "review-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-48",
+          "verdict": "supported",
+          "reason": "评价与平台卖点明确提及皮薄馅大、个头大、性价比高、物美价廉。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "性价比高，物养价廉。口感好，馅大皮薄个头也大超值。"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "性价比高，物养价廉。口感好，馅大皮薄个头也大超值。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-49",
+      "stage": "profile",
+      "text": "正面：羊肉大葱水饺口味好、皮薄馅大，物流快包装完好",
+      "source_ids": [
+        "copy-8",
+        "review-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-49",
+          "verdict": "supported",
+          "reason": "评价明确羊肉大葱口味好、皮薄馅大、物流快包装完好。",
+          "evidence": [
+            {
+              "source_id": "review-6",
+              "quote": "羊肉大葱水饺收到了，口味好，皮薄馅大，物流很快包装完好是很值得信赖购买的商品。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-50",
+      "stage": "profile",
+      "text": "正面：牛肉大葱饺子描述真实、口感好、快递快、方便常购",
+      "source_ids": [
+        "copy-8",
+        "review-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-50",
+          "verdict": "supported",
+          "reason": "评价明确牛肉大葱饺子描述真实、口感好、快递快、经常购买。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "牛肉大葱饺子收到，描述真实，口感好，快递快，我家经常购"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-51",
+      "stage": "profile",
+      "text": "正面：口味好、煮不破、有弹性、饺子新鲜、皮薄肉多香而不腻",
+      "source_ids": [
+        "copy-10"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-51",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-10",
+              "quote": "口味好，煮不破；有弹性非常不错；很好吃，饺子新鲜；皮薄肉多，香而不腻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-52",
+      "stage": "profile",
+      "text": "正面：包装精致、无胀包、冷冻新鲜、整体满意",
+      "source_ids": [
+        "review-2",
+        "review-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-52",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-8",
+              "quote": "包装物流：精致；胀包问题：新鲜冷冻；整体评价：满意"
+            },
+            {
+              "source_id": "review-2",
+              "quote": "胀包问题：👌🏻👌🏻👌🏻；整体评价：👌🏻👌🏻👌🏻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-53",
+      "stage": "profile",
+      "text": "正面：物流快、服务态度好（收货后先给五星）",
+      "source_ids": [
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-53",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "货已收到，物流快，服务态度也好……先给个五星好评"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-54",
+      "stage": "profile",
+      "text": "正面：评价提及经济实惠、价格合适、物美价廉等",
+      "source_ids": [
+        "copy-15"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-54",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-15",
+              "quote": "3人评价\"经济实惠\"；3人评价\"价格合适\"；3人评价\"物美价廉\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-55",
+      "stage": "profile",
+      "text": "负面：快递员未送货到户，认为保鲜食品应及时送达",
+      "source_ids": [
+        "review-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-55",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "快递员不愿意给人家送到户头……保鲜食品应该及时送到"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-56",
+      "stage": "profile",
+      "text": "个人感受：部分评价为泛泛好评（质量不错、包装精致、送礼自用合适），与商品具体口感关联弱",
+      "source_ids": [
+        "review-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-56",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-4",
+              "quote": "质量很不错，包装精致，材质优秀……送礼自用非常合适"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-57",
+      "stage": "profile",
+      "text": "个人感受：有买家表示尚未品尝、待口感好再追加评价",
+      "source_ids": [
+        "review-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-57",
+          "verdict": "supported",
+          "reason": "评价明确表示尚未品尝、口感好再追加，先给五星。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "就是不知道口感如何，口感要好的话再追加评价，先给个五星好评"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "皮薄馅厚｜饺子皮薄、馅给得厚实，咬着有面皮和肉馅一起入口的满足感",
+      "source_ids": [
+        "image-E",
+        "image-M",
+        "image-M-part-17",
+        "copy-8",
+        "review-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "图片与评价均有“皮薄馅厚/皮薄馅大”表述，属口感描述，有原商品描述支持。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "皮薄馅厚 汁香肉鲜"
+            },
+            {
+              "source_id": "copy-8",
+              "quote": "馅大皮薄个头也大超值"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "详情图有“皮薄馅多”“馅厚”“皮薄馅大”，支持口感描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-17",
+              "quote": "皮薄馅多 一口爆汁；馅厚；皮薄馅大"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "牛肉大葱馅≥45%｜牛肉大葱款馅含量≥45%，鲜牛肉配大葱，鲜香里带葱的清甜",
+      "source_ids": [
+        "image-M-part-11",
+        "image-M-part-15",
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "图片11显示牛肉大葱水饺馅含量>45%，图片8描述鲜牛肉配大葱的口感，属于宣传描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-11",
+              "quote": "产品名称：牛肉大葱水饺  馅含量：>45%"
+            },
+            {
+              "source_id": "image-M-part-8",
+              "quote": "精选鲜牛肉 搭配脆嫩大葱"
+            }
+          ]
+        },
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "牛肉大葱款馅含量≥45%有参数页支持，鲜牛肉配大葱的表述来自详情页食材介绍。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "产品名称：牛肉大葱水饺　　馅含量：≥45%"
+            },
+            {
+              "source_id": "image-M-part-15",
+              "quote": "牛肉，精选新鲜大葱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "免解冻直接下锅｜从冷冻取出不用等化冻，蒸、煮、煎、炸都行，忙时也能较快端上一盘热饺子",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-10",
+        "image-M-part-16"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "图片5、10、16均说明免解冻、可蒸煮煎炸，与宣称一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "无需解冻省时省力 / 蒸、煮、煎、炸"
+            },
+            {
+              "source_id": "image-M-part-10",
+              "quote": "无需解冻 美味易烹 适用多种食用方法 煎炸蒸煮皆可"
+            }
+          ]
+        },
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "详情图明确写无需解冻，并列出蒸煮煎炸四种做法。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-16",
+              "quote": "无需解冻省时省力；汤锅加水煮沸后放入冷冻的饺子；煎锅倒油……放入冷冻饺子；放入冷冻饺子炸约4分钟至熟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "双口味任搭｜牛肉大葱、羊肉大葱两种馅可选，也能选4袋牛肉加4袋羊肉的组合装，按家里口味搭配",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "规格列表明确两种口味及4+4组合装。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"牛肉大葱*8大袋\", \"羊肉大葱*8大袋\", \"4袋牛肉大葱+4袋羊肉大葱\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "单袋400g好安排｜每袋400g、共8大袋，一餐煮一袋，家人分享或囤在冷冻室都顺手",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "单件净含量 [\"400g\"]；[\"牛肉大葱*8大袋\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "手工包制的家常味｜手工包制，皮薄馅厚、汁香肉鲜，端上桌像家里刚包好的一盘",
+      "source_ids": [
+        "image-E",
+        "image-M",
+        "image-I",
+        "image-J"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "图片有手工包制、皮薄馅厚、汁香肉鲜等描述，属普通口感比喻。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "手工包制 鲜香美味"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "手工制作 速冻水饺；皮薄馅厚 汁香肉鲜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "冷冻锁鲜到家｜-18℃冷冻储存，顺丰冷运配送，解冻前保持冻品状态",
+      "source_ids": [
+        "attr-2",
+        "image-M-part-5",
+        "image-M-part-11",
+        "image-M-part-6",
+        "image-M-part-15"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "-18℃"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "顺丰冷链发货"
+            },
+            {
+              "source_id": "image-M-part-15",
+              "quote": "顺丰冷运发货"
+            }
+          ]
+        },
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "图片5、6、15有顺丰冷运/冷链文案，但无法验证“-18℃冷冻储存配送、解冻前保持冻品状态”的实际履约情况。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "顺丰冷运发货 -78° 发货"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "冷藏发货"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "全程冷链"
+            }
+          ]
+        },
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "-18℃冷冻储存和顺丰冷运发货有支持，但“解冻前保持冻品状态”不是原图明确写的承诺，属于额外推断。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "储存方法：-18℃冷冻，密封；顺丰冷运发货"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "煮出弹性不易破｜买家反馈煮时不破皮、口感有弹性，皮薄肉多、香而不腻",
+      "source_ids": [
+        "copy-10"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-10",
+              "quote": "口味好，煮不破；有弹性非常不错；皮薄肉多，香而不腻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "囤货不怕放｜保质期12个月，冷冻存放，适合一次备足几袋慢慢吃",
+      "source_ids": [
+        "attr-4",
+        "image-M-part-11",
+        "image-M-part-15"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "12月"
+            },
+            {
+              "source_id": "image-M-part-11",
+              "quote": "保质期：12个月；储存方法：-18℃冷冻，密封"
+            }
+          ]
+        },
+        {
+          "id": "point-9",
+          "verdict": "supported",
+          "reason": "图片11明确保质期12个月，且标注-18℃冷冻储存，可支撑“保质期12个月，冷冻存放”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-11",
+              "quote": "储存方法：-18℃冷冻，密封 / 保质期：12个月"
+            }
+          ]
+        },
+        {
+          "id": "point-9",
+          "verdict": "supported",
+          "reason": "保质期12个月有明确标注，冷冻存放、“备货慢慢吃”属于场景建议，没有新效果。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-15",
+              "quote": "储存方法：-18℃冷冻，密封　　保质期：12个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "变质包退更安心｜商家承诺腐坏变质包退，冷冻食品收货有问题有处理依据",
+      "source_ids": [
+        "copy-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "supported",
+          "reason": "店铺背书卖点明确“腐坏变质包退”。",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "腐坏变质包退"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 36 / 冲突 0 / 待核 31"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

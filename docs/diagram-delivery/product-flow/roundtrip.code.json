@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "syntax_type": "mermaid",
+  "source_output": "roundtrip.mmd",
+  "code": "flowchart LR\n  subgraph IN[\"资料输入\"]\n    I(\"商品名 · 属性规格<br/>商详图文 · 宣传<br/>评价 · 商家补充\")\n  end\n  subgraph AG[\"主 Agent · 按需调用工具\"]\n    A(\"理解需求与路由\") --> T(\"检索材料 · 读取图片<br/>核查冲突与信息缺口\")\n    T --> Q{\"当前需求？\"}\n    Q -->|仅核查或修改| X(\"回答核查结论<br/>或修订已有产物\")\n  end\n  subgraph P1[\"一阶段 · 商品档案\"]\n    P(\"商品信息 · 规格配料<br/>原有卖点 · 买家反馈<br/>待确认项 · 来源留存\") --> C{\"确认档案？\"}\n    C -->|需修改| E(\"直接编辑<br/>或自然语言修订\")\n    E --> C\n  end\n  subgraph P2[\"二阶段 · 卖点表达\"]\n    G(\"食品饮料 Skill 生成<br/>终稿复核\") --> O(\"按优先级输出卖点<br/>短标题 ＋ 具体正文\")\n  end\n  I --> A\n  Q -->|整理并生成卖点| P\n  C -->|已确认| G\n  classDef normal fill:#ffffff,stroke:#5b8ff9,color:#1f2329;\n  classDef decision fill:#f3f1eb,stroke:#8e877a,color:#1f2329;\n  classDef hint fill:#f7f8fa,stroke:#98a2b3,color:#1f2329;\n  class I,A,T,P,G,O normal;\n  class Q,C decision;\n  class E,X hint;\n  style IN fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n  style AG fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n  style P1 fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n  style P2 fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n",
+  "whiteboard_token": "AgGGwM0UthmO8obRagbcmCM0n8c",
+  "block_id": "doxcnp8mt20Ru5KZuzzoDrzAqZf",
+  "document_url": "https://bytedance.larkoffice.com/docx/TMEDdKO4xoQWhAxx8vjckdpXnvu",
+  "preview": "feishu-v2.jpg",
+  "notes": "源码由lark-cli whiteboard +export --output-type source实际回读，CLI按真实源类型输出.mmd；预览为飞书实际导出。"
+}

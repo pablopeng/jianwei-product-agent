@@ -1,0 +1,617 @@
+{
+  "schema_version": "1.0",
+  "product_id": "3734999074340995521",
+  "display_name": "拾兄弟正宗5斤东北大碴粥大碴子粥芸豆玉米碴五谷杂粮健康粗粮",
+  "materials": [
+    {
+      "id": "identity",
+      "kind": "product_attributes",
+      "label": "商品名与原始类目",
+      "locator": "sheet2!L10/identity",
+      "text": "{\"product_name\": \"拾兄弟正宗5斤东北大碴粥大碴子粥芸豆玉米碴五谷杂粮健康粗粮\", \"product_category\": {\"first_category\": {\"category_name\": \"粮油干货/方便速食\", \"category_code\": 1000009090}, \"second_category\": {\"category_name\": \"五谷杂粮\", \"category_code\": 1000009123}, \"third_category\": {\"category_name\": \"杂粮组合\", \"category_code\": 1000009853}}, \"brand_name\": \"拾兄弟\"}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-0",
+      "kind": "product_attributes",
+      "label": "产地与包装",
+      "locator": "sheet2!L10/attr-0",
+      "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-1",
+      "kind": "product_attributes",
+      "label": "产地",
+      "locator": "sheet2!L10/attr-1",
+      "text": "{\"产地\": [\"中国大陆\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-2",
+      "kind": "product_attributes",
+      "label": "净含量",
+      "locator": "sheet2!L10/attr-2",
+      "text": "{\"净含量\": [\"2500g\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-3",
+      "kind": "product_attributes",
+      "label": "产品标准代码",
+      "locator": "sheet2!L10/attr-3",
+      "text": "{\"产品标准代码\": [\"Q/HXS 0010S\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-4",
+      "kind": "product_attributes",
+      "label": "生产企业地址",
+      "locator": "sheet2!L10/attr-4",
+      "text": "{\"生产企业地址\": [\"哈尔滨市香坊区幸福镇新香坊村\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-5",
+      "kind": "product_attributes",
+      "label": "食品生产许可证编号",
+      "locator": "sheet2!L10/attr-5",
+      "text": "{\"食品生产许可证编号\": [\"SC11723011000348\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-6",
+      "kind": "product_attributes",
+      "label": "贮存条件",
+      "locator": "sheet2!L10/attr-6",
+      "text": "{\"贮存条件\": [\"常温\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-7",
+      "kind": "product_attributes",
+      "label": "是否为有机食品",
+      "locator": "sheet2!L10/attr-7",
+      "text": "{\"是否为有机食品\": [\"否\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-8",
+      "kind": "product_attributes",
+      "label": "品牌",
+      "locator": "sheet2!L10/attr-8",
+      "text": "{\"品牌\": [\"拾兄弟\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-9",
+      "kind": "product_attributes",
+      "label": "生产企业名称",
+      "locator": "sheet2!L10/attr-9",
+      "text": "{\"生产企业名称\": [\"哈尔滨鑫恒德食品有限公司\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-10",
+      "kind": "product_attributes",
+      "label": "产品名称",
+      "locator": "sheet2!L10/attr-10",
+      "text": "{\"产品名称\": [\"芸豆玉米碴\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-11",
+      "kind": "product_attributes",
+      "label": "配料表",
+      "locator": "sheet2!L10/attr-11",
+      "text": "{\"配料表\": [\"笨玉米碴、粘玉米碴、芸豆\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-12",
+      "kind": "product_attributes",
+      "label": "保质期",
+      "locator": "sheet2!L10/attr-12",
+      "text": "{\"保质期\": [\"12月\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "specs",
+      "kind": "specification",
+      "label": "原始规格列表",
+      "locator": "sheet2!L10/specs",
+      "text": "{\"child_spec_seq\": [\"规格\"], \"spec_values_seq\": [[\"2.5kg\", \"5kg\"]]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "copy-0",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L10/copy-0",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": []}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-1",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L10/copy-1",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"都市银发爱买\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-2",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L10/copy-2",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"千人加购\", \"千人加购\", \"千人加购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-3",
+      "kind": "marketing_copy",
+      "label": "商品销量卖点",
+      "locator": "sheet2!L10/copy-3",
+      "text": "{\"sale_point_category\": \"商品销量卖点\", \"sale_points\": [\"双11热销过1万\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-4",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L10/copy-4",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-5",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L10/copy-5",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-6",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L10/copy-6",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"30+达人推荐\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-7",
+      "kind": "marketing_copy",
+      "label": "店铺文描卖点",
+      "locator": "sheet2!L10/copy-7",
+      "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"5月26日提报\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-8",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L10/copy-8",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"50人说\\\"味道很好\\\"\", \"31人说\\\"口感很好\\\"\", \"26人说\\\"包装很好\\\"\", \"18人说\\\"质量很好\\\"\", \"12人说\\\"软糯\\\"\", \"11人说\\\"新鲜度新鲜\\\"\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-9",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L10/copy-9",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"味道很好\", \"口感很好\", \"包装很好\", \"质量很好\", \"软糯\", \"新鲜度新鲜\", \"非常好煮熟\", \"营养丰富\", \"分量足\", \"描述相符\", \"味道很好\", \"包装很好\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-10",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L10/copy-10",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"大碴子口感很好，软软糯糯非常好吃，吃完还买\", \"买了一单回来口感很好云豆多也特别好吃，准备再来一单\", \"昨天下午接到货，看成色不错，晚上就泡了一小碗！今早总高压锅煮了20分钟！！哇盖子一接，泰香了浓浓的玉米香，红红的豆子软糯香甜！是我的最爱\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-11",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L10/copy-11",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"千人好评\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-12",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L10/copy-12",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"同款有130人评价\\\"味道很好\\\"\", \"同款有76人评价\\\"口感很好\\\"\", \"同款有68人评价\\\"包装很好\\\"\", \"同款有40人评价\\\"质量很好\\\"\", \"同款有26人评价\\\"软糯\\\"\", \"同款有22人评价\\\"新鲜度新鲜\\\"\", \"同款有14人评价\\\"非常好煮熟\\\"\", \"同款有14人评价\\\"营养丰富\\\"\", \"同款有14人评价\\\"分量足\\\"\", \"同款有18人评价\\\"描述相符\\\"\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-13",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L10/copy-13",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-14",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L10/copy-14",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"达人说：“简单快捷”\", \"达人说：“营养健康”\", \"达人说：“老少皆宜”\", \"达人说：“真空包装”\", \"达人说：“无添加”\", \"达人说：“新鲜发货”\", \"达人说：“控糖首选”\", \"达人说：“孕妈适宜”\", \"达人说：“多种吃法”\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-15",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L10/copy-15",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"对人体好处多多的粗粮\", \"云豆多也特别好吃\", \"口感也是糯糯的很香\", \"早起暖胃不二选择\", \"吃起来糯糯，非常香\", \"很香，也很好煮\", \"煮出来软软糯糯的\", \"非常喜欢，口感不错\", \"软糯好煮，口味很好\", \"口感很好，软软糯糯\", \"口感好，无杂质\", \"分量足配料表干净\", \"口感不错，软糯\", \"大茬子熬粥很好吃\", \"软糯香甜好吃\", \"口感软糯，配料也足\", \"红红的豆子软糯香甜\", \"里面的大豆很多很好吃\", \"包装挺结实，没洒漏\", \"无杂质，易煮\", \"软糯可口\", \"米香扑鼻\", \"软糯香甜，营养丰富\", \"煮粥浓郁浅香\", \"加热后口感也没变差\", \"软糯香甜\", \"饱腹感很强\", \"米粒大都多\", \"非常好煮熟，味道香\", \"味道很好，很劲道\", \"米粒软糯，汤头浓郁\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-16",
+      "kind": "marketing_copy",
+      "label": "店铺消费行为卖点",
+      "locator": "sheet2!L10/copy-16",
+      "text": "{\"sale_point_category\": \"店铺消费行为卖点\", \"sale_points\": [\"店铺回头客16.9万\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-17",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L10/copy-17",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"百万粉达人曲靖老村长（9.2银饰）推荐\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-18",
+      "kind": "marketing_copy",
+      "label": "产品卖点",
+      "locator": "sheet2!L10/copy-18",
+      "text": "{\"sale_point_category\": \"产品卖点\", \"sale_points\": [\"五谷杂粮健康粗粮\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-19",
+      "kind": "marketing_copy",
+      "label": "功能优点",
+      "locator": "sheet2!L10/copy-19",
+      "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"好煮易烂 香糯粘稠\", \"三种粥料组合\", \"笨碴子+花芸豆+粘碴子\", \"均衡配比 口感更地道\", \"软糯黏稠,滑溜米油 夹带着玉米的清香,从口中滑入胃部\", \"营养均衡 饱腹感强\", \"好煮易烂\", \"穗粒饱满\", \"软糯黏稠 滑溜米油\", \"夹带着玉米的清香\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "review-0",
+      "kind": "buyer_review",
+      "label": "买家评价1",
+      "locator": "sheet2!L10/review-0",
+      "text": "玉米大碴粥收到了，不错，吃着很香\n玉米大碴粥收到了，热乎乎的，米香扑鼻，喝一口暖到心里～口感软糯，配料也足，家常味儿十足。包装挺结实，没洒漏，配送也快。下次还想再买！👍👍",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-1",
+      "kind": "buyer_review",
+      "label": "买家评价2",
+      "locator": "sheet2!L10/review-1",
+      "text": "昨天下午接到货，看成色不错，晚上就泡了一小碗！今早总高压锅煮了20分钟！！哇盖子一接，泰香了浓浓的玉米香，红红的豆子软糯香甜！是我的最爱",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-2",
+      "kind": "buyer_review",
+      "label": "买家评价3",
+      "locator": "sheet2!L10/review-2",
+      "text": "这粥真香，米粒软糯，汤头浓郁，喝一口就暖到心里。包装挺严实，加热后口感也没变差。会回购，尤其适合早餐或夜宵，方便又实在～🥣👍👍",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-3",
+      "kind": "buyer_review",
+      "label": "买家评价4",
+      "locator": "sheet2!L10/review-3",
+      "text": "刚收到，还没吃，不知道好不好吃了，好吃了还继续买哦。\n新鲜度：口感还没有品尝的品尝好吃了继续买。\n\n包装设计：",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-4",
+      "kind": "buyer_review",
+      "label": "买家评价5",
+      "locator": "sheet2!L10/review-4",
+      "text": "好久没买了..这次下单少点..够吃喝一个月..凉快点了再多买...好吧..香糯..对人体好处多多的粗粮...",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-5",
+      "kind": "buyer_review",
+      "label": "买家评价6",
+      "locator": "sheet2!L10/review-5",
+      "text": "此产品质量非常好，与商家描述一致，非常好煮熟，味道香，希望需要友友们只有这个款式选择了，其待下次继续光顾。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-6",
+      "kind": "buyer_review",
+      "label": "买家评价7",
+      "locator": "sheet2!L10/review-6",
+      "text": "服务态度：发货速度快，快递小哥服务态度好，一物流也很快，包装也很好，口感也是糯糯的很香，下次还在你家卖。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-7",
+      "kind": "buyer_review",
+      "label": "买家评价8",
+      "locator": "sheet2!L10/review-7",
+      "text": "描述相符：和宣传的一样\n服务态度：好\n性价比：比较便宜\n物流速度：快\n发货速度：发货快\n包装：也很好",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-8",
+      "kind": "buyer_review",
+      "label": "买家评价9",
+      "locator": "sheet2!L10/review-8",
+      "text": "回购的玉米粒收到货了，这次比上次买的籽粒大一点，不知道口感怎么样，就是有点斤两不足，其它都还可以",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-9",
+      "kind": "buyer_review",
+      "label": "买家评价10",
+      "locator": "sheet2!L10/review-9",
+      "text": "口感味道：很好的\n包装品质：可以\n保质期：可以的\n商品分量：也很足\n性价比：高\n物流速度：也很快",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "ai-review-summary",
+      "kind": "ai_derived",
+      "label": "旧AI评价摘要",
+      "locator": "sheet2!L10/ai-review-summary",
+      "text": "很多买家表示这款杂粮组合口感软糯香甜，散发着浓郁的玉米香味，食用后饱腹感强，适合作为减肥代餐。同时，它的配料表干净，营养丰富，品质十分新鲜。此外，其采用真空包装，分量充足，具有很高的性价比。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "ai-category",
+      "kind": "ai_derived",
+      "label": "旧模型行业判断",
+      "locator": "sheet2!L10/ai-category",
+      "text": "{\"first_industry\": {\"industry_code\": \"1903\", \"industry_name\": \"食品饮料\"}, \"second_industry\": {\"industry_code\": \"190304\", \"industry_name\": \"粮油干货\"}, \"third_industry\": {\"industry_code\": 19030407, \"industry_name\": \"五谷杂粮\"}}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "short-name",
+      "kind": "marketing_copy",
+      "label": "旧商品短名",
+      "locator": "sheet2!L10/short-name",
+      "text": "东北芸豆大碴子粥5斤",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "image-E",
+      "kind": "image",
+      "label": "商品图E",
+      "locator": "sheet2!E10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-E-0.jpg",
+      "image_token": "SwEWbBlx2oFklkx9c16cCqNpnFh",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-F",
+      "kind": "image",
+      "label": "商品图F",
+      "locator": "sheet2!F10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-F-0.jpg",
+      "image_token": "KTRkbTioloMqcRx0fBZcs6Ianmb",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-G",
+      "kind": "image",
+      "label": "商品图G",
+      "locator": "sheet2!G10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-G-0.jpg",
+      "image_token": "J1T1bsVIsoaX8oxFlswcJ5yLnqk",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-H",
+      "kind": "image",
+      "label": "商品图H",
+      "locator": "sheet2!H10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-H-0.jpg",
+      "image_token": "KL9fb1UMwouFXPxXBGQcuEvknwf",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-I",
+      "kind": "image",
+      "label": "商品图I",
+      "locator": "sheet2!I10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-I-0.jpg",
+      "image_token": "A27RbO56uoJ7M1xYojcc3nM3nWh",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-J",
+      "kind": "image",
+      "label": "商品图J",
+      "locator": "sheet2!J10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-J-0.jpg",
+      "image_token": "CDc2bwRA8odbVfx7j4LcN86NnLb",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-K",
+      "kind": "image",
+      "label": "商品图K",
+      "locator": "sheet2!K10:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-K-0.jpg",
+      "image_token": "NalrbQKnaoHRYXxdCY1c0licnVK",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M",
+      "kind": "image",
+      "label": "商品详情长图 · 片段1",
+      "locator": "sheet2!M10:y=0..1800",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-M-0.jpg",
+      "image_token": "J2Ocb8Lu0oILSoxqYqscu8L6n2b",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-2",
+      "kind": "image",
+      "label": "商品详情长图 · 片段2",
+      "locator": "sheet2!M10:y=1800..3600",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-M-1.jpg",
+      "image_token": "J2Ocb8Lu0oILSoxqYqscu8L6n2b",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-3",
+      "kind": "image",
+      "label": "商品详情长图 · 片段3",
+      "locator": "sheet2!M10:y=3600..5400",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-M-2.jpg",
+      "image_token": "J2Ocb8Lu0oILSoxqYqscu8L6n2b",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-4",
+      "kind": "image",
+      "label": "商品详情长图 · 片段4",
+      "locator": "sheet2!M10:y=5400..7200",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-M-3.jpg",
+      "image_token": "J2Ocb8Lu0oILSoxqYqscu8L6n2b",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-5",
+      "kind": "image",
+      "label": "商品详情长图 · 片段5",
+      "locator": "sheet2!M10:y=7200..9000",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-M-4.jpg",
+      "image_token": "J2Ocb8Lu0oILSoxqYqscu8L6n2b",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-6",
+      "kind": "image",
+      "label": "商品详情长图 · 片段6",
+      "locator": "sheet2!M10:y=9000..9014",
+      "text": "",
+      "image_path": "data/assets/3734999074340995521/image-M-5.jpg",
+      "image_token": "J2Ocb8Lu0oILSoxqYqscu8L6n2b",
+      "origin": "merchant"
+    }
+  ]
+}

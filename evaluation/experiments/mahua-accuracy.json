@@ -1,0 +1,367 @@
+{
+  "type": "accuracy",
+  "product_id": "3825952452159603168",
+  "result_revision": "b172ac6c3ad95ad5f273edf9f70611e1c6aeac2e3c2665afb56227962c5194dd",
+  "profile_revision": "df13fb39441d5db9486a0ee1076dba4094c680b320c474829fa78063eede68b6",
+  "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+  "counts": {
+    "supported": 12,
+    "contradicted": 0,
+    "insufficient": 2
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "蜂蜜花生味麻花",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名和产品名称均含蜂蜜花生味麻花，图片亦显示。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心"
+            },
+            {
+              "source_id": "attr-7",
+              "quote": "蜂蜜花生味麻花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "休闲食品",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "supported",
+          "reason": "原始类目一级为休闲食品。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "\"category_name\": \"休闲食品\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "花生添加量≥5%",
+      "source_ids": [
+        "attr-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表和详情图均写明花生添加量≥5%。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "花生(≥5%)"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "现剁碾碎花生粒 添加量≥5%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "蜂蜜添加量≥0.7%",
+      "source_ids": [
+        "attr-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "配料表和详情图均写明蜂蜜添加量≥0.7%。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "蜂蜜(≥0.7%)"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "现熬蜂蜜浆 添加量≥0.7%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "独立小包装",
+      "source_ids": [
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "图片可见“独立小包装”字样及袋内多枚独立小包，足以支持“独立小包装”这一属性。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装 便携又卫生"
+            },
+            {
+              "source_id": "image-M-4",
+              "quote": "独立包装 酥脆随心享"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "【蜂蜜花生麻花】278g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "规格列表含278g*1袋，图片包装标净含量278克。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "【蜂蜜花生麻花】278g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "规格列表含278g*2袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "【蜂蜜花生麻花】278g*3袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "规格列表含278g*3袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*3袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "商品页描述为香甜酥脆",
+      "source_ids": [
+        "copy-19"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "商品文描卖点明确含“酥脆解馋 香甜不腻”。",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "酥脆解馋 香甜不腻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "部分评价提到口感酥脆",
+      "source_ids": [
+        "review-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "多位买家评价提到酥脆口感。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "麻花吃起来酥酥脆脆的"
+            },
+            {
+              "source_id": "review-1",
+              "quote": "吃起来酥脆可口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "蜂蜜花生双料入味｜配料中花生添加量≥5%、蜂蜜添加量≥0.7%，蜂蜜的清甜与花生的坚果香一起揉进麻花里",
+      "source_ids": [
+        "attr-9"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "花生(≥5%)……蜂蜜(≥0.7%)"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "酥香花生粒 现剁碾碎花生粒 添加量≥5%；现熬蜂蜜浆 清甜不腻优质蜂蜜 添加量≥0.7%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "香甜酥脆口感｜商品页描述为香甜酥脆，咬下去有甜的香，也有脆的劲，买家评价中也提到酥脆口感",
+      "source_ids": [
+        "copy-19",
+        "review-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "商品页有“酥脆解馋 香甜不腻”，买家评价也有酥脆描述。",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "酥脆解馋 香甜不腻"
+            },
+            {
+              "source_id": "review-0",
+              "quote": "麻花吃起来酥酥脆脆的，很香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "独立小包装｜每根单独包装，随手拿一根就能吃，也方便分次取用或带去和朋友分享",
+      "source_ids": [
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "“独立小包装”“拆开即食”“分享不脏手”支持单独包装、随手取食和分享；证据未承诺每根克重或分次保存期限，归因范围内可成立。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装 便携又卫生 拆开即食 不易受潮"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "分享不脏手 干净又卫生"
+            },
+            {
+              "source_id": "image-M-4",
+              "quote": "独立包装 酥脆随心享"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "多袋规格可选｜有单袋、两袋、三袋装，想先尝尝或日常备着都能按需选择",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*1袋；【蜂蜜花生麻花】278g*2袋；【蜂蜜花生麻花】278g*3袋"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 12 / 冲突 0 / 待核 2"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

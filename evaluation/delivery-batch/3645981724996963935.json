@@ -1,0 +1,1625 @@
+{
+  "product_id": "3645981724996963935",
+  "name": "【618超值购85袋赠2袋试吃】烧仙草免煮白凉粉双皮奶果冻小零食饮料",
+  "source_row": 6,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3645981724996963935",
+    "display_name": "【618超值购85袋赠2袋试吃】烧仙草免煮白凉粉双皮奶果冻小零食饮料",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L6/identity",
+        "text": "{\"product_name\": \"【618超值购85袋赠2袋试吃】烧仙草免煮白凉粉双皮奶果冻小零食饮料\", \"product_category\": {\"first_category\": {\"category_name\": \"粮油干货/方便速食\", \"category_code\": 1000009090}, \"second_category\": {\"category_name\": \"烘焙材料\", \"category_code\": 1000009126}, \"third_category\": {\"category_name\": \"果冻/布丁粉\", \"category_code\": 1000009911}}, \"brand_name\": \"\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "贮存条件",
+        "locator": "sheet2!L6/attr-0",
+        "text": "{\"贮存条件\": [\"常温\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L6/attr-1",
+        "text": "{\"保质期\": [\"18月\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "食品生产许可证编号",
+        "locator": "sheet2!L6/attr-2",
+        "text": "{\"食品生产许可证编号\": [\"SC10641140201352\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "产品名称",
+        "locator": "sheet2!L6/attr-3",
+        "text": "{\"产品名称\": [\"烧仙草\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "配料表",
+        "locator": "sheet2!L6/attr-4",
+        "text": "{\"配料表\": [\"仙草粉、食用葡萄糖\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "是否临期",
+        "locator": "sheet2!L6/attr-5",
+        "text": "{\"是否临期\": [\"否\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "产品标准代码",
+        "locator": "sheet2!L6/attr-6",
+        "text": "{\"产品标准代码\": [\"GB/T 29602\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-7",
+        "kind": "product_attributes",
+        "label": "产地",
+        "locator": "sheet2!L6/attr-7",
+        "text": "{\"产地\": [\"中国大陆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-8",
+        "kind": "product_attributes",
+        "label": "产地与包装",
+        "locator": "sheet2!L6/attr-8",
+        "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-9",
+        "kind": "product_attributes",
+        "label": "生产企业地址",
+        "locator": "sheet2!L6/attr-9",
+        "text": "{\"生产企业地址\": [\"商丘市梁园区启迪科技产业园\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-10",
+        "kind": "product_attributes",
+        "label": "生产企业名称",
+        "locator": "sheet2!L6/attr-10",
+        "text": "{\"生产企业名称\": [\"河南启迪药康生物科技有限公司\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-11",
+        "kind": "product_attributes",
+        "label": "净含量",
+        "locator": "sheet2!L6/attr-11",
+        "text": "{\"净含量\": [\"20g\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L6/specs",
+        "text": "{\"child_spec_seq\": [\"重量\", \"组合\"], \"spec_values_seq\": [[\"20克/袋\"], [\"【超值聚划算】烧仙草83袋 +2袋试喝 共 85袋\", \"【超值聚划算】双皮奶83袋+2袋试喝【共 85袋】\", \"【超值聚划算】白凉粉83袋+2袋试喝【共 85袋】\", \"【家庭装】烧仙草43袋+2袋试喝【共45袋】\", \"【家庭装】白凉粉43袋+2袋试喝【共45袋】\", \"【家庭装】双皮奶43袋+2袋试喝【共45袋】\", \"【体验装】烧仙草33袋+2袋试喝【共35袋】\", \"【体验装】白凉粉33袋+2袋试喝【共35袋】\", \"【体验装】双皮奶33袋+2袋试喝【共35袋】\", \"【试喝装-快递贵】烧仙草20袋+2袋试喝【共22袋】\", \"【试喝装-快递贵】白凉粉20袋+2袋试喝【共22袋】\", \"【试喝装-快递贵】双皮奶20袋+2袋试喝【共22袋】\", \"【体验装-快递贵】烧仙草 5袋\", \"【体验装-快递贵】白凉粉 5袋\", \"【试喝装-快递贵】双皮奶 5袋\", \"【精品组合装-店长推荐】烧仙草15袋+双皮奶15袋+白凉粉15袋 共45袋\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L6/copy-0",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-1",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L6/copy-1",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": []}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-2",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L6/copy-2",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"全密封独立包装，产品正规。品质很好，有详尽的制作方法，按照说明制作，味道绝佳，非常好吃，家人都喜欢吃，卖家发货很快，好评。\", \"味道很好，下次再次购买，很甜很甜\", \"好吃味道不错，下次再来购买\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-3",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L6/copy-3",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"100%好评\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-4",
+        "kind": "marketing_copy",
+        "label": "达人推荐卖点",
+        "locator": "sheet2!L6/copy-4",
+        "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"热销带货达人大凤的日常生活推荐\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-5",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L6/copy-5",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"达人短视频带过\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-6",
+        "kind": "marketing_copy",
+        "label": "功能优点",
+        "locator": "sheet2!L6/copy-6",
+        "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"晶莹剔透 爽滑可口\", \"一煮一冻 制作轻松\", \"无需加糖\", \"口感纯正 还原烧仙草本味\", \"细腻嫩滑 Q弹爽口\", \"0脂好吃不怕胖\", \"奶香浓郁 口感顺滑 制作轻松\", \"「免煮」烧仙草粉\", \"在家就能做\", \"香精、脂肪0\", \"制作简单 新手也成功\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L6/review-0",
+        "text": "全密封独立包装，产品正规。品质很好，有详尽的制作方法，按照说明制作，味道绝佳，非常好吃，家人都喜欢吃，卖家发货很快，好评。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L6/review-1",
+        "text": "快递发货速度很快，包装完好无损，性价比高，客服态度好！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L6/review-2",
+        "text": "味道很好，下次再次购买，很甜很甜",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-3",
+        "kind": "buyer_review",
+        "label": "买家评价4",
+        "locator": "sheet2!L6/review-3",
+        "text": "免煮白凉粉已经收到了，美味",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-4",
+        "kind": "buyer_review",
+        "label": "买家评价5",
+        "locator": "sheet2!L6/review-4",
+        "text": "看图说话，物美价廉没得说了",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-5",
+        "kind": "buyer_review",
+        "label": "买家评价6",
+        "locator": "sheet2!L6/review-5",
+        "text": "好吃味道不错，下次再来购买",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L6/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1903\", \"industry_name\": \"食品饮料\"}, \"second_industry\": {\"industry_code\": \"190309\", \"industry_name\": \"其他食品饮料\"}, \"third_industry\": {\"industry_code\": 19030901, \"industry_name\": \"其他食品饮料\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E6:y=0..1600",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-E-0.jpg",
+        "image_token": "KjL3bMxuio3boLxICywcZm4Vnvc",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G6:y=0..1600",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-G-0.jpg",
+        "image_token": "JkFxbA82Zo1v4ux03CRcsYArnoc",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H6:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-H-0.jpg",
+        "image_token": "GBEibRaudoEkp5xrvl1c0dZZnag",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I6:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-I-0.jpg",
+        "image_token": "Vmd0bM8qgo0tdZxJQ4JckudRngg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J6:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-J-0.jpg",
+        "image_token": "WX8vbDP71o7acjxqhzJcdzqAnqe",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M",
+        "kind": "image",
+        "label": "商品详情长图 · 片段1",
+        "locator": "sheet2!M6:y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-M-0.jpg",
+        "image_token": "HJevbhxlmolwGexNvf0c4KpXnte",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-2",
+        "kind": "image",
+        "label": "商品详情长图 · 片段2",
+        "locator": "sheet2!M6:y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-M-1.jpg",
+        "image_token": "HJevbhxlmolwGexNvf0c4KpXnte",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-3",
+        "kind": "image",
+        "label": "商品详情长图 · 片段3",
+        "locator": "sheet2!M6:y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-M-2.jpg",
+        "image_token": "HJevbhxlmolwGexNvf0c4KpXnte",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-4",
+        "kind": "image",
+        "label": "商品详情长图 · 片段4",
+        "locator": "sheet2!M6:y=5400..7200",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-M-3.jpg",
+        "image_token": "HJevbhxlmolwGexNvf0c4KpXnte",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-5",
+        "kind": "image",
+        "label": "商品详情长图 · 片段5",
+        "locator": "sheet2!M6:y=7200..8587",
+        "text": "",
+        "image_path": "data/assets/3645981724996963935/image-M-4.jpg",
+        "image_token": "HJevbhxlmolwGexNvf0c4KpXnte",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:57:16Z",
+  "profile": {
+    "product_info": {
+      "name": "烧仙草/白凉粉/双皮奶粉 DIY甜品粉",
+      "category": "粮油干货/方便速食 > 烘焙材料 > 果冻/布丁粉",
+      "ingredients": [
+        "烧仙草：仙草粉、食用葡萄糖"
+      ],
+      "attributes": [
+        "贮存条件：常温",
+        "保质期：18个月",
+        "食品生产许可证编号：SC10641140201352",
+        "产品名称：烧仙草",
+        "非临期",
+        "产品标准代码：GB/T 29602",
+        "产地：中国大陆",
+        "国产预包装食品",
+        "生产企业：河南启迪药康生物科技有限公司",
+        "生产企业地址：商丘市梁园区启迪科技产业园",
+        "单袋净含量：20g",
+        "单袋规格：20克/袋"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "烧仙草 20克/袋",
+        "details": [
+          "净含量20g/袋"
+        ]
+      },
+      {
+        "name": "【超值聚划算】烧仙草83袋 +2袋试喝 共85袋",
+        "details": [
+          "共85袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【超值聚划算】双皮奶83袋+2袋试喝【共85袋】",
+        "details": [
+          "共85袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【超值聚划算】白凉粉83袋+2袋试喝【共85袋】",
+        "details": [
+          "共85袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【家庭装】烧仙草43袋+2袋试喝【共45袋】",
+        "details": [
+          "共45袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【家庭装】白凉粉43袋+2袋试喝【共45袋】",
+        "details": [
+          "共45袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【家庭装】双皮奶43袋+2袋试喝【共45袋】",
+        "details": [
+          "共45袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【体验装】烧仙草33袋+2袋试喝【共35袋】",
+        "details": [
+          "共35袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【体验装】白凉粉33袋+2袋试喝【共35袋】",
+        "details": [
+          "共35袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【体验装】双皮奶33袋+2袋试喝【共35袋】",
+        "details": [
+          "共35袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【试喝装-快递贵】烧仙草20袋+2袋试喝【共22袋】",
+        "details": [
+          "共22袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【试喝装-快递贵】白凉粉20袋+2袋试喝【共22袋】",
+        "details": [
+          "共22袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【试喝装-快递贵】双皮奶20袋+2袋试喝【共22袋】",
+        "details": [
+          "共22袋，含2袋试喝"
+        ]
+      },
+      {
+        "name": "【体验装-快递贵】烧仙草 5袋",
+        "details": [
+          "共5袋"
+        ]
+      },
+      {
+        "name": "【体验装-快递贵】白凉粉 5袋",
+        "details": [
+          "共5袋"
+        ]
+      },
+      {
+        "name": "【试喝装-快递贵】双皮奶 5袋",
+        "details": [
+          "共5袋"
+        ]
+      },
+      {
+        "name": "【精品组合装-店长推荐】烧仙草15袋+双皮奶15袋+白凉粉15袋 共45袋",
+        "details": [
+          "三种口味各15袋，共45袋"
+        ]
+      }
+    ],
+    "original_selling_points": [
+      "烧仙草粉「免煮」，细腻嫩滑、Q弹爽口",
+      "烧仙草0香精、0脂肪",
+      "烧仙草口感纯正，还原烧仙草本味，无苦味怪味，老少皆宜",
+      "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳",
+      "白凉粉晶莹剔透、爽滑可口，0脂好吃不怕胖，适合夏天DIY",
+      "白凉粉制作简单新手也成功，水粉比例1:10",
+      "双皮奶粉可在家复刻广式甜品，奶香浓郁、口感顺滑、制作轻松，有奶呼呼的清爽感，煮一冻无需加糖",
+      "提供详尽制作方法，按说明制作即可",
+      "全密封独立包装，产品正规",
+      "家庭DIY自制美味，Q弹爽滑简单易做",
+      "万物皆可白凉粉，可做多种造型甜品",
+      "今日下单立减10元",
+      "热销带货达人大凤的日常生活推荐"
+    ],
+    "buyer_feedback": [
+      "正面：按说明制作后味道绝佳、非常好吃，家人喜欢吃",
+      "正面：味道很好，会再次购买",
+      "正面：好吃、味道不错",
+      "正面：免煮白凉粉美味",
+      "正面：包装完好无损，性价比高，客服态度好",
+      "个人感受：味道很甜很甜"
+    ],
+    "cautions": [
+      "配料表仅提供了烧仙草的配料（仙草粉、食用葡萄糖），白凉粉、双皮奶的配料在资料中缺失",
+      "商品名和规格含烧仙草、白凉粉、双皮奶三种产品，但配料、产品名称、标准代码等多为烧仙草单品类信息，不能套用于其他口味",
+      "旧模型行业判断为食品饮料，仅作线索，不作为确定属性"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3645981724996963935",
+      "material_revision": "ad5b9d3d7c111b7140d060a68feb200e8e9a5369a3978704cfe10f75a24ae473",
+      "sources": {
+        "烧仙草/白凉粉/双皮奶粉 DIY甜品粉": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "粮油干货/方便速食 > 烘焙材料 > 果冻/布丁粉": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "烧仙草：仙草粉、食用葡萄糖": {
+          "source_ids": [
+            "attr-4"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件：常温": {
+          "source_ids": [
+            "attr-0"
+          ],
+          "kind": "fact"
+        },
+        "保质期：18个月": {
+          "source_ids": [
+            "attr-1"
+          ],
+          "kind": "fact"
+        },
+        "食品生产许可证编号：SC10641140201352": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "产品名称：烧仙草": {
+          "source_ids": [
+            "attr-3"
+          ],
+          "kind": "fact"
+        },
+        "非临期": {
+          "source_ids": [
+            "attr-5"
+          ],
+          "kind": "fact"
+        },
+        "产品标准代码：GB/T 29602": {
+          "source_ids": [
+            "attr-6"
+          ],
+          "kind": "fact"
+        },
+        "产地：中国大陆": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "国产预包装食品": {
+          "source_ids": [
+            "attr-8"
+          ],
+          "kind": "fact"
+        },
+        "生产企业：河南启迪药康生物科技有限公司": {
+          "source_ids": [
+            "attr-10"
+          ],
+          "kind": "fact"
+        },
+        "生产企业地址：商丘市梁园区启迪科技产业园": {
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        "单袋净含量：20g": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "单袋规格：20克/袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "烧仙草 20克/袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "净含量20g/袋": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "【超值聚划算】烧仙草83袋 +2袋试喝 共85袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "共85袋，含2袋试喝": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【超值聚划算】双皮奶83袋+2袋试喝【共85袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【超值聚划算】白凉粉83袋+2袋试喝【共85袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【家庭装】烧仙草43袋+2袋试喝【共45袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "共45袋，含2袋试喝": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【家庭装】白凉粉43袋+2袋试喝【共45袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【家庭装】双皮奶43袋+2袋试喝【共45袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【体验装】烧仙草33袋+2袋试喝【共35袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "共35袋，含2袋试喝": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【体验装】白凉粉33袋+2袋试喝【共35袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【体验装】双皮奶33袋+2袋试喝【共35袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【试喝装-快递贵】烧仙草20袋+2袋试喝【共22袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "共22袋，含2袋试喝": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【试喝装-快递贵】白凉粉20袋+2袋试喝【共22袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【试喝装-快递贵】双皮奶20袋+2袋试喝【共22袋】": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【体验装-快递贵】烧仙草 5袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "共5袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【体验装-快递贵】白凉粉 5袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【试喝装-快递贵】双皮奶 5袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【精品组合装-店长推荐】烧仙草15袋+双皮奶15袋+白凉粉15袋 共45袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "三种口味各15袋，共45袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "烧仙草粉「免煮」，细腻嫩滑、Q弹爽口": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "烧仙草0香精、0脂肪": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "烧仙草口感纯正，还原烧仙草本味，无苦味怪味，老少皆宜": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳": {
+          "source_ids": [
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        "白凉粉晶莹剔透、爽滑可口，0脂好吃不怕胖，适合夏天DIY": {
+          "source_ids": [
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        "白凉粉制作简单新手也成功，水粉比例1:10": {
+          "source_ids": [
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        "双皮奶粉可在家复刻广式甜品，奶香浓郁、口感顺滑、制作轻松，有奶呼呼的清爽感，煮一冻无需加糖": {
+          "source_ids": [
+            "image-E"
+          ],
+          "kind": "description"
+        },
+        "提供详尽制作方法，按说明制作即可": {
+          "source_ids": [
+            "review-0"
+          ],
+          "kind": "description"
+        },
+        "全密封独立包装，产品正规": {
+          "source_ids": [
+            "review-0"
+          ],
+          "kind": "description"
+        },
+        "家庭DIY自制美味，Q弹爽滑简单易做": {
+          "source_ids": [
+            "image-E"
+          ],
+          "kind": "description"
+        },
+        "万物皆可白凉粉，可做多种造型甜品": {
+          "source_ids": [
+            "image-J"
+          ],
+          "kind": "description"
+        },
+        "今日下单立减10元": {
+          "source_ids": [
+            "image-E"
+          ],
+          "kind": "description"
+        },
+        "热销带货达人大凤的日常生活推荐": {
+          "source_ids": [
+            "copy-4"
+          ],
+          "kind": "description"
+        },
+        "正面：按说明制作后味道绝佳、非常好吃，家人喜欢吃": {
+          "source_ids": [
+            "review-0"
+          ],
+          "kind": "feedback"
+        },
+        "正面：味道很好，会再次购买": {
+          "source_ids": [
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "正面：好吃、味道不错": {
+          "source_ids": [
+            "review-5"
+          ],
+          "kind": "feedback"
+        },
+        "正面：免煮白凉粉美味": {
+          "source_ids": [
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "正面：包装完好无损，性价比高，客服态度好": {
+          "source_ids": [
+            "review-1"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：味道很甜很甜": {
+          "source_ids": [
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "配料表仅提供了烧仙草的配料（仙草粉、食用葡萄糖），白凉粉、双皮奶的配料在资料中缺失": {
+          "source_ids": [
+            "attr-4"
+          ],
+          "kind": "fact"
+        },
+        "商品名和规格含烧仙草、白凉粉、双皮奶三种产品，但配料、产品名称、标准代码等多为烧仙草单品类信息，不能套用于其他口味": {
+          "source_ids": [
+            "identity",
+            "attr-3",
+            "attr-4"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 1
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "烧仙草免煮好做｜烧仙草粉不用开火熬煮，按说明加沸水搅拌溶解，倒入模具冷藏凝固后切块，在家就能做出一份甜品",
+        "priority": 1
+      },
+      {
+        "text": "仙草清香不苦口｜配料为仙草粉和食用葡萄糖，口感纯正、还原烧仙草本味，没有苦味怪味",
+        "priority": 2
+      },
+      {
+        "text": "细腻嫩滑Q弹爽口｜做好的烧仙草质地细腻嫩滑，入口Q弹爽口，切块后搭配坚果、酸奶或水果，风味更足",
+        "priority": 3
+      },
+      {
+        "text": "20g小袋好控量｜烧仙草单袋净含量20g，一份按20g粉配160—200ml沸水，一人吃或分给家人都不难拿捏分量",
+        "priority": 4
+      },
+      {
+        "text": "白凉粉晶莹爽滑｜白凉粉做出来晶莹剔透、爽滑可口，夏天来一碗冰凉甜品很应景",
+        "priority": 5
+      },
+      {
+        "text": "白凉粉新手也能上手｜按水粉比例1:10操作，新手也容易成功；还能换个造型做多种甜品",
+        "priority": 6
+      },
+      {
+        "text": "在家复刻广式双皮奶｜双皮奶粉奶香浓郁、口感顺滑，煮一冻即可，无需另外加糖，在家也能做出广式甜品的样子",
+        "priority": 7
+      },
+      {
+        "text": "三种口味可选｜烧仙草、白凉粉、双皮奶可单买，也有家庭装、体验装和精品组合装；组合装为三种口味各15袋、共45袋",
+        "priority": 8
+      },
+      {
+        "text": "先试喝再决定｜体验装含33袋加2袋试喝、共35袋；试喝装为20袋加2袋试喝或5袋装，适合先尝尝口味",
+        "priority": 9
+      },
+      {
+        "text": "独立小袋密封包装｜每袋独立密封包装，一次取一袋，用起来方便；常温贮存，保质期18个月",
+        "priority": 10
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3645981724996963935",
+      "material_revision": "ad5b9d3d7c111b7140d060a68feb200e8e9a5369a3978704cfe10f75a24ae473",
+      "knowledge_revision": "1a1b77e7f157ce9daabfc4c276c46b2701b5eb669841e86185d148422579e065",
+      "support": [
+        {
+          "basis": [
+            "烧仙草粉「免煮」，细腻嫩滑、Q弹爽口",
+            "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳"
+          ],
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "烧仙草：仙草粉、食用葡萄糖",
+            "烧仙草口感纯正，还原烧仙草本味，无苦味怪味，老少皆宜"
+          ],
+          "source_ids": [
+            "attr-4",
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "烧仙草粉「免煮」，细腻嫩滑、Q弹爽口",
+            "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳"
+          ],
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "单袋净含量：20g",
+            "单袋规格：20克/袋",
+            "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳"
+          ],
+          "source_ids": [
+            "attr-11",
+            "specs",
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "白凉粉晶莹剔透、爽滑可口，0脂好吃不怕胖，适合夏天DIY"
+          ],
+          "source_ids": [
+            "image-M-part-3"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "白凉粉制作简单新手也成功，水粉比例1:10",
+            "万物皆可白凉粉，可做多种造型甜品"
+          ],
+          "source_ids": [
+            "image-M-part-3",
+            "image-J"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "双皮奶粉可在家复刻广式甜品，奶香浓郁、口感顺滑、制作轻松，有奶呼呼的清爽感，煮一冻无需加糖"
+          ],
+          "source_ids": [
+            "image-E"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "烧仙草 20克/袋",
+            "【家庭装】烧仙草43袋+2袋试喝【共45袋】",
+            "【体验装】烧仙草33袋+2袋试喝【共35袋】",
+            "【精品组合装-店长推荐】烧仙草15袋+双皮奶15袋+白凉粉15袋 共45袋",
+            "三种口味各15袋，共45袋"
+          ],
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "【体验装】烧仙草33袋+2袋试喝【共35袋】",
+            "共35袋，含2袋试喝",
+            "【试喝装-快递贵】烧仙草20袋+2袋试喝【共22袋】",
+            "共22袋，含2袋试喝",
+            "【体验装-快递贵】烧仙草 5袋",
+            "共5袋"
+          ],
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "贮存条件：常温",
+            "保质期：18个月",
+            "全密封独立包装，产品正规"
+          ],
+          "source_ids": [
+            "attr-0",
+            "attr-1",
+            "review-0"
+          ],
+          "kind": "description"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "1a1b77e7f157ce9daabfc4c276c46b2701b5eb669841e86185d148422579e065",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:57:23.905010+00:00",
+      "profile": {
+        "product_info": {
+          "name": "烧仙草/白凉粉/双皮奶粉 DIY甜品粉",
+          "category": "粮油干货/方便速食 > 烘焙材料 > 果冻/布丁粉",
+          "ingredients": [
+            "烧仙草：仙草粉、食用葡萄糖"
+          ],
+          "attributes": [
+            "贮存条件：常温",
+            "保质期：18个月",
+            "食品生产许可证编号：SC10641140201352",
+            "产品名称：烧仙草",
+            "非临期",
+            "产品标准代码：GB/T 29602",
+            "产地：中国大陆",
+            "国产预包装食品",
+            "生产企业：河南启迪药康生物科技有限公司",
+            "生产企业地址：商丘市梁园区启迪科技产业园",
+            "单袋净含量：20g",
+            "单袋规格：20克/袋"
+          ]
+        },
+        "specifications": [
+          {
+            "name": "烧仙草 20克/袋",
+            "details": [
+              "净含量20g/袋"
+            ]
+          },
+          {
+            "name": "【超值聚划算】烧仙草83袋 +2袋试喝 共85袋",
+            "details": [
+              "共85袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【超值聚划算】双皮奶83袋+2袋试喝【共85袋】",
+            "details": [
+              "共85袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【超值聚划算】白凉粉83袋+2袋试喝【共85袋】",
+            "details": [
+              "共85袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【家庭装】烧仙草43袋+2袋试喝【共45袋】",
+            "details": [
+              "共45袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【家庭装】白凉粉43袋+2袋试喝【共45袋】",
+            "details": [
+              "共45袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【家庭装】双皮奶43袋+2袋试喝【共45袋】",
+            "details": [
+              "共45袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【体验装】烧仙草33袋+2袋试喝【共35袋】",
+            "details": [
+              "共35袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【体验装】白凉粉33袋+2袋试喝【共35袋】",
+            "details": [
+              "共35袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【体验装】双皮奶33袋+2袋试喝【共35袋】",
+            "details": [
+              "共35袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【试喝装-快递贵】烧仙草20袋+2袋试喝【共22袋】",
+            "details": [
+              "共22袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【试喝装-快递贵】白凉粉20袋+2袋试喝【共22袋】",
+            "details": [
+              "共22袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【试喝装-快递贵】双皮奶20袋+2袋试喝【共22袋】",
+            "details": [
+              "共22袋，含2袋试喝"
+            ]
+          },
+          {
+            "name": "【体验装-快递贵】烧仙草 5袋",
+            "details": [
+              "共5袋"
+            ]
+          },
+          {
+            "name": "【体验装-快递贵】白凉粉 5袋",
+            "details": [
+              "共5袋"
+            ]
+          },
+          {
+            "name": "【试喝装-快递贵】双皮奶 5袋",
+            "details": [
+              "共5袋"
+            ]
+          },
+          {
+            "name": "【精品组合装-店长推荐】烧仙草15袋+双皮奶15袋+白凉粉15袋 共45袋",
+            "details": [
+              "三种口味各15袋，共45袋"
+            ]
+          }
+        ],
+        "original_selling_points": [
+          "烧仙草粉「免煮」，细腻嫩滑、Q弹爽口",
+          "烧仙草0香精、0脂肪",
+          "烧仙草口感纯正，还原烧仙草本味，无苦味怪味，老少皆宜",
+          "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳",
+          "白凉粉晶莹剔透、爽滑可口，0脂好吃不怕胖，适合夏天DIY",
+          "白凉粉制作简单新手也成功，水粉比例1:10",
+          "双皮奶粉可在家复刻广式甜品，奶香浓郁、口感顺滑、制作轻松，有奶呼呼的清爽感，煮一冻无需加糖",
+          "提供详尽制作方法，按说明制作即可",
+          "全密封独立包装，产品正规",
+          "家庭DIY自制美味，Q弹爽滑简单易做",
+          "万物皆可白凉粉，可做多种造型甜品",
+          "今日下单立减10元",
+          "热销带货达人大凤的日常生活推荐"
+        ],
+        "buyer_feedback": [
+          "正面：按说明制作后味道绝佳、非常好吃，家人喜欢吃",
+          "正面：味道很好，会再次购买",
+          "正面：好吃、味道不错",
+          "正面：免煮白凉粉美味",
+          "正面：包装完好无损，性价比高，客服态度好",
+          "个人感受：味道很甜很甜"
+        ],
+        "cautions": [
+          "配料表仅提供了烧仙草的配料（仙草粉、食用葡萄糖），白凉粉、双皮奶的配料在资料中缺失",
+          "商品名和规格含烧仙草、白凉粉、双皮奶三种产品，但配料、产品名称、标准代码等多为烧仙草单品类信息，不能套用于其他口味",
+          "旧模型行业判断为食品饮料，仅作线索，不作为确定属性"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3645981724996963935",
+          "material_revision": "ad5b9d3d7c111b7140d060a68feb200e8e9a5369a3978704cfe10f75a24ae473",
+          "sources": {
+            "烧仙草/白凉粉/双皮奶粉 DIY甜品粉": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "粮油干货/方便速食 > 烘焙材料 > 果冻/布丁粉": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "烧仙草：仙草粉、食用葡萄糖": {
+              "source_ids": [
+                "attr-4"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件：常温": {
+              "source_ids": [
+                "attr-0"
+              ],
+              "kind": "fact"
+            },
+            "保质期：18个月": {
+              "source_ids": [
+                "attr-1"
+              ],
+              "kind": "fact"
+            },
+            "食品生产许可证编号：SC10641140201352": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "产品名称：烧仙草": {
+              "source_ids": [
+                "attr-3"
+              ],
+              "kind": "fact"
+            },
+            "非临期": {
+              "source_ids": [
+                "attr-5"
+              ],
+              "kind": "fact"
+            },
+            "产品标准代码：GB/T 29602": {
+              "source_ids": [
+                "attr-6"
+              ],
+              "kind": "fact"
+            },
+            "产地：中国大陆": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "国产预包装食品": {
+              "source_ids": [
+                "attr-8"
+              ],
+              "kind": "fact"
+            },
+            "生产企业：河南启迪药康生物科技有限公司": {
+              "source_ids": [
+                "attr-10"
+              ],
+              "kind": "fact"
+            },
+            "生产企业地址：商丘市梁园区启迪科技产业园": {
+              "source_ids": [
+                "attr-9"
+              ],
+              "kind": "fact"
+            },
+            "单袋净含量：20g": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "单袋规格：20克/袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "烧仙草 20克/袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "净含量20g/袋": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "【超值聚划算】烧仙草83袋 +2袋试喝 共85袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "共85袋，含2袋试喝": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【超值聚划算】双皮奶83袋+2袋试喝【共85袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【超值聚划算】白凉粉83袋+2袋试喝【共85袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【家庭装】烧仙草43袋+2袋试喝【共45袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "共45袋，含2袋试喝": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【家庭装】白凉粉43袋+2袋试喝【共45袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【家庭装】双皮奶43袋+2袋试喝【共45袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【体验装】烧仙草33袋+2袋试喝【共35袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "共35袋，含2袋试喝": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【体验装】白凉粉33袋+2袋试喝【共35袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【体验装】双皮奶33袋+2袋试喝【共35袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【试喝装-快递贵】烧仙草20袋+2袋试喝【共22袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "共22袋，含2袋试喝": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【试喝装-快递贵】白凉粉20袋+2袋试喝【共22袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【试喝装-快递贵】双皮奶20袋+2袋试喝【共22袋】": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【体验装-快递贵】烧仙草 5袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "共5袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【体验装-快递贵】白凉粉 5袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【试喝装-快递贵】双皮奶 5袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【精品组合装-店长推荐】烧仙草15袋+双皮奶15袋+白凉粉15袋 共45袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "三种口味各15袋，共45袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "烧仙草粉「免煮」，细腻嫩滑、Q弹爽口": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "烧仙草0香精、0脂肪": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "烧仙草口感纯正，还原烧仙草本味，无苦味怪味，老少皆宜": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "一煮一冻制作轻松，在家用20g粉加160-200ml沸水，搅拌溶解后倒入模具，冷藏凝固后切块，搭配坚果、酸奶、水果风味更佳": {
+              "source_ids": [
+                "image-M-part-3"
+              ],
+              "kind": "description"
+            },
+            "白凉粉晶莹剔透、爽滑可口，0脂好吃不怕胖，适合夏天DIY": {
+              "source_ids": [
+                "image-M-part-3"
+              ],
+              "kind": "description"
+            },
+            "白凉粉制作简单新手也成功，水粉比例1:10": {
+              "source_ids": [
+                "image-M-part-3"
+              ],
+              "kind": "description"
+            },
+            "双皮奶粉可在家复刻广式甜品，奶香浓郁、口感顺滑、制作轻松，有奶呼呼的清爽感，煮一冻无需加糖": {
+              "source_ids": [
+                "image-E"
+              ],
+              "kind": "description"
+            },
+            "提供详尽制作方法，按说明制作即可": {
+              "source_ids": [
+                "review-0"
+              ],
+              "kind": "description"
+            },
+            "全密封独立包装，产品正规": {
+              "source_ids": [
+                "review-0"
+              ],
+              "kind": "description"
+            },
+            "家庭DIY自制美味，Q弹爽滑简单易做": {
+              "source_ids": [
+                "image-E"
+              ],
+              "kind": "description"
+            },
+            "万物皆可白凉粉，可做多种造型甜品": {
+              "source_ids": [
+                "image-J"
+              ],
+              "kind": "description"
+            },
+            "今日下单立减10元": {
+              "source_ids": [
+                "image-E"
+              ],
+              "kind": "description"
+            },
+            "热销带货达人大凤的日常生活推荐": {
+              "source_ids": [
+                "copy-4"
+              ],
+              "kind": "description"
+            },
+            "正面：按说明制作后味道绝佳、非常好吃，家人喜欢吃": {
+              "source_ids": [
+                "review-0"
+              ],
+              "kind": "feedback"
+            },
+            "正面：味道很好，会再次购买": {
+              "source_ids": [
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "正面：好吃、味道不错": {
+              "source_ids": [
+                "review-5"
+              ],
+              "kind": "feedback"
+            },
+            "正面：免煮白凉粉美味": {
+              "source_ids": [
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "正面：包装完好无损，性价比高，客服态度好": {
+              "source_ids": [
+                "review-1"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：味道很甜很甜": {
+              "source_ids": [
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "配料表仅提供了烧仙草的配料（仙草粉、食用葡萄糖），白凉粉、双皮奶的配料在资料中缺失": {
+              "source_ids": [
+                "attr-4"
+              ],
+              "kind": "fact"
+            },
+            "商品名和规格含烧仙草、白凉粉、双皮奶三种产品，但配料、产品名称、标准代码等多为烧仙草单品类信息，不能套用于其他口味": {
+              "source_ids": [
+                "identity",
+                "attr-3",
+                "attr-4"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 1
+        }
+      },
+      "confirmed_at": "2026-10-28T09:57:23.907646+00:00"
+    }
+  ],
+  "elapsed_seconds": 19.0,
+  "trace": []
+}

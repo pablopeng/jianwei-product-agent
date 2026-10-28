@@ -1,0 +1,1064 @@
+{
+  "type": "accuracy",
+  "product_id": "3827273478864765310",
+  "result_revision": "6d2305db1d80733c383792df893f50511924a1e6565a3b97590a9544bc7d9116",
+  "profile_revision": "1c5275428f40104bf97cc2c8990d7ee55d25ad243c7bffa675815bc3a8c73dc2",
+  "material_revision": "02bb3d265c91d46e8c8ef246897f77cf41b32806207564828a8e5562044aef7a",
+  "counts": {
+    "supported": 29,
+    "contradicted": 0,
+    "insufficient": 15
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "益生元枇杷山楂糕",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "产品名称：益生元枇杷山楂糕鲜果打浆酸甜软糯大人小孩健康营养解馋小零食"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "休闲食品/蜜饯果干/山楂类制品",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "first_category：休闲食品；second_category：蜜饯果干；third_category：山楂类制品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "山楂",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表首位为山楂。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "山楂，枇杷（添加量≥40%），麦芽糖浆、白砂糖、低聚异麦芽糖（添加量≥5%），饮用水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "枇杷（添加量≥40%）",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "配料表明确枇杷添加量≥40%。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "枇杷（添加量≥40%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "麦芽糖浆",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "配料表列有麦芽糖浆。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "麦芽糖浆、白砂糖、低聚异麦芽糖"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "白砂糖",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "配料表列有白砂糖。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "麦芽糖浆、白砂糖、低聚异麦芽糖"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "低聚异麦芽糖（添加量≥5%）",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "配料表明确低聚异麦芽糖添加量≥5%。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "低聚异麦芽糖（添加量≥5%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "饮用水",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "配料表列有饮用水。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "饮用水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "品牌：绿度山庄",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "品牌字段为绿度山庄。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "LUDUSHANZHUANG/绿度山庄"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "包装类型：袋装",
+      "source_ids": [
+        "attr-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "包装类型为袋装。",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "袋装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "净含量：250g",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "净含量字段为250g。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "250g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "保质期：10个月",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "保质期字段为10月，即10个月。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "10月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "贮存条件：常温",
+      "source_ids": [
+        "attr-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "贮存条件为常温。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "常温"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "食品工艺：鲜果打浆",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "食品工艺字段为鲜果打浆。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "鲜果打浆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "产品标准代码：GB14884",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "产品标准代码为GB14884。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "GB14884"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "是否有机食品：否",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "是否为有机食品字段为否。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "产地与包装：国产预包装食品",
+      "source_ids": [
+        "attr-12"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "产地与包装为国产-预包装食品。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "生产企业地址：广东省揭西县凤江镇花寨村委溪子沟6号",
+      "source_ids": [
+        "attr-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "生产企业地址与原始字段一致。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "广东省揭西县凤江镇花寨村委溪子沟6号"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "独立纸棒造型，便携不脏手",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "图片可见文字明确写有“独立纸棒造型·便携不脏手”，且画面展示带纸棒的产品造型。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "独立纸棒造型·便携不脏手"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "独立包装",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "图片以大字标注“独立包装”，并展示每块山楂糕均有单独包装。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "独立包装"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "画面中每块山楂糕均有单独的长条包装袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "150g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "\"规格\": [\"150g*1袋\", \"250g*1袋\", \"500g*1袋\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "口味：枇杷+山楂+益生元，鲜果打浆",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "口味分类与工艺字段与描述相符。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "枇杷+山楂+益生元 /鲜果打浆/健康美味"
+            },
+            {
+              "source_id": "attr-5",
+              "quote": "鲜果打浆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "250g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "\"规格\": [\"150g*1袋\", \"250g*1袋\", \"500g*1袋\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "500g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "\"规格\": [\"150g*1袋\", \"250g*1袋\", \"500g*1袋\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "枇杷+山楂双重口感，原果出浆",
+      "source_ids": [
+        "copy-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "枇杷+山楂 双重口感；酸甜可口 原果出浆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "添加益生元，清润枇杷搭配酸甜山楂",
+      "source_ids": [
+        "copy-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "益生元；清润枇杷；酸甜山楂"
+            },
+            {
+              "source_id": "attr-11",
+              "quote": "低聚异麦芽糖（添加量≥5%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "软软糯糯、酸甜可口，酸甜软糯开胃",
+      "source_ids": [
+        "copy-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "软糯酸甜口感有卖点及多条买家评价支持。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "酸甜软糯开胃"
+            },
+            {
+              "source_id": "review-2",
+              "quote": "软软糯糯，酸甜可口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "独立包装，方便卫生",
+      "source_ids": [
+        "copy-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "卖点原文含独立包装方便卫生，配图可见独立包装。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "独立包装 方便卫生"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "独立包装 方便卫生"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "鲜果打浆，干净配方，自带天然果香",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "详情长图可见鲜果打浆、干净配方、自带天然果香文字。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "鲜果打浆 干净配方 自带天然果香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "文火慢熬收膏，入口绵润酸甜",
+      "source_ids": [
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "supported",
+          "reason": "详情长图可见文火慢熬收膏、入口绵润酸甜文字。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "鲜果文火慢熬收膏 入口绵润酸甜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "三重营养搭配，健康美味，老少皆宜",
+      "source_ids": [
+        "copy-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "insufficient",
+          "reason": "“三重营养搭配”“健康美味”有文案和图片，但“老少皆宜”只是原卖点表述，缺乏可核查的适用人群依据，整条无法由证据充分支撑。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "三重营养搭配 健康美味"
+            },
+            {
+              "source_id": "image-H",
+              "quote": "三重营养搭配 健康美味"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "大人小孩均可食用，健康营养解馋小零食",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "insufficient",
+          "reason": "图片仅展示产品和“独立包装”等，无“大人小孩均可食用”“健康营养”等文字或可证明营养宣称的标注；档案和评价亦不能作为客观证据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "独立纸棒造型·便携不脏手；独立包装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "零食达人好店",
+      "source_ids": [
+        "copy-2",
+        "copy-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "supported",
+          "reason": "店铺文描卖点含“零食达人好店”。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "零食达人好店"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "店铺回头客6000+",
+      "source_ids": [
+        "copy-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "insufficient",
+          "reason": "“店铺回头客6000+”仅来自平台营销文案，无独立数据来源支撑。",
+          "evidence": [
+            {
+              "source_id": "copy-1",
+              "quote": "店铺回头客6000+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "正面：酸甜可口、软糯好吃，打开就停不下来",
+      "source_ids": [
+        "review-2",
+        "copy-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "买家评价中的个体体验，转述为“正面”评价与原评价一致。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "打开就吃了几个，停不下来，软软糯糯，酸甜可口，太好吃了"
+            },
+            {
+              "source_id": "copy-0",
+              "quote": "包装很好看，里面有六支山楂糕，酸甜可口，软糯好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "正面：包装很好看，与描述相符，会回购",
+      "source_ids": [
+        "review-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "supported",
+          "reason": "买家评价原文即包装好看、与描述相符、会回购。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "包装很好看，里面有六支山楂糕，酸甜可口，软糯好吃，日期最新的，与描述完全相符，会回购"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "个人感受：性价比高、发货和物流快、服务态度好",
+      "source_ids": [
+        "review-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "服务态度：很好；性价比：很高；发货速度：嘎嘎快；物流速度：嗷嗷快"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "枇杷山楂双果搭｜山楂配枇杷，枇杷添加量≥40%，再加低聚异麦芽糖≥5%，一口尝到两种果味",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "配料表支持枇杷≥40%、低聚异麦芽糖≥5%，两种果原料与两种果味对应。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "山楂，枇杷（添加量≥40%），麦芽糖浆、白砂糖、低聚异麦芽糖（添加量≥5%），饮用水"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "鲜果打浆，文火慢熬｜山楂和枇杷先打成浆再慢慢熬成糕，入口绵润，酸甜里带果香",
+      "source_ids": [
+        "attr-5",
+        "image-M-part-2",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "工艺字段与详情图均支持鲜果打浆、文火慢熬，口感表述有来源。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "鲜果打浆"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "鲜果打浆 干净配方"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "鲜果文火慢熬收膏 入口绵润酸甜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "软糯酸甜，开胃解馋｜口感软软糯糯、酸酸甜甜，饭前来一块很开胃",
+      "source_ids": [
+        "copy-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "“软糯酸甜”有依据，但“饭前来一块很开胃”是原卖点及图片文字中的暗示，缺乏对应功能或适用的客观证据，整条不能全支持。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "酸甜软糯开胃"
+            },
+            {
+              "source_id": "image-G",
+              "quote": "酸甜软糯开胃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "纸棒造型，拿着不脏手｜做成独立纸棒小造型，捏着棒子吃，手指不容易沾上糖浆",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "图片有“独立纸棒造型·便携不脏手”文字，并展示带棒造型；手持棒吃、手指不易沾糖浆属对“不脏手”的合理说明，未超出原描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "独立纸棒造型·便携不脏手"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "盘中产品带白色纸棒，可手持棒部"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "独立包装，随手带走｜每块单独包装，放包里或办公室抽屉都方便，想吃时拆一块",
+      "source_ids": [
+        "image-M-part-4",
+        "copy-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-5",
+              "quote": "独立包装"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "独立包装"
+            }
+          ]
+        },
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "图片支持“独立包装”及每块单独包装，但未提及“放包里或办公室抽屉都方便”等携带场景；来源copy-5不在本批材料中，无法核验。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "独立包装"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "每块山楂糕均有单独的长条包装袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "三种袋装规格｜150g、250g、500g可选，一人尝鲜或全家分享都能挑到合适的量",
+      "source_ids": [
+        "attr-8",
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "\"规格\": [\"150g*1袋\", \"250g*1袋\", \"500g*1袋\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "常温存放好打理｜放在阴凉干燥处就行，不用占冰箱，追剧、下午茶随时来一块",
+      "source_ids": [
+        "attr-4",
+        "attr-9"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "保质期与贮存条件有“常温”和“10月”支持，但“阴凉干燥处”并非原始贮存条件原文，且未说明保质期内具体存放要求。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "常温"
+            },
+            {
+              "source_id": "attr-4",
+              "quote": "10月"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 29 / 冲突 0 / 待核 15"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

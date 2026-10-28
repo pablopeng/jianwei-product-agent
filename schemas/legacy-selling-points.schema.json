@@ -1,0 +1,269 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:selling-agent:selling-points.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "product_id": {
+      "type": "string"
+    },
+    "material_revision": {
+      "type": "string"
+    },
+    "knowledge_revision": {
+      "type": "string",
+      "description": "运行时对已校验知识档案计算的内容摘要"
+    },
+    "skill": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "const": "food-beverage"
+        },
+        "version": {
+          "const": "1.0"
+        }
+      },
+      "required": [
+        "name",
+        "version"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "needs_input"
+      ]
+    },
+    "target": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "scope": {
+          "type": "string",
+          "enum": [
+            "common",
+            "sku"
+          ]
+        },
+        "sku_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "audience": {
+          "type": "string",
+          "description": "用户指定的沟通受众；不能当作适用人群证明"
+        },
+        "scenario": {
+          "type": "string",
+          "description": "表达场景；不能补充商品事实"
+        },
+        "placement": {
+          "type": "string",
+          "enum": [
+            "shelf_summary",
+            "detail_page"
+          ]
+        },
+        "tone": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "scope",
+        "sku_ids",
+        "audience",
+        "scenario",
+        "placement",
+        "tone"
+      ]
+    },
+    "headline": {
+      "type": "string",
+      "maxLength": 36
+    },
+    "headline_claim_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "points": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/point"
+      },
+      "maxItems": 5
+    },
+    "detail_copy": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "detail_claim_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "omissions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "reason": {
+            "type": "string"
+          },
+          "issue_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "observation_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "reason",
+          "issue_ids",
+          "observation_ids"
+        ]
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "change_summary": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "description": "公开的修改摘要，不记录模型隐式推理"
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "product_id",
+    "material_revision",
+    "knowledge_revision",
+    "skill",
+    "status",
+    "target",
+    "headline",
+    "headline_claim_ids",
+    "points",
+    "detail_copy",
+    "detail_claim_ids",
+    "omissions",
+    "questions",
+    "change_summary"
+  ],
+  "$defs": {
+    "claim": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "product_fact",
+            "merchant_description",
+            "buyer_feedback",
+            "usage_suggestion"
+          ]
+        },
+        "observation_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "id",
+        "text",
+        "kind",
+        "observation_ids"
+      ]
+    },
+    "point": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string",
+          "maxLength": 24
+        },
+        "body": {
+          "type": "string",
+          "maxLength": 100
+        },
+        "dimension": {
+          "type": "string",
+          "enum": [
+            "ingredient",
+            "flavor_texture",
+            "process",
+            "packaging",
+            "convenience",
+            "scenario",
+            "specification",
+            "other"
+          ]
+        },
+        "claims": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/claim"
+          },
+          "minItems": 1
+        },
+        "sku_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "body",
+        "dimension",
+        "claims",
+        "sku_ids"
+      ]
+    }
+  }
+}

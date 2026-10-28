@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:selling-agent:input.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "product_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "display_name": {
+      "type": "string"
+    },
+    "materials": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "product_attributes",
+              "specification",
+              "detail_text",
+              "image",
+              "marketing_copy",
+              "buyer_review",
+              "ai_derived",
+              "merchant_supplement"
+            ]
+          },
+          "label": {
+            "type": "string"
+          },
+          "locator": {
+            "type": "string",
+            "description": "表格单元格、JSON pointer或图片片段坐标"
+          },
+          "text": {
+            "type": "string",
+            "description": "原文；图片未识别时可为空"
+          },
+          "image_path": {
+            "type": "string",
+            "description": "受信任本地图片路径或空字符串；不是模型输出的可执行路径"
+          },
+          "image_token": {
+            "type": "string",
+            "description": "飞书资源引用，可为空；不等于可供模型访问的图片URL"
+          },
+          "origin": {
+            "type": "string",
+            "enum": [
+              "merchant",
+              "platform",
+              "buyer",
+              "ai",
+              "unknown"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "label",
+          "locator",
+          "text",
+          "image_path",
+          "image_token",
+          "origin"
+        ]
+      },
+      "minItems": 1
+    }
+  },
+  "required": [
+    "schema_version",
+    "product_id",
+    "display_name",
+    "materials"
+  ]
+}

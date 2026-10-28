@@ -1,0 +1,2015 @@
+{
+  "type": "accuracy",
+  "product_id": "3825952452159603168",
+  "result_revision": "bce743681cf3f5d4e7532fcddd3044cf9d684f6d1e627ed0b1f58b9e8fa723ed",
+  "profile_revision": "f61cbec93334da5f606a32229f2e9a4fff5e42f48a461f9eb6695bae48bc603f",
+  "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+  "counts": {
+    "supported": 50,
+    "contradicted": 0,
+    "insufficient": 15
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "蜂蜜花生味麻花",
+      "source_ids": [
+        "identity",
+        "image-M-3",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "产品名称：蜂蜜花生味麻花"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "蜂蜜花生味麻花（包装正面）"
+            }
+          ]
+        },
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "名称与图片正面标注一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "产品名称：蜂蜜花生麻花"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "蜂蜜花生味麻花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "糕点/点心/麻花；油炸类糕点",
+      "source_ids": [
+        "identity",
+        "image-E",
+        "image-F",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "糕点/点心；麻花"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "油炸类糕点"
+            }
+          ]
+        },
+        {
+          "id": "profile-2",
+          "verdict": "supported",
+          "reason": "品类与油炸类糕点标识均有图证。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "品类：油炸类糕点"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "油炸类糕点"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "小麦粉",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表首项为小麦粉。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "小麦粉、植物油、白砂糖、花生(≥5%)"
+            }
+          ]
+        },
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表首位为小麦粉。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "小麦粉、植物油、白砂糖"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "植物油",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "配料表列有植物油。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "小麦粉、植物油、白砂糖"
+            }
+          ]
+        },
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "配料表列有植物油。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "小麦粉、植物油、白砂糖"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "白砂糖",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "配料表列有白砂糖。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "植物油、白砂糖、花生(≥5%)"
+            }
+          ]
+        },
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "配料表列有白砂糖。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "小麦粉、植物油、白砂糖、花生（≥5%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "花生（≥5%）",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "配料表及包装图标注花生≥5%。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "花生(≥5%)"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "≥5%花生添加量"
+            }
+          ]
+        },
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "配料表花生标注≥5%。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "花生（≥5%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "麦芽糖浆",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "配料表列有麦芽糖浆。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "花生(≥5%)、麦芽糖浆、芝麻(≥3%)"
+            }
+          ]
+        },
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "配料表列有麦芽糖浆。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "花生（≥5%）、麦芽糖浆、芝麻（≥3%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "芝麻（≥3%）",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "配料表标注芝麻≥3%。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "麦芽糖浆、芝麻(≥3%)"
+            }
+          ]
+        },
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "配料表芝麻标注≥3%。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "芝麻（≥3%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "蜂蜜（≥0.7%）",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "配料表标注蜂蜜≥0.7%。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "芝麻(≥3%)、蜂蜜(≥0.7%)"
+            }
+          ]
+        },
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "配料表蜂蜜标注≥0.7%。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "蜂蜜（≥0.7%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "食用盐",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "配料表列有食用盐。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "蜂蜜(≥0.7%)、食用盐"
+            }
+          ]
+        },
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "配料表列有食用盐。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "蜂蜜（≥0.7%）、食用盐、复配膨松剂"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "复配膨松剂（焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉）",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "配料表完整列出复配膨松剂成分。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "复配膨松剂(焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉)"
+            }
+          ]
+        },
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "复配膨松剂成分逐一列明。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "复配膨松剂（焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "碳酸氢钠",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "配料表列有碳酸氢钠。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "玉米淀粉)、碳酸氢钠、磷脂"
+            }
+          ]
+        },
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "配料表另列碳酸氢钠。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "玉米淀粉）、碳酸氢钠、磷脂"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "磷脂",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "配料表列有磷脂。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "碳酸氢钠、磷脂、高活性干酵母"
+            }
+          ]
+        },
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "配料表列有磷脂。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "碳酸氢钠、磷脂、高活性干酵母"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "高活性干酵母",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "配料表列有高活性干酵母。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "磷脂、高活性干酵母"
+            }
+          ]
+        },
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "配料表列有高活性干酵母。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "磷脂、高活性干酵母、天然酵母预拌粉"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "天然酵母预拌粉（小麦粉、大米粉、葡萄糖、天然酵母（小麦、大麦、大米、葡萄干、蜂蜜）、玉米淀粉）（添加量≥0.03%）",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "配料表完整列出天然酵母预拌粉成分及添加量。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "天然酵母预拌粉(小麦粉、大米粉、葡萄糖、天然酵母(小麦、大麦、大米、葡萄干、蜂蜜)玉米淀粉)(添加量≥0.03%)"
+            }
+          ]
+        },
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "预拌粉组成与添加量均有标注。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "天然酵母预拌粉（小麦粉、大米粉、葡萄糖、天然酵母（小麦、大麦、大米、葡萄干、蜂蜜）、玉米淀粉）（添加量≥0.03%）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "三氯蔗糖",
+      "source_ids": [
+        "attr-9",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "配料表列有三氯蔗糖。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "(添加量≥0.03%)、三氯蔗糖"
+            }
+          ]
+        },
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "配料表末位列三氯蔗糖。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "玉米淀粉）（添加量≥0.03%）、三氯蔗糖"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "品牌：矮子馅饼",
+      "source_ids": [
+        "attr-10"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-10",
+              "quote": "品牌：矮子馅饼"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "矮子馅饼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "贮存条件：常温",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "贮存条件：常温"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "保质期：180天",
+      "source_ids": [
+        "attr-5",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "保质期：180天"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "保质期 180天"
+            }
+          ]
+        },
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "保质期180天有图证。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "保质期 180天"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "包装类型：包装/预包装食品",
+      "source_ids": [
+        "attr-1",
+        "attr-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-1",
+              "quote": "包装类型：包装"
+            },
+            {
+              "source_id": "attr-6",
+              "quote": "产地与包装：国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "产地：中国大陆；详情标注湖北·武汉、湖北·咸宁，具体以包装上生产日期旁代码为准",
+      "source_ids": [
+        "attr-11",
+        "image-K",
+        "image-M-2",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "产地：中国大陆"
+            },
+            {
+              "source_id": "image-M-2",
+              "quote": "产地 湖北武汉 湖北咸宁"
+            }
+          ]
+        },
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "产地标注湖北咸宁、湖北武汉，并说明以代码为准。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "*由于生产地址不同，生产许可证编号不同，具体生产地址及编号以包装上日期旁代码为准"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "生产企业：湖北省崇阳县君欢食品有限责任公司",
+      "source_ids": [
+        "attr-12"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "生产企业名称：湖北省崇阳县君欢食品有限责任公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "生产企业地址：湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "生产企业地址：湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC12442011252580、SC12442122300136",
+      "source_ids": [
+        "attr-3",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "本批文字材料仅见SC12442011252580，另一许可证编号未在本批原始证据中见到。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "食品生产许可证编号：SC12442011252580"
+            }
+          ]
+        },
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "两个许可证编号在图中完整列示。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "食品生产许可证编号1 SC12442122300136 食品生产许可证编号2 SC12442011252580"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "产品标准代码：GB7099",
+      "source_ids": [
+        "attr-4",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "产品标准代码：GB7099"
+            }
+          ]
+        },
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "执行标准代号为GB 7099。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "执行标准代号 GB 7099"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "产品名称：蜂蜜花生味麻花",
+      "source_ids": [
+        "attr-7",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "产品名称：蜂蜜花生味麻花"
+            }
+          ]
+        },
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "产品名称与图一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "产品名称 蜂蜜花生麻花"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "致敏物质提示：含麸质谷物、大豆、芝麻、花生、蜂蜜；1岁以下婴幼儿不宜食用",
+      "source_ids": [
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "致敏及婴幼儿提示有图证。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "致敏物质提示 本产品含有麸质的谷物及其制品、大豆及其制品、芝麻成分、花生成分、添加蜂蜜，1岁以下婴幼儿不宜食用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "温馨提示：儿童青少年应避免过量摄入盐油糖",
+      "source_ids": [
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "温馨提示原文一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "温馨提示：儿童青少年应避免过量摄入盐油糖"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "食用方式：开袋即食",
+      "source_ids": [
+        "image-M-2",
+        "copy-19",
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "产品信息图标注食用方式为开袋即食，宣传文案也列有开袋即食。",
+          "evidence": [
+            {
+              "source_id": "image-M-2",
+              "quote": "食用方式 开袋即食"
+            },
+            {
+              "source_id": "copy-19",
+              "quote": "开袋即食"
+            }
+          ]
+        },
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "拆开即食有图证。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装 便携又卫生 拆开即食 不易受潮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "营养成分表（每100克）：能量2485kJ（NRV 30%）、蛋白质7.1g（12%）、脂肪40.6g（68%）、饱和脂肪15.5g（78%）、碳水化合物50.7g（17%）、糖12.5g（NRV未标注）、钠199mg（10%）",
+      "source_ids": [
+        "attr-8",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "营养成分数值均有属性支持，但NRV百分比仅见于待查文案，本批原始材料未给NRV值。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "能量 2485kJ、蛋白质 7.1g、脂肪 40.6g、饱和脂肪（酸） 15.5g、碳水化合物 50.7g、糖（乳糖） 12.5g、钠 199mg"
+            }
+          ]
+        },
+        {
+          "id": "profile-30",
+          "verdict": "supported",
+          "reason": "各营养成分数值与NRV逐项一致，糖未标NRV。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "能量 2485千焦(kJ) 30%；蛋白质 7.1克(g) 12%；脂肪 40.6克(g) 68%；-饱和脂肪 15.5克(g) 78%；碳水化合物 50.7克(g) 17%；-糖 12.5克(g)；钠 199毫克(mg) 10%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "【蜂蜜花生麻花】278g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "规格列表含蜂蜜花生麻花278g*1袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "净含量：278g*1袋",
+      "source_ids": [
+        "specs",
+        "attr-13"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "净含量：278g*1袋"
+            },
+            {
+              "source_id": "attr-13",
+              "quote": "净含量：278克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "单袋装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "单袋装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "【蜂蜜花生麻花】278g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "supported",
+          "reason": "规格列表含278g*2袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "净含量：278g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "净含量：278g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "两袋组合装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "两袋组合装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "【蜂蜜花生麻花】278g*3袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "supported",
+          "reason": "规格列表含278g*3袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*3袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "净含量：278g*3袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "净含量：278g*3袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "三袋组合装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "三袋组合装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "蜂蜜花生味麻花 300克装",
+      "source_ids": [
+        "image-M-3",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "300克规格与正面净含量一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "净含量 300克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "包装正面标注净含量：300克",
+      "source_ids": [
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "supported",
+          "reason": "产品图正面可见净含量300克。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "净含量 300克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "内为独立小包装，便于携带、不易受潮",
+      "source_ids": [
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "supported",
+          "reason": "独立小包装、便携、不易受潮有图证，未提“不易受潮”以外承诺。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装 便携又卫生 拆开即食 不易受潮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-43",
+      "stage": "profile",
+      "text": "浅色袋装零售包装，袋上标有“蜂蜜花生味麻花”“油炸类糕点”“酥”等字样",
+      "source_ids": [
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-43",
+          "verdict": "supported",
+          "reason": "浅色袋装及“酥”“油炸类糕点”字样可见。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "酥；蜂蜜花生味麻花；油炸类糕点"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-44",
+      "stage": "profile",
+      "text": "酥脆解馋、香甜不腻；甜而不腻、脆而不硬；入口香甜酥脆、脆而不硬",
+      "source_ids": [
+        "copy-19",
+        "image-E",
+        "image-K"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-44",
+          "verdict": "supported",
+          "reason": "宣传文案与包装图支持酥脆、香甜不腻、脆而不硬的口感描述。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "酥脆解馋 香甜不腻"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "甜而不腻 脆而不硬"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-45",
+      "stage": "profile",
+      "text": "大方用料：现剁碾碎花生粒添加量≥5%，清甜优质蜂蜜添加量≥0.7%，碾平芝麻醇香、添加量≥3%",
+      "source_ids": [
+        "image-J",
+        "copy-19"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-45",
+          "verdict": "supported",
+          "reason": "详情图明示花生粒≥5%、蜂蜜≥0.7%、芝麻≥3%。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "现剁碾碎花生粒添加量≥5%\n清甜不腻优质蜂蜜添加量≥0.7%\n撵平 芝麻醇香 添加量≥3%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-46",
+      "stage": "profile",
+      "text": "三重发酵工艺，所以脆的刚刚好；人气上新·三重发酵麻花",
+      "source_ids": [
+        "image-I",
+        "copy-13",
+        "image-M-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-46",
+          "verdict": "insufficient",
+          "reason": "“三重发酵”见于商家宣传图及文案，但本批资料无工艺参数或认证材料，不能作为确定工艺事实。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "三重发酵 所以才脆的刚刚好"
+            },
+            {
+              "source_id": "copy-13",
+              "quote": "人气上新·三重发酵麻花"
+            }
+          ]
+        },
+        {
+          "id": "profile-46",
+          "verdict": "supported",
+          "reason": "三重发酵与“脆的刚刚好”为商家图文宣传原话。",
+          "evidence": [
+            {
+              "source_id": "image-M-4",
+              "quote": "三重发酵 入口即酥、不硬不韧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-47",
+      "stage": "profile",
+      "text": "独立包装、便携卫生，方便收纳，适合随身放办公室解馋；拆开即食、不易受潮、分享不脏手",
+      "source_ids": [
+        "copy-19",
+        "image-K",
+        "image-M-3",
+        "image-M-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-47",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "独立包装 便携卫生"
+            },
+            {
+              "source_id": "copy-19",
+              "quote": "独立包装 便携卫生；独立包装；开袋即食"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "独立小包装方便收纳，随身放办公室"
+            }
+          ]
+        },
+        {
+          "id": "profile-47",
+          "verdict": "supported",
+          "reason": "独立包装、便携卫生、拆开即食、不易受潮、分享不脏手均有图证；办公解馋属场景表述。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装 便携又卫生 拆开即食 不易受潮"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "分享不脏手 干净又卫生"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-48",
+      "stage": "profile",
+      "text": "蜂蜜花生味层次：先遇蜜的绵柔，再遇花生的香，双重口感交织；花生去皮烘烤至微黄碾成均匀碎粒，咸香粗糙撞上蜜浆柔润清甜，酥、松、化，花生在嘴里爆香",
+      "source_ids": [
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-48",
+          "verdict": "supported",
+          "reason": "口感层次与花生处理描述与详情图一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "每咬一口，先遇蜜的绵柔，再遇花生的香，双重口感交织。去皮烘烤至微黄，碾成均匀碎粒。花生的咸香粗糙，撞上蜜浆的柔润清甜，酥、松、化，花生在嘴里嘭嘭爆香。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-49",
+      "stage": "profile",
+      "text": "蜂蜜挂浆、蜜裹酥脆：每根麻花螺旋纹里渗进蜜意，外层裹蜂蜜与麦芽糖浆；不油不燥、酥松化口，入口清甜与麦香",
+      "source_ids": [
+        "image-M-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-49",
+          "verdict": "supported",
+          "reason": "蜂蜜麦芽糖浆挂浆与酥松描述为原文。",
+          "evidence": [
+            {
+              "source_id": "image-M-4",
+              "quote": "外层裹上蜂蜜与麦芽糖浆。不油不燥，酥松化口，入口只有清甜与麦香。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-50",
+      "stage": "profile",
+      "text": "十几道工序：阳光小麦老面引子足时醒发，面身自带麦香；揉出筋道、拧成花样、7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅、不焦不糊、外酥里润、脆得有层次",
+      "source_ids": [
+        "image-M-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-50",
+          "verdict": "supported",
+          "reason": "工序、老面醒发、7道拧劲、宽油慢炸等均为原文。",
+          "evidence": [
+            {
+              "source_id": "image-M-4",
+              "quote": "十几道工序；阳光小麦 老面引子 3重发酵 足时醒发 面身自带麦香；揉出筋道 拧成花样 7道拧劲成型 缠出均匀纹路；成熟宽油慢炸 全程翻搅 不焦不糊 外酥里润 脆得有层次"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-51",
+      "stage": "profile",
+      "text": "食用场景：聚会小食、摸鱼零食（小饿小累提神）、追剧搭子",
+      "source_ids": [
+        "image-M-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-51",
+          "verdict": "supported",
+          "reason": "三种食用场景均有图证。",
+          "evidence": [
+            {
+              "source_id": "image-M-5",
+              "quote": "聚会小食；摸鱼零食；追剧搭子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-52",
+      "stage": "profile",
+      "text": "权威机构检测，食有保障、家人放心",
+      "source_ids": [
+        "image-M-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-52",
+          "verdict": "supported",
+          "reason": "“权威机构检测”为商家图文宣传，图片有报告照片但无具体机构或结论佐证；按谨慎原则，仅该宣传语本身可溯源，不升级为认证事实，但claim仅为复述宣传语。",
+          "evidence": [
+            {
+              "source_id": "image-M-5",
+              "quote": "权威机构检测 食有保障 家人放心"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-53",
+      "stage": "profile",
+      "text": "贴心服务4大保障：假一赔四、坏损包退、运费险、七天无理由",
+      "source_ids": [
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-53",
+          "verdict": "supported",
+          "reason": "四大保障原文一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "贴心服务4大保障：假一赔四、坏损包退、运费险、七天无理由"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-54",
+      "stage": "profile",
+      "text": "社交热销表现：百人加购、60+达人推荐、热销带货达人楚铃推荐、人气新品",
+      "source_ids": [
+        "copy-0",
+        "copy-2",
+        "copy-18",
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-54",
+          "verdict": "insufficient",
+          "reason": "百人加购、60+达人推荐、达人楚铃推荐等仅见平台运营标签，缺乏可核验的销售或推荐数据；人气新品为宣传定性。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "百人加购"
+            },
+            {
+              "source_id": "copy-2",
+              "quote": "60+达人推荐"
+            },
+            {
+              "source_id": "copy-18",
+              "quote": "热销带货达人楚铃推荐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-55",
+      "stage": "profile",
+      "text": "正面：口感酥脆、脆而不硬、香甜不腻，越嚼越香，花生口味突出；13人提及“酥脆”",
+      "source_ids": [
+        "copy-4",
+        "copy-9",
+        "review-0",
+        "review-3",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-55",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "麻花吃起来酥酥脆脆的，很香！一点都不会腻"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "入口香甜酥脆，脆而不硬，不会过分甜腻"
+            },
+            {
+              "source_id": "copy-9",
+              "quote": "13人说\"酥脆\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-56",
+      "stage": "profile",
+      "text": "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根",
+      "source_ids": [
+        "copy-4",
+        "review-3",
+        "review-6",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-56",
+          "verdict": "supported",
+          "reason": "买家评价原文支持独立小包装干净方便、便于携带和办公室收纳、饿了嘴馋时吃。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "独立小包装方便收纳，随身放办公室，饿了、嘴馋的时候来一根"
+            },
+            {
+              "source_id": "review-1",
+              "quote": "独立包装的，干净又方便"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-57",
+      "stage": "profile",
+      "text": "正面：一大包份量足、价格实惠；有买家表示多次回购",
+      "source_ids": [
+        "copy-4",
+        "review-1",
+        "review-8",
+        "copy-12"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-57",
+          "verdict": "insufficient",
+          "reason": "“份量足、价格实惠”有买家评价支持，但“多次回购”仅买家个人表述，不足以支持整体复购表现。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "一大包份量很足。独立包装的，干净又方便。价格也实惠"
+            },
+            {
+              "source_id": "review-8",
+              "quote": "我都买了好多次了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-58",
+      "stage": "profile",
+      "text": "正面：日期新鲜、配料干净；外观造型好看",
+      "source_ids": [
+        "review-5",
+        "review-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-58",
+          "verdict": "supported",
+          "reason": "买家评价原文提及日期新鲜、配料干净、外观造型好看。",
+          "evidence": [
+            {
+              "source_id": "review-5",
+              "quote": "脆而不硬，很新鲜，外观造型好看"
+            },
+            {
+              "source_id": "review-6",
+              "quote": "日期新鲜，配料干净"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-59",
+      "stage": "profile",
+      "text": "个人感受：有买家认为味道好、又香又甜，打算再回购",
+      "source_ids": [
+        "review-8",
+        "review-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-59",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-8",
+              "quote": "好吃，又香又甜，我都买了好多次了……又准备回购了"
+            },
+            {
+              "source_id": "review-6",
+              "quote": "口感好，满意，打算再来一些"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "蜜裹花生香，酥松有层次｜蜂蜜花生味麻花外层裹上蜂蜜与麦芽糖浆，花生碎粒≥5%、芝麻≥3%点缀其中；入口先碰到蜜的清甜柔润，再嚼到花生与芝麻的香，脆而不硬",
+      "source_ids": [
+        "identity",
+        "image-M-3",
+        "image-M-6",
+        "attr-9",
+        "copy-19",
+        "image-E",
+        "image-K",
+        "image-M-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "产品为蜂蜜花生味麻花，花生≥5%、芝麻≥3%；配料含蜂蜜和麦芽糖浆；包装图展示蜜汁裹附；宣传文案支持酥脆、脆而不硬、蜜甜与花生芝麻香。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "花生(≥5%)、麦芽糖浆、芝麻(≥3%)、蜂蜜(≥0.7%)"
+            },
+            {
+              "source_id": "image-H",
+              "quote": "麻花表面可见蜜汁裹附及花生碎粒、芝麻点缀"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "甜而不腻 脆而不硬"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "外层蜂蜜麦芽糖浆、花生≥5%、芝麻≥3%、先蜜后花生口感均有多图佐证；“脆而不硬”有“不硬不韧”原文支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "花生（≥5%）、麦芽糖浆、芝麻（≥3%）、蜂蜜（≥0.7%）"
+            },
+            {
+              "source_id": "image-M-4",
+              "quote": "外层裹上蜂蜜与麦芽糖浆"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "先遇蜜的绵柔，再遇花生的香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "开袋即食，追剧办公都顺手｜拆开就能吃，饿了或嘴馋时来一根；聚会小食、办公室解馋、追剧搭子都合适，不用另外准备",
+      "source_ids": [
+        "image-M-2",
+        "copy-19",
+        "image-M-3",
+        "image-M-5",
+        "copy-4",
+        "review-3",
+        "review-6",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "产品信息图明确开袋即食，宣传文案和买家评价支持办公室、追剧、解馋等食用场景，未暗含额外功能。",
+          "evidence": [
+            {
+              "source_id": "image-M-2",
+              "quote": "食用方式 开袋即食"
+            },
+            {
+              "source_id": "copy-19",
+              "quote": "开袋即食"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "随身放办公室，饿了、嘴馋的时候来一根"
+            }
+          ]
+        },
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "开袋即食及聚会/办公/追剧场景有商家图文支撑；买家评价仅作个体体验，未升级为客观保证。",
+          "evidence": [
+            {
+              "source_id": "image-M-3",
+              "quote": "拆开即食 不易受潮"
+            },
+            {
+              "source_id": "image-M-5",
+              "quote": "聚会小食；摸鱼零食；追剧搭子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "独立小包装，拿取不脏手｜300克装内为独立小包装，便于随身携带、收纳在办公室，也不易受潮；分着吃、分享给同事都方便",
+      "source_ids": [
+        "image-M-3",
+        "copy-19",
+        "image-K",
+        "image-M-4",
+        "copy-4",
+        "review-3",
+        "review-6",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "独立小包装、便携卫生有包装图支持，但“拿取不脏手”“分享不脏手”本批材料仅在旧文案中出现，无独立证据。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "独立包装 便携卫生"
+            },
+            {
+              "source_id": "copy-19",
+              "quote": "独立包装 便携卫生"
+            }
+          ]
+        },
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "300克装内为独立小包装、便携、不易受潮、分享不脏手均有图证；“拿取不脏手”对应“分享不脏手”表述。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "内为独立小包装"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装 便携又卫生 拆开即食 不易受潮；分享不脏手"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "拧花慢炸，外酥里润｜面团揉出筋道后拧成花样，7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅，脆得有层次",
+      "source_ids": [
+        "image-M-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "拧花7道、宽油慢炸、全程翻搅、脆有层次为原文。",
+          "evidence": [
+            {
+              "source_id": "image-M-4",
+              "quote": "揉出筋道 拧成花样 7道拧劲成型 缠出均匀纹路；成熟宽油慢炸 全程翻搅 不焦不糊 外酥里润 脆得有层次"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "多种规格选择｜蜂蜜花生味麻花有278g单袋、278g两袋组合、278g三袋组合，以及300克独立小包装装，按尝鲜或囤货需要选",
+      "source_ids": [
+        "specs",
+        "attr-13",
+        "image-M-6",
+        "image-M-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【蜂蜜花生麻花】278g*1袋；【蜂蜜花生麻花】278g*2袋；【蜂蜜花生麻花】278g*3袋"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "净含量：300克"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "内为独立小包装"
+            }
+          ]
+        },
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "规格列表含278g单袋、两袋、三袋及300克装；但未证明300克装为“独立小包装装”以外的其他规格冲突。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "净含量 300克"
+            },
+            {
+              "source_id": "image-M-3",
+              "quote": "独立小包装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "常温存放不占冰箱｜保质期180天，常温贮存即可，随手放在家里或办公室都方便",
+      "source_ids": [
+        "attr-0",
+        "attr-5",
+        "image-M-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "贮存条件：常温"
+            },
+            {
+              "source_id": "attr-5",
+              "quote": "保质期：180天"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "保质期 180天"
+            }
+          ]
+        },
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "保质期180天及常温贮存有档案属性与图证；常温存放不占冰箱为合理场景建议，未扩大功能承诺。",
+          "evidence": [
+            {
+              "source_id": "image-M-6",
+              "quote": "保质期 180天"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 50 / 冲突 0 / 待核 15"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

@@ -1,0 +1,2114 @@
+{
+  "product_id": "3700339768698208495",
+  "name": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+  "source_row": 5,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3700339768698208495",
+    "display_name": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L5/identity",
+        "text": "{\"product_name\": \"【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋\", \"product_category\": {\"first_category\": {\"category_name\": \"休闲食品\", \"category_code\": 1000000724}, \"second_category\": {\"category_name\": \"海味零食\", \"category_code\": 1000000727}, \"third_category\": {\"category_name\": \"虾类零食\", \"category_code\": 1000000745}}, \"brand_name\": \"\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "净含量",
+        "locator": "sheet2!L5/attr-0",
+        "text": "{\"净含量\": [\"400g\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "地理标志品种",
+        "locator": "sheet2!L5/attr-1",
+        "text": "{\"地理标志品种\": [\"无\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "是否地理标志品种",
+        "locator": "sheet2!L5/attr-2",
+        "text": "{\"是否地理标志品种\": [\"否\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "生产企业名称",
+        "locator": "sheet2!L5/attr-3",
+        "text": "{\"生产企业名称\": [\"江西正盈食品有限公司\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L5/attr-4",
+        "text": "{\"保质期\": [\"60天\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "产品名称",
+        "locator": "sheet2!L5/attr-5",
+        "text": "{\"产品名称\": [\"鲜脆虾巴\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "产地与包装",
+        "locator": "sheet2!L5/attr-6",
+        "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-7",
+        "kind": "product_attributes",
+        "label": "配料表",
+        "locator": "sheet2!L5/attr-7",
+        "text": "{\"配料表\": [\"大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-8",
+        "kind": "product_attributes",
+        "label": "贮存条件",
+        "locator": "sheet2!L5/attr-8",
+        "text": "{\"贮存条件\": [\"常温\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-9",
+        "kind": "product_attributes",
+        "label": "是否为有机食品",
+        "locator": "sheet2!L5/attr-9",
+        "text": "{\"是否为有机食品\": [\"否\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-10",
+        "kind": "product_attributes",
+        "label": "生产企业地址",
+        "locator": "sheet2!L5/attr-10",
+        "text": "{\"生产企业地址\": [\"江西省宜春市上高县工业园黄金堆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-11",
+        "kind": "product_attributes",
+        "label": "食品生产许可证编号",
+        "locator": "sheet2!L5/attr-11",
+        "text": "{\"食品生产许可证编号\": [\"SC11236092310319\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-12",
+        "kind": "product_attributes",
+        "label": "产品标准代码",
+        "locator": "sheet2!L5/attr-12",
+        "text": "{\"产品标准代码\": [\"GB/T20977\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L5/specs",
+        "text": "{\"child_spec_seq\": [\"规格\"], \"spec_values_seq\": [[\"（咸脆味）虾巴400g*1袋\", \"（香辣味）虾巴400g*1袋\", \"（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋\", \"（香辣味）虾巴400g*2袋\", \"（咸脆味）虾巴400g*2袋\", \"（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋\", \"（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋\", \"（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋\", \"(香辣味) 虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋\", \"（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋\", \"（香辣味）花生瓜子巴【不含虾】400g*2袋\", \"（咸脆味）花生瓜子巴【不含虾】400g*2袋\", \"（咸脆味）花生瓜子巴【不含虾】400g*1袋\", \"（香辣味）花生瓜子巴【不含虾】400g*1袋\", \"【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋\", \"【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "marketing_copy",
+        "label": "达人推荐卖点",
+        "locator": "sheet2!L5/copy-0",
+        "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"达人说：“野生河虾”\", \"达人说：“无防腐剂”\", \"达人说：“无香精”\", \"达人说：“无添加”\", \"达人说：“咸香酥脆”\", \"达人说：“无色素”\", \"达人说：“独立包装”\", \"达人说：“鲜香美味”\", \"达人说：“纯手工”\", \"达人说：“健康放心”\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-1",
+        "kind": "marketing_copy",
+        "label": "商品销量卖点",
+        "locator": "sheet2!L5/copy-1",
+        "text": "{\"sale_point_category\": \"商品销量卖点\", \"sale_points\": [\"本店同款热销750件\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-2",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-2",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"50人评价\\\"性价比高\\\"\", \"50人评价\\\"实惠划算\\\"\", \"50人评价\\\"经济实惠\\\"\", \"50人评价\\\"物美价廉\\\"\", \"50人评价\\\"价格美丽\\\"\", \"50人评价\\\"价格合适\\\"\", \"39人评价\\\"实惠耐用\\\"\", \"39人评价\\\"经济耐用\\\"\", \"39人评价\\\"实惠好用\\\"\", \"39人评价\\\"经济实用\\\"\", \"50人评价\\\"便宜实惠\\\"\", \"39人评价\\\"物超所值\\\"\", \"39人评价\\\"价廉物美\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-3",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L5/copy-3",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"每一块都有独立包装\", \"嘎嘣脆，好吃\", \"香脆可口，独立包装\", \"酥脆香辣，好吃\", \"脆脆的，油油的\", \"挺好吃的，很香酥脆\", \"酥脆，香，好吃\", \"月亮巴酥脆可口\", \"好吃，脆\", \"非常脆、香\", \"很好吃，脆脆的\", \"还不错，嘎嘣脆\", \"好吃，香脆\", \"松脆不油腻\", \"好吃越嚼越香\", \"有真虾子，好吃\", \"有虾味儿很好吃\", \"好吃，完好没有碎的\", \"香脆，辣得爽，好吃\", \"够辣，独立包装\", \"酥，脆非常好吃\", \"味道不错，辣味适中\", \"很好吃，小孩也喜欢吃\", \"口感非常好，香酥可口\", \"很香脆，很好吃\", \"好吃，好香\", \"虾肉Q弹有嚼劲\", \"很香很酥脆\", \"很香，很好吃\", \"独立包装很方便，酥脆\", \"外酥里嫩\", \"酥脆鲜香，非常好吃\", \"很脆，很香\", \"味道不错，咸淡适中\", \"酥酥脆脆的，很香\", \"味道新鲜，脆\", \"好吃，有香香的虾味\", \"脆脆的，带点咸香\", \"花生酥脆可口\", \"独立袋子包装很好\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-4",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-4",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"本店同款好评59\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-5",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-5",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"本店同款好评率0.830986\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-6",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L5/copy-6",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": []}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-7",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L5/copy-7",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"新锐白领爱买\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-8",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-8",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"2843人说\\\"味道不错\\\"\", \"1117人说\\\"酥脆\\\"\", \"382人说\\\"新鲜度好\\\"\", \"491人说\\\"独立包装\\\"\", \"311人说\\\"口感好\\\"\", \"192人说\\\"分量足\\\"\", \"157人说\\\"辣辣的\\\"\", \"189人说\\\"包装完好\\\"\", \"141人说\\\"品质好\\\"\", \"97人说\\\"咸香\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-9",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-9",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"同款有3万+人评价\\\"味道不错\\\"\", \"同款有1千+人评价\\\"很脆\\\"\", \"同款有1万+人评价\\\"酥脆\\\"\", \"同款有474人评价\\\"很新鲜\\\"\", \"同款有4千+人评价\\\"新鲜度好\\\"\", \"同款有6千+人评价\\\"独立包装\\\"\", \"同款有316人评价\\\"口感不错\\\"\", \"同款有3千+人评价\\\"口感好\\\"\", \"同款有2千+人评价\\\"分量足\\\"\", \"同款有178人评价\\\"微辣\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-10",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-10",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-11",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L5/copy-11",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-12",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L5/copy-12",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热搜度超99%同类品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-13",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L5/copy-13",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"万人加购\", \"万人加购\", \"万人加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-14",
+        "kind": "marketing_copy",
+        "label": "达人推荐卖点",
+        "locator": "sheet2!L5/copy-14",
+        "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"50+达人推荐\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-15",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L5/copy-15",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-16",
+        "kind": "marketing_copy",
+        "label": "商品销量卖点",
+        "locator": "sheet2!L5/copy-16",
+        "text": "{\"sale_point_category\": \"商品销量卖点\", \"sale_points\": [\"双11热销过33万\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-17",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L5/copy-17",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"包装完好\", \"没有碎的\", \"小孩爱吃\", \"咸香\", \"咸香\", \"品质好\", \"酥脆\", \"分量足\", \"酥脆\", \"咸香\", \"味道不错\", \"品质好\", \"味道不错\", \"独立包装\", \"品质好\", \"酥脆\", \"分量足\", \"辣辣的\", \"新鲜度好\", \"新鲜度好\", \"味道不错\", \"独立包装\", \"包装完好\", \"味道不错\", \"味道不错\", \"味道不错\", \"包装完好\", \"新鲜度好\", \"酥脆\", \"味道不错\", \"酥脆\", \"分量足\", \"口感好\", \"新鲜度好\", \"味道不错\", \"味道不错\", \"没有碎的\", \"口感好\", \"咸香\", \"新鲜度好\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-18",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-18",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"又香又脆，好评\", \"家里人还比较爱吃\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-19",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-19",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"包装很好，没有破损，第一次购买，虾巴很香，酥脆。卖家很贴心！下次再来。\", \"味道好极了，第一次购买，没有坑，辣味刚刚好。\", \"好吃，非常不错，脆脆香香的。还是一个一个独立包装的，吃完回购。\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-20",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L5/copy-20",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"本店同款收藏15件\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-21",
+        "kind": "marketing_copy",
+        "label": "商品文描-固定文案",
+        "locator": "sheet2!L5/copy-21",
+        "text": "{\"sale_point_category\": \"商品文描-固定文案\", \"sale_points\": [\"配料干净:无化学添加更健康\", \"手工制作:工艺耗时更显用心\", \"酥脆口感:米浆为主微酥偏脆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-22",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L5/copy-22",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"He很好吃很喜欢\", \"吃完再来，配料表很干净\", \"一家人都爱吃\", \"对糖尿病人来说很好\", \"亲切热情，配货速度超快\", \"卖家态度也好\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-23",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L5/copy-23",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"达人短视频带过\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-24",
+        "kind": "marketing_copy",
+        "label": "功能优点",
+        "locator": "sheet2!L5/copy-24",
+        "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"手工鲜脆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L5/review-0",
+        "text": "新鲜度：非常新鲜\n口感味道：口感不错，好吃，柴火灶最朴实的烟火味，很治愈\n包装品质：包装完好厚实，里面还有泡泡袋包装，包裹得很用心\n商品分量：分量很足，味道不错，值得点赞\n性价比：👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻\n不得不提一句商家真的很用心啊，写的信温暖又感人，文笔超级好，冲着这个，我也觉得必须好评！！！“……本身就酥脆的虾巴（月亮巴）可能会因为颠簸，从十五的月亮，变成了初一的月亮，如果您发现收到的虾巴有碎的情况，那肯定是因为有很多人在祝您岁月（碎月）静好……碎的多了，那一定是您又一起收到了很多很多岁岁（碎碎）平安的祝福……”哇塞绝了，写的好好！祝商家生意兴隆，财源滚滚！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L5/review-1",
+        "text": "江西旧味裹湖鲜，20元一饼惹春馋\n江西人的童年DNA藏在这口鲜虾饼里！拆袋瞬间，鄱阳湖的鲜气裹着芝麻、葱碎的香漫入鼻尖，仿佛把湖岸春景揉进了方寸饼中。\n手工现做的酥皮一碰就碎，咬开满是弹韧虾屑，鲜咸与面香交织，越嚼越浓，连饼渣都舍不得浪费。追剧拈一块，咔嚓脆响藏着闲情；忙时揣两袋，一口鲜爽解乏又顶饿。\n\n萍乡老手艺坚守本味，20.9元起便能拥有整盒新鲜。这口裹着湖鲜的脆嫩，是江西人藏了半辈",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L5/review-2",
+        "text": "怎么说呢……还是有点失望的……我们这有种吃的叫“豌豆碗碗”，和这个虾巴长得一模一样，连做法也是一样的，但是我们的豌豆碗碗上全是豌豆，不油腻，还很脆，有些地方买5块一包，有些地方卖6块一包，这个虾巴味道很一般，有点腻人，辣的也不辣，原味更是没什么味道，一个下巴上最多的虾虾就两只，吃了一个之后就不怎么想吃第二个了……可能是我挑嘴，也可能是我还是喜欢豌豆碗碗吧",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-3",
+        "kind": "buyer_review",
+        "label": "买家评价4",
+        "locator": "sheet2!L5/review-3",
+        "text": "买之前看评论，有说好的有说别！我最后还是买了二袋刚收到，吃了一个感觉很好！近期网上买吃的这个算是最好吃的！给个赞👍！唯一对我来说不好的就是有点太辣了（自己吃不了辣，怪不得别人）！下次回购记得做咸一点，葱花放多点，辣度再轻一点！\n口感味道：不错！只是淡了一点，\n新鲜度：新鲜得很！\n包装品质：朴实无华！\n商品分量：足分足量！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-4",
+        "kind": "buyer_review",
+        "label": "买家评价5",
+        "locator": "sheet2!L5/review-4",
+        "text": "要赞扬一下，包装很用心，每斤先用气泡膜隔一层，再装进大小正合适的扎实厚纸箱里面，只有一块稍微碎了一点点（图四），完全可以忽略，而且还附上了一封言辞恳切的信喲，其实就算碎了也不影响食用，但是商家真的花了成本，比某些抖音商家好太多了。虾巴的口感不错，酥脆咸香带着河虾的鲜美，我买的辣味的，一丝丝辣味刚刚好。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-5",
+        "kind": "buyer_review",
+        "label": "买家评价6",
+        "locator": "sheet2!L5/review-5",
+        "text": "好吃，好吃，好吃，重要的话三遍。大家都去买，真的特别好吃！独立包装干净卫生。新鲜！口感咸香鲜，特别好又脆又酥，太好吃了，今天刚收到吃了十块了，没吃够。友情提醒，小孩和不能吃辣的请选不辣。保证你吃过了还得回购。我反正要回购。地方小吃，值得推荐。我座标南京不是托啊...",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-6",
+        "kind": "buyer_review",
+        "label": "买家评价7",
+        "locator": "sheet2!L5/review-6",
+        "text": "口感味道：味道不错，口感要说一下。我拿到的这两包炸的偏硬了，记得当地吃的感觉是酥脆，才买的，这个有些炸过了，当然饼还是比较薄的，但是偏硬了，希望商家改善一下工艺吧\n包装品质：完好的没碎，侧面也说明炸的硬点了。。\n商品分量：份量很足\n新鲜度：油是好油，没有坏味道。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-7",
+        "kind": "buyer_review",
+        "label": "买家评价8",
+        "locator": "sheet2!L5/review-7",
+        "text": "新鲜度：可以的 \n口感味道：偏硬 但喜欢脆的觉得还不错 \n凭良心讲 真心还不错 好多评论说这不好那不好 让我白担心了 那应该是商家间的竞争评论 个人觉得味道真的可以的 微辣脆硬很适合我的口感 气味完全是正常气味 严重鄙视那些傻X乱写评论 我就说实在话",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-8",
+        "kind": "buyer_review",
+        "label": "买家评价9",
+        "locator": "sheet2!L5/review-8",
+        "text": "新鲜度：我了14片，有一片特别难吃，可能是包装密封性不够，受潮了一点都不脆，特别难咬\n口感味道：配料表也很干净，口感酥脆，但是因为是油炸食品，还是有一点韧性，味道是咸香偏淡\n包装品质：包装很简单，但是还有进步的空间，有五六片饼干是碎的",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-9",
+        "kind": "buyer_review",
+        "label": "买家评价10",
+        "locator": "sheet2!L5/review-9",
+        "text": "虾米巴鲜香酥脆😋味道好极了一下炫了好个 每个都是独立包装 有原味和香辣多种口味 整体包装非常用心 无破损 崭新如初 纸盒箱内另加塑料气垫膜保护防压碎👏每种口味还附有消费者的信 吃的不简单是一种江西特色的小吃 情绪价值拉满👍",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-review-summary",
+        "kind": "ai_derived",
+        "label": "旧AI评价摘要",
+        "locator": "sheet2!L5/ai-review-summary",
+        "text": "不少买家表示这款虾类零食口感酥脆，具有多种口味可供选择。同时，其食材新鲜，配料表干净，吃着很放心。此外，该产品采用独立包装，密封性良好，便于携带和保存。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L5/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1903\", \"industry_name\": \"食品饮料\"}, \"second_industry\": {\"industry_code\": \"190301\", \"industry_name\": \"休闲食品\"}, \"third_industry\": {\"industry_code\": 19030104, \"industry_name\": \"饼干/膨化\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "short-name",
+        "kind": "marketing_copy",
+        "label": "旧商品短名",
+        "locator": "sheet2!L5/short-name",
+        "text": "江西手工特产虾巴",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E5:y=0..1600",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-E-0.jpg",
+        "image_token": "RCORbQo7HoTC0ixs8qMcOEBNndc",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G5:y=0..1600",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-G-0.jpg",
+        "image_token": "MCEYbcAGDoHHHKxNIbjc4SL9nXf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H5:y=0..1346",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-H-0.jpg",
+        "image_token": "LdC7bjOtAoR7Y5xp7cTcS57NnEd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I5:y=0..1600",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-I-0.jpg",
+        "image_token": "SuRKbyz8jo4UDbxBVkzcqXmvnEb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J5:y=0..1338",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-J-0.jpg",
+        "image_token": "QTeHb2GnXoiGQMxD0XBc11conZb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-K",
+        "kind": "image",
+        "label": "商品图K",
+        "locator": "sheet2!K5:y=0..1440",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-K-0.jpg",
+        "image_token": "MICebxK9KooRrMxgUgrc193vnPb",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M",
+        "kind": "image",
+        "label": "商品详情长图 · 片段1",
+        "locator": "sheet2!M5:y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-M-0.jpg",
+        "image_token": "HmXLbWz6SoNdgvxOolZccZQ1nbd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-2",
+        "kind": "image",
+        "label": "商品详情长图 · 片段2",
+        "locator": "sheet2!M5:y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-M-1.jpg",
+        "image_token": "HmXLbWz6SoNdgvxOolZccZQ1nbd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-3",
+        "kind": "image",
+        "label": "商品详情长图 · 片段3",
+        "locator": "sheet2!M5:y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-M-2.jpg",
+        "image_token": "HmXLbWz6SoNdgvxOolZccZQ1nbd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-4",
+        "kind": "image",
+        "label": "商品详情长图 · 片段4",
+        "locator": "sheet2!M5:y=5400..6194",
+        "text": "",
+        "image_path": "data/assets/3700339768698208495/image-M-3.jpg",
+        "image_token": "HmXLbWz6SoNdgvxOolZccZQ1nbd",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:56:56Z",
+  "profile": {
+    "product_info": {
+      "name": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+      "category": "休闲食品/海味零食/虾类零食",
+      "ingredients": [
+        "大米",
+        "小麦粉",
+        "食用水",
+        "食用植物油",
+        "香葱",
+        "小河虾",
+        "食用盐",
+        "芝麻",
+        "生姜"
+      ],
+      "attributes": [
+        "净含量400g",
+        "保质期60天",
+        "贮存条件：常温",
+        "产品名称：鲜脆虾巴",
+        "产地为国产预包装食品",
+        "生产企业：江西正盈食品有限公司",
+        "生产企业地址：江西省宜春市上高县工业园黄金堆",
+        "食品生产许可证编号：SC11236092310319",
+        "产品标准代码：GB/T20977",
+        "非地理标志品种",
+        "非有机食品",
+        "手工制作，油皮偏硬，属硬脆口感"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "（咸脆味）虾巴400g*1袋",
+        "details": [
+          "咸脆味"
+        ]
+      },
+      {
+        "name": "（香辣味）虾巴400g*1袋",
+        "details": [
+          "香辣味"
+        ]
+      },
+      {
+        "name": "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋",
+        "details": []
+      },
+      {
+        "name": "（香辣味）虾巴400g*2袋",
+        "details": [
+          "香辣味",
+          "400g*2袋"
+        ]
+      },
+      {
+        "name": "（咸脆味）虾巴400g*2袋",
+        "details": [
+          "咸脆味",
+          "400g*2袋"
+        ]
+      },
+      {
+        "name": "（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+        "details": []
+      },
+      {
+        "name": "（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋",
+        "details": []
+      },
+      {
+        "name": "（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋",
+        "details": []
+      },
+      {
+        "name": "（香辣味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+        "details": []
+      },
+      {
+        "name": "（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+        "details": []
+      },
+      {
+        "name": "（香辣味）花生瓜子巴【不含虾】400g*2袋",
+        "details": [
+          "香辣味",
+          "不含虾",
+          "400g*2袋"
+        ]
+      },
+      {
+        "name": "（咸脆味）花生瓜子巴【不含虾】400g*2袋",
+        "details": [
+          "咸脆味",
+          "不含虾",
+          "400g*2袋"
+        ]
+      },
+      {
+        "name": "（咸脆味）花生瓜子巴【不含虾】400g*1袋",
+        "details": [
+          "咸脆味",
+          "不含虾"
+        ]
+      },
+      {
+        "name": "（香辣味）花生瓜子巴【不含虾】400g*1袋",
+        "details": [
+          "香辣味",
+          "不含虾"
+        ]
+      },
+      {
+        "name": "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋",
+        "details": [
+          "香辣味",
+          "无虾无花生",
+          "简装"
+        ]
+      },
+      {
+        "name": "【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋",
+        "details": [
+          "咸脆味",
+          "无虾无花生",
+          "简装"
+        ]
+      }
+    ],
+    "original_selling_points": [
+      "达人推荐卖点：野生河虾、无防腐剂、无香精、无添加、无色素、纯手工、咸香酥脆、鲜香美味、独立包装、健康放心",
+      "配料干净：无化学添加更健康；手工制作：工艺耗时更显用心；酥脆口感：米浆为主微酥偏脆",
+      "每一块都有独立包装",
+      "嘎嘣脆，好吃；香脆可口；酥脆香辣；花生酥脆可口；外酥里嫩；虾肉Q弹有嚼劲；越嚼越香；有真虾子",
+      "本店同款热销750件；双11热销过33万",
+      "本店同款好评59；同款有3万+人评价“味道不错”、1万+人评价“酥脆”、6千+人评价“独立包装”",
+      "新锐白领爱买；热门复购；热搜度超99%同类品；万人加购；热门加购；50+达人推荐；达人短视频带过",
+      "地方小吃，纯手工现做现发，当天新鲜做当天发",
+      "每份足400g，手工做的有厚有薄，大概在15-20个之间",
+      "传统油炸工艺，不加防腐剂和氧化剂，表面会保留天然油脂，不加香精色素等化学添加剂，吃的是食材本味",
+      "传统手工零食非标准化产物，外形可能存在细微差异，口感为微酥偏脆、米浆为主，不带油哈味"
+    ],
+    "buyer_feedback": [
+      "正面：口感酥脆、香脆、嘎嘣脆，味道不错",
+      "正面：辣度感受不一，有说辣味适中、微辣、辣得爽，也有说偏辣",
+      "正面：独立包装，方便携带和保存",
+      "正面：包装完好、厚实，有气泡膜、纸箱保护，不易碎",
+      "正面：新鲜度好，日期新",
+      "正面：分量足",
+      "负面：部分买家觉得偏硬、炸过头，不够酥脆",
+      "负面：原味偏淡、不够咸，辣味不够辣",
+      "负面：有买家觉得油腻",
+      "负面：有买家认为虾少、性价比不高",
+      "负面：个别反馈受潮不脆、有碎饼",
+      "个人感受：有真虾、虾味明显，孩子也爱吃",
+      "个人感受：配料表干净，吃着放心"
+    ],
+    "cautions": [
+      "商品名含“鲜虾饼、虾巴、花生巴”等多种品名，与产品名称“鲜脆虾巴”不完全统一",
+      "达人宣称“野生河虾”“无防腐剂”“无香精”“无添加”“无色素”，但配料表与商品基础属性未提供相应认证或检测依据，不能作为确定属性",
+      "配料表标注含小河虾，但部分规格为“花生瓜子巴【不含虾】”，不同规格配料可能不同，不能套用",
+      "详情页标注生产企业为江西正盈食品有限公司，但图片中出现“莲花县良坊华美食品加工厂”，来源不一致，待确认",
+      "评价中“偏硬”“油腻”“虾少”“不够脆”“受潮”“碎饼”等负面反馈与“酥脆”“独立包装”“新鲜度好”等正面反馈并存，属个体体验差异，不纳入确定属性",
+      "详情页“不加防腐剂和氧化剂”“不加香精色素等化学添加剂”为商家宣传，未提供检测报告或认证资料，不能作为确定属性",
+      "旧AI摘要内容仅作线索，未独立作为事实依据",
+      "以下摘要尚未找到可靠来源，未纳入明确属性：400g单袋装；咸脆味与香辣味各1袋；共2袋；咸脆味虾巴与咸脆味花生瓜子巴组合；各1袋；咸脆味虾巴与香辣味花生瓜子巴组合；香辣味虾巴与香辣味花生瓜子巴组合；香辣味虾巴与咸脆味花生瓜子巴组合；香辣味与咸脆味花生瓜子巴各1袋"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3700339768698208495",
+      "material_revision": "7ff3d67c5a9884ee4f04143954f3cee2e4b0aa4bc50bd3c93f58fd468883d330",
+      "sources": {
+        "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "休闲食品/海味零食/虾类零食": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "大米": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "小麦粉": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "食用水": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "食用植物油": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "香葱": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "小河虾": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "食用盐": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "芝麻": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "生姜": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "净含量400g": {
+          "source_ids": [
+            "attr-0"
+          ],
+          "kind": "fact"
+        },
+        "保质期60天": {
+          "source_ids": [
+            "attr-4"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件：常温": {
+          "source_ids": [
+            "attr-8"
+          ],
+          "kind": "fact"
+        },
+        "产品名称：鲜脆虾巴": {
+          "source_ids": [
+            "attr-5"
+          ],
+          "kind": "fact"
+        },
+        "产地为国产预包装食品": {
+          "source_ids": [
+            "attr-6"
+          ],
+          "kind": "fact"
+        },
+        "生产企业：江西正盈食品有限公司": {
+          "source_ids": [
+            "attr-3"
+          ],
+          "kind": "fact"
+        },
+        "生产企业地址：江西省宜春市上高县工业园黄金堆": {
+          "source_ids": [
+            "attr-10"
+          ],
+          "kind": "fact"
+        },
+        "食品生产许可证编号：SC11236092310319": {
+          "source_ids": [
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "产品标准代码：GB/T20977": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "非地理标志品种": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "非有机食品": {
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        "手工制作，油皮偏硬，属硬脆口感": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）虾巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）虾巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）虾巴400g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）虾巴400g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）花生瓜子巴【不含虾】400g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）花生瓜子巴【不含虾】400g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（咸脆味）花生瓜子巴【不含虾】400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "（香辣味）花生瓜子巴【不含虾】400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "达人推荐卖点：野生河虾、无防腐剂、无香精、无添加、无色素、纯手工、咸香酥脆、鲜香美味、独立包装、健康放心": {
+          "source_ids": [
+            "copy-0"
+          ],
+          "kind": "description"
+        },
+        "配料干净：无化学添加更健康；手工制作：工艺耗时更显用心；酥脆口感：米浆为主微酥偏脆": {
+          "source_ids": [
+            "copy-21"
+          ],
+          "kind": "description"
+        },
+        "每一块都有独立包装": {
+          "source_ids": [
+            "copy-3"
+          ],
+          "kind": "description"
+        },
+        "嘎嘣脆，好吃；香脆可口；酥脆香辣；花生酥脆可口；外酥里嫩；虾肉Q弹有嚼劲；越嚼越香；有真虾子": {
+          "source_ids": [
+            "copy-3"
+          ],
+          "kind": "description"
+        },
+        "本店同款热销750件；双11热销过33万": {
+          "source_ids": [
+            "copy-1",
+            "copy-16"
+          ],
+          "kind": "description"
+        },
+        "本店同款好评59；同款有3万+人评价“味道不错”、1万+人评价“酥脆”、6千+人评价“独立包装”": {
+          "source_ids": [
+            "copy-4",
+            "copy-9"
+          ],
+          "kind": "description"
+        },
+        "新锐白领爱买；热门复购；热搜度超99%同类品；万人加购；热门加购；50+达人推荐；达人短视频带过": {
+          "source_ids": [
+            "copy-7",
+            "copy-11",
+            "copy-12",
+            "copy-13",
+            "copy-14",
+            "copy-15",
+            "copy-23"
+          ],
+          "kind": "description"
+        },
+        "地方小吃，纯手工现做现发，当天新鲜做当天发": {
+          "source_ids": [
+            "review-6",
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "每份足400g，手工做的有厚有薄，大概在15-20个之间": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "传统油炸工艺，不加防腐剂和氧化剂，表面会保留天然油脂，不加香精色素等化学添加剂，吃的是食材本味": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "传统手工零食非标准化产物，外形可能存在细微差异，口感为微酥偏脆、米浆为主，不带油哈味": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        "正面：口感酥脆、香脆、嘎嘣脆，味道不错": {
+          "source_ids": [
+            "copy-8",
+            "copy-19"
+          ],
+          "kind": "feedback"
+        },
+        "正面：辣度感受不一，有说辣味适中、微辣、辣得爽，也有说偏辣": {
+          "source_ids": [
+            "copy-3",
+            "review-3",
+            "review-4"
+          ],
+          "kind": "feedback"
+        },
+        "正面：独立包装，方便携带和保存": {
+          "source_ids": [
+            "copy-8",
+            "review-5"
+          ],
+          "kind": "feedback"
+        },
+        "正面：包装完好、厚实，有气泡膜、纸箱保护，不易碎": {
+          "source_ids": [
+            "review-0",
+            "review-4"
+          ],
+          "kind": "feedback"
+        },
+        "正面：新鲜度好，日期新": {
+          "source_ids": [
+            "copy-8",
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "正面：分量足": {
+          "source_ids": [
+            "copy-8",
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "负面：部分买家觉得偏硬、炸过头，不够酥脆": {
+          "source_ids": [
+            "review-6",
+            "review-7"
+          ],
+          "kind": "feedback"
+        },
+        "负面：原味偏淡、不够咸，辣味不够辣": {
+          "source_ids": [
+            "review-2",
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "负面：有买家觉得油腻": {
+          "source_ids": [
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "负面：有买家认为虾少、性价比不高": {
+          "source_ids": [
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "负面：个别反馈受潮不脆、有碎饼": {
+          "source_ids": [
+            "review-8"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：有真虾、虾味明显，孩子也爱吃": {
+          "source_ids": [
+            "copy-3",
+            "copy-17"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：配料表干净，吃着放心": {
+          "source_ids": [
+            "review-1",
+            "review-4"
+          ],
+          "kind": "feedback"
+        },
+        "商品名含“鲜虾饼、虾巴、花生巴”等多种品名，与产品名称“鲜脆虾巴”不完全统一": {
+          "source_ids": [
+            "identity",
+            "attr-5"
+          ],
+          "kind": "fact"
+        },
+        "达人宣称“野生河虾”“无防腐剂”“无香精”“无添加”“无色素”，但配料表与商品基础属性未提供相应认证或检测依据，不能作为确定属性": {
+          "source_ids": [
+            "copy-0",
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "配料表标注含小河虾，但部分规格为“花生瓜子巴【不含虾】”，不同规格配料可能不同，不能套用": {
+          "source_ids": [
+            "attr-7",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "详情页标注生产企业为江西正盈食品有限公司，但图片中出现“莲花县良坊华美食品加工厂”，来源不一致，待确认": {
+          "source_ids": [
+            "attr-3",
+            "image-M-part-4"
+          ],
+          "kind": "fact"
+        },
+        "评价中“偏硬”“油腻”“虾少”“不够脆”“受潮”“碎饼”等负面反馈与“酥脆”“独立包装”“新鲜度好”等正面反馈并存，属个体体验差异，不纳入确定属性": {
+          "source_ids": [
+            "review-2",
+            "review-6",
+            "review-8"
+          ],
+          "kind": "feedback"
+        },
+        "详情页“不加防腐剂和氧化剂”“不加香精色素等化学添加剂”为商家宣传，未提供检测报告或认证资料，不能作为确定属性": {
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "fact"
+        },
+        "咸脆味": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "香辣味": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "400g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "不含虾": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "无虾无花生": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "简装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 1
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "硬脆口感｜这款虾巴标注为手工制作，油皮偏硬，属于硬脆型口感，适合喜欢嘎嘣嚼感的人；若偏好入口即化的酥松，就不必勉强",
+        "priority": 1
+      },
+      {
+        "text": "米香打底的配料｜以大米、小麦粉为基础，加水、食用植物油，再搭配香葱、芝麻、生姜和食用盐；咸脆或香辣由所选口味决定，入口先尝到米面香与葱香",
+        "priority": 2
+      },
+      {
+        "text": "含小河虾款｜配料表中列有小河虾，适合想要虾味零食的人；选购时请确认所选的是虾巴，而非标注“不含虾”的花生瓜子巴",
+        "priority": 3
+      },
+      {
+        "text": "咸脆、香辣两种口味｜咸脆味偏咸香，香辣味带辣感；有单袋、两袋同口味和两种口味组合等规格，可按自己的口味偏好选择",
+        "priority": 4
+      },
+      {
+        "text": "每袋400g｜单袋净含量400g，两袋装合计800g，份量写在规格中；适合开封后按需取食，与家人一起分享",
+        "priority": 5
+      },
+      {
+        "text": "常温存放省心｜保质期60天，常温贮存，不必占用冰箱空间；开封后尽快吃完，存放在阴凉干燥处，以免受潮影响口感",
+        "priority": 6
+      },
+      {
+        "text": "手工现做现发｜这是一款地方小吃，现做现发，当天制作、当天发出，适合囤作日常解馋零食",
+        "priority": 7
+      },
+      {
+        "text": "手工厚薄不一｜每块由手工制作，厚薄并不均匀，一袋里大约有15—20个，吃的时候口感会有差异",
+        "priority": 8
+      },
+      {
+        "text": "传统油炸做法｜采用传统油炸工艺，表面会保留天然油脂，入口油香更足；怕油的话可以搭配清茶一起吃",
+        "priority": 9
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3700339768698208495",
+      "material_revision": "7ff3d67c5a9884ee4f04143954f3cee2e4b0aa4bc50bd3c93f58fd468883d330",
+      "knowledge_revision": "8fdc60b92189086fb22e44160979c5a74a3a0aaf78430ca28547c3e7ef17edbe",
+      "support": [
+        {
+          "basis": [
+            "手工制作，油皮偏硬，属硬脆口感"
+          ],
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "大米",
+            "小麦粉",
+            "食用水",
+            "食用植物油",
+            "香葱",
+            "食用盐",
+            "芝麻",
+            "生姜",
+            "咸脆味",
+            "香辣味"
+          ],
+          "source_ids": [
+            "attr-7",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "小河虾",
+            "不含虾",
+            "（咸脆味）花生瓜子巴【不含虾】400g*1袋",
+            "（香辣味）花生瓜子巴【不含虾】400g*1袋"
+          ],
+          "source_ids": [
+            "attr-7",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "（咸脆味）虾巴400g*1袋",
+            "咸脆味",
+            "（香辣味）虾巴400g*1袋",
+            "香辣味",
+            "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋",
+            "（香辣味）虾巴400g*2袋",
+            "（咸脆味）虾巴400g*2袋"
+          ],
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "净含量400g",
+            "400g*2袋"
+          ],
+          "source_ids": [
+            "attr-0",
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "保质期60天",
+            "贮存条件：常温"
+          ],
+          "source_ids": [
+            "attr-4",
+            "attr-8"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "地方小吃，纯手工现做现发，当天新鲜做当天发"
+          ],
+          "source_ids": [
+            "review-6",
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "每份足400g，手工做的有厚有薄，大概在15-20个之间"
+          ],
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "传统油炸工艺，不加防腐剂和氧化剂，表面会保留天然油脂，不加香精色素等化学添加剂，吃的是食材本味"
+          ],
+          "source_ids": [
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "8fdc60b92189086fb22e44160979c5a74a3a0aaf78430ca28547c3e7ef17edbe",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:57:07.235155+00:00",
+      "profile": {
+        "product_info": {
+          "name": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+          "category": "休闲食品/海味零食/虾类零食",
+          "ingredients": [
+            "大米",
+            "小麦粉",
+            "食用水",
+            "食用植物油",
+            "香葱",
+            "小河虾",
+            "食用盐",
+            "芝麻",
+            "生姜"
+          ],
+          "attributes": [
+            "净含量400g",
+            "保质期60天",
+            "贮存条件：常温",
+            "产品名称：鲜脆虾巴",
+            "产地为国产预包装食品",
+            "生产企业：江西正盈食品有限公司",
+            "生产企业地址：江西省宜春市上高县工业园黄金堆",
+            "食品生产许可证编号：SC11236092310319",
+            "产品标准代码：GB/T20977",
+            "非地理标志品种",
+            "非有机食品",
+            "手工制作，油皮偏硬，属硬脆口感"
+          ]
+        },
+        "specifications": [
+          {
+            "name": "（咸脆味）虾巴400g*1袋",
+            "details": [
+              "咸脆味"
+            ]
+          },
+          {
+            "name": "（香辣味）虾巴400g*1袋",
+            "details": [
+              "香辣味"
+            ]
+          },
+          {
+            "name": "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋",
+            "details": []
+          },
+          {
+            "name": "（香辣味）虾巴400g*2袋",
+            "details": [
+              "香辣味",
+              "400g*2袋"
+            ]
+          },
+          {
+            "name": "（咸脆味）虾巴400g*2袋",
+            "details": [
+              "咸脆味",
+              "400g*2袋"
+            ]
+          },
+          {
+            "name": "（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+            "details": []
+          },
+          {
+            "name": "（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋",
+            "details": []
+          },
+          {
+            "name": "（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋",
+            "details": []
+          },
+          {
+            "name": "（香辣味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+            "details": []
+          },
+          {
+            "name": "（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+            "details": []
+          },
+          {
+            "name": "（香辣味）花生瓜子巴【不含虾】400g*2袋",
+            "details": [
+              "香辣味",
+              "不含虾",
+              "400g*2袋"
+            ]
+          },
+          {
+            "name": "（咸脆味）花生瓜子巴【不含虾】400g*2袋",
+            "details": [
+              "咸脆味",
+              "不含虾",
+              "400g*2袋"
+            ]
+          },
+          {
+            "name": "（咸脆味）花生瓜子巴【不含虾】400g*1袋",
+            "details": [
+              "咸脆味",
+              "不含虾"
+            ]
+          },
+          {
+            "name": "（香辣味）花生瓜子巴【不含虾】400g*1袋",
+            "details": [
+              "香辣味",
+              "不含虾"
+            ]
+          },
+          {
+            "name": "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋",
+            "details": [
+              "香辣味",
+              "无虾无花生",
+              "简装"
+            ]
+          },
+          {
+            "name": "【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋",
+            "details": [
+              "咸脆味",
+              "无虾无花生",
+              "简装"
+            ]
+          }
+        ],
+        "original_selling_points": [
+          "达人推荐卖点：野生河虾、无防腐剂、无香精、无添加、无色素、纯手工、咸香酥脆、鲜香美味、独立包装、健康放心",
+          "配料干净：无化学添加更健康；手工制作：工艺耗时更显用心；酥脆口感：米浆为主微酥偏脆",
+          "每一块都有独立包装",
+          "嘎嘣脆，好吃；香脆可口；酥脆香辣；花生酥脆可口；外酥里嫩；虾肉Q弹有嚼劲；越嚼越香；有真虾子",
+          "本店同款热销750件；双11热销过33万",
+          "本店同款好评59；同款有3万+人评价“味道不错”、1万+人评价“酥脆”、6千+人评价“独立包装”",
+          "新锐白领爱买；热门复购；热搜度超99%同类品；万人加购；热门加购；50+达人推荐；达人短视频带过",
+          "地方小吃，纯手工现做现发，当天新鲜做当天发",
+          "每份足400g，手工做的有厚有薄，大概在15-20个之间",
+          "传统油炸工艺，不加防腐剂和氧化剂，表面会保留天然油脂，不加香精色素等化学添加剂，吃的是食材本味",
+          "传统手工零食非标准化产物，外形可能存在细微差异，口感为微酥偏脆、米浆为主，不带油哈味"
+        ],
+        "buyer_feedback": [
+          "正面：口感酥脆、香脆、嘎嘣脆，味道不错",
+          "正面：辣度感受不一，有说辣味适中、微辣、辣得爽，也有说偏辣",
+          "正面：独立包装，方便携带和保存",
+          "正面：包装完好、厚实，有气泡膜、纸箱保护，不易碎",
+          "正面：新鲜度好，日期新",
+          "正面：分量足",
+          "负面：部分买家觉得偏硬、炸过头，不够酥脆",
+          "负面：原味偏淡、不够咸，辣味不够辣",
+          "负面：有买家觉得油腻",
+          "负面：有买家认为虾少、性价比不高",
+          "负面：个别反馈受潮不脆、有碎饼",
+          "个人感受：有真虾、虾味明显，孩子也爱吃",
+          "个人感受：配料表干净，吃着放心"
+        ],
+        "cautions": [
+          "商品名含“鲜虾饼、虾巴、花生巴”等多种品名，与产品名称“鲜脆虾巴”不完全统一",
+          "达人宣称“野生河虾”“无防腐剂”“无香精”“无添加”“无色素”，但配料表与商品基础属性未提供相应认证或检测依据，不能作为确定属性",
+          "配料表标注含小河虾，但部分规格为“花生瓜子巴【不含虾】”，不同规格配料可能不同，不能套用",
+          "详情页标注生产企业为江西正盈食品有限公司，但图片中出现“莲花县良坊华美食品加工厂”，来源不一致，待确认",
+          "评价中“偏硬”“油腻”“虾少”“不够脆”“受潮”“碎饼”等负面反馈与“酥脆”“独立包装”“新鲜度好”等正面反馈并存，属个体体验差异，不纳入确定属性",
+          "详情页“不加防腐剂和氧化剂”“不加香精色素等化学添加剂”为商家宣传，未提供检测报告或认证资料，不能作为确定属性",
+          "旧AI摘要内容仅作线索，未独立作为事实依据",
+          "以下摘要尚未找到可靠来源，未纳入明确属性：400g单袋装；咸脆味与香辣味各1袋；共2袋；咸脆味虾巴与咸脆味花生瓜子巴组合；各1袋；咸脆味虾巴与香辣味花生瓜子巴组合；香辣味虾巴与香辣味花生瓜子巴组合；香辣味虾巴与咸脆味花生瓜子巴组合；香辣味与咸脆味花生瓜子巴各1袋"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3700339768698208495",
+          "material_revision": "7ff3d67c5a9884ee4f04143954f3cee2e4b0aa4bc50bd3c93f58fd468883d330",
+          "sources": {
+            "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "休闲食品/海味零食/虾类零食": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "大米": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "小麦粉": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "食用水": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "食用植物油": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "香葱": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "小河虾": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "食用盐": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "芝麻": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "生姜": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "净含量400g": {
+              "source_ids": [
+                "attr-0"
+              ],
+              "kind": "fact"
+            },
+            "保质期60天": {
+              "source_ids": [
+                "attr-4"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件：常温": {
+              "source_ids": [
+                "attr-8"
+              ],
+              "kind": "fact"
+            },
+            "产品名称：鲜脆虾巴": {
+              "source_ids": [
+                "attr-5"
+              ],
+              "kind": "fact"
+            },
+            "产地为国产预包装食品": {
+              "source_ids": [
+                "attr-6"
+              ],
+              "kind": "fact"
+            },
+            "生产企业：江西正盈食品有限公司": {
+              "source_ids": [
+                "attr-3"
+              ],
+              "kind": "fact"
+            },
+            "生产企业地址：江西省宜春市上高县工业园黄金堆": {
+              "source_ids": [
+                "attr-10"
+              ],
+              "kind": "fact"
+            },
+            "食品生产许可证编号：SC11236092310319": {
+              "source_ids": [
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "产品标准代码：GB/T20977": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "非地理标志品种": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "非有机食品": {
+              "source_ids": [
+                "attr-9"
+              ],
+              "kind": "fact"
+            },
+            "手工制作，油皮偏硬，属硬脆口感": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）虾巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）虾巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）虾巴400g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）虾巴400g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）花生瓜子巴【不含虾】400g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）花生瓜子巴【不含虾】400g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（咸脆味）花生瓜子巴【不含虾】400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "（香辣味）花生瓜子巴【不含虾】400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "达人推荐卖点：野生河虾、无防腐剂、无香精、无添加、无色素、纯手工、咸香酥脆、鲜香美味、独立包装、健康放心": {
+              "source_ids": [
+                "copy-0"
+              ],
+              "kind": "description"
+            },
+            "配料干净：无化学添加更健康；手工制作：工艺耗时更显用心；酥脆口感：米浆为主微酥偏脆": {
+              "source_ids": [
+                "copy-21"
+              ],
+              "kind": "description"
+            },
+            "每一块都有独立包装": {
+              "source_ids": [
+                "copy-3"
+              ],
+              "kind": "description"
+            },
+            "嘎嘣脆，好吃；香脆可口；酥脆香辣；花生酥脆可口；外酥里嫩；虾肉Q弹有嚼劲；越嚼越香；有真虾子": {
+              "source_ids": [
+                "copy-3"
+              ],
+              "kind": "description"
+            },
+            "本店同款热销750件；双11热销过33万": {
+              "source_ids": [
+                "copy-1",
+                "copy-16"
+              ],
+              "kind": "description"
+            },
+            "本店同款好评59；同款有3万+人评价“味道不错”、1万+人评价“酥脆”、6千+人评价“独立包装”": {
+              "source_ids": [
+                "copy-4",
+                "copy-9"
+              ],
+              "kind": "description"
+            },
+            "新锐白领爱买；热门复购；热搜度超99%同类品；万人加购；热门加购；50+达人推荐；达人短视频带过": {
+              "source_ids": [
+                "copy-7",
+                "copy-11",
+                "copy-12",
+                "copy-13",
+                "copy-14",
+                "copy-15",
+                "copy-23"
+              ],
+              "kind": "description"
+            },
+            "地方小吃，纯手工现做现发，当天新鲜做当天发": {
+              "source_ids": [
+                "review-6",
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "每份足400g，手工做的有厚有薄，大概在15-20个之间": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "传统油炸工艺，不加防腐剂和氧化剂，表面会保留天然油脂，不加香精色素等化学添加剂，吃的是食材本味": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "传统手工零食非标准化产物，外形可能存在细微差异，口感为微酥偏脆、米浆为主，不带油哈味": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "description"
+            },
+            "正面：口感酥脆、香脆、嘎嘣脆，味道不错": {
+              "source_ids": [
+                "copy-8",
+                "copy-19"
+              ],
+              "kind": "feedback"
+            },
+            "正面：辣度感受不一，有说辣味适中、微辣、辣得爽，也有说偏辣": {
+              "source_ids": [
+                "copy-3",
+                "review-3",
+                "review-4"
+              ],
+              "kind": "feedback"
+            },
+            "正面：独立包装，方便携带和保存": {
+              "source_ids": [
+                "copy-8",
+                "review-5"
+              ],
+              "kind": "feedback"
+            },
+            "正面：包装完好、厚实，有气泡膜、纸箱保护，不易碎": {
+              "source_ids": [
+                "review-0",
+                "review-4"
+              ],
+              "kind": "feedback"
+            },
+            "正面：新鲜度好，日期新": {
+              "source_ids": [
+                "copy-8",
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "正面：分量足": {
+              "source_ids": [
+                "copy-8",
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "负面：部分买家觉得偏硬、炸过头，不够酥脆": {
+              "source_ids": [
+                "review-6",
+                "review-7"
+              ],
+              "kind": "feedback"
+            },
+            "负面：原味偏淡、不够咸，辣味不够辣": {
+              "source_ids": [
+                "review-2",
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "负面：有买家觉得油腻": {
+              "source_ids": [
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "负面：有买家认为虾少、性价比不高": {
+              "source_ids": [
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "负面：个别反馈受潮不脆、有碎饼": {
+              "source_ids": [
+                "review-8"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：有真虾、虾味明显，孩子也爱吃": {
+              "source_ids": [
+                "copy-3",
+                "copy-17"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：配料表干净，吃着放心": {
+              "source_ids": [
+                "review-1",
+                "review-4"
+              ],
+              "kind": "feedback"
+            },
+            "商品名含“鲜虾饼、虾巴、花生巴”等多种品名，与产品名称“鲜脆虾巴”不完全统一": {
+              "source_ids": [
+                "identity",
+                "attr-5"
+              ],
+              "kind": "fact"
+            },
+            "达人宣称“野生河虾”“无防腐剂”“无香精”“无添加”“无色素”，但配料表与商品基础属性未提供相应认证或检测依据，不能作为确定属性": {
+              "source_ids": [
+                "copy-0",
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "配料表标注含小河虾，但部分规格为“花生瓜子巴【不含虾】”，不同规格配料可能不同，不能套用": {
+              "source_ids": [
+                "attr-7",
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "详情页标注生产企业为江西正盈食品有限公司，但图片中出现“莲花县良坊华美食品加工厂”，来源不一致，待确认": {
+              "source_ids": [
+                "attr-3",
+                "image-M-part-4"
+              ],
+              "kind": "fact"
+            },
+            "评价中“偏硬”“油腻”“虾少”“不够脆”“受潮”“碎饼”等负面反馈与“酥脆”“独立包装”“新鲜度好”等正面反馈并存，属个体体验差异，不纳入确定属性": {
+              "source_ids": [
+                "review-2",
+                "review-6",
+                "review-8"
+              ],
+              "kind": "feedback"
+            },
+            "详情页“不加防腐剂和氧化剂”“不加香精色素等化学添加剂”为商家宣传，未提供检测报告或认证资料，不能作为确定属性": {
+              "source_ids": [
+                "image-M-part-2"
+              ],
+              "kind": "fact"
+            },
+            "咸脆味": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "香辣味": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "400g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "不含虾": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "无虾无花生": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "简装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 1
+        }
+      },
+      "confirmed_at": "2026-10-28T09:57:07.238239+00:00"
+    }
+  ],
+  "elapsed_seconds": 20.0,
+  "trace": []
+}

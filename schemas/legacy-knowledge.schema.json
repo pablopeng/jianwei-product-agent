@@ -1,0 +1,386 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:selling-agent:product-knowledge.schema.json",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "product_id": {
+      "type": "string"
+    },
+    "material_revision": {
+      "type": "string",
+      "description": "由运行时计算，模型不能自行声称资料已更新"
+    },
+    "product_name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "industry": {
+          "type": "string",
+          "enum": [
+            "food_beverage",
+            "other",
+            "unknown"
+          ]
+        },
+        "subtype": {
+          "type": "string",
+          "enum": [
+            "snack",
+            "staple_dry",
+            "prepared_frozen",
+            "seafood",
+            "beverage_tea",
+            "other",
+            "unknown"
+          ]
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      },
+      "required": [
+        "industry",
+        "subtype",
+        "evidence"
+      ]
+    },
+    "skus": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/sku"
+      }
+    },
+    "sections": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "product_attributes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/observation"
+          }
+        },
+        "specifications": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/observation"
+          }
+        },
+        "detail_content": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/observation"
+          }
+        },
+        "marketing_claims": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/observation"
+          }
+        },
+        "buyer_reviews": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/observation"
+          }
+        }
+      },
+      "required": [
+        "product_attributes",
+        "specifications",
+        "detail_content",
+        "marketing_claims",
+        "buyer_reviews"
+      ]
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/issue"
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "question": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          },
+          "required_for": {
+            "type": "string",
+            "enum": [
+              "all_generation",
+              "specific_claim",
+              "sku_selection"
+            ]
+          },
+          "related_issue_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "question",
+          "reason",
+          "required_for",
+          "related_issue_ids"
+        ]
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "product_id",
+    "material_revision",
+    "product_name",
+    "category",
+    "skus",
+    "sections",
+    "issues",
+    "questions"
+  ],
+  "$defs": {
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "source_id": {
+          "type": "string"
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 1
+        },
+        "locator": {
+          "type": "string",
+          "description": "JSON pointer、图片坐标或原文位置"
+        },
+        "method": {
+          "type": "string",
+          "enum": [
+            "text",
+            "image_read"
+          ]
+        }
+      },
+      "required": [
+        "source_id",
+        "quote",
+        "locator",
+        "method"
+      ]
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": [
+            "product",
+            "sku",
+            "unknown"
+          ]
+        },
+        "sku_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "kind",
+        "sku_ids"
+      ]
+    },
+    "observation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "value": {
+          "type": "string",
+          "description": "保持数值、单位、限定条件，不把缺失值变成0"
+        },
+        "unit": {
+          "type": "string"
+        },
+        "evidence_kind": {
+          "type": "string",
+          "enum": [
+            "explicit_attribute",
+            "visual_observation",
+            "merchant_claim",
+            "buyer_experience",
+            "ai_derived"
+          ]
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "supported",
+            "unverified",
+            "conflicted"
+          ]
+        },
+        "scope": {
+          "$ref": "#/$defs/scope"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "value",
+        "unit",
+        "evidence_kind",
+        "status",
+        "scope",
+        "evidence"
+      ]
+    },
+    "sku": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "value": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "value"
+            ]
+          }
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "options",
+        "evidence"
+      ]
+    },
+    "issue": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "conflict",
+            "missing",
+            "misplaced",
+            "category_mismatch",
+            "sku_ambiguity"
+          ]
+        },
+        "severity": {
+          "type": "string",
+          "enum": [
+            "blocking",
+            "warning"
+          ]
+        },
+        "description": {
+          "type": "string"
+        },
+        "observation_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "source_ids": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "resolution": {
+          "type": "string",
+          "enum": [
+            "open",
+            "resolved",
+            "avoided"
+          ]
+        },
+        "resolution_note": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "severity",
+        "description",
+        "observation_ids",
+        "source_ids",
+        "resolution",
+        "resolution_note"
+      ]
+    }
+  }
+}

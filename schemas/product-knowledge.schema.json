@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:jianwei:profile:v2",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "product_info": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "title": "商品名称"
+        },
+        "category": {
+          "type": "string",
+          "title": "品类"
+        },
+        "ingredients": {
+          "type": "array",
+          "title": "配料",
+          "items": {
+            "type": "string"
+          }
+        },
+        "attributes": {
+          "type": "array",
+          "title": "其他明确属性，如产地、储存、保质期、工艺",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "name",
+        "category",
+        "ingredients",
+        "attributes"
+      ],
+      "title": "商品信息"
+    },
+    "specifications": {
+      "type": "array",
+      "title": "规格信息",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "规格名称"
+          },
+          "details": {
+            "type": "array",
+            "title": "仅适用于该规格的信息",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "name",
+          "details"
+        ]
+      }
+    },
+    "original_selling_points": {
+      "type": "array",
+      "title": "原有卖点，保留为商家描述",
+      "items": {
+        "type": "string"
+      }
+    },
+    "buyer_feedback": {
+      "type": "array",
+      "title": "买家反馈摘要，保留主观属性",
+      "items": {
+        "type": "string"
+      }
+    },
+    "cautions": {
+      "type": "array",
+      "title": "冲突、缺失或无法确认的信息，暂不用于确定性卖点",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "product_info",
+    "specifications",
+    "original_selling_points",
+    "buyer_feedback",
+    "cautions"
+  ]
+}

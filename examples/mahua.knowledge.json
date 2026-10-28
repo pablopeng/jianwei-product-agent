@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "product_id": "3825952452159603168",
+  "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+  "product_name": "蜂蜜花生味麻花",
+  "category": {
+    "industry": "food_beverage",
+    "subtype": "snack",
+    "evidence": [
+      {
+        "source_id": "identity",
+        "quote": "麻花",
+        "locator": "sheet2!L2/identity",
+        "method": "text"
+      }
+    ]
+  },
+  "skus": [
+    {
+      "id": "sku-1",
+      "name": "【蜂蜜花生麻花】278g*1袋",
+      "options": [
+        {
+          "name": "规格",
+          "value": "【蜂蜜花生麻花】278g*1袋"
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "specs",
+          "quote": "【蜂蜜花生麻花】278g*1袋",
+          "locator": "sheet2!L2/specs",
+          "method": "text"
+        }
+      ]
+    },
+    {
+      "id": "sku-2",
+      "name": "【蜂蜜花生麻花】278g*2袋",
+      "options": [
+        {
+          "name": "规格",
+          "value": "【蜂蜜花生麻花】278g*2袋"
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "specs",
+          "quote": "【蜂蜜花生麻花】278g*2袋",
+          "locator": "sheet2!L2/specs",
+          "method": "text"
+        }
+      ]
+    },
+    {
+      "id": "sku-3",
+      "name": "【蜂蜜花生麻花】278g*3袋",
+      "options": [
+        {
+          "name": "规格",
+          "value": "【蜂蜜花生麻花】278g*3袋"
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "specs",
+          "quote": "【蜂蜜花生麻花】278g*3袋",
+          "locator": "sheet2!L2/specs",
+          "method": "text"
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "product_attributes": [
+      {
+        "id": "f1",
+        "name": "花生添加量",
+        "value": "花生≥5%",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "supported",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "attr-9",
+            "quote": "花生(≥5%)",
+            "locator": "sheet2!L2/attr-9",
+            "method": "text"
+          }
+        ]
+      },
+      {
+        "id": "f2",
+        "name": "蜂蜜添加量",
+        "value": "蜂蜜≥0.7%",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "supported",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "attr-9",
+            "quote": "蜂蜜(≥0.7%)",
+            "locator": "sheet2!L2/attr-9",
+            "method": "text"
+          }
+        ]
+      },
+      {
+        "id": "f3",
+        "name": "净含量",
+        "value": "278克",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "conflicted",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "attr-13",
+            "quote": "278克",
+            "locator": "sheet2!L2/attr-13",
+            "method": "text"
+          }
+        ]
+      }
+    ],
+    "specifications": [
+      {
+        "id": "s1",
+        "name": "套装规格",
+        "value": "【蜂蜜花生麻花】278g*1袋",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "supported",
+        "scope": {
+          "kind": "sku",
+          "sku_ids": [
+            "sku-1"
+          ]
+        },
+        "evidence": [
+          {
+            "source_id": "specs",
+            "quote": "【蜂蜜花生麻花】278g*1袋",
+            "locator": "sheet2!L2/specs",
+            "method": "text"
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "name": "套装规格",
+        "value": "【蜂蜜花生麻花】278g*2袋",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "supported",
+        "scope": {
+          "kind": "sku",
+          "sku_ids": [
+            "sku-2"
+          ]
+        },
+        "evidence": [
+          {
+            "source_id": "specs",
+            "quote": "【蜂蜜花生麻花】278g*2袋",
+            "locator": "sheet2!L2/specs",
+            "method": "text"
+          }
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "套装规格",
+        "value": "【蜂蜜花生麻花】278g*3袋",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "supported",
+        "scope": {
+          "kind": "sku",
+          "sku_ids": [
+            "sku-3"
+          ]
+        },
+        "evidence": [
+          {
+            "source_id": "specs",
+            "quote": "【蜂蜜花生麻花】278g*3袋",
+            "locator": "sheet2!L2/specs",
+            "method": "text"
+          }
+        ]
+      }
+    ],
+    "detail_content": [
+      {
+        "id": "f4",
+        "name": "包装形式",
+        "value": "独立小包装",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "supported",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "image-M-3",
+            "quote": "独立小包装",
+            "locator": "sheet2!M2: y=5400..7200",
+            "method": "image_read"
+          }
+        ]
+      },
+      {
+        "id": "f5",
+        "name": "详情底部净含量",
+        "value": "300克",
+        "unit": "",
+        "evidence_kind": "explicit_attribute",
+        "status": "conflicted",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "image-M-6",
+            "quote": "300克",
+            "locator": "sheet2!M2: y=10800..12600",
+            "method": "image_read"
+          }
+        ]
+      }
+    ],
+    "marketing_claims": [
+      {
+        "id": "m1",
+        "name": "口感宣传",
+        "value": "酥脆解馋 香甜不腻",
+        "unit": "",
+        "evidence_kind": "merchant_claim",
+        "status": "supported",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "copy-19",
+            "quote": "酥脆解馋 香甜不腻",
+            "locator": "sheet2!L2/copy-19",
+            "method": "text"
+          }
+        ]
+      }
+    ],
+    "buyer_reviews": [
+      {
+        "id": "b1",
+        "name": "评价口感",
+        "value": "酥酥脆脆",
+        "unit": "",
+        "evidence_kind": "buyer_experience",
+        "status": "supported",
+        "scope": {
+          "kind": "product",
+          "sku_ids": []
+        },
+        "evidence": [
+          {
+            "source_id": "review-0",
+            "quote": "酥酥脆脆",
+            "locator": "sheet2!L2/review-0",
+            "method": "text"
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "id": "i1",
+      "kind": "conflict",
+      "severity": "warning",
+      "description": "属性为278克，详情底部为300克；尚未确认是否不同包装版本。",
+      "observation_ids": [
+        "f3",
+        "f5"
+      ],
+      "source_ids": [
+        "attr-13",
+        "image-M-6"
+      ],
+      "resolution": "avoided",
+      "resolution_note": "本次文案省略克重；需要展示克重时再确认。"
+    }
+  ],
+  "questions": []
+}

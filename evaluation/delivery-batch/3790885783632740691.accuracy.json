@@ -1,0 +1,1322 @@
+{
+  "type": "accuracy",
+  "product_id": "3790885783632740691",
+  "result_revision": "2fe8dd8e4cdb35cb89f3489804c9f40f2c9822c7338e9bf0374919e442bce4dd",
+  "profile_revision": "d458b6f68078024dbc6151fdff343d3263f728a91004880d553b11c0f0ca3dc3",
+  "material_revision": "7e2e64acab9eb5a799104af334515ad4051db5c202dfaefc17be30393abcd5a5",
+  "counts": {
+    "supported": 17,
+    "contradicted": 0,
+    "insufficient": 25
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "徽渔桂臭鳜鱼（三去臭桂鱼）",
+      "source_ids": [],
+      "verdict": "insufficient",
+      "reviews": []
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "水产制品/鱼类制品-臭鳜鱼",
+      "source_ids": [],
+      "verdict": "insufficient",
+      "reviews": []
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "品牌：徽渔桂；部分图片写“微渔桂”，待确认",
+      "source_ids": [
+        "image-M-part-5",
+        "image-M-part-6",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "insufficient",
+          "reason": "本批可见图片仅见“微渔桂”字样，未见“徽渔桂”或品牌确认信息，无法裁定两个写法。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "微渔桂臭鳜鱼 + 全能料包"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "“微渔桂”香鲜鳜鱼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "产地：安徽池州（安徽特产/徽州风味）",
+      "source_ids": [
+        "attr-2",
+        "image-M-part-4",
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "详情长图产品参数标生产地址安徽池州，商品名含“安徽特产”，图片有“徽州风味”，但“徽州风味/特产”属商家标注。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "【生产地址】安徽池州"
+            },
+            {
+              "source_id": "identity",
+              "quote": "【到手3条】徽渔桂臭鳜鱼带包装0.6-1斤/条安徽特产正宗三去臭桂鱼"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "徽州风味"
+            }
+          ]
+        },
+        {
+          "id": "profile-4",
+          "verdict": "insufficient",
+          "reason": "本批图片未显示“安徽池州”产地文字，可见“徽州”“徽菜”风味表述，但不足以确认产地为池州。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "自然发酵生臭熟香"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "徽菜经典头牌的魅力。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "生产企业：池州市池一鱼农业科技有限公司",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "产品参数及详情图均列明该生产企业。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "生产企业名称 池州市池一鱼农业科技有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC12234172130063",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "产品参数与详情图可见同一许可证编号。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "食品生产许可证编号 SC12234172130063"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "加工方式：活鱼宰杀、人工去鳞净膛，古法木桶湿腌、传统工艺低温发酵",
+      "source_ids": [
+        "image-M-part-4",
+        "image-M-part-7",
+        "copy-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "insufficient",
+          "reason": "“活鱼宰杀”“古法湿腌/低温发酵”有图证，但“人工去鳞净膛”未见明确原文；加工属性仅写“腌制”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "鲜鱼宰杀 古法传承 彩木桶腌"
+            },
+            {
+              "source_id": "attr-10",
+              "quote": "加工方式 腌制"
+            }
+          ]
+        },
+        {
+          "id": "profile-7",
+          "verdict": "insufficient",
+          "reason": "图片可见“人工去鳞净膛”“木桶发酵”“活鱼宰杀”，但未见“古法木桶湿腌”和“低温发酵”完整表述，现有证据只能支持部分事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "我们坚持采用活鱼宰杀 古法腌制"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "人工去鳞净膛"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "传承木桶发酵"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "贮存条件：冷冻（0℃及以下），详情页标注-18℃冷冻保存",
+      "source_ids": [
+        "attr-8",
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "贮存条件 冷冻（0℃及以下）"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "【储存方法】-18℃冷冻保存"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "保质期：1年（详情页标注12个月）",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "保质期 1年"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "【保质期】12个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "净含量：260g（产品参数标注）；另有300g口径待确认",
+      "source_ids": [
+        "attr-4",
+        "attr-5",
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "insufficient",
+          "reason": "确有260g与300g两个净含量口径，但“以实物标签为准”为推断，资料未确认。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "净含量 260g"
+            },
+            {
+              "source_id": "specs",
+              "quote": "单件净含量 300g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "包装类型：包装；真空包装、冰袋锁鲜、泡沫箱冷链发货",
+      "source_ids": [
+        "image-M-part-7",
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "可见真空包装、冰袋锁鲜、极速冷链等包装发货描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "真空包装 冰袋锁鲜 极速冷链"
+            },
+            {
+              "source_id": "image-M-part-8",
+              "quote": "该品属于冷冻品，泡沫箱+冰袋发货"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "是否临期：否",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "insufficient",
+          "reason": "属性写“是否临期：否”，但原始资料无生产日期/到期日，无法独立核实；该属性本身不构成充分生产日期证据。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "是否临期 否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "营养成分表（每100g）：能量433kJ、蛋白质15.8g、脂肪3.9g、碳水化合物1.2g、钠1348mg",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "详情图营养成分表每100g数值与断言完全一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "能量 433千焦 蛋白质 15.8克 脂肪 3.9克 碳水化合物 1.2克 钠 1348毫克"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "物流：安徽池州发货，包邮，顺丰冷链",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "insufficient",
+          "reason": "有“安徽池州发货，包邮”“顺丰加急”，但无“顺丰冷链”明确表述；仅凭“发货/包邮”不能推出冷链。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "物流 发货 安徽池州发货，包邮"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "顺丰加急"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "收货提示：冷冻品加冰袋泡沫箱发货，需及时取货并冰箱存储；签收后24小时内提供坏单照片可负责",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "发货说明明确冷冻品泡沫箱+冰袋，需及时提取并冰箱存储，签收后24小时内提供坏单照片负责。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "[及时取货] 该品属于冷冻品，泡沫箱+冰袋发货，个别快递会放驿站或者快递柜，收到短信后务必第一时间提取+冰箱存储。"
+            },
+            {
+              "source_id": "image-M-part-8",
+              "quote": "签收后24小时内提供坏单照片 负责"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "古法工艺：鲜鱼宰杀、彩木桶腌、古法湿腌，传统工艺低温发酵168小时，自然发酵生臭熟香",
+      "source_ids": [
+        "copy-1",
+        "image-M-part-3",
+        "image-M-part-4",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "insufficient",
+          "reason": "“鲜鱼宰杀、彩木桶腌、古法湿腌、低温发酵168小时、自然发酵生臭熟香”有图证；但“古法工艺”原文写作“古法工艺香”，且“传统工艺低温发酵168小时”为图证，整体大部分可证；因“彩木桶”与“木桶”字面不同（彩木桶为图原文），故判部分支持不足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "鲜鱼宰杀 古法传承 彩木桶腌"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "自然发酵 生臭熟香 传统工艺腌制，低温发酵168小时"
+            }
+          ]
+        },
+        {
+          "id": "profile-16",
+          "verdict": "insufficient",
+          "reason": "图片可见自然发酵、木桶发酵等，但“168小时”低温发酵在可见图中未见，证据不足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "自然发酵生臭熟香"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "传承木桶发酵"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "自然发酵，商家宣称无添加剂、无保鲜剂、0添加剂、0防腐剂，老人小孩放心吃",
+      "source_ids": [
+        "copy-1",
+        "image-H",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "insufficient",
+          "reason": "“自然发酵 无添加剂保水剂”见于图H，但“0添加剂、0防腐剂、老人小孩放心吃”为商家文案宣称，配料表与认证资料不足以核实，且“无添加剂”不等于“0添加/0防腐剂”。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "自然发酵 肉多无小刺 无添加剂保水剂"
+            },
+            {
+              "source_id": "copy-1",
+              "quote": "无添加安全:老人小孩放心吃"
+            }
+          ]
+        },
+        {
+          "id": "profile-17",
+          "verdict": "insufficient",
+          "reason": "图片仅可见“0添加剂 0防腐剂”及“自然发酵”，无“无保鲜剂”及“老人小孩放心吃”的完整依据，证据只能支持部分。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "0添加剂 0防腐剂 老人小孩放心吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "蒜瓣肉：肉质紧实、形如蒜瓣，片片蒜瓣肉，嫩白如雪，口感鲜嫩滑爽、Q弹爽滑、紧实有嚼劲，鱼肉鲜香透骨",
+      "source_ids": [
+        "copy-1",
+        "image-I",
+        "image-M-part-3",
+        "image-M-part-4",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "insufficient",
+          "reason": "“肉质紧实 形如蒜瓣”“肉质紧实弹嫩易吃”有图证；但“片片蒜瓣肉、嫩白如雪、鲜嫩滑爽、Q弹爽滑、紧实有嚼劲、鲜香透骨”等为夸张修饰，图片无法核实口感与“如雪”色泽，超出可证范围。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "肉质紧实 形如蒜瓣"
+            },
+            {
+              "source_id": "copy-1",
+              "quote": "蒜瓣肉鲜嫩:肉质紧实弹嫩易吃"
+            }
+          ]
+        },
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "图片明确呈现片片蒜瓣肉、嫩白如雪、Q弹爽滑、紧实有嚼劲、鱼肉鲜香透骨等口感描述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "片片蒜瓣肉 嫩白如雪"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "Q弹爽滑 紧实有嚼劲"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "紧实肉质，细腻弹嫩，鱼肉鲜香透骨"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "闻起来臭、吃起来香；闻味识得鳜鱼香，入口鲜香",
+      "source_ids": [
+        "image-H",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "图H有“闻起来臭 吃起来香”，图M片段有“闻味识得鳜鱼香”。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "闻起来臭 吃起来香"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "闻味识得鳜鱼香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "肉多无小刺乱刺，更安全",
+      "source_ids": [
+        "image-H",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "insufficient",
+          "reason": "图H写“肉多无小刺”，但“乱刺”“更安全”为断言扩写；无小刺不等于无短刺乱刺，安全也非图片可证。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "肉多无小刺"
+            }
+          ]
+        },
+        {
+          "id": "profile-20",
+          "verdict": "insufficient",
+          "reason": "图片确有“无小刺乱刺 更安全”的宣称，但本批可见资料无法核实该客观事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "无小刺乱刺 更安全"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "活鱼宰杀、极冻锁鲜，只做活鱼宰杀，口感鲜嫩、营养丰富；承诺新鲜鳜鱼从养殖基地到厂区速冻库不超过2小时，自家养殖腌制",
+      "source_ids": [
+        "image-M-part-3",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "insufficient",
+          "reason": "图M有“活鱼宰杀 极冻锁鲜”“只做活鱼宰杀，口感鲜嫩，营养丰富”；但“从养殖基地到厂区速冻库不超过2小时”“自家养殖腌制”在本批资料中无原文，不能支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "活鱼宰杀 极冻锁鲜 肉质鲜美 滑嫩爽口 只做活鱼宰杀，口感鲜嫩，营养丰富！"
+            }
+          ]
+        },
+        {
+          "id": "profile-21",
+          "verdict": "insufficient",
+          "reason": "图片可见“活鱼宰杀”“不超过2小时源自产地发货”“自家养殖腌制”，但未见“极冻锁鲜”“营养丰富”完整表述，只能支持部分事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "我们承诺新鲜鳜鱼从养殖基地到厂区速冻库不会超过2小时源自产地发货，自家养殖腌制"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "安徽招牌臭鳜鱼、徽州头牌菜、徽菜经典头牌，传承徽州家乡味道",
+      "source_ids": [
+        "image-E",
+        "image-M-part-2",
+        "image-M-part-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "insufficient",
+          "reason": "“安徽招牌臭鳜鱼”“徽州头牌菜”有图证；但“徽菜经典头牌”及“传承徽州家乡味道”部分为扩写，徽州头牌与徽菜头牌字面近似，整体证据不足。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "安徽招牌臭鳜鱼"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "徽州头牌菜 每一口都是家乡的味道"
+            }
+          ]
+        },
+        {
+          "id": "profile-22",
+          "verdict": "insufficient",
+          "reason": "图片可见“徽菜经典头牌”，但未直接见“安徽招牌臭鳜鱼”“徽州头牌菜”“传承徽州家乡味道”完整表述，证据只能支持部分。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "徽菜经典头牌的魅力。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "腌制经验30年，无鳜不成席，贵人吃鳜鱼",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "supported",
+          "reason": "图片明确显示“腌制经验30年”“无鳜不成席”“贵人吃鳜鱼”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "腌制经验30年"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "无鳜不成席 贵人吃鳜鱼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "搭配烧鱼料包：拍一发四、赠料包，徽州大厨特调全能料包，家常调料地道风味；配视频教学，60秒变“大厨”，15分钟轻松变大厨，厨房小白也能做",
+      "source_ids": [
+        "image-E",
+        "image-K",
+        "image-M-part-2",
+        "image-M-part-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "“拍一发四 赠料包”“徽州大厨特调”“家常调料地道风味”“视频教学，60秒变大厨”有图证；但“15分钟轻松变大厨”“全能料包”无原文，且“拍一发四”与3条鱼对应关系存疑。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "拍一发四 赠料包"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "烧鱼料包免费送 徽州大厨特调制作 家常调料地道风味"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "视频教学，60秒变大厨"
+            }
+          ]
+        },
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "图片可见“微渔桂臭鳜鱼+全能料包”“视频教学，60秒变大厨”“15分钟轻松变大厨”，但未见“拍一发四”“徽州大厨特调”“60秒变‘大厨’”完整表述，且“15分钟轻松变大厨”与“60秒变大厨”口径不一，无法整条裁定。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "微渔桂臭鳜鱼 + 全能料包"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "煮熟神器，视频教学，60秒变大厨"
+            },
+            {
+              "source_id": "image-M-part-6",
+              "quote": "方便不随便 15分钟轻松变大厨"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "仿生养殖、饵料喂养，活鱼腌制层层把关",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "insufficient",
+          "reason": "图片顶部有“仿生养殖 饵料喂养”字样，但“活鱼腌制层层把关”本批可见资料未见完整表述，证据只能支持部分。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "仿生养殖 饵料喂养"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "原产地直发，源头工厂、高端品质，严格质检，资质齐全（检验报告：RPC25030165）",
+      "source_ids": [
+        "image-J",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "insufficient",
+          "reason": "图J可见检验报告编号RPC25030165及“严格通过质量检测 资质齐全”，但“原产地直发”“源头工厂、高端品质”为宣传语；报告为商家图片，不能作为独立检测认证。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "严格通过质量检测 资质齐全 吃得放心 报告编号：RPC25030165"
+            }
+          ]
+        },
+        {
+          "id": "profile-26",
+          "verdict": "insufficient",
+          "reason": "图片可见“原产地直发”“源头工厂”“严格质检”等，但未见检验报告编号RPC25030165，也未见“高端品质”完整对应句，证据不足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "高端品质 源头工厂"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "严格质检 买的放心 吃的安心"
+            },
+            {
+              "source_id": "image-M-part-8",
+              "quote": "中国鳜鱼之乡"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "正面：口感好、味道不错，孩子非常喜欢吃",
+      "source_ids": [
+        "copy-0",
+        "review-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "评价3原文有“味道不错……孩子非常喜欢吃”。归因个体体验成立。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "味道不错，经济又实惠。孩子非常喜欢吃。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "正面：盐度调得较淡、不齁咸，适合不喜欢重咸的人",
+      "source_ids": [
+        "copy-0",
+        "review-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "insufficient",
+          "reason": "评价0仅说盐度刚好、不喜欢齁咸；该买家使用场景不支持“盐度调得较淡、适合不喜欢重咸的人”的普遍判断；且原文“没有加盐”与调理腌制食品有歧义。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "没有加盐，我觉得盐度刚刚好，不喜欢那种齁咸的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "正面：鱼较大，分量足、性价比高",
+      "source_ids": [
+        "review-1",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "商品分量：足 性价比：高"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "不错很好鱼很大"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "正面：包装完好、新鲜度好",
+      "source_ids": [
+        "review-1",
+        "review-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "新鲜度：好 包装品质：完好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "个人感受/质疑：臭鳜鱼本身是腌制食品，买家质疑“非常新鲜”的说法",
+      "source_ids": [
+        "copy-0",
+        "review-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "评价2原文明确质疑腌制食品的“非常新鲜”说法。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "非常新鲜，写满四个字能得五元券，得着了新鲜程度，腌制的哪来的新鲜程度"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "个人感受：买家实收带包装约420g，认为在合理范围内",
+      "source_ids": [
+        "copy-0",
+        "review-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "评价0原文有带包装420g及“在合理范围里”。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "带袋子重量420g，在合理范围里"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "蒜瓣肉紧实鲜嫩｜腌制发酵后的鱼肉呈片片蒜瓣状，肉质紧实、嫩白，入口鲜香滑爽",
+      "source_ids": [
+        "copy-1",
+        "image-I",
+        "image-M-part-3",
+        "image-M-part-4",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "“肉质紧实 形如蒜瓣”有图证；但“片片蒜瓣、嫩白、入口鲜香滑爽”为感官修饰，图片不能证明口感；且没有“蒜瓣肉紧实鲜嫩”完整原文。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "肉质紧实 形如蒜瓣"
+            },
+            {
+              "source_id": "copy-1",
+              "quote": "蒜瓣肉鲜嫩:肉质紧实弹嫩易吃"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "图片呈现蒜瓣状鱼肉、紧实鲜嫩等描述，可支持该卖点。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "片片蒜瓣肉 嫩白如雪 鱼肉呈现蒜瓣状，味道鲜美"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "紧实肉质，细腻弹嫩，鱼肉鲜香透骨"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "闻臭吃香的老徽州味｜闻着有发酵气味，入口鲜香，是臭鳜鱼标志性的“闻起来臭、吃起来香”",
+      "source_ids": [
+        "image-H",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "图H明确“闻起来臭 吃起来香”，为臭鳜鱼标志性风味描述。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "闻起来臭 吃起来香"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "古法木桶湿腌发酵｜活鱼宰杀、人工去鳞净膛，用古法木桶湿腌、传统低温发酵工艺，做出地道徽州风味",
+      "source_ids": [
+        "image-M-part-4",
+        "image-M-part-7",
+        "copy-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "“彩木桶腌、古法湿腌、活鱼宰杀”有图证，但“人工去鳞净膛”无原文；且“古法木桶湿腌”与图中“彩木桶”措辞不一致，不足以完整支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "鲜鱼宰杀 古法传承 彩木桶腌"
+            }
+          ]
+        },
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "图片可见活鱼宰杀、人工去鳞净膛、木桶发酵等，但“古法木桶湿腌”“低温发酵”完整表述未见，证据只能支持部分。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "活鱼宰杀 古法腌制"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "人工去鳞净膛"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "传承木桶发酵"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "已去鳞去脏，省去收拾｜鱼身已做宰杀、去鳞净膛处理，拿到手不用从活鱼开始收拾，可直接进入烹饪",
+      "source_ids": [
+        "image-M-part-4",
+        "image-M-part-7",
+        "copy-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "仅有“鲜鱼宰杀”图片，无“去鳞净膛”“不用从活鱼开始收拾”明确原文；商品名“三去”可作线索但未展开工序。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "正宗三去臭桂鱼"
+            }
+          ]
+        },
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "图片明确显示人工去鳞净膛及活鱼宰杀处理，可支持已宰杀去鳞净膛、可直接烹饪。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "人工去鳞净膛"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "活鱼宰杀"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "肉多小刺少，吃着省心｜鱼肉厚实、小刺乱刺少，吃起来更省心",
+      "source_ids": [
+        "image-H",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "图H写“肉多无小刺”，但“小刺乱刺少”“更省心”为扩写，无原文支持。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "肉多无小刺"
+            }
+          ]
+        },
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "图片有“无小刺乱刺 更安全”宣称，但本批可见资料无法核实小刺少这一客观事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "无小刺乱刺 更安全"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "冷冻锁鲜冷链到家｜真空包装搭配冰袋、泡沫箱冷链发出，收货后及时取货并冷冻保存即可",
+      "source_ids": [
+        "image-M-part-7",
+        "image-M-part-8",
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "insufficient",
+          "reason": "有“真空包装、冰袋、泡沫箱冷链发货”等商品档案内容，但本批原始资料仅见“顺丰加急/安徽池州发货”，未明确冷链、真空、冰袋、泡沫箱；“及时取货并冷冻保存”为建议，非原文承诺。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "物流 发货 安徽池州发货，包邮"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "顺丰加急"
+            }
+          ]
+        },
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "图片明确真空包装、冰袋锁鲜、极速冷链及收货后及时提取冰箱存储提示。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "真空包装 冰袋锁鲜 极速冷链"
+            },
+            {
+              "source_id": "image-M-part-8",
+              "quote": "[及时取货] 该品属于冷冻品，泡沫箱+冰袋发货……务必第一时间提取+冰箱存储。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "附料包和视频教学｜搭配徽菜风味烧鱼料包，并配视频教学，厨房新手也能照着做",
+      "source_ids": [
+        "image-E",
+        "image-K",
+        "image-M-part-2",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "“赠料包、视频教学、厨房新手”有图证；但“徽菜风味烧鱼料包”“照着做”为推断，图K只写“视频教学，60秒变大厨”。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "拍一发四 赠料包"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "视频教学，60秒变大厨"
+            }
+          ]
+        },
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "图片可见搭配全能料包及视频教学，厨房新手可照做。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "微渔桂臭鳜鱼 + 全能料包"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "视频教学，60秒变大厨"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "安徽池州产地直发｜产自安徽池州，徽州风味特产，源头工厂发货",
+      "source_ids": [
+        "attr-2",
+        "image-M-part-4",
+        "image-M-part-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "insufficient",
+          "reason": "“安徽池州发货”“安徽招牌”“安徽特产”有原文，但“徽州风味特产”“源头工厂”证据不足；发货地不等于产地，产地需产品参数。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "产地 中国大陆"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "发货 安徽池州发货"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "【生产地址】安徽池州"
+            }
+          ]
+        },
+        {
+          "id": "point-8",
+          "verdict": "insufficient",
+          "reason": "图片可见“原产地直发”“源头工厂”“徽菜”等，但未见“安徽池州”产地文字，证据不足。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "原产地直发"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "高端品质 源头工厂"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "买家反馈咸淡适口｜有买家反馈盐度调得较淡、不齁咸，适合不喜欢重咸口味的人",
+      "source_ids": [
+        "copy-0",
+        "review-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "该买家只说盐度刚好、不齁咸；“盐度调得较淡”及“适合不喜欢重咸的人”为归纳性扩写，且“没有加盐”存在歧义。",
+          "evidence": [
+            {
+              "source_id": "review-0",
+              "quote": "没有加盐，我觉得盐度刚刚好，不喜欢那种齁咸的。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "买家反馈孩子爱吃｜有买家反馈口感好、味道不错，孩子很喜欢吃",
+      "source_ids": [
+        "copy-0",
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "insufficient",
+          "reason": "评价3支持“孩子非常喜欢吃”“味道不错”，但“口感好”未在原评价中出现，只能支持部分。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "味道不错，经济又实惠。孩子非常喜欢吃。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 17 / 冲突 0 / 待核 25"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

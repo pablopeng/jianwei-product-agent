@@ -1,0 +1,39 @@
+flowchart LR
+  subgraph IN["资料输入"]
+    I("商品名 · 属性规格
+商详图文 · 原有宣传
+买家评价 · 商家补充")
+  end
+  subgraph AG["主 Agent · 按需调用工具"]
+    A("理解需求与路由") --> T("检索材料 · 读取图片
+核查冲突与信息缺口")
+    T --> Q{"本轮要做什么？"}
+    Q -->|仅核查或修改| X("回答核查结论
+或修订已有产物")
+  end
+  subgraph P1["一阶段 · 商品档案"]
+    P("商品信息 · 规格配料
+原有卖点 · 买家反馈
+待确认项；后台保留来源") --> C{"商家确认当前档案？"}
+    C -->|需修改| E("直接编辑
+或自然语言修订")
+    E --> C
+  end
+  subgraph P2["二阶段 · 卖点表达"]
+    G("食品饮料 Skill 生成
+终稿复核") --> O("按优先级输出卖点
+短标题 ＋ 具体正文")
+  end
+  I --> A
+  Q -->|整理并生成卖点| P
+  C -->|已确认| G
+  classDef normal fill:#ffffff,stroke:#5b8ff9,color:#1f2329;
+  classDef decision fill:#f3f1eb,stroke:#8e877a,color:#1f2329;
+  classDef hint fill:#f7f8fa,stroke:#98a2b3,color:#1f2329;
+  class I,A,T,P,G,O normal;
+  class Q,C decision;
+  class E,X hint;
+  style IN fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style AG fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style P1 fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style P2 fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;

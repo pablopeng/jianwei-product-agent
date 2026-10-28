@@ -1,0 +1,29 @@
+<whiteboard type="mermaid">flowchart LR
+  subgraph RULE[&quot;规则配置 · 一期已实现&quot;]
+    R(&quot;Schema ＋ Prompt&lt;br/&gt;食品饮料 Skill&quot;)
+  end
+  subgraph PROD[&quot;产物与过程 · 一期已实现&quot;]
+    P(&quot;主 Agent 按需生产&lt;br/&gt;商品档案 → 确认 → 卖点&quot;) --&gt; S(&quot;冻结版本快照&lt;br/&gt;原始输入 · 一阶段 · 二阶段&lt;br/&gt;保留工具调用轨迹&quot;)
+  end
+  subgraph EVAL[&quot;批量评测与反馈 · 一期已实现&quot;]
+    S1(&quot;机评：信息准确性&lt;br/&gt;规则检查：Agent 轨迹&quot;) --&gt; J(&quot;整批回收与统计&lt;br/&gt;逐维分数 · 人工备注&lt;br/&gt;Prompt／Skill 迭代建议&quot;)
+    H(&quot;人工：底线 3 项 · 质量 5 项&lt;br/&gt;飞书表格批量 0／1／2 评分&quot;) --&gt; J
+    J --&gt; U(&quot;人工定位问题&lt;br/&gt;修改规则与提示词&lt;br/&gt;同批样本复测&quot;)
+  end
+  subgraph FUT[&quot;二期规划 · 尚未实现&quot;]
+    F(&quot;分行业 Auto Rubrics&lt;br/&gt;二阶段 SFT 模型&lt;br/&gt;图文商品详情页重构&quot;)
+  end
+  R --&gt; P
+  S --&gt; S1
+  S --&gt; H
+  U -.反馈迭代.-&gt; R
+  J -.沉淀评测与训练资产.-&gt; F
+  classDef normal fill:#ffffff,stroke:#5b8ff9,color:#1f2329;
+  classDef hint fill:#f3f1eb,stroke:#8e877a,color:#1f2329;
+  class R,P,S,S1,H,J,U normal;
+  class F hint;
+  style RULE fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style PROD fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style EVAL fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;
+  style FUT fill:#f3f1eb,stroke:#8e877a,stroke-dasharray:5 5;
+</whiteboard>

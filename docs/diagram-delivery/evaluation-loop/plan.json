@@ -1,0 +1,201 @@
+{
+  "version": "1.0",
+  "chart_type": "flowchart",
+  "title": "规则—生产—评测反馈闭环",
+  "subtitle": "一期已实现与二期规划明确区分",
+  "nodes": [
+    {
+      "id": "r",
+      "label": "Schema、Prompt、食品饮料Skill",
+      "group": "rule",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "p",
+      "label": "主Agent按需生产",
+      "group": "prod",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "s",
+      "label": "版本快照与轨迹",
+      "group": "prod",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "s1",
+      "label": "机评信息准确性、轨迹规则检查",
+      "group": "eval",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "h",
+      "label": "人工3底线5高标、飞书012评审",
+      "group": "eval",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "j",
+      "label": "回收统计与迭代建议",
+      "group": "eval",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "u",
+      "label": "人工修改规则、同批复测",
+      "group": "eval",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "f",
+      "label": "Auto Rubrics、SFT、图文重构规划",
+      "group": "fut",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    }
+  ],
+  "groups": [
+    {
+      "id": "rule",
+      "label": "规则配置 · 一期已实现",
+      "axis": "cluster",
+      "order": 0
+    },
+    {
+      "id": "prod",
+      "label": "产物与过程 · 一期已实现",
+      "axis": "cluster",
+      "order": 1
+    },
+    {
+      "id": "eval",
+      "label": "批量评测与反馈 · 一期已实现",
+      "axis": "cluster",
+      "order": 2
+    },
+    {
+      "id": "fut",
+      "label": "二期规划 · 尚未实现",
+      "axis": "cluster",
+      "order": 3
+    }
+  ],
+  "edges": [
+    {
+      "from": "r",
+      "to": "p",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "p",
+      "to": "s",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "s",
+      "to": "s1",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "s",
+      "to": "h",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "s1",
+      "to": "j",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "h",
+      "to": "j",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "j",
+      "to": "u",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "u",
+      "to": "r",
+      "label": "反馈迭代",
+      "kind": "feedback",
+      "semantic": "normal"
+    },
+    {
+      "from": "j",
+      "to": "f",
+      "label": "沉淀评测与训练资产",
+      "kind": "sequence",
+      "semantic": "normal"
+    }
+  ],
+  "style_budget": {
+    "primary_fill": "#ffffff",
+    "primary_border": "#5b8ff9",
+    "accent_border": "#8e877a",
+    "danger_border": "#e86868",
+    "success_border": "#5b8ff9",
+    "body_font_size": 14,
+    "title_font_size": 24,
+    "label_color": "#1f2329",
+    "connector_shape": "curve",
+    "connector_arrow_end": "solid_arrow",
+    "connector_color": "#000000",
+    "layer_fill": "#f7f8fa",
+    "layer_border": "#98a2b3"
+  },
+  "density_hint": {
+    "node_count": 8,
+    "max_depth": 2,
+    "has_branches": true
+  },
+  "style_profile": {
+    "route_preference": "mermaid",
+    "visual_anchor": "flowchart",
+    "layout_signature": [
+      "浅灰分区",
+      "白底圆角步骤",
+      "浅米色决策",
+      "虚线反馈"
+    ],
+    "must_have": [
+      "真实条件分支",
+      "清楚标注一期与二期"
+    ],
+    "must_not": [
+      "装饰性外框",
+      "虚构已完成功能"
+    ]
+  }
+}

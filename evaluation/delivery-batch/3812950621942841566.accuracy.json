@@ -1,0 +1,1291 @@
+{
+  "type": "accuracy",
+  "product_id": "3812950621942841566",
+  "result_revision": "8007645ddfb765e6a902b74906596f2bf56d04a0251926ce39537f24e1e7d1c1",
+  "profile_revision": "3e800a8f23a418e4fc315f0412305aa3eb302dd073fcae4bdaf18c8c9b9ac43b",
+  "material_revision": "c44895e012a484e35a1fdfa958df8ea2d768606e28e7b94afef0d5df410f22fb",
+  "counts": {
+    "supported": 38,
+    "contradicted": 0,
+    "insufficient": 11
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "曲奇四重奏 尊贵杂锦蝴蝶酥礼盒（天鹅款/黄金版）",
+      "source_ids": [
+        "identity",
+        "specs",
+        "image-E",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名称、规格及图片均显示为曲奇四重奏尊贵杂锦蝴蝶酥礼盒（天鹅款/黄金版）；黄金版与黄金版一致，天鹅款有图片支持。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "尊贵杂锦蝴蝶酥礼盒（天鹅款）-黄金版211g*1盒"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "尊贵杂锦蝴蝶酥礼盒-黄金版"
+            }
+          ]
+        },
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "身份与规格名称一致，图片可见天鹅款礼盒及Cookie Quartet标识",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "品名：尊贵杂锦蝴蝶酥礼盒-黄金版"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "休闲食品/糕点/点心/蝴蝶酥",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "休闲食品 糕点/点心 蝴蝶酥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "品牌：COOKIES",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "品牌：COOKIES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "产地：中国香港特别行政区，香港制造",
+      "source_ids": [
+        "attr-2",
+        "image-E",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "产地：中国香港特别行政区"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "香港制造 MADE IN HONG KONG"
+            }
+          ]
+        },
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "产品信息标注产地中国香港，香港制造",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "产地：中国香港"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "保质期：6个月",
+      "source_ids": [
+        "attr-3",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "保质期：6个月"
+            }
+          ]
+        },
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "产品信息标注保质期6个月",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "保质期：6个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "储存温度：常温",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "储存温度：常温"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "请置于阴凉干燥处密封保存，避免潮湿、阳光直射环境及高温，拆封后尽快食用",
+      "source_ids": [
+        "attr-1",
+        "attr-5",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "贮存条件原文包含阴凉干燥处密封、避免潮湿/阳光直射及高温、拆封后尽快食用。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "请置于阴凉干燥处密封保存,避免潮湿/阳光直射环境及高温,拆封后尽快食用。"
+            }
+          ]
+        },
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "产品信息储存方式原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "请置于阴凉干燥处密封保存，避免潮湿/阳光直射环境及高温，拆封后尽快食用。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "进口食品",
+      "source_ids": [
+        "attr-4",
+        "image-M"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "产地与包装：进口食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "净含量：211克/盒，24枚入",
+      "source_ids": [
+        "image-H",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "图片显示净含量211克、24枚入，与规格一致。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "净含量:211克 24枚入"
+            }
+          ]
+        },
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "图中标注净含量211克、24枚入",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量：211克 24枚入"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "礼盒尺寸：33.7cm×16.7cm",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "图中标注礼盒尺寸33.7cm×16.7cm",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "33.7cm 16.7cm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "工艺：每张酥皮耗时48小时手工开酥，经低温醒发、折叠起酥、多段烘焙、冷却包装制成",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "工艺与流程原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "每张酥皮都需耗时48小时的手工开酥……低温醒发 折叠起酥 多段烘焙 冷却包装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "恒温烘焙，热力均匀包裹每一块曲奇和酥皮",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "恒温烘焙描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "恒温烘烤 热力均匀的包裹着每一块曲奇和酥皮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "礼盒附精美礼袋",
+      "source_ids": [
+        "image-E",
+        "image-H"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "insufficient",
+          "reason": "图片可见精美礼袋及买即赠礼袋，但没有文字证据表明礼盒“附”礼袋是随盒标配而非买赠活动。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "买即赠 精美礼袋*1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "尊贵杂锦蝴蝶酥礼盒（天鹅款）-黄金版 211g×1盒",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "规格列表明确列出天鹅款-黄金版211g×1盒。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "尊贵杂锦蝴蝶酥礼盒（天鹅款）-黄金版211g*1盒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "净含量211克，24枚入",
+      "source_ids": [
+        "image-H",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "图片显示净含量211克、24枚入。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "净含量:211克 24枚入"
+            }
+          ]
+        },
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "净含量与枚数标注一致",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量：211克 24枚入"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "口味组成：原味蝴蝶酥12片、榛子蝴蝶酥2片、伯爵茶蝴蝶酥2片、抹茶蝴蝶酥2片、金芝麻蝴蝶酥2片、黄金焦糖蝴蝶酥2片、巧克力蝴蝶酥2片",
+      "source_ids": [
+        "image-H",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "图片明确列出原味12片及榛子、伯爵茶、抹茶、金芝麻、黄金焦糖、巧克力各2片。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "原味蝴蝶酥（12片）、榛子蝴蝶酥（2片）、伯爵茶蝴蝶酥（2片）、抹茶蝴蝶酥（2片）、金芝麻蝴蝶酥（2片）、黄金焦糖蝴蝶酥（2片）、巧克力蝴蝶酥（2片）"
+            }
+          ]
+        },
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "口味与片数逐项与图中一致",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "原味蝴蝶酥(12片)、榛子蝴蝶酥(2片)、伯爵茶蝴蝶酥(2片)、抹茶蝴蝶酥(2片)、金芝麻蝴蝶酥(2片)、黄金焦糖蝴蝶酥(2片)、巧克力蝴蝶酥(2片)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "买即赠精美礼袋×1",
+      "source_ids": [
+        "image-E"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "商品图明确标注买即赠精美礼袋×1。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "买即赠 精美礼袋*1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "香港曲奇四重奏出品的招牌蝴蝶酥，香港制造",
+      "source_ids": [
+        "image-E",
+        "image-F"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "insufficient",
+          "reason": "“香港制造”和品牌有证据，但“香港曲奇四重奏出品的招牌蝴蝶酥”中“招牌”仅来自商家宣传图文字，未证明为客观招牌产品；本批不足以支撑整条。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "香港曲奇四重奏｜尊贵杂锦蝴蝶酥礼盒-黄金版；香港制造"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "招牌蝴蝶酥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "香脆浓郁",
+      "source_ids": [
+        "copy-1"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "平台产品卖点原文即“香脆浓郁”。",
+          "evidence": [
+            {
+              "source_id": "copy-1",
+              "quote": "香脆浓郁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "平台标注热搜度超99%同类品",
+      "source_ids": [
+        "copy-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "平台消费行为卖点标注热搜度超99%同类品。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "热搜度超99%同类品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "口感描述：咀嚼时酥皮在齿间轻融，黄油浓香与焦糖微甜在味蕾铺开，从第一口到最后一口始终酥脆；咽下后唇齿留有黄油酥香，让人想再拿起一块",
+      "source_ids": [
+        "image-I"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "图片英文口感描述与文案大意一致，属于商品描述中的口感表述。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "As you chew, the pastry flakes melt away gently between your teeth. The rich aroma of butter and the subtle sweetness of caramel spread across your taste buds... the lingering notes of buttery crispness stay on your lips and teeth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "以世界珍馐启宴舌尖殿堂，主打招牌蝴蝶酥",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "详情图有“以世界珍馐启宴舌尖殿堂”和“招牌蝴蝶酥”宣传文字。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "以世界珍馐启宴舌尖殿堂 招牌蝴蝶酥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "宣传称其为唯一总获10星的蝴蝶酥品牌",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "insufficient",
+          "reason": "“唯一总获10星的蝴蝶酥品牌”仅为商家宣传图文宣称，认证资料未随本批提供，不能作为确定事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "唯一总获10星的蝴蝶酥品牌 ★★★★★"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "宣传称获全球食品界奥斯卡“国际美味奖”",
+      "source_ids": [
+        "image-M"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "insufficient",
+          "reason": "“国际美味奖”为商家详情图宣称，认证资料未随本批提供，不能据此确认获奖事实。",
+          "evidence": [
+            {
+              "source_id": "image-M",
+              "quote": "全球食品界奥斯卡「国际美味奖」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "原料选自20多个国家和地区，包括瑞士芝士、比利时朱古力、美国杏仁和蓝莓干、日本樱花、抹茶、土耳其榛子、荷兰奶粉、新西兰牛油、新加坡糖霜、德国有机红菜头、秘鲁可可豆、斯里兰卡伯爵茶粉等",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "原料来源国家与项目逐项可见于详情图",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "原料选自20多个国家和地区……瑞士芝士、比利时朱古力、美国杏仁和蓝莓干、日本樱花、抹茶、土耳其榛子、荷兰奶粉、新西兰牛油、新加坡糖霜、德国有机红菜头、秘鲁可可豆、斯里兰卡伯爵茶粉等。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "比利时穆斯克龙百年工坊的巧克力，释放深沉丝滑的巧克力本味",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "比利时巧克力产地与风味描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "比利时穆斯克龙百年工坊的巧克力，释放深沉丝滑的巧克力本味。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "土耳其奥尔杜黑海沿岸的榛子，颗颗饱满、香脆浓郁",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "土耳其榛子产地与描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "土耳其奥尔杜黑海沿岸的榛子，颗颗饱满，香脆浓郁。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "新西兰黄油，乳脂界的黄金标准，赋予酥胚无法复刻的醇香",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "新西兰黄油描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "新西兰黄油，乳脂界的黄金标准，赋予酥胚无法复刻的醇香。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "宇治抹茶仅取嫩叶初露的精华，是融化在糕点中的京都之春",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "宇治抹茶描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "宇治抹茶 仅取用嫩叶初露的精华，是融化在糕点中的京都之春。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "另有巧克力杂莓蝴蝶酥使用西班牙草莓、白巧克力西番莲奶香脆蝴蝶酥使用西班牙热情果，宣传原料在西班牙巴塞罗那阳光下生长，果酸明亮、风味奔放",
+      "source_ids": [
+        "image-M-part-2",
+        "image-M-part-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "详情图确提到西班牙草莓、西班牙热情果及巴塞罗那阳光下生长，但“巧克力杂莓蝴蝶酥使用西班牙草莓、白巧克力西番莲奶香脆蝴蝶酥使用西班牙热情果”是宣传图文字，且与本SKU口味组成不同，原料使用无法由本批材料确认。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-3",
+              "quote": "在西班牙巴塞罗那阳光下滋养的西班牙与草莓，果酸明亮、风味奔放。"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "白巧克力番莲奶香脆蝴蝶酥；巧克力杂莓蝴蝶酥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "每张酥皮需耗时48小时的手工开酥，才能成就层层分明的空气感酥脆",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "48小时手工开酥与层次描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "每张酥皮都需耗时48小时的手工开酥，才能成就层层分明的空气感酥脆。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "醇厚的新西兰黄油香气，体现高级食材用料扎实",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "新西兰黄油香气与用料描述原文覆盖，属商品宣传用语",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "醇厚的新西兰黄油香气……是我们高级食材用料扎实的真实体现。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "恒温烘焙，热力均匀包裹每一块曲奇和酥皮，体现香港制造技艺的沉淀",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "supported",
+          "reason": "恒温烘焙与香港制造技艺原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "恒温烘烤 热力均匀的包裹着每一块曲奇和酥皮，都是香港制造技艺的沉淀"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "礼盒装适合作为伴手礼，节日送礼甄选，新年礼、中秋礼、元旦礼等均适用",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "supported",
+          "reason": "送礼场景与节日列举原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "节日送礼甄选 新年礼——中秋礼——元旦礼等均适用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "适合下午茶场景，搭配咖啡享用",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "下午茶配咖啡场景在图中有呈现",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "SWEET TIME 旁配咖啡与蝴蝶酥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "主厨刘文达为法国巴黎蓝带大厨，曾先后就职于香港帝苑酒店、富豪酒店集团、富丽华酒店；其研发的「花生酱杏仁蔓越莓曲奇」与「巧克力蝴蝶酥礼盒」获食品界奥斯卡Superior Taste Award（国际美味大奖）三星荣誉",
+      "source_ids": [
+        "image-M-part-9"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "insufficient",
+          "reason": "主厨姓名、蓝带大厨身份及酒店经历有图可查，但其研发的“花生酱杏仁蔓越莓曲奇”与“巧克力蝴蝶酥礼盒”获三星荣誉为商家宣称，认证资料未随本批提供，不能作为确定认证事实",
+          "evidence": [
+            {
+              "source_id": "image-M-part-9",
+              "quote": "其研发的<花生酱杏仁蔓越莓曲奇>与<巧克力蝴蝶酥礼盒>获食品界奥斯卡Superior Taste Award（国际美味大奖）三星荣誉。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "香港制造杂锦蝴蝶酥｜COOKIES出品，中国香港制造的蝴蝶酥礼盒，一盒集齐原味、榛子、伯爵茶、抹茶、金芝麻、黄金焦糖、巧克力七种口味",
+      "source_ids": [
+        "identity",
+        "specs",
+        "image-E",
+        "image-M-part-5",
+        "attr-0",
+        "attr-2",
+        "image-H"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "品牌、产地、礼盒名称和七种口味组成均有证据。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "曲奇四重奏蝴蝶酥香港进口曲奇下午茶糕点礼盒零食饼干伴手礼七夕"
+            },
+            {
+              "source_id": "image-H",
+              "quote": "原味蝴蝶酥（12片）、榛子蝴蝶酥（2片）、伯爵茶蝴蝶酥（2片）、抹茶蝴蝶酥（2片）、金芝麻蝴蝶酥（2片）、黄金焦糖蝴蝶酥（2片）、巧克力蝴蝶酥（2片）"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "香港制造与七种口味可有依据，但“COOKIES出品”与档案中“COOKIES”品牌标识混用，且无法确认出品关系",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "品名：尊贵杂锦蝴蝶酥礼盒-黄金版 产地：中国香港"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "48小时手工开酥｜每张酥皮耗时48小时手工开酥，经低温醒发、折叠起酥、多段烘焙制成，形成层层分明的酥皮",
+      "source_ids": [
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "48小时手工开酥与流程原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-6",
+              "quote": "每张酥皮都需耗时48小时的手工开酥……低温醒发 折叠起酥 多段烘焙"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "黄油浓香在齿间化开｜咀嚼时酥皮轻融，黄油浓香与焦糖微甜在味蕾铺开，咽下后唇齿仍留酥香",
+      "source_ids": [
+        "image-I"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "口感描述来自商品图英文描述，黄油浓香、焦糖微甜、酥皮轻融及留香均有对应。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "The rich aroma of butter and the subtle sweetness of caramel spread across your taste buds... the lingering notes of buttery crispness stay on your lips and teeth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "新西兰黄油打底｜醇厚的新西兰黄油香气贯穿酥胚，用料扎实，是黄油浓香的直接来源",
+      "source_ids": [
+        "image-M-part-4",
+        "image-M-part-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "新西兰黄油香气与用料描述原文覆盖，属宣传修辞",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "新西兰黄油，乳脂界的黄金标准，赋予酥胚无法复刻的醇香。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "土耳其榛子入酥｜榛子取自土耳其奥尔杜黑海沿岸，颗颗饱满、香脆浓郁，为榛子口味添一层坚果香脆",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "土耳其榛子描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "土耳其奥尔杜黑海沿岸的榛子，颗颗饱满，香脆浓郁。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "抹茶取宇治嫩叶｜宇治抹茶仅取嫩叶初露的精华，入口是融化在糕点里的京都之春",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "宇治抹茶描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "宇治抹茶 仅取用嫩叶初露的精华，是融化在糕点中的京都之春。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "比利时巧克力风味｜巧克力口味选用比利时穆斯克龙百年工坊的巧克力，释放深沉丝滑的巧克力本味",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "比利时巧克力描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "比利时穆斯克龙百年工坊的巧克力，释放深沉丝滑的巧克力本味。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "七种口味分层搭配｜原味12片，榛子、伯爵茶、抹茶、金芝麻、黄金焦糖、巧克力各2片，从茶香到坚果、焦糖各有变化",
+      "source_ids": [
+        "image-H",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "supported",
+          "reason": "七种口味及各自片数有图片明确支持，“从茶香到坚果、焦糖各有变化”属于基于口味的合理修辞，无新功能承诺。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "原味蝴蝶酥（12片）、榛子蝴蝶酥（2片）、伯爵茶蝴蝶酥（2片）、抹茶蝴蝶酥（2片）、金芝麻蝴蝶酥（2片）、黄金焦糖蝴蝶酥（2片）、巧克力蝴蝶酥（2片）"
+            }
+          ]
+        },
+        {
+          "id": "point-8",
+          "verdict": "supported",
+          "reason": "口味与片数逐项一致",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "原味蝴蝶酥(12片)、榛子蝴蝶酥(2片)、伯爵茶蝴蝶酥(2片)、抹茶蝴蝶酥(2片)、金芝麻蝴蝶酥(2片)、黄金焦糖蝴蝶酥(2片)、巧克力蝴蝶酥(2片)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "恒温烘焙更均匀｜恒温烘焙让热力均匀包裹每一块曲奇和酥皮，出炉品质更稳定",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "supported",
+          "reason": "恒温烘焙热力均匀描述原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "恒温烘烤 热力均匀的包裹着每一块曲奇和酥皮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "24枚入适合分享｜211克一盒24枚入，口味分层清楚，适合摆上茶桌与家人朋友分着吃",
+      "source_ids": [
+        "image-H",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "supported",
+          "reason": "211克、24枚入有图片支持；“适合分享”是对分量的合理场景建议，未暗含超出商品的功能效果。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "净含量:211克 24枚入"
+            }
+          ]
+        },
+        {
+          "id": "point-10",
+          "verdict": "supported",
+          "reason": "净含量、枚数与适用场景图有支持",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量：211克 24枚入"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-11",
+      "stage": "selling_points",
+      "text": "下午茶配咖啡｜掰一块蝴蝶酥配咖啡，黄油香与咖啡的微苦相互衬托，适合闲坐的下午",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-11",
+          "verdict": "supported",
+          "reason": "下午茶配咖啡场景图可见，属场景建议",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "SWEET TIME 旁配咖啡与蝴蝶酥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-12",
+      "stage": "selling_points",
+      "text": "礼盒附赠礼袋｜天鹅款礼盒尺寸33.7cm×16.7cm，随盒附精美礼袋，节日送礼、伴手礼拎起即走",
+      "source_ids": [
+        "image-M-part-5",
+        "image-E",
+        "image-H",
+        "image-M-part-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-12",
+          "verdict": "insufficient",
+          "reason": "礼袋图片为“买即赠”，并非明确随盒标配；且尺寸来源仅能证明礼盒尺寸，不能证明“附赠礼袋”为默认包装。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "买即赠 精美礼袋*1"
+            }
+          ]
+        },
+        {
+          "id": "point-12",
+          "verdict": "insufficient",
+          "reason": "礼盒尺寸可查，但“随盒附赠精美礼袋”在提供的图片中未明确可见，档案属待查对象，不能以档案证明档案",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "33.7cm 16.7cm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-13",
+      "stage": "selling_points",
+      "text": "常温存放6个月｜常温储存，置于阴凉干燥处密封保存，避免潮湿与阳光直射，拆封后尽快食用",
+      "source_ids": [
+        "attr-3",
+        "image-M-part-5",
+        "attr-7",
+        "attr-1",
+        "attr-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-13",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "储存温度：常温"
+            },
+            {
+              "source_id": "attr-3",
+              "quote": "保质期：6个月"
+            },
+            {
+              "source_id": "attr-5",
+              "quote": "请置于阴凉干燥处密封保存,避免潮湿/阳光直射环境及高温,拆封后尽快食用。"
+            }
+          ]
+        },
+        {
+          "id": "point-13",
+          "verdict": "supported",
+          "reason": "保质期6个月与储存方式原文覆盖",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "保质期：6个月 请置于阴凉干燥处密封保存，避免潮湿/阳光直射环境及高温，拆封后尽快食用。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 38 / 冲突 0 / 待核 11"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

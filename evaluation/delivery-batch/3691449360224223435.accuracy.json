@@ -1,0 +1,1368 @@
+{
+  "type": "accuracy",
+  "product_id": "3691449360224223435",
+  "result_revision": "a30640cc820218215401c2e59a50375cfc7b3b846d8d260d02d92bf508990df7",
+  "profile_revision": "993641876c619e4b3e324c123e64599b4c202c26e107c761b4f6ed82b526f167",
+  "material_revision": "e2d5e81652de5c2d504d8e59eb4c645af732e876baa52013c25aad8f8b9427c9",
+  "counts": {
+    "supported": 22,
+    "contradicted": 0,
+    "insufficient": 27
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "云南白背毛木耳丝干货免切",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名明确含云南白背毛木耳丝、干货、免切。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "【焕新季·暑期大促】云南白背毛木耳丝干货免切 螺蛳粉炒菜火锅凉拌"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "粮油干货/方便速食 > 干货 > 菌类干货 > 黑木耳",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "粮油干货/方便速食 > 干货 > 菌类干货 > 黑木耳"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "品牌：彩滋云",
+      "source_ids": [
+        "attr-9",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "品牌：彩滋云"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "彩滋云粮油旗舰店"
+            }
+          ]
+        },
+        {
+          "id": "profile-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "包装袋上可见品牌名“彩滋云”"
+            },
+            {
+              "source_id": "attr-9",
+              "quote": "品牌：彩滋云"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "产地：中国大陆（云南）",
+      "source_ids": [
+        "attr-2",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "insufficient",
+          "reason": "属性仅标产地中国大陆；标题有“云南”，但图4未见可确认的产地区域表述。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "产地：中国大陆"
+            },
+            {
+              "source_id": "identity",
+              "quote": "云南白背毛木耳丝"
+            }
+          ]
+        },
+        {
+          "id": "profile-4",
+          "verdict": "insufficient",
+          "reason": "档案属性和图片均未明确标注“中国大陆（云南）”这一产地信息，图片未显示产地。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "产地：中国大陆（云南）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "贮存条件：常温",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "贮存条件：常温"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "保质期：12个月",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "保质期：12月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "产品标准代码：Q/NSJ0001S",
+      "source_ids": [
+        "attr-10"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-10",
+              "quote": "产品标准代码：Q/NSJ0001S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11853010105920",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "食品生产许可证编号：SC11853010105920"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "生产企业：云南施家铺子食品有限公司",
+      "source_ids": [
+        "attr-12",
+        "image-M-part-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "生产企业名称：云南施家铺子食品有限公司"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "生产企业名称 云南施家铺子食品有限公司"
+            }
+          ]
+        },
+        {
+          "id": "profile-9",
+          "verdict": "insufficient",
+          "reason": "档案属性写“云南施家铺子食品有限公司”，但包装图可见文字为“云和地家铺子食品有限公司”，两者名称不一致，无法裁定。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "包装袋底部可见“云和地家铺子食品有限公司”"
+            },
+            {
+              "source_id": "attr-12",
+              "quote": "生产企业：云南施家铺子食品有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "生产企业地址：云南省滇中新区大板桥街道办事处西冲社区居委会文博路1086号5栋3楼",
+      "source_ids": [
+        "attr-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "生产企业地址：云南省滇中新区大板桥街道办事处西冲社区居委会文博路1086号5栋3楼"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "国产预包装食品",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "产地与包装：国产-预包装食品"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "非临期",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "是否临期：否"
+            },
+            {
+              "source_id": "image-M",
+              "quote": "是否临期 否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "非有机食品",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "是否为有机食品：否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "自然晾晒",
+      "source_ids": [
+        "image-M-part-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "包装图明确写有“自然晾晒”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "精选木耳丝 自然晾晒"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "免切木耳丝",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "insufficient",
+          "reason": "“免切”在档案属性及原始卖点中有提及，但所给图片M-part-4未显示“免切木耳丝”字样，仅凭图片不能支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "图片未显示“免切木耳丝”文字"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "30g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "规格列表含30g*2袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*2袋（贵在运费）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "商品标题标注“贵在运费”",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "规格标题确写“贵在运费”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*2袋（贵在运费）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "30g*4袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "规格列表含30g*4袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*4袋（万人回购 2026年一路发发发）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "商品标题标注“万人回购 2026年一路发发发”",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "商品标题确写“万人回购 2026年一路发发发”，为转述标题内容。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*4袋（万人回购 2026年一路发发发）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "30g*8袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "规格列表含30g*8袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*8袋（70%选择性价比高，支持试吃一包）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "商品标题标注“70%选择性价比高，支持试吃一包”",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "商品标题确写该规格文案，为转述。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*8袋（70%选择性价比高，支持试吃一包）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "单件净含量30g*1包",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "规格值明确单件净含量30g*1包。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "单件净含量30g*1包"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "严格选材：背毛木耳丝经科学培育，鲜耳采摘后自然晾晒至干，精挑细选，没有工业污染",
+      "source_ids": [
+        "image-J"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "supported",
+          "reason": "图J文字完整覆盖科学培育、鲜耳采摘、晾晒至干、精挑细选、没有工业污染。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "严选材料 科学培育，鲜耳采摘，晾晒至干，精挑细选，没有工业污染"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "人工挑选耳丝，均匀切丝，剔除无根木耳，选用鲜耳；确保无蛀虫、无杂质、无硫无黑染，色泽黑亮",
+      "source_ids": [
+        "image-M-part-2",
+        "image-M-part-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "详情图含人工挑选、均匀切丝、无蛀虫、无杂质、鲜耳采摘，以及“无硫无黑染 色泽自然靓丽”。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "人工挑选 无蛀虫 均匀切丝 无杂质 鲜耳采摘"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "无硫无黑染 色泽自然靓丽；除头去根 人工剔除 精选无根木耳"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "头茬精挑细选，丝长肉厚，干净无杂，脆嫩爽口",
+      "source_ids": [
+        "copy-16",
+        "image-E",
+        "image-H"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "头茬、精挑细选、丝长肉厚、干净无杂、脆嫩爽口均有图E与图H文字对应。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "头茬 精挑细选 丝长肉厚 干净无杂"
+            },
+            {
+              "source_id": "image-H",
+              "quote": "头茬 白背木耳丝 精心挑选·脆嫩爽口"
+            },
+            {
+              "source_id": "copy-16",
+              "quote": "头茬精挑细选"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "泡发后木耳舒展，无杂质、无蛀虫，肉厚色泽亮黑，口感酥软滑脆",
+      "source_ids": [
+        "image-I"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "图I完整写泡发后舒展、无杂质、无蛀虫、肉厚色泽亮黑、口感酥软滑脆。",
+          "evidence": [
+            {
+              "source_id": "image-I",
+              "quote": "泡发后木耳舒展，无杂质，无蛀虫，肉厚色泽亮黑，口感酥软滑脆营养"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "肉厚质佳：肉质厚实无根更爽口",
+      "source_ids": [
+        "copy-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "固定文案确写肉质厚实无根更爽口。",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "肉厚质佳:肉质厚实无根更爽口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "干净卫生：无需额外清洗直接使用",
+      "source_ids": [
+        "copy-14"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "固定文案确写无需额外清洗直接使用。",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "干净卫生:无需额外清洗直接使用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "免切方便：无需处理直接烹饪，开袋即用",
+      "source_ids": [
+        "copy-14",
+        "image-M-part-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "insufficient",
+          "reason": "图4是详情长图截取画面，未见“开袋即用”字样，现有材料只支持“免切/无需处理直接烹饪”，不支持开袋即食或开袋即用。",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "免切方便:无需处理直接烹饪"
+            }
+          ]
+        },
+        {
+          "id": "profile-29",
+          "verdict": "insufficient",
+          "reason": "商品卖点文案称“免切方便：无需处理直接烹饪，开袋即用”，但图片M-part-4无免切/开袋即用文字；且该商品为干货，需泡发4—8小时，并非开袋即用，宣传与泡发要求矛盾。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "白背毛木耳丝冷水泡发需4-8小时"
+            },
+            {
+              "source_id": "copy-14",
+              "quote": "免切方便：无需处理直接烹饪，开袋即用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "食用方式多样，适用于螺蛳粉、炒菜、火锅、凉拌",
+      "source_ids": [
+        "identity",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "supported",
+          "reason": "商品名和图3均列出螺蛳粉、炒菜、火锅、凉拌多种吃法。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "螺蛳粉炒菜火锅凉拌"
+            },
+            {
+              "source_id": "image-M-part-3",
+              "quote": "-吃法大全-"
+            }
+          ]
+        },
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "图片中菜品标签：凉拌木耳、鱼香肉丝、素炒三丝、螺蛳粉"
+            },
+            {
+              "source_id": "identity",
+              "quote": "食用方式多样，适用于螺蛳粉、炒菜、火锅、凉拌"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "泡发技巧：冷水泡发需4-8小时，中途换水1-2次，可放冰箱保鲜层泡发；冷水泡发更能保护木耳本身营养，口感更加爽脆嫩滑、筋道有弹性",
+      "source_ids": [
+        "image-K",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "insufficient",
+          "reason": "图K支持冷水泡发4-8小时、中途换水1-2次、可放冰箱保鲜层及爽脆嫩滑筋道有弹性，但没有“保护木耳本身营养”的明确依据；图4未见该段文字，整条不能完全支撑。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "白背毛木耳丝冷水泡发需4-8小时，可达最大泡发率，中途换1-2次水。冷水泡发能更好的保护木耳本身营养，且口感上更加爽脆嫩滑筋道有弹性。如果室内温度太高可放冰箱保鲜层泡发。"
+            }
+          ]
+        },
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "图片M-part-4完整载明冷水泡发4—8小时、中途换水1—2次、可放冰箱保鲜层及保护营养、爽脆嫩滑筋道有弹性的表述，image-K未提供，但已由M-part-4支撑。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "白背毛木耳丝冷水泡发需4-8小时，可达最大泡发率 中途换1-2次水。冷水泡发能更好的保护木耳本身营养且口感上更加爽脆嫩滑筋道有弹性。如果室内温度太高可放冰箱保鲜层泡发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "产地直供，品质保障",
+      "source_ids": [
+        "image-M-part-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "图片M-part-8可见“产地直供 品质保障”文字。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-8",
+              "quote": "产地直供 品质保障"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "双11热销过50万；万人加购；热门复购；10+达人推荐",
+      "source_ids": [
+        "copy-0",
+        "copy-8",
+        "copy-15",
+        "copy-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "insufficient",
+          "reason": "“双11热销过50万”“万人加购”等是平台宣传数字，本批资料未提供可核查的销量或复购依据，不能直接成立。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "双11热销过50万"
+            },
+            {
+              "source_id": "copy-8",
+              "quote": "万人加购"
+            },
+            {
+              "source_id": "copy-7",
+              "quote": "10+达人推荐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "正面：多数买家反馈口感脆爽、有嚼劲，适合凉拌、炒菜、煲汤等多种做法",
+      "source_ids": [
+        "copy-2",
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "insufficient",
+          "reason": "买家评价属个体体验，不能支持“多数买家反馈”；且有的评论无法确认具体份量或适用做法。",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "挺好吃的，特别脆"
+            },
+            {
+              "source_id": "copy-3",
+              "quote": "一包炒一碗，好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "正面：泡发效果较好，泡发后肉质厚实饱满",
+      "source_ids": [
+        "copy-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "insufficient",
+          "reason": "“泡发后肉质厚实饱满”有个体评价支撑，但“泡发效果较好”属概括性结论，缺少可量化或多数样本依据。",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "泡发后肉质厚实饱满"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "正面：干净无杂质，食用放心",
+      "source_ids": [
+        "copy-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "insufficient",
+          "reason": "有买家称干净无杂质，也有买家反映泡发有土不太干净，不能支持笼统的“干净无杂质，食用放心”。",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "很干净很好吃"
+            },
+            {
+              "source_id": "review-5",
+              "quote": "泡的时候会有土不太干净"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "正面：分量足、包装完好、独立包装方便使用、免切省事",
+      "source_ids": [
+        "copy-2",
+        "copy-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "“分量足、包装完好、独立包装方便使用、免切省事”均为个别买家体验，且有买家反映包装漏气，不能作为整体保证。",
+          "evidence": [
+            {
+              "source_id": "copy-2",
+              "quote": "分量很足；包装很好；独立包装很方便；不用切很方便"
+            },
+            {
+              "source_id": "review-4",
+              "quote": "包装品质：不好，两小包，有一包直接漏在快递包装袋里面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "正面：价格实惠，性价比高",
+      "source_ids": [
+        "copy-13"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "insufficient",
+          "reason": "“价格实惠、性价比高”只有平台评价词或个别买家主观感受，不构成客观价格比较。",
+          "evidence": [
+            {
+              "source_id": "copy-13",
+              "quote": "28人评价\"便宜实惠\"；28人评价\"性价比高\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "负面：有买家反映收到的木耳有臭味（类似臭鞋底味），泡发后更臭，已退货但未退运费，客服称属正常现象",
+      "source_ids": [
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "收到木耳是臭的，臭鞋底味，泡完更臭，客服说是正常的。已退回。没退运费。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "负面：有买家反映包装漏气，有一包直接漏在快递包装袋内",
+      "source_ids": [
+        "review-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "评价明确描述包装漏气且漏在快递袋内。",
+          "evidence": [
+            {
+              "source_id": "review-4",
+              "quote": "包装品质：不好，两小包，有一包直接漏在快递包装袋里面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "负面：有买家反映泡发时有土、不太干净，需多洗几遍并焯水",
+      "source_ids": [
+        "review-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "supported",
+          "reason": "评价明确写泡发时有土、不太干净、需多洗几遍并焯水。",
+          "evidence": [
+            {
+              "source_id": "review-5",
+              "quote": "就是泡的时候会有土不太干净。多洗几遍 然后我又用热水焯了一下"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "免切木耳丝｜鲜耳直接切成均匀细丝，不用自己剪根、切丝，拆袋就能下锅，炒菜、凉拌、涮火锅都少一道备菜工序",
+      "source_ids": [
+        "image-M-part-4",
+        "image-M-part-2",
+        "image-M-part-3",
+        "copy-14",
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "“免切、剁根、切丝”有商品名与固定文案、图2支持；“拆袋就能下锅”在图4未见，且“下锅”隐含无需清洗，与“无需额外清洗直接使用”不同，不能确认。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "云南白背毛木耳丝干货免切"
+            },
+            {
+              "source_id": "copy-14",
+              "quote": "免切方便:无需处理直接烹饪"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "“免切”“拆袋就能下锅”在档案卖点及图片M-part-4菜式展示中有部分支撑，但“鲜耳直接切成均匀细丝”“不用自己剪根、切丝”及“拆袋下锅”与干货需泡发4—8小时矛盾，部分事实无法由本批证据支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "白背毛木耳丝冷水泡发需4-8小时"
+            },
+            {
+              "source_id": "copy-14",
+              "quote": "免切方便：无需处理直接烹饪，开袋即用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "自然晾晒成干｜鲜耳采摘后经自然晾晒至干，精挑细选；泡发后耳片舒展，肉厚色亮",
+      "source_ids": [
+        "image-M-part-7",
+        "image-J",
+        "image-I"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "图J写自然晾晒至干，图I写泡发后舒展肉厚色亮，图7含精挑细选字样。",
+          "evidence": [
+            {
+              "source_id": "image-J",
+              "quote": "科学培育，鲜耳采摘，晾晒至干，精挑细选，没有工业污染"
+            },
+            {
+              "source_id": "image-I",
+              "quote": "泡发后木耳舒展，无杂质，无蛀虫，肉厚色泽亮黑"
+            }
+          ]
+        },
+        {
+          "id": "point-2",
+          "verdict": "insufficient",
+          "reason": "“自然晾晒”有图片M-part-7支持，“精挑细选”在档案卖点中有提及；但“泡发后耳片舒展，肉厚色亮”仅见于档案文案，图片M-part-4展示的是泡发后木耳丝而非“耳片”，且图片J/I未提供，不能完全支持。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "精选木耳丝 自然晾晒"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "图片为泡发后的木耳丝成品，未见“耳片舒展、肉厚色亮”文字"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "丝长肉厚有嚼头｜头茬木耳切丝，丝形细长、肉质厚实无根，入口脆嫩爽口，凉拌或涮火锅都耐嚼",
+      "source_ids": [
+        "copy-16",
+        "image-E",
+        "image-H",
+        "image-I",
+        "copy-14",
+        "copy-2",
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "图E/H支持头茬、丝长肉厚、脆嫩，图I支持泡发后肉厚色亮；但“凉拌或涮火锅都耐嚼”非原始证据，且口感“耐嚼/有嚼头”为场景引申，不能完全支撑。",
+          "evidence": [
+            {
+              "source_id": "image-E",
+              "quote": "头茬 精挑细选 丝长肉厚 干净无杂"
+            },
+            {
+              "source_id": "image-H",
+              "quote": "精心挑选·脆嫩爽口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "云南产地加工｜产自云南，由当地生产企业加工成干货，常温存放即可，日常囤货不占冰箱",
+      "source_ids": [
+        "attr-2",
+        "image-M-part-4",
+        "attr-8",
+        "attr-12",
+        "image-M-part-7",
+        "image-M-part-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "云南产地、云南企业加工、常温存放均有独立依据，但“当地生产企业加工成干货、日常囤货不占冰箱”属于推断；产地只到大中国范围，不能确认全流程云南加工。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "产地：中国大陆"
+            },
+            {
+              "source_id": "identity",
+              "quote": "云南白背毛木耳丝"
+            },
+            {
+              "source_id": "attr-12",
+              "quote": "云南施家铺子食品有限公司"
+            },
+            {
+              "source_id": "image-M-part-7",
+              "quote": "贮存条件 常温；生产企业名称 云南施家铺子食品有限公司"
+            }
+          ]
+        },
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "产地、贮存、生产企业等档案信息存在企业名称不一致（包装图为“云和地家铺子食品有限公司”），且图片未显示产地加工信息，无法完整支撑。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-7",
+              "quote": "包装袋底部可见“云和地家铺子食品有限公司”"
+            },
+            {
+              "source_id": "attr-12",
+              "quote": "生产企业：云南施家铺子食品有限公司"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "吃法不挑菜｜适用于螺蛳粉、炒菜、火锅、凉拌等多种做法，抓一小把就能给家常菜添一份爽脆",
+      "source_ids": [
+        "identity",
+        "image-M-part-4",
+        "copy-2",
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "多种吃法有商品名与图3支持；但“抓一小把就能给家常菜添一份爽脆”是份量与口感暗示，无明确证据。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "螺蛳粉炒菜火锅凉拌"
+            },
+            {
+              "source_id": "image-M-part-4",
+              "quote": "-吃法大全-"
+            }
+          ]
+        },
+        {
+          "id": "point-5",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "图片中菜品标签：凉拌木耳、鱼香肉丝、素炒三丝、螺蛳粉"
+            },
+            {
+              "source_id": "copy-2",
+              "quote": "食用方式多样，适用于螺蛳粉、炒菜、火锅、凉拌"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "冷水泡发更爽脆｜用冷水泡发4—8小时，中途换水1—2次，也可放冰箱保鲜层泡发，泡出的木耳滑脆有弹性",
+      "source_ids": [
+        "image-K",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "图K逐项写冷水泡发4-8小时、中途换水1-2次、可放冰箱保鲜层及爽脆嫩滑弹性。",
+          "evidence": [
+            {
+              "source_id": "image-K",
+              "quote": "白背毛木耳丝冷水泡发需4-8小时，可达最大泡发率，中途换1-2次水；如果室内温度太高可放冰箱保鲜层泡发。"
+            }
+          ]
+        },
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "图片M-part-4载明冷水泡发4—8小时、换水1—2次、可冷藏泡发及爽脆嫩滑筋道有弹性。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "白背毛木耳丝冷水泡发需4-8小时，可达最大泡发率 中途换1-2次水。冷水泡发能更好的保护木耳本身营养且口感上更加爽脆嫩滑筋道有弹性。如果室内温度太高可放冰箱保鲜层泡发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "小袋分装好取用｜有30g*2袋、30g*4袋、30g*8袋可选，每袋30g独立小包，按次取用，拆一包用一包",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*4袋（万人回购 2026年一路发发发）；30g*2袋（贵在运费）；30g*8袋（70%选择性价比高，支持试吃一包）；单件净含量30g*1包"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "八袋装支持试吃｜30g*8袋规格标称支持试吃一包，适合想先尝口感、再按需囤货的人，也是商品页标注选择较多的规格",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "insufficient",
+          "reason": "规格标题确写“70%选择性价比高，支持试吃一包”，但“八袋装支持试吃一包”是把标题指向性扩大到具体规格，标题只能证明该规格文案，不能证明实际支持试吃；且“选择较多”是单方宣称。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "30g*8袋（70%选择性价比高，支持试吃一包）"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 22 / 冲突 0 / 待核 27"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

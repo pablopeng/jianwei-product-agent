@@ -1,0 +1,1775 @@
+{
+  "type": "accuracy",
+  "product_id": "3700339768698208495",
+  "result_revision": "1278cc4edf156e4bd5a13cca4b5dcaa5073f3ed7301f00cd7641b8ca85e9c79f",
+  "profile_revision": "8fdc60b92189086fb22e44160979c5a74a3a0aaf78430ca28547c3e7ef17edbe",
+  "material_revision": "7ff3d67c5a9884ee4f04143954f3cee2e4b0aa4bc50bd3c93f58fd468883d330",
+  "counts": {
+    "supported": 49,
+    "contradicted": 0,
+    "insufficient": 29
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "insufficient",
+          "reason": "商品名含“纯手工现做现发”，但“纯手工”“现做现发”仅有商家自称，无独立依据；商品名同时含虾饼、虾巴、花生巴多个品名，不能支撑单一“鲜虾饼”承诺。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "休闲食品/海味零食/虾类零食",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "\"first_category\": {\"category_name\": \"休闲食品\"... \"second_category\": {\"category_name\": \"海味零食\"... \"third_category\": {\"category_name\": \"虾类零食\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "大米",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表列有大米。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "小麦粉",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "supported",
+          "reason": "配料表列有小麦粉。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "食用水",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "配料表列有食用水。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "食用植物油",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "配料表列有食用植物油。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "香葱",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "配料表列有香葱。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "小河虾",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "配料表列有小河虾。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "食用盐",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "supported",
+          "reason": "配料表列有食用盐。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "芝麻",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "配料表列有芝麻。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "生姜",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "supported",
+          "reason": "配料表列有生姜。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "大米、小麦粉、食用水、食用植物油、香葱、小河虾、食用盐、芝麻、生姜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "净含量400g",
+      "source_ids": [
+        "attr-0"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "净含量属性标注400g。",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "{\"净含量\": [\"400g\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "保质期60天",
+      "source_ids": [
+        "attr-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "保质期属性标注60天。",
+          "evidence": [
+            {
+              "source_id": "attr-4",
+              "quote": "{\"保质期\": [\"60天\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "贮存条件：常温",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "贮存条件属性标注常温。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "{\"贮存条件\": [\"常温\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "产品名称：鲜脆虾巴",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "产品名称属性为鲜脆虾巴。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "{\"产品名称\": [\"鲜脆虾巴\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "产地为国产预包装食品",
+      "source_ids": [
+        "attr-6"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "supported",
+          "reason": "产地与包装属性为国产-预包装食品。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "{\"产地与包装\": [\"国产-预包装食品\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "生产企业：江西正盈食品有限公司",
+      "source_ids": [
+        "attr-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "supported",
+          "reason": "生产企业名称属性为江西正盈食品有限公司。",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "{\"生产企业名称\": [\"江西正盈食品有限公司\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "生产企业地址：江西省宜春市上高县工业园黄金堆",
+      "source_ids": [
+        "attr-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "生产企业地址属性与断言一致。",
+          "evidence": [
+            {
+              "source_id": "attr-10",
+              "quote": "{\"生产企业地址\": [\"江西省宜春市上高县工业园黄金堆\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11236092310319",
+      "source_ids": [
+        "attr-11"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "食品生产许可证编号属性与断言一致。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "{\"食品生产许可证编号\": [\"SC11236092310319\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "产品标准代码：GB/T20977",
+      "source_ids": [
+        "attr-12"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "产品标准代码属性与断言一致。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "{\"产品标准代码\": [\"GB/T20977\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "非地理标志品种",
+      "source_ids": [
+        "attr-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "是否地理标志品种属性为“否”。",
+          "evidence": [
+            {
+              "source_id": "attr-2",
+              "quote": "{\"是否地理标志品种\": [\"否\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "非有机食品",
+      "source_ids": [
+        "attr-9"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "是否为有机食品属性为“否”。",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "{\"是否为有机食品\": [\"否\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "手工制作，油皮偏硬，属硬脆口感",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "insufficient",
+          "reason": "详情长图片段2文字可支撑“手工制作”“微酥偏脆”“米浆为主”，但未见明确“油皮偏硬，属硬脆口感”的可见原文；档案中的属性不能反过来证明自身。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "传统手工零食非标准化产物，各地依时令食材，手艺传承不同，风味做法各有千秋，我们的食材米浆为主，口感属于微酥偏脆，咬起来嘎嘣脆类型而非面粉为主的蓬松型"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "（咸脆味）虾巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "规格列表包含“（咸脆味）虾巴400g*1袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "咸脆味",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "规格列表明确包含咸脆味。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "（香辣味）虾巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "规格列表包含“（香辣味）虾巴400g*1袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "香辣味",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "规格列表明确包含香辣味。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "规格列表包含咸脆味虾巴1袋加香辣味虾巴1袋的组合。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "（香辣味）虾巴400g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "规格列表包含“（香辣味）虾巴400g*2袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "400g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "supported",
+          "reason": "规格列表多处标注400g*2袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "（咸脆味）虾巴400g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "supported",
+          "reason": "规格列表包含“（咸脆味）虾巴400g*2袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "supported",
+          "reason": "规格列表包含咸脆味虾巴1袋加咸脆味花生瓜子巴1袋的组合。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "supported",
+          "reason": "规格列表包含咸脆味虾巴1袋加香辣味花生瓜子巴1袋的组合。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "supported",
+          "reason": "规格列表包含香辣味虾巴1袋加香辣味花生瓜子巴1袋的组合。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*1袋+（香辣味）花生瓜子巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "（香辣味）虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "supported",
+          "reason": "规格列表包含香辣味虾巴1袋加咸脆味花生瓜子巴1袋的组合。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "(香辣味) 虾巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "supported",
+          "reason": "规格列表包含香辣味花生瓜子巴1袋加咸脆味花生瓜子巴1袋的组合。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）花生瓜子巴400g*1袋+（咸脆味）花生瓜子巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "（香辣味）花生瓜子巴【不含虾】400g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "supported",
+          "reason": "规格列表包含“（香辣味）花生瓜子巴【不含虾】400g*2袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）花生瓜子巴【不含虾】400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "不含虾",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "supported",
+          "reason": "规格列表对花生瓜子巴明确标注“不含虾”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）花生瓜子巴【不含虾】400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "（咸脆味）花生瓜子巴【不含虾】400g*2袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "supported",
+          "reason": "规格列表包含“（咸脆味）花生瓜子巴【不含虾】400g*2袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）花生瓜子巴【不含虾】400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "（咸脆味）花生瓜子巴【不含虾】400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "规格列表包含“（咸脆味）花生瓜子巴【不含虾】400g*1袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）花生瓜子巴【不含虾】400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "（香辣味）花生瓜子巴【不含虾】400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "supported",
+          "reason": "规格列表包含“（香辣味）花生瓜子巴【不含虾】400g*1袋”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）花生瓜子巴【不含虾】400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "supported",
+          "reason": "规格列表包含简装香辣味小葱芝麻米饼（无虾无花生）400g*1袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-43",
+      "stage": "profile",
+      "text": "无虾无花生",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-43",
+          "verdict": "supported",
+          "reason": "规格名称明确标注小葱芝麻米饼“无虾无花生”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-44",
+      "stage": "profile",
+      "text": "简装",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-44",
+          "verdict": "supported",
+          "reason": "规格名称明确标注“简装”。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【简装】（香辣味）小葱芝麻米饼（无虾无花生）400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-45",
+      "stage": "profile",
+      "text": "【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-45",
+          "verdict": "supported",
+          "reason": "规格列表包含简装咸脆味小葱芝麻米饼（无虾无花生）400g*1袋。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "【简装】（咸脆味）小葱芝麻米饼（无虾无花生）400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-46",
+      "stage": "profile",
+      "text": "达人推荐卖点：野生河虾、无防腐剂、无香精、无添加、无色素、纯手工、咸香酥脆、鲜香美味、独立包装、健康放心",
+      "source_ids": [
+        "copy-0"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-46",
+          "verdict": "insufficient",
+          "reason": "达人推荐内容仅为达人宣称；其中“野生河虾”“无防腐剂”“无香精”“无添加”“无色素”“健康放心”等没有检测报告或认证依据，不能作为确定属性。",
+          "evidence": [
+            {
+              "source_id": "copy-0",
+              "quote": "达人说：“野生河虾”...“无防腐剂”...“无香精”...“无添加”...“无色素”...“独立包装”...“纯手工”...“健康放心”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-47",
+      "stage": "profile",
+      "text": "配料干净：无化学添加更健康；手工制作：工艺耗时更显用心；酥脆口感：米浆为主微酥偏脆",
+      "source_ids": [
+        "copy-21"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-47",
+          "verdict": "insufficient",
+          "reason": "“配料干净：无化学添加更健康”缺乏检测或认证依据；“手工制作更显用心”属主观宣传；只有“米浆为主微酥偏脆”在详情页有相近表述。",
+          "evidence": [
+            {
+              "source_id": "copy-21",
+              "quote": "酥脆口感:米浆为主微酥偏脆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-48",
+      "stage": "profile",
+      "text": "每一块都有独立包装",
+      "source_ids": [
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-48",
+          "verdict": "insufficient",
+          "reason": "“每一块都有独立包装”出自商品基础属性卖点文案，买家评价只能支持个体体验，且详情页未见逐块独立包装的明确说明。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "每一块都有独立包装"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-49",
+      "stage": "profile",
+      "text": "嘎嘣脆，好吃；香脆可口；酥脆香辣；花生酥脆可口；外酥里嫩；虾肉Q弹有嚼劲；越嚼越香；有真虾子",
+      "source_ids": [
+        "copy-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-49",
+          "verdict": "insufficient",
+          "reason": "这些口感描述混杂买家评价和文案，只能支持个体体验，不能整条作为客观保证；其中“外酥里嫩”“虾肉Q弹有嚼劲”等超出常见饼干类描述。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "嘎嘣脆，好吃；香脆可口，独立包装；酥脆香辣，好吃；酥脆，香，好吃；花生酥脆可口；外酥里嫩；虾肉Q弹有嚼劲；越嚼越香；有真虾子，好吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-50",
+      "stage": "profile",
+      "text": "本店同款热销750件；双11热销过33万",
+      "source_ids": [
+        "copy-1",
+        "copy-16"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-50",
+          "verdict": "insufficient",
+          "reason": "“本店同款热销750件”“双11热销过33万”均为平台卖点文案，无销量或交易记录等外部证据。",
+          "evidence": [
+            {
+              "source_id": "copy-16",
+              "quote": "双11热销过33万"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-51",
+      "stage": "profile",
+      "text": "本店同款好评59；同款有3万+人评价“味道不错”、1万+人评价“酥脆”、6千+人评价“独立包装”",
+      "source_ids": [
+        "copy-4",
+        "copy-9"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-51",
+          "verdict": "insufficient",
+          "reason": "好评数量、评价人数均属平台统计卖点；且断言中“好评59”“3万+”“1万+”“6千+”等数值与原始列表里的5.9万与3万+、1万+、6千+数值口径混杂，无法核实。",
+          "evidence": [
+            {
+              "source_id": "copy-9",
+              "quote": "同款有3万+人评价\"味道不错\"...同款有1万+人评价\"酥脆\"...同款有6千+人评价\"独立包装\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-52",
+      "stage": "profile",
+      "text": "新锐白领爱买；热门复购；热搜度超99%同类品；万人加购；热门加购；50+达人推荐；达人短视频带过",
+      "source_ids": [
+        "copy-7",
+        "copy-11",
+        "copy-12",
+        "copy-13",
+        "copy-14",
+        "copy-15",
+        "copy-23"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-52",
+          "verdict": "insufficient",
+          "reason": "消费行为、达人推荐、热搜度等均为平台营销标签，无独立可核数据；“热搜度超99%同类品”尤其缺乏统计来源。",
+          "evidence": [
+            {
+              "source_id": "copy-23",
+              "quote": "达人短视频带过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-53",
+      "stage": "profile",
+      "text": "地方小吃，纯手工现做现发，当天新鲜做当天发",
+      "source_ids": [
+        "review-6",
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-53",
+          "verdict": "insufficient",
+          "reason": "“地方小吃”在评价中有出现，但“纯手工现做现发、当天新鲜做当天发”仅为商家宣称，缺少生产记录或发货凭证；且来源中“现做”未见明确原文。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "传统手工零食非标准化产物...为确保证品质，本地原料，当天新鲜做当天发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-54",
+      "stage": "profile",
+      "text": "每份足400g，手工做的有厚有薄，大概在15-20个之间",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-54",
+          "verdict": "insufficient",
+          "reason": "详情长图片段2有“每份是400g，手工做的有厚有薄，大概在15-20个之间”的相近表述；需核实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "每份是400g,手工做的有厚有薄，大概在15-20个之间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-55",
+      "stage": "profile",
+      "text": "传统油炸工艺，不加防腐剂和氧化剂，表面会保留天然油脂，不加香精色素等化学添加剂，吃的是食材本味",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-55",
+          "verdict": "insufficient",
+          "reason": "详情页确实宣称“不加防腐剂和氧化剂”“不加香精色素等化学添加剂”，但宣传中未提供检测报告，不能作为确定属性。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "传统油炸工艺，为了确保新鲜都是当天做好发货，因不加防腐剂和氧化剂...不加香精色素等化学添加剂和调味剂"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-56",
+      "stage": "profile",
+      "text": "传统手工零食非标准化产物，外形可能存在细微差异，口感为微酥偏脆、米浆为主，不带油哈味",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-56",
+          "verdict": "insufficient",
+          "reason": "详情页有“传统手工零食非标准化产物”“微酥偏脆、米浆为主”的原文，但“不带油哈味”并非明确的客观承诺；整体需区分为商家自述。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "传统手工零食非标准化产物，外形可能存在细微差异...口感属于微酥偏脆，咬起来嘎嘣脆类型而非面粉为主的蓬松型"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-57",
+      "stage": "profile",
+      "text": "正面：口感酥脆、香脆、嘎嘣脆，味道不错",
+      "source_ids": [
+        "copy-8",
+        "copy-19"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-57",
+          "verdict": "insufficient",
+          "reason": "口感酥脆、香脆、嘎嘣脆、味道不错出现在买家评价中，只能支持个体体验，不能作为整条客观属性。",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "好吃，非常不错，脆脆香香的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-58",
+      "stage": "profile",
+      "text": "正面：辣度感受不一，有说辣味适中、微辣、辣得爽，也有说偏辣",
+      "source_ids": [
+        "copy-3",
+        "review-3",
+        "review-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-58",
+          "verdict": "insufficient",
+          "reason": "辣度感受不一，部分说辣味刚刚好，部分说偏辣或不够辣，属个体评价差异；断言将“辣度感受不一”作为“正面”缺乏确定结论。",
+          "evidence": [
+            {
+              "source_id": "review-4",
+              "quote": "我买的辣味的，一丝丝辣味刚刚好"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-59",
+      "stage": "profile",
+      "text": "正面：独立包装，方便携带和保存",
+      "source_ids": [
+        "copy-8",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-59",
+          "verdict": "insufficient",
+          "reason": "独立包装、方便携带和保存见于评价与文案，但“方便保存”暗含密封保质能力，未见独立密封性数据；买家评价只支持个体体验。",
+          "evidence": [
+            {
+              "source_id": "review-5",
+              "quote": "独立包装干净卫生"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-60",
+      "stage": "profile",
+      "text": "正面：包装完好、厚实，有气泡膜、纸箱保护，不易碎",
+      "source_ids": [
+        "review-0",
+        "review-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-60",
+          "verdict": "insufficient",
+          "reason": "包装完好、厚实、有气泡膜、纸箱保护、不易碎均为个别买家评价，不能作为普遍保证；“不易碎”尤其与部分评价中的碎饼反馈冲突。",
+          "evidence": [
+            {
+              "source_id": "review-4",
+              "quote": "包装很用心，每斤先用气泡膜隔一层，再装进大小正合适的扎实厚纸箱里面，只有一块稍微碎了一点点"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-61",
+      "stage": "profile",
+      "text": "正面：新鲜度好，日期新",
+      "source_ids": [
+        "copy-8",
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-61",
+          "verdict": "insufficient",
+          "reason": "新鲜度好、日期新在买家评价与统计卖点中出现，属个体体验或平台标签，不能作为客观保证。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "新鲜得很"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-62",
+      "stage": "profile",
+      "text": "正面：分量足",
+      "source_ids": [
+        "copy-8",
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-62",
+          "verdict": "insufficient",
+          "reason": "分量足出现在买家评价和统计卖点，属个体体验，不能作为客观保证。",
+          "evidence": [
+            {
+              "source_id": "review-3",
+              "quote": "足分足量"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-63",
+      "stage": "profile",
+      "text": "负面：部分买家觉得偏硬、炸过头，不够酥脆",
+      "source_ids": [
+        "review-6",
+        "review-7"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-63",
+          "verdict": "supported",
+          "reason": "两名买家明确反馈偏硬、炸过头，作为负面个体体验归因成立。",
+          "evidence": [
+            {
+              "source_id": "review-7",
+              "quote": "偏硬 但喜欢脆的觉得还不错"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-64",
+      "stage": "profile",
+      "text": "负面：原味偏淡、不够咸，辣味不够辣",
+      "source_ids": [
+        "review-2",
+        "review-3"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-64",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "辣味不够辣，原味更是没什么味道"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "只是淡了一点"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-65",
+      "stage": "profile",
+      "text": "负面：有买家觉得油腻",
+      "source_ids": [
+        "review-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-65",
+          "verdict": "supported",
+          "reason": "买家明确反馈“有点腻人”。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "有点腻人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-66",
+      "stage": "profile",
+      "text": "负面：有买家认为虾少、性价比不高",
+      "source_ids": [
+        "review-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-66",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "一个下巴上最多的虾虾就两只，...性价比不高"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-67",
+      "stage": "profile",
+      "text": "负面：个别反馈受潮不脆、有碎饼",
+      "source_ids": [
+        "review-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-67",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "review-8",
+              "quote": "受潮了一点都不脆...有五六片饼干是碎的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-68",
+      "stage": "profile",
+      "text": "个人感受：有真虾、虾味明显，孩子也爱吃",
+      "source_ids": [
+        "copy-3",
+        "copy-17"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-68",
+          "verdict": "insufficient",
+          "reason": "有真虾、虾味明显、孩子爱吃均属个体评价，不能推广为客观保证；“孩子也爱吃”不代表适合所有儿童。",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "有真虾子，好吃；小孩也喜欢吃"
+            },
+            {
+              "source_id": "copy-17",
+              "quote": "小孩爱吃"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-69",
+      "stage": "profile",
+      "text": "个人感受：配料表干净，吃着放心",
+      "source_ids": [
+        "review-1",
+        "review-4"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-69",
+          "verdict": "insufficient",
+          "reason": "“配料表干净，吃着放心”是买家个人感受，且配料表未提供添加剂检测或认证，不能作为客观判断。",
+          "evidence": [
+            {
+              "source_id": "review-1",
+              "quote": "配料表干净，吃着放心"
+            },
+            {
+              "source_id": "review-4",
+              "quote": "配料表也很干净"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "硬脆口感｜这款虾巴标注为手工制作，油皮偏硬，属于硬脆型口感，适合喜欢嘎嘣嚼感的人；若偏好入口即化的酥松，就不必勉强",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "详情长图仅能支持“手工制作、微酥偏脆、米浆为主”，没有明确写出“油皮偏硬、硬脆型口感”；“嘎嘣嚼感”是改写后的口感暗示。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "食材米浆为主，口感属于微酥偏脆，咬起来嘎嘣脆类型而非面粉为主的蓬松型"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "米香打底的配料｜以大米、小麦粉为基础，加水、食用植物油，再搭配香葱、芝麻、生姜和食用盐；咸脆或香辣由所选口味决定，入口先尝到米面香与葱香",
+      "source_ids": [
+        "attr-7",
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "配料表列有大米、小麦粉、水、植物油、香葱、芝麻、生姜、盐，规格含咸脆与香辣；以米面香、葱香为主属合理口感描述。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*1袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "含小河虾款｜配料表中列有小河虾，适合想要虾味零食的人；选购时请确认所选的是虾巴，而非标注“不含虾”的花生瓜子巴",
+      "source_ids": [
+        "attr-7",
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "虾巴配料表列有小河虾；规格中花生瓜子巴标注“不含虾”，选购提示与规格一致。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）花生瓜子巴【不含虾】400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "咸脆、香辣两种口味｜咸脆味偏咸香，香辣味带辣感；有单袋、两袋同口味和两种口味组合等规格，可按自己的口味偏好选择",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（咸脆味）虾巴400g*1袋...（香辣味）虾巴400g*1袋...（咸脆味）虾巴400g*1袋+（香辣味）虾巴400g*1袋...（香辣味）虾巴400g*2袋...（咸脆味）虾巴400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "每袋400g｜单袋净含量400g，两袋装合计800g，份量写在规格中；适合开封后按需取食，与家人一起分享",
+      "source_ids": [
+        "attr-0",
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "净含量400g，规格含两袋装，合计800g为简单加总；分享建议不构成新承诺。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "（香辣味）虾巴400g*2袋"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "常温存放省心｜保质期60天，常温贮存，不必占用冰箱空间；开封后尽快吃完，存放在阴凉干燥处，以免受潮影响口感",
+      "source_ids": [
+        "attr-4",
+        "attr-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "保质期60天、贮存条件常温有属性支撑；“开封后尽快吃完、阴凉干燥”是合理食用建议，未暗含开封后保质承诺。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "{\"贮存条件\": [\"常温\"]}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "手工现做现发｜这是一款地方小吃，现做现发，当天制作、当天发出，适合囤作日常解馋零食",
+      "source_ids": [
+        "review-6",
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "“地方小吃”有买家评价提及，“当天制作、当天发出”仅见详情页商家宣称，无独立记录；且“囤作日常零食”不改变欠缺的现做现发依据。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "当天新鲜做当天发"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "手工厚薄不一｜每块由手工制作，厚薄并不均匀，一袋里大约有15—20个，吃的时候口感会有差异",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "supported",
+          "reason": "详情长图写明每份400g、手工有厚薄、大概15-20个，与断言一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "每份是400g,手工做的有厚有薄，大概在15-20个之间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "传统油炸做法｜采用传统油炸工艺，表面会保留天然油脂，入口油香更足；怕油的话可以搭配清茶一起吃",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "详情页有“传统油炸工艺，表面会保留表面油脂”的原文，但“入口油香更足”是新增口感承诺；“怕油可搭配清茶”属建议，不改变原文仅能支持传统油炸和表面油脂的事实。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "传统油炸工艺...表面会保留表面油脂"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 49 / 冲突 0 / 待核 29"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

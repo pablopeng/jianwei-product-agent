@@ -1,0 +1,1537 @@
+{
+  "type": "accuracy",
+  "product_id": "3734999074340995521",
+  "result_revision": "9852e8a4a9ae7ce57e6a0e16f08497c759f7df2661e99144bf2a9e6cfd6a4035",
+  "profile_revision": "830c3ce009074d79e489fb1374cdb75742b51784269a0276ae394ec6594fb628",
+  "material_revision": "e97462e497ae7b59d718e5f1e78c160398c1738c9752a36ab358214adedb11c7",
+  "counts": {
+    "supported": 34,
+    "contradicted": 0,
+    "insufficient": 18
+  },
+  "claims": [
+    {
+      "id": "profile-1",
+      "stage": "profile",
+      "text": "拾兄弟芸豆玉米碴（东北大碴子粥料）",
+      "source_ids": [
+        "identity",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名/类目与主图均支持“拾兄弟芸豆玉米碴（东北大碴子粥料）”的称呼",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "拾兄弟正宗5斤东北大碴粥大碴子粥芸豆玉米碴五谷杂粮健康粗粮"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "拾兄弟 好粗粮 芸豆玉米碴 东北经典大碴子粥料"
+            }
+          ]
+        },
+        {
+          "id": "profile-1",
+          "verdict": "supported",
+          "reason": "商品名称与详情图一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "产品名称：芸豆玉米碴"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "stage": "profile",
+      "text": "粮油干货/方便速食 > 五谷杂粮 > 杂粮组合",
+      "source_ids": [
+        "identity"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-2",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "identity",
+              "quote": "粮油干货/方便速食 > 五谷杂粮 > 杂粮组合"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "stage": "profile",
+      "text": "笨玉米碴、粘玉米碴、芸豆",
+      "source_ids": [
+        "attr-11",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "笨玉米碴、粘玉米碴、芸豆"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "笨碴子+花芸豆+粘碴子"
+            }
+          ]
+        },
+        {
+          "id": "profile-3",
+          "verdict": "supported",
+          "reason": "配料表明确列出三种。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "配料：笨玉米碴、粘玉米碴、芸豆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "stage": "profile",
+      "text": "品牌：拾兄弟",
+      "source_ids": [
+        "attr-8"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-4",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-8",
+              "quote": "品牌：拾兄弟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "stage": "profile",
+      "text": "产地：中国大陆；国产-预包装食品；黑龙江省哈尔滨市",
+      "source_ids": [
+        "attr-0",
+        "attr-1",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "产地与包装属性及详情图产地指向一致",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "国产-预包装食品"
+            },
+            {
+              "source_id": "attr-1",
+              "quote": "中国大陆"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "黑龙江·哈尔滨"
+            }
+          ]
+        },
+        {
+          "id": "profile-5",
+          "verdict": "supported",
+          "reason": "产地标注为黑龙江省哈尔滨市，原产地为中国大陆。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "产地：黑龙江省哈尔滨市"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "stage": "profile",
+      "text": "贮存条件：常温；阴凉、干燥、通风处，密封冷藏佳",
+      "source_ids": [
+        "attr-6",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-6",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "常温"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "贮存条件 常温"
+            }
+          ]
+        },
+        {
+          "id": "profile-6",
+          "verdict": "supported",
+          "reason": "贮存条件与图片、属性一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "贮存条件：阴凉、干燥、通风处(密封冷藏佳)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "stage": "profile",
+      "text": "保质期：12月",
+      "source_ids": [
+        "attr-12",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-7",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-12",
+              "quote": "12月"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "保质期 12月"
+            }
+          ]
+        },
+        {
+          "id": "profile-7",
+          "verdict": "supported",
+          "reason": "保质期12个月。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "保质期：12个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-8",
+      "stage": "profile",
+      "text": "产品标准代码：Q/HXS 0010S",
+      "source_ids": [
+        "attr-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-8",
+          "verdict": "supported",
+          "reason": "标准代码与原始字段一致",
+          "evidence": [
+            {
+              "source_id": "attr-3",
+              "quote": "Q/HXS 0010S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-9",
+      "stage": "profile",
+      "text": "食品生产许可证编号：SC11723011000348",
+      "source_ids": [
+        "attr-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-9",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-5",
+              "quote": "SC11723011000348"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "食品生产许可证编号 SC11723011000348"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-10",
+      "stage": "profile",
+      "text": "生产企业：哈尔滨鑫恒德食品有限公司，地址哈尔滨市香坊区幸福镇新香坊村",
+      "source_ids": [
+        "attr-9",
+        "attr-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-10",
+          "verdict": "supported",
+          "reason": "企业名称与地址字段一致，详情图企业名称亦显示一致",
+          "evidence": [
+            {
+              "source_id": "attr-9",
+              "quote": "哈尔滨鑫恒德食品有限公司"
+            },
+            {
+              "source_id": "attr-4",
+              "quote": "哈尔滨市香坊区幸福镇新香坊村"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-11",
+      "stage": "profile",
+      "text": "是否为有机食品：否",
+      "source_ids": [
+        "attr-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-11",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-7",
+              "quote": "是否为有机食品：否"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-12",
+      "stage": "profile",
+      "text": "2.5kg",
+      "source_ids": [
+        "specs",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-12",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "2.5kg"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量 2.5kg"
+            }
+          ]
+        },
+        {
+          "id": "profile-12",
+          "verdict": "supported",
+          "reason": "2.5kg规格存在。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量：2.5kg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-13",
+      "stage": "profile",
+      "text": "净含量2.5kg",
+      "source_ids": [
+        "specs",
+        "image-E",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "净含量2.5kg有规格字段和包装图支持",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "2.5kg"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "净含量 2.5kg"
+            }
+          ]
+        },
+        {
+          "id": "profile-13",
+          "verdict": "supported",
+          "reason": "净含量标注2.5kg。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量：2.5kg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-14",
+      "stage": "profile",
+      "text": "包装尺寸：宽18cm、高41cm，袋装",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-14",
+          "verdict": "supported",
+          "reason": "图片尺寸标注为宽18cm、高41cm，袋装。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "包装图示标注：宽18cm，高41cm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-15",
+      "stage": "profile",
+      "text": "5kg",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-15",
+          "verdict": "supported",
+          "reason": "规格列表明确含5kg选项",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "[\"2.5kg\", \"5kg\"]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-16",
+      "stage": "profile",
+      "text": "与2.5kg为同一商品的另一规格选项",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-16",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "child_spec_seq:[\"规格\"]；spec_values_seq:[[\"2.5kg\", \"5kg\"]]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-17",
+      "stage": "profile",
+      "text": "三种粥料组合：笨碴子+花芸豆+粘碴子，均衡配比口感更地道",
+      "source_ids": [
+        "copy-19",
+        "image-E"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-17",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "三种粥料组合；笨碴子+花芸豆+粘碴子；均衡配比 口感更地道"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "笨碴子+花芸豆+粘碴子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-18",
+      "stage": "profile",
+      "text": "好煮易烂，香糯粘稠",
+      "source_ids": [
+        "copy-19",
+        "image-E"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-18",
+          "verdict": "supported",
+          "reason": "“好煮易烂 香糯粘稠”为商家功能优点及主图文字",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "好煮易烂 香糯粘稠"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "好煮易烂 香糯粘稠"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-19",
+      "stage": "profile",
+      "text": "软糯黏稠，滑溜米油，夹带玉米清香，从口中滑入胃部",
+      "source_ids": [
+        "copy-19",
+        "image-J"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-19",
+          "verdict": "supported",
+          "reason": "软糯黏稠、滑溜米油、玉米清香等表述均有功能优点和图J支持",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "软糯黏稠,滑溜米油 夹带着玉米的清香,从口中滑入胃部"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "软糯黏稠 滑溜米油 夹带着玉米的清香 从口中滑入胃部"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-20",
+      "stage": "profile",
+      "text": "营养均衡，饱腹感强",
+      "source_ids": [
+        "copy-19",
+        "image-K"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-20",
+          "verdict": "supported",
+          "reason": "营养均衡、饱腹感强有文案与图K支持",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "营养均衡 饱腹感强"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "营养均衡 饱腹感强"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-21",
+      "stage": "profile",
+      "text": "五谷杂粮健康粗粮",
+      "source_ids": [
+        "copy-18"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-21",
+          "verdict": "supported",
+          "reason": "五谷杂粮健康粗粮为商品卖点原文",
+          "evidence": [
+            {
+              "source_id": "copy-18",
+              "quote": "五谷杂粮健康粗粮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-22",
+      "stage": "profile",
+      "text": "穗粒饱满；土地肥沃、一年一季",
+      "source_ids": [
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-22",
+          "verdict": "supported",
+          "reason": "详情图明确出现土地肥沃、穗粒饱满、一年一季",
+          "evidence": [
+            {
+              "source_id": "image-M-part-2",
+              "quote": "土地肥沃 穗粒饱满 一年一季"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-23",
+      "stage": "profile",
+      "text": "食用方法：提前浸泡4-6小时；1碗米配4碗水；高压锅煮1小时焖30分钟，电饭锅煮2小时",
+      "source_ids": [
+        "image-H"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-23",
+          "verdict": "supported",
+          "reason": "图H完整列明浸泡时间、水米比及高压锅/电饭锅时间",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "提前浸泡4-6小时；1碗米:4碗水；高压锅煮1小时 煮好焖30分钟（电饭锅煮2小时）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-24",
+      "stage": "profile",
+      "text": "熬煮步骤：芸豆玉米碴提前浸泡4—6小时，用高压锅无需浸泡；按1碗碴子配4碗水放入锅中，按下煮粥键后中途不要打开盖子，出锅即香糯可口的玉米大碴粥",
+      "source_ids": [
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-24",
+          "verdict": "supported",
+          "reason": "熬煮步骤与图片文字一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "将芸豆玉米碴提前浸泡4-6小时（使用高压锅无需浸泡）；碴水比例：1碗碴子4碗水；按下煮粥按钮 等候片刻 中途不要打开盖子；盛出香糯可口的玉米大碴粥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-25",
+      "stage": "profile",
+      "text": "玉米原香，有玉米香、芸豆香，还有营养",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-25",
+          "verdict": "supported",
+          "reason": "图片标题与副标题一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "玉米原香 一口满足；有玉米香 有芸豆香 还有营养"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-26",
+      "stage": "profile",
+      "text": "营养粗粮，满足全家人挑剔口味，大人小孩都喜欢的大碴粥",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-26",
+          "verdict": "supported",
+          "reason": "图片文字一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "营养粗粮 满足全家挑剔口味；大人小孩都喜欢的大碴粥"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-27",
+      "stage": "profile",
+      "text": "健身人士可用粗粮做能量餐",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-27",
+          "verdict": "supported",
+          "reason": "图片健身人士场景一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "健身人士 粗粮细作 能量在线"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-28",
+      "stage": "profile",
+      "text": "中老年人入口软糯细腻",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-28",
+          "verdict": "supported",
+          "reason": "图片中老年人场景一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "中老年人 入口软糯细腻"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-29",
+      "stage": "profile",
+      "text": "儿童口感劲道、玉米味足",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-29",
+          "verdict": "supported",
+          "reason": "图片儿童场景一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "儿童小孩 口感劲道 玉米味足"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-30",
+      "stage": "profile",
+      "text": "达人描述：简单快捷、营养健康、老少皆宜、真空包装、无添加、新鲜发货、多种吃法",
+      "source_ids": [
+        "copy-14"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-30",
+          "verdict": "insufficient",
+          "reason": "达人描述中部分内容可归因，但“无添加”“真空包装”“老少皆宜”等缺乏商家属性或图片支撑，也含健康暗示，整条无法被充分证实",
+          "evidence": [
+            {
+              "source_id": "copy-14",
+              "quote": "达人说：“简单快捷”…“老少皆宜”…“真空包装”…“无添加”…“新鲜发货”…“多种吃法”"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-31",
+      "stage": "profile",
+      "text": "消费/销量卖点：都市银发爱买、千人加购、热门加购、热门复购、双11热销过1万、30+达人推荐",
+      "source_ids": [
+        "copy-1",
+        "copy-2",
+        "copy-4",
+        "copy-5",
+        "copy-3",
+        "copy-6"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-31",
+          "verdict": "insufficient",
+          "reason": "销量/加购/达人数等为平台宣传数据，缺乏独立核验材料，且“双11热销过1万”等无法从原始资料验证",
+          "evidence": [
+            {
+              "source_id": "copy-3",
+              "quote": "双11热销过1万"
+            },
+            {
+              "source_id": "copy-6",
+              "quote": "30+达人推荐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-32",
+      "stage": "profile",
+      "text": "正面：多人评价味道很好、口感很好、质量很好",
+      "source_ids": [
+        "copy-8",
+        "copy-12"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-32",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "50人说\"味道很好\"；31人说\"口感很好\"；18人说\"质量很好\""
+            },
+            {
+              "source_id": "copy-12",
+              "quote": "同款有130人评价\"味道很好\"；同款有76人评价\"口感很好\"；同款有40人评价\"质量很好\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-33",
+      "stage": "profile",
+      "text": "正面：口感软糯、香甜、有玉米香；米粒软糯、汤头浓郁、米香扑鼻",
+      "source_ids": [
+        "copy-8",
+        "copy-10",
+        "review-0",
+        "review-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-33",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "12人说\"软糯\""
+            },
+            {
+              "source_id": "copy-10",
+              "quote": "浓浓的玉米香，红红的豆子软糯香甜"
+            },
+            {
+              "source_id": "review-0",
+              "quote": "米香扑鼻…口感软糯"
+            },
+            {
+              "source_id": "review-2",
+              "quote": "米粒软糯，汤头浓郁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-34",
+      "stage": "profile",
+      "text": "正面：芸豆/豆子多且好吃，红红豆子软糯香甜",
+      "source_ids": [
+        "copy-10",
+        "review-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-34",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-10",
+              "quote": "买了一单回来口感很好云豆多也特别好吃…红红的豆子软糯香甜"
+            },
+            {
+              "source_id": "review-1",
+              "quote": "红红的豆子软糯香甜"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-35",
+      "stage": "profile",
+      "text": "正面：非常好煮熟、易煮",
+      "source_ids": [
+        "copy-8",
+        "copy-12",
+        "review-5"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-35",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "非常好煮熟"
+            },
+            {
+              "source_id": "copy-12",
+              "quote": "同款有14人评价\"非常好煮熟\""
+            },
+            {
+              "source_id": "review-5",
+              "quote": "非常好煮熟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-36",
+      "stage": "profile",
+      "text": "正面：包装很好/结实、严实、无洒漏",
+      "source_ids": [
+        "copy-8",
+        "review-0",
+        "review-2"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-36",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "26人说\"包装很好\""
+            },
+            {
+              "source_id": "review-0",
+              "quote": "包装挺结实，没洒漏"
+            },
+            {
+              "source_id": "review-2",
+              "quote": "包装挺严实"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-37",
+      "stage": "profile",
+      "text": "正面：分量足；描述相符",
+      "source_ids": [
+        "copy-8",
+        "copy-12",
+        "review-7"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-37",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-12",
+              "quote": "同款有14人评价\"分量足\"；同款有18人评价\"描述相符\""
+            },
+            {
+              "source_id": "review-7",
+              "quote": "描述相符：和宣传的一样"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-38",
+      "stage": "profile",
+      "text": "正面：新鲜度新鲜",
+      "source_ids": [
+        "copy-8",
+        "copy-12"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-38",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "11人说\"新鲜度新鲜\""
+            },
+            {
+              "source_id": "copy-12",
+              "quote": "同款有22人评价\"新鲜度新鲜\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-39",
+      "stage": "profile",
+      "text": "正面：营养丰富",
+      "source_ids": [
+        "copy-12"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "profile-39",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-12",
+              "quote": "同款有14人评价\"营养丰富\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-40",
+      "stage": "profile",
+      "text": "正面：适合早餐或夜宵，方便实在；回购意愿",
+      "source_ids": [
+        "review-2",
+        "copy-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-40",
+          "verdict": "supported",
+          "reason": "适合早餐或夜宵、方便实在、回购意愿有具体买家评价支持",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "会回购，尤其适合早餐或夜宵，方便又实在"
+            },
+            {
+              "source_id": "copy-10",
+              "quote": "吃完还买"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-41",
+      "stage": "profile",
+      "text": "负面/待确认：有买家反馈斤两不足",
+      "source_ids": [
+        "review-8"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-41",
+          "verdict": "supported",
+          "reason": "有个别买家明确提到斤两不足，作为负面/待确认反馈成立",
+          "evidence": [
+            {
+              "source_id": "review-8",
+              "quote": "就是有点斤两不足"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profile-42",
+      "stage": "profile",
+      "text": "个人感受：有买家提到加热后口感没变差；有人表示还没吃、未知口感",
+      "source_ids": [
+        "review-2",
+        "review-3"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "profile-42",
+          "verdict": "supported",
+          "reason": "加热后口感没变差、还没吃未知口感分别有买家原文",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "加热后口感也没变差"
+            },
+            {
+              "source_id": "review-3",
+              "quote": "刚收到，还没吃，不知道好不好吃了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-1",
+      "stage": "selling_points",
+      "text": "三种粮豆配齐｜笨玉米碴、粘玉米碴加芸豆组合在一袋里，大碴粥的主要用料一次备齐",
+      "source_ids": [
+        "attr-11",
+        "image-M-part-5",
+        "copy-19",
+        "image-E"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-1",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-11",
+              "quote": "笨玉米碴、粘玉米碴、芸豆"
+            },
+            {
+              "source_id": "copy-19",
+              "quote": "三种粥料组合；笨碴子+花芸豆+粘碴子"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "笨碴子+花芸豆+粘碴子"
+            }
+          ]
+        },
+        {
+          "id": "point-1",
+          "verdict": "supported",
+          "reason": "配料表与产品名称支持三种粮豆组合。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "配料：笨玉米碴、粘玉米碴、芸豆"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-2",
+      "stage": "selling_points",
+      "text": "煮出软糯米油｜玉米碴与芸豆同煮，粥体软糯黏稠、带米油，玉米清香和芸豆香一起入口",
+      "source_ids": [
+        "copy-19",
+        "image-E",
+        "image-J",
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "软糯黏稠、米油、玉米清香均有文案与图支持；同煮为食用方式",
+          "evidence": [
+            {
+              "source_id": "copy-19",
+              "quote": "软糯黏稠,滑溜米油 夹带着玉米的清香"
+            },
+            {
+              "source_id": "image-J",
+              "quote": "软糯黏稠 滑溜米油 夹带着玉米的清香"
+            },
+            {
+              "source_id": "image-E",
+              "quote": "好煮易烂 香糯粘稠"
+            }
+          ]
+        },
+        {
+          "id": "point-2",
+          "verdict": "supported",
+          "reason": "图片与旧卖点支持软糯黏稠、米油、玉米与芸豆香。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "有玉米香 有芸豆香 还有营养"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-3",
+      "stage": "selling_points",
+      "text": "泡与不泡都行｜时间充裕时提前浸泡4—6小时；用高压锅无需浸泡，按1碗碴子配4碗水煮，中途不开盖，出锅就是一锅热粥",
+      "source_ids": [
+        "image-H",
+        "image-M-part-5"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-3",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "image-H",
+              "quote": "提前浸泡4-6小时；1碗米:4碗水；高压锅煮1小时 煮好焖30分钟（电饭锅煮2小时）"
+            },
+            {
+              "source_id": "copy-19",
+              "quote": "食用方法：提前浸泡4-6小时；1碗米配4碗水；高压锅煮1小时焖30分钟，电饭锅煮2小时"
+            }
+          ]
+        },
+        {
+          "id": "point-3",
+          "verdict": "supported",
+          "reason": "浸泡与比例、不开盖步骤均有图文。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "将芸豆玉米碴提前浸泡4-6小时（使用高压锅无需浸泡）；碴水比例：1碗碴子4碗水；中途不要打开盖子"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-4",
+      "stage": "selling_points",
+      "text": "粗粮熬成实在主食｜五谷杂粮煮成一碗稠糯大碴粥，早餐或夜宵来一碗都实在；买家也提到方便实在、愿意回购",
+      "source_ids": [
+        "copy-19",
+        "image-K",
+        "copy-18",
+        "review-2",
+        "copy-10"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-4",
+          "verdict": "supported",
+          "reason": "粗粮粥作早餐或夜宵、买家称方便实在并愿意回购，有文案和评价支持；未新增健康承诺",
+          "evidence": [
+            {
+              "source_id": "review-2",
+              "quote": "尤其适合早餐或夜宵，方便又实在"
+            },
+            {
+              "source_id": "copy-10",
+              "quote": "吃完还买"
+            },
+            {
+              "source_id": "image-K",
+              "quote": "营养均衡 饱腹感强"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-5",
+      "stage": "selling_points",
+      "text": "软糯里带点劲道｜入口软糯细腻，又保留玉米的劲道和玉米味，一家人围桌喝粥口感不单调",
+      "source_ids": [
+        "image-M-part-4"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-5",
+          "verdict": "supported",
+          "reason": "图片分别描述细腻与劲道，未越界。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-4",
+              "quote": "中老年人 入口软糯细腻；儿童小孩 口感劲道 玉米味足"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-6",
+      "stage": "selling_points",
+      "text": "黑龙江一年一季｜产自黑龙江哈尔滨，当地土地肥沃、玉米一年一季，穗粒饱满",
+      "source_ids": [
+        "attr-0",
+        "attr-1",
+        "image-M-part-5",
+        "image-M-part-2"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "产地黑龙江哈尔滨及土地肥沃、穗粒饱满、一年一季均有详情图支持",
+          "evidence": [
+            {
+              "source_id": "attr-0",
+              "quote": "国产-预包装食品"
+            },
+            {
+              "source_id": "attr-1",
+              "quote": "中国大陆"
+            },
+            {
+              "source_id": "image-M-part-2",
+              "quote": "黑龙江·哈尔滨；土地肥沃 穗粒饱满 一年一季"
+            }
+          ]
+        },
+        {
+          "id": "point-6",
+          "verdict": "supported",
+          "reason": "产地黑龙江哈尔滨可证；一年一季、土地肥沃、穗粒饱满为原卖点表述，图片未见直接文字，但档案原卖点中有。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "产地：黑龙江省哈尔滨市"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-7",
+      "stage": "selling_points",
+      "text": "2.5kg家庭袋装｜净含量2.5kg，袋装宽18cm、高41cm，适合家庭常备熬粥料",
+      "source_ids": [
+        "specs",
+        "image-M-part-5",
+        "image-E"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-7",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "2.5kg；包装尺寸宽18cm、高41cm"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量 2.5kg"
+            }
+          ]
+        },
+        {
+          "id": "point-7",
+          "verdict": "supported",
+          "reason": "净含量与尺寸袋装一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "净含量：2.5kg；包装图示标注宽18cm、高41cm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-8",
+      "stage": "selling_points",
+      "text": "另有5kg规格｜同一商品还有5kg装，用量大或想少囤几次可按需要选",
+      "source_ids": [
+        "specs"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-8",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "specs",
+              "quote": "spec_values_seq:[[\"2.5kg\", \"5kg\"]]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-9",
+      "stage": "selling_points",
+      "text": "密封存放慢慢吃｜放在阴凉、干燥、通风处，密封冷藏更好，保质期12个月",
+      "source_ids": [
+        "attr-6",
+        "image-M-part-5",
+        "attr-12"
+      ],
+      "verdict": "supported",
+      "reviews": [
+        {
+          "id": "point-9",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "attr-6",
+              "quote": "常温"
+            },
+            {
+              "source_id": "image-M-part-5",
+              "quote": "贮存条件 常温；保质期 12月"
+            }
+          ]
+        },
+        {
+          "id": "point-9",
+          "verdict": "supported",
+          "reason": "贮存与保质期一致。",
+          "evidence": [
+            {
+              "source_id": "image-M-part-5",
+              "quote": "贮存条件：阴凉、干燥、通风处(密封冷藏佳)；保质期：12个月"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "point-10",
+      "stage": "selling_points",
+      "text": "买家说味道好｜多人评价煮出来味道好、口感软糯、玉米香明显，也有买家觉得芸豆多且香甜",
+      "source_ids": [
+        "copy-8",
+        "copy-12",
+        "copy-10",
+        "review-0",
+        "review-2",
+        "review-1"
+      ],
+      "verdict": "insufficient",
+      "reviews": [
+        {
+          "id": "point-10",
+          "verdict": "insufficient",
+          "reason": "引用未通过原文/来源检查，需要复核。",
+          "evidence": [
+            {
+              "source_id": "copy-8",
+              "quote": "50人说\"味道很好\"；12人说\"软糯\""
+            },
+            {
+              "source_id": "copy-10",
+              "quote": "浓浓的玉米香，红红的豆子软糯香甜"
+            },
+            {
+              "source_id": "review-0",
+              "quote": "口感软糯"
+            },
+            {
+              "source_id": "review-2",
+              "quote": "米粒软糯"
+            },
+            {
+              "source_id": "review-1",
+              "quote": "红红的豆子软糯香甜"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "原始资料 → 档案 → 卖点语义核查",
+      "status": "review",
+      "detail": "有据 34 / 冲突 0 / 待核 18"
+    }
+  ],
+  "note": "模型辅助核查，逐条保留来源。未发现错误不代表事实已获独立验证；不能衡量转化效果。"
+}

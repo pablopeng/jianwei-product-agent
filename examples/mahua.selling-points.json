@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "product_id": "3825952452159603168",
+  "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+  "knowledge_revision": "906a05dfd7897861b0d3e929c5f49ac74450502ec60c03a36ae645b60ff21876",
+  "skill": {
+    "name": "food-beverage",
+    "version": "1.0"
+  },
+  "status": "draft",
+  "target": {
+    "scope": "common",
+    "sku_ids": [],
+    "audience": "未指定",
+    "scenario": "办公室分享",
+    "placement": "shelf_summary",
+    "tone": "清楚自然"
+  },
+  "headline": "花生与蜂蜜入料，独立小包方便分享",
+  "headline_claim_ids": [
+    "c1",
+    "c2",
+    "c3",
+    "c4"
+  ],
+  "points": [
+    {
+      "id": "p1",
+      "title": "花生与蜂蜜入料",
+      "body": "花生添加量≥5%，蜂蜜添加量≥0.7%。",
+      "dimension": "ingredient",
+      "claims": [
+        {
+          "id": "c1",
+          "text": "花生添加量≥5%",
+          "kind": "product_fact",
+          "observation_ids": [
+            "f1"
+          ]
+        },
+        {
+          "id": "c2",
+          "text": "蜂蜜添加量≥0.7%",
+          "kind": "product_fact",
+          "observation_ids": [
+            "f2"
+          ]
+        }
+      ],
+      "sku_ids": []
+    },
+    {
+      "id": "p2",
+      "title": "独立小包，分次取用",
+      "body": "采用独立小包装，适合放在办公室与同事分享。",
+      "dimension": "packaging",
+      "claims": [
+        {
+          "id": "c3",
+          "text": "采用独立小包装",
+          "kind": "product_fact",
+          "observation_ids": [
+            "f4"
+          ]
+        },
+        {
+          "id": "c4",
+          "text": "可分次取用，适合办公室分享",
+          "kind": "usage_suggestion",
+          "observation_ids": [
+            "f4"
+          ]
+        }
+      ],
+      "sku_ids": []
+    }
+  ],
+  "detail_copy": "花生添加量≥5%，蜂蜜添加量≥0.7%。独立小包装方便分次取用，也可作为办公室分享零食。",
+  "detail_claim_ids": [
+    "c1",
+    "c2",
+    "c3",
+    "c4"
+  ],
+  "omissions": [
+    {
+      "reason": "克重存在冲突，暂不写入文案。",
+      "issue_ids": [
+        "i1"
+      ],
+      "observation_ids": [
+        "f3",
+        "f5"
+      ]
+    }
+  ],
+  "questions": [],
+  "change_summary": [
+    "合并原页面分散的配料比例与包装信息。",
+    "保留原页面已有的办公室分享方向，未声称新增发现。",
+    "省略尚未确认的克重。"
+  ]
+}

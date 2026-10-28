@@ -1,0 +1,1995 @@
+{
+  "product_id": "3825952452159603168",
+  "name": "矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心",
+  "source_row": 2,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3825952452159603168",
+    "display_name": "矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L2/identity",
+        "text": "{\"product_name\": \"矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心\", \"product_category\": {\"first_category\": {\"category_name\": \"休闲食品\", \"category_code\": 1000000724}, \"second_category\": {\"category_name\": \"糕点/点心\", \"category_code\": 1000000730}, \"third_category\": {\"category_name\": \"麻花\", \"category_code\": 1000000790}}, \"brand_name\": \"矮子馅饼\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "贮存条件",
+        "locator": "sheet2!L2/attr-0",
+        "text": "{\"贮存条件\": [\"常温\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "包装类型",
+        "locator": "sheet2!L2/attr-1",
+        "text": "{\"包装类型\": [\"包装\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "生产企业地址",
+        "locator": "sheet2!L2/attr-2",
+        "text": "{\"生产企业地址\": [\"湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "食品生产许可证编号",
+        "locator": "sheet2!L2/attr-3",
+        "text": "{\"食品生产许可证编号\": [\"SC12442011252580\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "产品标准代码",
+        "locator": "sheet2!L2/attr-4",
+        "text": "{\"产品标准代码\": [\"GB7099\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L2/attr-5",
+        "text": "{\"保质期\": [\"180天\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "产地与包装",
+        "locator": "sheet2!L2/attr-6",
+        "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-7",
+        "kind": "product_attributes",
+        "label": "产品名称",
+        "locator": "sheet2!L2/attr-7",
+        "text": "{\"产品名称\": [\"蜂蜜花生味麻花\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-8",
+        "kind": "product_attributes",
+        "label": "营养成分表",
+        "locator": "sheet2!L2/attr-8",
+        "text": "{\"营养成分表\": [\"能量 2485kJ、蛋白质 7.1g、脂肪 40.6g、饱和脂肪（酸） 15.5g、碳水化合物 50.7g、糖（乳糖） 12.5g、钠 199mg\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-9",
+        "kind": "product_attributes",
+        "label": "配料表",
+        "locator": "sheet2!L2/attr-9",
+        "text": "{\"配料表\": [\"小麦粉、植物油、白砂糖、花生(≥5%)、麦芽糖浆、芝麻(≥3%)、蜂蜜(≥0.7%)、食用盐、复配膨松剂(焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉)、碳酸氢钠、磷脂、高活性干酵母、天然酵母预拌粉(小麦粉、大米粉、葡萄糖、天然酵母(小麦、大麦、大米、葡萄干、蜂蜜)玉米淀粉)(添加量≥0.03%)、三氯蔗糖\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-10",
+        "kind": "product_attributes",
+        "label": "品牌",
+        "locator": "sheet2!L2/attr-10",
+        "text": "{\"品牌\": [\"矮子馅饼\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-11",
+        "kind": "product_attributes",
+        "label": "产地",
+        "locator": "sheet2!L2/attr-11",
+        "text": "{\"产地\": [\"中国大陆\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-12",
+        "kind": "product_attributes",
+        "label": "生产企业名称",
+        "locator": "sheet2!L2/attr-12",
+        "text": "{\"生产企业名称\": [\"湖北省崇阳县君欢食品有限责任公司\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-13",
+        "kind": "product_attributes",
+        "label": "净含量",
+        "locator": "sheet2!L2/attr-13",
+        "text": "{\"净含量\": [\"278克\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L2/specs",
+        "text": "{\"child_spec_seq\": [\"规格\"], \"spec_values_seq\": [[\"【蜂蜜花生麻花】278g*1袋\", \"【蜂蜜花生麻花】278g*2袋\", \"【蜂蜜花生麻花】278g*3袋\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L2/copy-0",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"百人加购\", \"百人加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-1",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L2/copy-1",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"100%好评\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-2",
+        "kind": "marketing_copy",
+        "label": "达人推荐卖点",
+        "locator": "sheet2!L2/copy-2",
+        "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"60+达人推荐\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-3",
+        "kind": "marketing_copy",
+        "label": "商品文描卖点",
+        "locator": "sheet2!L2/copy-3",
+        "text": "{\"sale_point_category\": \"商品文描卖点\", \"sale_points\": [\"人气新品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-4",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L2/copy-4",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"麻花酥脆香甜，花生口味，独立小包装干净又方便，越嚼越香！\", \"麻花非常好吃。吃起来酥脆可口，一点不甜腻。口感非常好。一大包份量很足。独立包装的，干净又方便。价格也实惠。\", \"入口香甜酥脆，脆而不硬，不会过分甜腻。独立小包装方便收纳，随身放办公室，饿了、嘴馋的时候来一根\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-5",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L2/copy-5",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-6",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L2/copy-6",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"特别好吃，酥酥脆脆\", \"鲜香酥脆\", \"又脆又香\", \"酥酥脆脆很好吃\", \"吃起来酥脆可口\", \"脆而不硬，很新鲜\", \"独立包装的，携带方便\", \"一大包份量很足\", \"独立小包装方便收纳\", \"日期新鲜，配料干净\", \"酥酥脆脆的，很香\", \"香而不腻 脆而不硬\", \"日期新鲜 酥脆可口\", \"好吃，又香又甜\", \"甜而不腻，脆而不硬\", \"口感很脆，非常好吃\", \"酥脆香甜，花生口味\", \"干净又方便\", \"脆甜，口感不错\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-7",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L2/copy-7",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"矮子馅饼官方旗舰店达人粉丝爱买\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-8",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L2/copy-8",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"达人短视频带过\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-9",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L2/copy-9",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"13人说\\\"酥脆\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-10",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L2/copy-10",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"味道不错\", \"酥脆\", \"味道不错\", \"酥脆\", \"独立包装\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-11",
+        "kind": "marketing_copy",
+        "label": "店铺文描卖点",
+        "locator": "sheet2!L2/copy-11",
+        "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"零食达人好店\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-12",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L2/copy-12",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-13",
+        "kind": "marketing_copy",
+        "label": "商品文描卖点",
+        "locator": "sheet2!L2/copy-13",
+        "text": "{\"sale_point_category\": \"商品文描卖点\", \"sale_points\": [\"人气上新·三重发酵麻花\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-14",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L2/copy-14",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-15",
+        "kind": "marketing_copy",
+        "label": "店铺文描卖点",
+        "locator": "sheet2!L2/copy-15",
+        "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"零食达人\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-16",
+        "kind": "marketing_copy",
+        "label": "店铺消费行为卖点",
+        "locator": "sheet2!L2/copy-16",
+        "text": "{\"sale_point_category\": \"店铺消费行为卖点\", \"sale_points\": [\"店铺回头客9.5万\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-17",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L2/copy-17",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"优质评价多\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-18",
+        "kind": "marketing_copy",
+        "label": "达人推荐卖点",
+        "locator": "sheet2!L2/copy-18",
+        "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"热销带货达人楚铃推荐\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-19",
+        "kind": "marketing_copy",
+        "label": "功能优点",
+        "locator": "sheet2!L2/copy-19",
+        "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"酥脆解馋 香甜不腻\", \"大方用料 美味的关键\", \"清甜不腻优质蜂蜜\", \"清甜不齁,刚好解馋\", \"撵平芝麻醇香\", \"独立包装 便携卫生\", \"独立包装\", \"三麻发酵\", \"花生蜂蜜\", \"开袋即食\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L2/review-0",
+        "text": "独立小包装的很方便，麻花吃起来酥酥脆脆的，很香！一点都不会腻，一大袋价格也很划算，他家的馅饼也好吃，夯爆了！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L2/review-1",
+        "text": "麻花非常好吃。吃起来酥脆可口，一点不甜腻。口感非常好。一大包份量很足。独立包装的，干净又方便。价格也实惠。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L2/review-2",
+        "text": "好吃哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-3",
+        "kind": "buyer_review",
+        "label": "买家评价4",
+        "locator": "sheet2!L2/review-3",
+        "text": "入口香甜酥脆，脆而不硬，不会过分甜腻。独立小包装方便收纳，随身放办公室，饿了、嘴馋的时候来一根",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-4",
+        "kind": "buyer_review",
+        "label": "买家评价5",
+        "locator": "sheet2!L2/review-4",
+        "text": "描述相符：相符好吃\n服务态度：好\n物流速度：快\n可以\n发货速度：快\n性价比：好",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-5",
+        "kind": "buyer_review",
+        "label": "买家评价6",
+        "locator": "sheet2!L2/review-5",
+        "text": "口味特色：甜而不腻，脆而不硬，很新鲜，外观造型好看，吃了呱呱香，值得推荐",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-6",
+        "kind": "buyer_review",
+        "label": "买家评价7",
+        "locator": "sheet2!L2/review-6",
+        "text": "日期新鲜，配料干净，独立包装的，携带方便，口感好，满意，打算再来一些",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-7",
+        "kind": "buyer_review",
+        "label": "买家评价8",
+        "locator": "sheet2!L2/review-7",
+        "text": "酥酥脆脆很好吃，没包的量也挺多，携带也方便，上班饿的时候吃个解解馋",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-8",
+        "kind": "buyer_review",
+        "label": "买家评价9",
+        "locator": "sheet2!L2/review-8",
+        "text": "好吃，又香又甜，我都买了好多次了，一大袋我两天解决，又准备回购了🤣",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-9",
+        "kind": "buyer_review",
+        "label": "买家评价10",
+        "locator": "sheet2!L2/review-9",
+        "text": "味道很好，挺好吃，发货很快，包装很好，快递也很给力，好评！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-review-summary",
+        "kind": "ai_derived",
+        "label": "旧AI评价摘要",
+        "locator": "sheet2!L2/ai-review-summary",
+        "text": "很多买家表示这款麻花口感酥脆，具有浓郁的花生香味，且甜度适中，不会过于甜腻。同时，该麻花采用独立包装，既干净又方便，非常适合办公室等场景。此外，其价格实惠，不少买家对此表示满意。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L2/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1909\", \"industry_name\": \"家居建材\"}, \"second_industry\": {\"industry_code\": \"190931\", \"industry_name\": \"厨具\"}, \"third_industry\": {\"industry_code\": 19090702, \"industry_name\": \"水具\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "short-name",
+        "kind": "marketing_copy",
+        "label": "旧商品短名",
+        "locator": "sheet2!L2/short-name",
+        "text": "矮子馅饼蜂蜜花生麻花甜香",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-E-0.jpg",
+        "image_token": "HscdbnIg3oOAUxxRwjncWQDenVc",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-F",
+        "kind": "image",
+        "label": "商品图F",
+        "locator": "sheet2!F2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-F-0.jpg",
+        "image_token": "JFLAbJvIZoTeUsxQCuWcPIu7n9d",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-G-0.jpg",
+        "image_token": "Y6DKbmKhAo2vtuxqN1ccuTRCnWg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-H-0.jpg",
+        "image_token": "SqKLbX1FTomYNjxYEk2cNrR6n6b",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-I-0.jpg",
+        "image_token": "TIv3bFSvOoYeizx2QUCcw4BMnmd",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-J-0.jpg",
+        "image_token": "TxhPbC7KEoqBrgx2qGwc5QYpnIh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-K",
+        "kind": "image",
+        "label": "商品图K",
+        "locator": "sheet2!K2:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/image-K-0.jpg",
+        "image_token": "PrIMbGJXAoIT2fxDuuDcvuWjnzJ",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-0",
+        "kind": "image",
+        "label": "详情长图片段1",
+        "locator": "sheet2!M2: y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-0.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-1",
+        "kind": "image",
+        "label": "详情长图片段2",
+        "locator": "sheet2!M2: y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-1.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-2",
+        "kind": "image",
+        "label": "详情长图片段3",
+        "locator": "sheet2!M2: y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-2.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-3",
+        "kind": "image",
+        "label": "详情长图片段4",
+        "locator": "sheet2!M2: y=5400..7200",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-3.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-4",
+        "kind": "image",
+        "label": "详情长图片段5",
+        "locator": "sheet2!M2: y=7200..9000",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-4.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-5",
+        "kind": "image",
+        "label": "详情长图片段6",
+        "locator": "sheet2!M2: y=9000..10800",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-5.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-6",
+        "kind": "image",
+        "label": "详情长图片段7",
+        "locator": "sheet2!M2: y=10800..12600",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-6.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-7",
+        "kind": "image",
+        "label": "详情长图片段8",
+        "locator": "sheet2!M2: y=12600..12974",
+        "text": "",
+        "image_path": "data/assets/3825952452159603168/detail-7.jpg",
+        "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:56:14Z",
+  "profile": {
+    "product_info": {
+      "name": "蜂蜜花生味麻花",
+      "category": "糕点/点心/麻花；油炸类糕点",
+      "ingredients": [
+        "小麦粉",
+        "植物油",
+        "白砂糖",
+        "花生（≥5%）",
+        "麦芽糖浆",
+        "芝麻（≥3%）",
+        "蜂蜜（≥0.7%）",
+        "食用盐",
+        "复配膨松剂（焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉）",
+        "碳酸氢钠",
+        "磷脂",
+        "高活性干酵母",
+        "天然酵母预拌粉（小麦粉、大米粉、葡萄糖、天然酵母（小麦、大麦、大米、葡萄干、蜂蜜）、玉米淀粉）（添加量≥0.03%）",
+        "三氯蔗糖"
+      ],
+      "attributes": [
+        "品牌：矮子馅饼",
+        "贮存条件：常温",
+        "保质期：180天",
+        "包装类型：包装/预包装食品",
+        "产地：中国大陆；详情标注湖北·武汉、湖北·咸宁，具体以包装上生产日期旁代码为准",
+        "生产企业：湖北省崇阳县君欢食品有限责任公司",
+        "生产企业地址：湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层",
+        "食品生产许可证编号：SC12442011252580、SC12442122300136",
+        "产品标准代码：GB7099",
+        "产品名称：蜂蜜花生味麻花",
+        "致敏物质提示：含麸质谷物、大豆、芝麻、花生、蜂蜜；1岁以下婴幼儿不宜食用",
+        "温馨提示：儿童青少年应避免过量摄入盐油糖",
+        "食用方式：开袋即食",
+        "营养成分表（每100克）：能量2485kJ（NRV 30%）、蛋白质7.1g（12%）、脂肪40.6g（68%）、饱和脂肪15.5g（78%）、碳水化合物50.7g（17%）、糖12.5g（NRV未标注）、钠199mg（10%）"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "【蜂蜜花生麻花】278g*1袋",
+        "details": [
+          "净含量：278g*1袋",
+          "单袋装"
+        ]
+      },
+      {
+        "name": "【蜂蜜花生麻花】278g*2袋",
+        "details": [
+          "净含量：278g*2袋",
+          "两袋组合装"
+        ]
+      },
+      {
+        "name": "【蜂蜜花生麻花】278g*3袋",
+        "details": [
+          "净含量：278g*3袋",
+          "三袋组合装"
+        ]
+      },
+      {
+        "name": "蜂蜜花生味麻花 300克装",
+        "details": [
+          "包装正面标注净含量：300克",
+          "内为独立小包装，便于携带、不易受潮",
+          "浅色袋装零售包装，袋上标有“蜂蜜花生味麻花”“油炸类糕点”“酥”等字样"
+        ]
+      }
+    ],
+    "original_selling_points": [
+      "酥脆解馋、香甜不腻；甜而不腻、脆而不硬；入口香甜酥脆、脆而不硬",
+      "大方用料：现剁碾碎花生粒添加量≥5%，清甜优质蜂蜜添加量≥0.7%，碾平芝麻醇香、添加量≥3%",
+      "三重发酵工艺，所以脆的刚刚好；人气上新·三重发酵麻花",
+      "独立包装、便携卫生，方便收纳，适合随身放办公室解馋；拆开即食、不易受潮、分享不脏手",
+      "蜂蜜花生味层次：先遇蜜的绵柔，再遇花生的香，双重口感交织；花生去皮烘烤至微黄碾成均匀碎粒，咸香粗糙撞上蜜浆柔润清甜，酥、松、化，花生在嘴里爆香",
+      "蜂蜜挂浆、蜜裹酥脆：每根麻花螺旋纹里渗进蜜意，外层裹蜂蜜与麦芽糖浆；不油不燥、酥松化口，入口清甜与麦香",
+      "十几道工序：阳光小麦老面引子足时醒发，面身自带麦香；揉出筋道、拧成花样、7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅、不焦不糊、外酥里润、脆得有层次",
+      "食用场景：聚会小食、摸鱼零食（小饿小累提神）、追剧搭子",
+      "权威机构检测，食有保障、家人放心",
+      "贴心服务4大保障：假一赔四、坏损包退、运费险、七天无理由",
+      "社交热销表现：百人加购、60+达人推荐、热销带货达人楚铃推荐、人气新品"
+    ],
+    "buyer_feedback": [
+      "正面：口感酥脆、脆而不硬、香甜不腻，越嚼越香，花生口味突出；13人提及“酥脆”",
+      "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根",
+      "正面：一大包份量足、价格实惠；有买家表示多次回购",
+      "正面：日期新鲜、配料干净；外观造型好看",
+      "个人感受：有买家认为味道好、又香又甜，打算再回购"
+    ],
+    "cautions": [
+      "原商品名含“矮子馅饼”，但实际产品为蜂蜜花生味麻花，不是馅饼",
+      "旧模型行业分类为“家居建材/厨具/水具”，与商品实际类目“糕点/点心/麻花”明显不符，仅作线索不作事实",
+      "详情页产地标注“湖北武汉 湖北咸宁”，与生产企业地址“湖北省武汉市东西湖区”及生产企业名称指向“崇阳县”存在多产地口径；具体生产地址及许可证编号需以包装上生产日期旁代码为准",
+      "净含量存在278克与300克两种包装口径，分别对应不同规格，不作为同一SKU冲突",
+      "“袋大/份量足”为买家主观感受，不作为定量规格",
+      "“100%好评”“好评TOP”“优质评价多”等评价类标记不独立升级为商品质量事实",
+      "“配料干净”为买家评价原文，不作为配料表已认证或健康承诺",
+      "“三重发酵”仅见于商家宣传图文，未见工艺参数或认证材料，保留为原有宣传，不作确定工艺属性",
+      "“达人推荐”“百人加购”“热门复购”等为平台运营标签，非商品本身属性",
+      "“权威机构检测”仅见商家宣传，未提供检测报告或认证材料，不作确定认证承诺",
+      "营养成分表未给出糖的NRV%，仅给出糖含量12.5克/100克，不能据此推断无糖或低糖"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3825952452159603168",
+      "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+      "sources": {
+        "蜂蜜花生味麻花": {
+          "source_ids": [
+            "identity",
+            "image-M-3",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "糕点/点心/麻花；油炸类糕点": {
+          "source_ids": [
+            "identity",
+            "image-E",
+            "image-F",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "小麦粉": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "植物油": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "白砂糖": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "花生（≥5%）": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "麦芽糖浆": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "芝麻（≥3%）": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "蜂蜜（≥0.7%）": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "食用盐": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "复配膨松剂（焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉）": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "碳酸氢钠": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "磷脂": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "高活性干酵母": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "天然酵母预拌粉（小麦粉、大米粉、葡萄糖、天然酵母（小麦、大麦、大米、葡萄干、蜂蜜）、玉米淀粉）（添加量≥0.03%）": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "三氯蔗糖": {
+          "source_ids": [
+            "attr-9",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "品牌：矮子馅饼": {
+          "source_ids": [
+            "attr-10"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件：常温": {
+          "source_ids": [
+            "attr-0"
+          ],
+          "kind": "fact"
+        },
+        "保质期：180天": {
+          "source_ids": [
+            "attr-5",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "包装类型：包装/预包装食品": {
+          "source_ids": [
+            "attr-1",
+            "attr-6"
+          ],
+          "kind": "fact"
+        },
+        "产地：中国大陆；详情标注湖北·武汉、湖北·咸宁，具体以包装上生产日期旁代码为准": {
+          "source_ids": [
+            "attr-11",
+            "image-K",
+            "image-M-2",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "生产企业：湖北省崇阳县君欢食品有限责任公司": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "生产企业地址：湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "食品生产许可证编号：SC12442011252580、SC12442122300136": {
+          "source_ids": [
+            "attr-3",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "产品标准代码：GB7099": {
+          "source_ids": [
+            "attr-4",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "产品名称：蜂蜜花生味麻花": {
+          "source_ids": [
+            "attr-7",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "致敏物质提示：含麸质谷物、大豆、芝麻、花生、蜂蜜；1岁以下婴幼儿不宜食用": {
+          "source_ids": [
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "温馨提示：儿童青少年应避免过量摄入盐油糖": {
+          "source_ids": [
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "食用方式：开袋即食": {
+          "source_ids": [
+            "image-M-2",
+            "copy-19",
+            "image-M-3"
+          ],
+          "kind": "fact"
+        },
+        "营养成分表（每100克）：能量2485kJ（NRV 30%）、蛋白质7.1g（12%）、脂肪40.6g（68%）、饱和脂肪15.5g（78%）、碳水化合物50.7g（17%）、糖12.5g（NRV未标注）、钠199mg（10%）": {
+          "source_ids": [
+            "attr-8",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "【蜂蜜花生麻花】278g*1袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "净含量：278g*1袋": {
+          "source_ids": [
+            "specs",
+            "attr-13"
+          ],
+          "kind": "fact"
+        },
+        "单袋装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【蜂蜜花生麻花】278g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "净含量：278g*2袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "两袋组合装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "【蜂蜜花生麻花】278g*3袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "净含量：278g*3袋": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "三袋组合装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "蜂蜜花生味麻花 300克装": {
+          "source_ids": [
+            "image-M-3",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "包装正面标注净含量：300克": {
+          "source_ids": [
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "内为独立小包装，便于携带、不易受潮": {
+          "source_ids": [
+            "image-M-3"
+          ],
+          "kind": "fact"
+        },
+        "浅色袋装零售包装，袋上标有“蜂蜜花生味麻花”“油炸类糕点”“酥”等字样": {
+          "source_ids": [
+            "image-M-3"
+          ],
+          "kind": "fact"
+        },
+        "酥脆解馋、香甜不腻；甜而不腻、脆而不硬；入口香甜酥脆、脆而不硬": {
+          "source_ids": [
+            "copy-19",
+            "image-E",
+            "image-K"
+          ],
+          "kind": "description"
+        },
+        "大方用料：现剁碾碎花生粒添加量≥5%，清甜优质蜂蜜添加量≥0.7%，碾平芝麻醇香、添加量≥3%": {
+          "source_ids": [
+            "image-J",
+            "copy-19"
+          ],
+          "kind": "description"
+        },
+        "三重发酵工艺，所以脆的刚刚好；人气上新·三重发酵麻花": {
+          "source_ids": [
+            "image-I",
+            "copy-13",
+            "image-M-4"
+          ],
+          "kind": "description"
+        },
+        "独立包装、便携卫生，方便收纳，适合随身放办公室解馋；拆开即食、不易受潮、分享不脏手": {
+          "source_ids": [
+            "copy-19",
+            "image-K",
+            "image-M-3",
+            "image-M-4"
+          ],
+          "kind": "description"
+        },
+        "蜂蜜花生味层次：先遇蜜的绵柔，再遇花生的香，双重口感交织；花生去皮烘烤至微黄碾成均匀碎粒，咸香粗糙撞上蜜浆柔润清甜，酥、松、化，花生在嘴里爆香": {
+          "source_ids": [
+            "image-M-3"
+          ],
+          "kind": "description"
+        },
+        "蜂蜜挂浆、蜜裹酥脆：每根麻花螺旋纹里渗进蜜意，外层裹蜂蜜与麦芽糖浆；不油不燥、酥松化口，入口清甜与麦香": {
+          "source_ids": [
+            "image-M-4"
+          ],
+          "kind": "description"
+        },
+        "十几道工序：阳光小麦老面引子足时醒发，面身自带麦香；揉出筋道、拧成花样、7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅、不焦不糊、外酥里润、脆得有层次": {
+          "source_ids": [
+            "image-M-4"
+          ],
+          "kind": "description"
+        },
+        "食用场景：聚会小食、摸鱼零食（小饿小累提神）、追剧搭子": {
+          "source_ids": [
+            "image-M-5"
+          ],
+          "kind": "description"
+        },
+        "权威机构检测，食有保障、家人放心": {
+          "source_ids": [
+            "image-M-5"
+          ],
+          "kind": "description"
+        },
+        "贴心服务4大保障：假一赔四、坏损包退、运费险、七天无理由": {
+          "source_ids": [
+            "image-M-6"
+          ],
+          "kind": "description"
+        },
+        "社交热销表现：百人加购、60+达人推荐、热销带货达人楚铃推荐、人气新品": {
+          "source_ids": [
+            "copy-0",
+            "copy-2",
+            "copy-18",
+            "copy-3"
+          ],
+          "kind": "description"
+        },
+        "正面：口感酥脆、脆而不硬、香甜不腻，越嚼越香，花生口味突出；13人提及“酥脆”": {
+          "source_ids": [
+            "copy-4",
+            "copy-9",
+            "review-0",
+            "review-3",
+            "review-5"
+          ],
+          "kind": "feedback"
+        },
+        "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根": {
+          "source_ids": [
+            "copy-4",
+            "review-3",
+            "review-6",
+            "review-7"
+          ],
+          "kind": "feedback"
+        },
+        "正面：一大包份量足、价格实惠；有买家表示多次回购": {
+          "source_ids": [
+            "copy-4",
+            "review-1",
+            "review-8",
+            "copy-12"
+          ],
+          "kind": "feedback"
+        },
+        "正面：日期新鲜、配料干净；外观造型好看": {
+          "source_ids": [
+            "review-5",
+            "review-6"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：有买家认为味道好、又香又甜，打算再回购": {
+          "source_ids": [
+            "review-8",
+            "review-6"
+          ],
+          "kind": "feedback"
+        },
+        "原商品名含“矮子馅饼”，但实际产品为蜂蜜花生味麻花，不是馅饼": {
+          "source_ids": [
+            "identity",
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "旧模型行业分类为“家居建材/厨具/水具”，与商品实际类目“糕点/点心/麻花”明显不符，仅作线索不作事实": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "详情页产地标注“湖北武汉 湖北咸宁”，与生产企业地址“湖北省武汉市东西湖区”及生产企业名称指向“崇阳县”存在多产地口径；具体生产地址及许可证编号需以包装上生产日期旁代码为准": {
+          "source_ids": [
+            "image-M-2",
+            "attr-2",
+            "attr-12",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "净含量存在278克与300克两种包装口径，分别对应不同规格，不作为同一SKU冲突": {
+          "source_ids": [
+            "attr-13",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        },
+        "“袋大/份量足”为买家主观感受，不作为定量规格": {
+          "source_ids": [
+            "review-1"
+          ],
+          "kind": "feedback"
+        },
+        "“100%好评”“好评TOP”“优质评价多”等评价类标记不独立升级为商品质量事实": {
+          "source_ids": [
+            "copy-1",
+            "copy-14",
+            "copy-17"
+          ],
+          "kind": "feedback"
+        },
+        "“配料干净”为买家评价原文，不作为配料表已认证或健康承诺": {
+          "source_ids": [
+            "review-6"
+          ],
+          "kind": "feedback"
+        },
+        "“三重发酵”仅见于商家宣传图文，未见工艺参数或认证材料，保留为原有宣传，不作确定工艺属性": {
+          "source_ids": [
+            "image-I",
+            "copy-13",
+            "image-M-4"
+          ],
+          "kind": "fact"
+        },
+        "“达人推荐”“百人加购”“热门复购”等为平台运营标签，非商品本身属性": {
+          "source_ids": [
+            "copy-0",
+            "copy-2",
+            "copy-12",
+            "copy-18"
+          ],
+          "kind": "description"
+        },
+        "“权威机构检测”仅见商家宣传，未提供检测报告或认证材料，不作确定认证承诺": {
+          "source_ids": [
+            "image-M-5"
+          ],
+          "kind": "fact"
+        },
+        "营养成分表未给出糖的NRV%，仅给出糖含量12.5克/100克，不能据此推断无糖或低糖": {
+          "source_ids": [
+            "attr-8",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 2
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "蜜裹花生香，酥松有层次｜蜂蜜花生味麻花外层裹上蜂蜜与麦芽糖浆，花生碎粒≥5%、芝麻≥3%点缀其中；入口先碰到蜜的清甜柔润，再嚼到花生与芝麻的香，脆而不硬",
+        "priority": 1
+      },
+      {
+        "text": "开袋即食，追剧办公都顺手｜拆开就能吃，饿了或嘴馋时来一根；聚会小食、办公室解馋、追剧搭子都合适，不用另外准备",
+        "priority": 2
+      },
+      {
+        "text": "独立小包装，拿取不脏手｜300克装内为独立小包装，便于随身携带、收纳在办公室，也不易受潮；分着吃、分享给同事都方便",
+        "priority": 3
+      },
+      {
+        "text": "拧花慢炸，外酥里润｜面团揉出筋道后拧成花样，7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅，脆得有层次",
+        "priority": 4
+      },
+      {
+        "text": "多种规格选择｜蜂蜜花生味麻花有278g单袋、278g两袋组合、278g三袋组合，以及300克独立小包装装，按尝鲜或囤货需要选",
+        "priority": 5
+      },
+      {
+        "text": "常温存放不占冰箱｜保质期180天，常温贮存即可，随手放在家里或办公室都方便",
+        "priority": 6
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3825952452159603168",
+      "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+      "knowledge_revision": "f61cbec93334da5f606a32229f2e9a4fff5e42f48a461f9eb6695bae48bc603f",
+      "support": [
+        {
+          "basis": [
+            "蜂蜜花生味麻花",
+            "花生（≥5%）",
+            "芝麻（≥3%）",
+            "蜂蜜（≥0.7%）",
+            "酥脆解馋、香甜不腻；甜而不腻、脆而不硬；入口香甜酥脆、脆而不硬",
+            "蜂蜜花生味层次：先遇蜜的绵柔，再遇花生的香，双重口感交织；花生去皮烘烤至微黄碾成均匀碎粒，咸香粗糙撞上蜜浆柔润清甜，酥、松、化，花生在嘴里爆香",
+            "蜂蜜挂浆、蜜裹酥脆：每根麻花螺旋纹里渗进蜜意，外层裹蜂蜜与麦芽糖浆；不油不燥、酥松化口，入口清甜与麦香"
+          ],
+          "source_ids": [
+            "identity",
+            "image-M-3",
+            "image-M-6",
+            "attr-9",
+            "copy-19",
+            "image-E",
+            "image-K",
+            "image-M-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "食用方式：开袋即食",
+            "食用场景：聚会小食、摸鱼零食（小饿小累提神）、追剧搭子",
+            "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根"
+          ],
+          "source_ids": [
+            "image-M-2",
+            "copy-19",
+            "image-M-3",
+            "image-M-5",
+            "copy-4",
+            "review-3",
+            "review-6",
+            "review-7"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "内为独立小包装，便于携带、不易受潮",
+            "独立包装、便携卫生，方便收纳，适合随身放办公室解馋；拆开即食、不易受潮、分享不脏手",
+            "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根"
+          ],
+          "source_ids": [
+            "image-M-3",
+            "copy-19",
+            "image-K",
+            "image-M-4",
+            "copy-4",
+            "review-3",
+            "review-6",
+            "review-7"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "十几道工序：阳光小麦老面引子足时醒发，面身自带麦香；揉出筋道、拧成花样、7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅、不焦不糊、外酥里润、脆得有层次"
+          ],
+          "source_ids": [
+            "image-M-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "净含量：278g*1袋",
+            "净含量：278g*2袋",
+            "净含量：278g*3袋",
+            "包装正面标注净含量：300克",
+            "内为独立小包装，便于携带、不易受潮"
+          ],
+          "source_ids": [
+            "specs",
+            "attr-13",
+            "image-M-6",
+            "image-M-3"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "贮存条件：常温",
+            "保质期：180天"
+          ],
+          "source_ids": [
+            "attr-0",
+            "attr-5",
+            "image-M-6"
+          ],
+          "kind": "fact"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "f61cbec93334da5f606a32229f2e9a4fff5e42f48a461f9eb6695bae48bc603f",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:56:47.759901+00:00",
+      "profile": {
+        "product_info": {
+          "name": "蜂蜜花生味麻花",
+          "category": "糕点/点心/麻花；油炸类糕点",
+          "ingredients": [
+            "小麦粉",
+            "植物油",
+            "白砂糖",
+            "花生（≥5%）",
+            "麦芽糖浆",
+            "芝麻（≥3%）",
+            "蜂蜜（≥0.7%）",
+            "食用盐",
+            "复配膨松剂（焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉）",
+            "碳酸氢钠",
+            "磷脂",
+            "高活性干酵母",
+            "天然酵母预拌粉（小麦粉、大米粉、葡萄糖、天然酵母（小麦、大麦、大米、葡萄干、蜂蜜）、玉米淀粉）（添加量≥0.03%）",
+            "三氯蔗糖"
+          ],
+          "attributes": [
+            "品牌：矮子馅饼",
+            "贮存条件：常温",
+            "保质期：180天",
+            "包装类型：包装/预包装食品",
+            "产地：中国大陆；详情标注湖北·武汉、湖北·咸宁，具体以包装上生产日期旁代码为准",
+            "生产企业：湖北省崇阳县君欢食品有限责任公司",
+            "生产企业地址：湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层",
+            "食品生产许可证编号：SC12442011252580、SC12442122300136",
+            "产品标准代码：GB7099",
+            "产品名称：蜂蜜花生味麻花",
+            "致敏物质提示：含麸质谷物、大豆、芝麻、花生、蜂蜜；1岁以下婴幼儿不宜食用",
+            "温馨提示：儿童青少年应避免过量摄入盐油糖",
+            "食用方式：开袋即食",
+            "营养成分表（每100克）：能量2485kJ（NRV 30%）、蛋白质7.1g（12%）、脂肪40.6g（68%）、饱和脂肪15.5g（78%）、碳水化合物50.7g（17%）、糖12.5g（NRV未标注）、钠199mg（10%）"
+          ]
+        },
+        "specifications": [
+          {
+            "name": "【蜂蜜花生麻花】278g*1袋",
+            "details": [
+              "净含量：278g*1袋",
+              "单袋装"
+            ]
+          },
+          {
+            "name": "【蜂蜜花生麻花】278g*2袋",
+            "details": [
+              "净含量：278g*2袋",
+              "两袋组合装"
+            ]
+          },
+          {
+            "name": "【蜂蜜花生麻花】278g*3袋",
+            "details": [
+              "净含量：278g*3袋",
+              "三袋组合装"
+            ]
+          },
+          {
+            "name": "蜂蜜花生味麻花 300克装",
+            "details": [
+              "包装正面标注净含量：300克",
+              "内为独立小包装，便于携带、不易受潮",
+              "浅色袋装零售包装，袋上标有“蜂蜜花生味麻花”“油炸类糕点”“酥”等字样"
+            ]
+          }
+        ],
+        "original_selling_points": [
+          "酥脆解馋、香甜不腻；甜而不腻、脆而不硬；入口香甜酥脆、脆而不硬",
+          "大方用料：现剁碾碎花生粒添加量≥5%，清甜优质蜂蜜添加量≥0.7%，碾平芝麻醇香、添加量≥3%",
+          "三重发酵工艺，所以脆的刚刚好；人气上新·三重发酵麻花",
+          "独立包装、便携卫生，方便收纳，适合随身放办公室解馋；拆开即食、不易受潮、分享不脏手",
+          "蜂蜜花生味层次：先遇蜜的绵柔，再遇花生的香，双重口感交织；花生去皮烘烤至微黄碾成均匀碎粒，咸香粗糙撞上蜜浆柔润清甜，酥、松、化，花生在嘴里爆香",
+          "蜂蜜挂浆、蜜裹酥脆：每根麻花螺旋纹里渗进蜜意，外层裹蜂蜜与麦芽糖浆；不油不燥、酥松化口，入口清甜与麦香",
+          "十几道工序：阳光小麦老面引子足时醒发，面身自带麦香；揉出筋道、拧成花样、7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅、不焦不糊、外酥里润、脆得有层次",
+          "食用场景：聚会小食、摸鱼零食（小饿小累提神）、追剧搭子",
+          "权威机构检测，食有保障、家人放心",
+          "贴心服务4大保障：假一赔四、坏损包退、运费险、七天无理由",
+          "社交热销表现：百人加购、60+达人推荐、热销带货达人楚铃推荐、人气新品"
+        ],
+        "buyer_feedback": [
+          "正面：口感酥脆、脆而不硬、香甜不腻，越嚼越香，花生口味突出；13人提及“酥脆”",
+          "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根",
+          "正面：一大包份量足、价格实惠；有买家表示多次回购",
+          "正面：日期新鲜、配料干净；外观造型好看",
+          "个人感受：有买家认为味道好、又香又甜，打算再回购"
+        ],
+        "cautions": [
+          "原商品名含“矮子馅饼”，但实际产品为蜂蜜花生味麻花，不是馅饼",
+          "旧模型行业分类为“家居建材/厨具/水具”，与商品实际类目“糕点/点心/麻花”明显不符，仅作线索不作事实",
+          "详情页产地标注“湖北武汉 湖北咸宁”，与生产企业地址“湖北省武汉市东西湖区”及生产企业名称指向“崇阳县”存在多产地口径；具体生产地址及许可证编号需以包装上生产日期旁代码为准",
+          "净含量存在278克与300克两种包装口径，分别对应不同规格，不作为同一SKU冲突",
+          "“袋大/份量足”为买家主观感受，不作为定量规格",
+          "“100%好评”“好评TOP”“优质评价多”等评价类标记不独立升级为商品质量事实",
+          "“配料干净”为买家评价原文，不作为配料表已认证或健康承诺",
+          "“三重发酵”仅见于商家宣传图文，未见工艺参数或认证材料，保留为原有宣传，不作确定工艺属性",
+          "“达人推荐”“百人加购”“热门复购”等为平台运营标签，非商品本身属性",
+          "“权威机构检测”仅见商家宣传，未提供检测报告或认证材料，不作确定认证承诺",
+          "营养成分表未给出糖的NRV%，仅给出糖含量12.5克/100克，不能据此推断无糖或低糖"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3825952452159603168",
+          "material_revision": "92d3a820d9afea2b231030eada5f625997654dcfb4eccf3e53b66e68eb80e7d7",
+          "sources": {
+            "蜂蜜花生味麻花": {
+              "source_ids": [
+                "identity",
+                "image-M-3",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "糕点/点心/麻花；油炸类糕点": {
+              "source_ids": [
+                "identity",
+                "image-E",
+                "image-F",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "小麦粉": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "植物油": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "白砂糖": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "花生（≥5%）": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "麦芽糖浆": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "芝麻（≥3%）": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "蜂蜜（≥0.7%）": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "食用盐": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "复配膨松剂（焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉）": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "碳酸氢钠": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "磷脂": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "高活性干酵母": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "天然酵母预拌粉（小麦粉、大米粉、葡萄糖、天然酵母（小麦、大麦、大米、葡萄干、蜂蜜）、玉米淀粉）（添加量≥0.03%）": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "三氯蔗糖": {
+              "source_ids": [
+                "attr-9",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "品牌：矮子馅饼": {
+              "source_ids": [
+                "attr-10"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件：常温": {
+              "source_ids": [
+                "attr-0"
+              ],
+              "kind": "fact"
+            },
+            "保质期：180天": {
+              "source_ids": [
+                "attr-5",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "包装类型：包装/预包装食品": {
+              "source_ids": [
+                "attr-1",
+                "attr-6"
+              ],
+              "kind": "fact"
+            },
+            "产地：中国大陆；详情标注湖北·武汉、湖北·咸宁，具体以包装上生产日期旁代码为准": {
+              "source_ids": [
+                "attr-11",
+                "image-K",
+                "image-M-2",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "生产企业：湖北省崇阳县君欢食品有限责任公司": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "生产企业地址：湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "食品生产许可证编号：SC12442011252580、SC12442122300136": {
+              "source_ids": [
+                "attr-3",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "产品标准代码：GB7099": {
+              "source_ids": [
+                "attr-4",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "产品名称：蜂蜜花生味麻花": {
+              "source_ids": [
+                "attr-7",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "致敏物质提示：含麸质谷物、大豆、芝麻、花生、蜂蜜；1岁以下婴幼儿不宜食用": {
+              "source_ids": [
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "温馨提示：儿童青少年应避免过量摄入盐油糖": {
+              "source_ids": [
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "食用方式：开袋即食": {
+              "source_ids": [
+                "image-M-2",
+                "copy-19",
+                "image-M-3"
+              ],
+              "kind": "fact"
+            },
+            "营养成分表（每100克）：能量2485kJ（NRV 30%）、蛋白质7.1g（12%）、脂肪40.6g（68%）、饱和脂肪15.5g（78%）、碳水化合物50.7g（17%）、糖12.5g（NRV未标注）、钠199mg（10%）": {
+              "source_ids": [
+                "attr-8",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "【蜂蜜花生麻花】278g*1袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "净含量：278g*1袋": {
+              "source_ids": [
+                "specs",
+                "attr-13"
+              ],
+              "kind": "fact"
+            },
+            "单袋装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【蜂蜜花生麻花】278g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "净含量：278g*2袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "两袋组合装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "【蜂蜜花生麻花】278g*3袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "净含量：278g*3袋": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "三袋组合装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "蜂蜜花生味麻花 300克装": {
+              "source_ids": [
+                "image-M-3",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "包装正面标注净含量：300克": {
+              "source_ids": [
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "内为独立小包装，便于携带、不易受潮": {
+              "source_ids": [
+                "image-M-3"
+              ],
+              "kind": "fact"
+            },
+            "浅色袋装零售包装，袋上标有“蜂蜜花生味麻花”“油炸类糕点”“酥”等字样": {
+              "source_ids": [
+                "image-M-3"
+              ],
+              "kind": "fact"
+            },
+            "酥脆解馋、香甜不腻；甜而不腻、脆而不硬；入口香甜酥脆、脆而不硬": {
+              "source_ids": [
+                "copy-19",
+                "image-E",
+                "image-K"
+              ],
+              "kind": "description"
+            },
+            "大方用料：现剁碾碎花生粒添加量≥5%，清甜优质蜂蜜添加量≥0.7%，碾平芝麻醇香、添加量≥3%": {
+              "source_ids": [
+                "image-J",
+                "copy-19"
+              ],
+              "kind": "description"
+            },
+            "三重发酵工艺，所以脆的刚刚好；人气上新·三重发酵麻花": {
+              "source_ids": [
+                "image-I",
+                "copy-13",
+                "image-M-4"
+              ],
+              "kind": "description"
+            },
+            "独立包装、便携卫生，方便收纳，适合随身放办公室解馋；拆开即食、不易受潮、分享不脏手": {
+              "source_ids": [
+                "copy-19",
+                "image-K",
+                "image-M-3",
+                "image-M-4"
+              ],
+              "kind": "description"
+            },
+            "蜂蜜花生味层次：先遇蜜的绵柔，再遇花生的香，双重口感交织；花生去皮烘烤至微黄碾成均匀碎粒，咸香粗糙撞上蜜浆柔润清甜，酥、松、化，花生在嘴里爆香": {
+              "source_ids": [
+                "image-M-3"
+              ],
+              "kind": "description"
+            },
+            "蜂蜜挂浆、蜜裹酥脆：每根麻花螺旋纹里渗进蜜意，外层裹蜂蜜与麦芽糖浆；不油不燥、酥松化口，入口清甜与麦香": {
+              "source_ids": [
+                "image-M-4"
+              ],
+              "kind": "description"
+            },
+            "十几道工序：阳光小麦老面引子足时醒发，面身自带麦香；揉出筋道、拧成花样、7道拧劲成型、缠出均匀纹路；成熟宽油慢炸、全程翻搅、不焦不糊、外酥里润、脆得有层次": {
+              "source_ids": [
+                "image-M-4"
+              ],
+              "kind": "description"
+            },
+            "食用场景：聚会小食、摸鱼零食（小饿小累提神）、追剧搭子": {
+              "source_ids": [
+                "image-M-5"
+              ],
+              "kind": "description"
+            },
+            "权威机构检测，食有保障、家人放心": {
+              "source_ids": [
+                "image-M-5"
+              ],
+              "kind": "description"
+            },
+            "贴心服务4大保障：假一赔四、坏损包退、运费险、七天无理由": {
+              "source_ids": [
+                "image-M-6"
+              ],
+              "kind": "description"
+            },
+            "社交热销表现：百人加购、60+达人推荐、热销带货达人楚铃推荐、人气新品": {
+              "source_ids": [
+                "copy-0",
+                "copy-2",
+                "copy-18",
+                "copy-3"
+              ],
+              "kind": "description"
+            },
+            "正面：口感酥脆、脆而不硬、香甜不腻，越嚼越香，花生口味突出；13人提及“酥脆”": {
+              "source_ids": [
+                "copy-4",
+                "copy-9",
+                "review-0",
+                "review-3",
+                "review-5"
+              ],
+              "kind": "feedback"
+            },
+            "正面：独立小包装干净方便，便于携带和办公室收纳，饿了/嘴馋时来一根": {
+              "source_ids": [
+                "copy-4",
+                "review-3",
+                "review-6",
+                "review-7"
+              ],
+              "kind": "feedback"
+            },
+            "正面：一大包份量足、价格实惠；有买家表示多次回购": {
+              "source_ids": [
+                "copy-4",
+                "review-1",
+                "review-8",
+                "copy-12"
+              ],
+              "kind": "feedback"
+            },
+            "正面：日期新鲜、配料干净；外观造型好看": {
+              "source_ids": [
+                "review-5",
+                "review-6"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：有买家认为味道好、又香又甜，打算再回购": {
+              "source_ids": [
+                "review-8",
+                "review-6"
+              ],
+              "kind": "feedback"
+            },
+            "原商品名含“矮子馅饼”，但实际产品为蜂蜜花生味麻花，不是馅饼": {
+              "source_ids": [
+                "identity",
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "旧模型行业分类为“家居建材/厨具/水具”，与商品实际类目“糕点/点心/麻花”明显不符，仅作线索不作事实": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "详情页产地标注“湖北武汉 湖北咸宁”，与生产企业地址“湖北省武汉市东西湖区”及生产企业名称指向“崇阳县”存在多产地口径；具体生产地址及许可证编号需以包装上生产日期旁代码为准": {
+              "source_ids": [
+                "image-M-2",
+                "attr-2",
+                "attr-12",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "净含量存在278克与300克两种包装口径，分别对应不同规格，不作为同一SKU冲突": {
+              "source_ids": [
+                "attr-13",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            },
+            "“袋大/份量足”为买家主观感受，不作为定量规格": {
+              "source_ids": [
+                "review-1"
+              ],
+              "kind": "feedback"
+            },
+            "“100%好评”“好评TOP”“优质评价多”等评价类标记不独立升级为商品质量事实": {
+              "source_ids": [
+                "copy-1",
+                "copy-14",
+                "copy-17"
+              ],
+              "kind": "feedback"
+            },
+            "“配料干净”为买家评价原文，不作为配料表已认证或健康承诺": {
+              "source_ids": [
+                "review-6"
+              ],
+              "kind": "feedback"
+            },
+            "“三重发酵”仅见于商家宣传图文，未见工艺参数或认证材料，保留为原有宣传，不作确定工艺属性": {
+              "source_ids": [
+                "image-I",
+                "copy-13",
+                "image-M-4"
+              ],
+              "kind": "fact"
+            },
+            "“达人推荐”“百人加购”“热门复购”等为平台运营标签，非商品本身属性": {
+              "source_ids": [
+                "copy-0",
+                "copy-2",
+                "copy-12",
+                "copy-18"
+              ],
+              "kind": "description"
+            },
+            "“权威机构检测”仅见商家宣传，未提供检测报告或认证材料，不作确定认证承诺": {
+              "source_ids": [
+                "image-M-5"
+              ],
+              "kind": "fact"
+            },
+            "营养成分表未给出糖的NRV%，仅给出糖含量12.5克/100克，不能据此推断无糖或低糖": {
+              "source_ids": [
+                "attr-8",
+                "image-M-6"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 2
+        }
+      },
+      "confirmed_at": "2026-10-28T09:56:47.763138+00:00"
+    }
+  ],
+  "elapsed_seconds": 38.3,
+  "trace": []
+}

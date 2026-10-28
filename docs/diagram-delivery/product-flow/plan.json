@@ -1,0 +1,224 @@
+{
+  "version": "1.0",
+  "chart_type": "flowchart",
+  "title": "主 Agent 与两阶段商品卖点生成",
+  "subtitle": "一期已实现与二期规划明确区分",
+  "nodes": [
+    {
+      "id": "i",
+      "label": "商品名、属性规格、商详图文、宣传、评价、商家补充",
+      "group": "in",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "a",
+      "label": "理解需求与路由",
+      "group": "ag",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "t",
+      "label": "检索材料、读取图片、核查",
+      "group": "ag",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "q",
+      "label": "本轮要做什么",
+      "group": "ag",
+      "role": "decision",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "x",
+      "label": "仅回答核查或修订已有产物",
+      "group": "ag",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "p",
+      "label": "五类商品档案，后台来源",
+      "group": "p1",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "c",
+      "label": "商家确认当前档案",
+      "group": "p1",
+      "role": "decision",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "e",
+      "label": "编辑或自然语言修订",
+      "group": "p1",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "g",
+      "label": "Skill生成、终稿复核",
+      "group": "p2",
+      "role": "step",
+      "semantic": "normal",
+      "notes": null
+    },
+    {
+      "id": "o",
+      "label": "优先级卖点：标题＋正文",
+      "group": "p2",
+      "role": "end",
+      "semantic": "normal",
+      "notes": null
+    }
+  ],
+  "groups": [
+    {
+      "id": "in",
+      "label": "资料输入",
+      "axis": "cluster",
+      "order": 0
+    },
+    {
+      "id": "ag",
+      "label": "主 Agent · 按需调用工具",
+      "axis": "cluster",
+      "order": 1
+    },
+    {
+      "id": "p1",
+      "label": "一阶段 · 商品档案",
+      "axis": "cluster",
+      "order": 2
+    },
+    {
+      "id": "p2",
+      "label": "二阶段 · 卖点表达",
+      "axis": "cluster",
+      "order": 3
+    }
+  ],
+  "edges": [
+    {
+      "from": "i",
+      "to": "a",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "a",
+      "to": "t",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "t",
+      "to": "q",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "q",
+      "to": "x",
+      "label": "仅核查或修改",
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "q",
+      "to": "p",
+      "label": "整理并生成卖点",
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "p",
+      "to": "c",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "c",
+      "to": "e",
+      "label": "需修改",
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "e",
+      "to": "c",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "c",
+      "to": "g",
+      "label": "已确认",
+      "kind": "sequence",
+      "semantic": "normal"
+    },
+    {
+      "from": "g",
+      "to": "o",
+      "label": null,
+      "kind": "sequence",
+      "semantic": "normal"
+    }
+  ],
+  "style_budget": {
+    "primary_fill": "#ffffff",
+    "primary_border": "#5b8ff9",
+    "accent_border": "#8e877a",
+    "danger_border": "#e86868",
+    "success_border": "#5b8ff9",
+    "body_font_size": 14,
+    "title_font_size": 24,
+    "label_color": "#1f2329",
+    "connector_shape": "curve",
+    "connector_arrow_end": "solid_arrow",
+    "connector_color": "#000000",
+    "layer_fill": "#f7f8fa",
+    "layer_border": "#98a2b3"
+  },
+  "density_hint": {
+    "node_count": 10,
+    "max_depth": 2,
+    "has_branches": true
+  },
+  "style_profile": {
+    "route_preference": "mermaid",
+    "visual_anchor": "flowchart",
+    "layout_signature": [
+      "浅灰分区",
+      "白底圆角步骤",
+      "浅米色决策",
+      "虚线反馈"
+    ],
+    "must_have": [
+      "真实条件分支",
+      "清楚标注一期与二期"
+    ],
+    "must_not": [
+      "装饰性外框",
+      "虚构已完成功能"
+    ]
+  }
+}

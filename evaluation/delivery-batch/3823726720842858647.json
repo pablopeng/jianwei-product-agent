@@ -1,0 +1,1922 @@
+{
+  "product_id": "3823726720842858647",
+  "name": "茶嫂当家冲天香铁观音2026新茶正宗安溪铁观音新款茶叶浓香型茶叶",
+  "source_row": 14,
+  "config_revision": "6c8630568881ddd2d737b478f8cc0a6097d96132e11d633339d93ec61cf4f46b",
+  "raw": {
+    "schema_version": "1.0",
+    "product_id": "3823726720842858647",
+    "display_name": "茶嫂当家冲天香铁观音2026新茶正宗安溪铁观音新款茶叶浓香型茶叶",
+    "materials": [
+      {
+        "id": "identity",
+        "kind": "product_attributes",
+        "label": "商品名与原始类目",
+        "locator": "sheet2!L14/identity",
+        "text": "{\"product_name\": \"茶嫂当家冲天香铁观音2026新茶正宗安溪铁观音新款茶叶浓香型茶叶\", \"product_category\": {\"first_category\": {\"category_name\": \"水饮冲调\", \"category_code\": 1000001823}, \"second_category\": {\"category_name\": \"茶叶\", \"category_code\": 1000001837}, \"third_category\": {\"category_name\": \"乌龙茶\", \"category_code\": 1000001951}}, \"brand_name\": \"茶嫂当家\"}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-0",
+        "kind": "product_attributes",
+        "label": "食品生产许可证编号",
+        "locator": "sheet2!L14/attr-0",
+        "text": "{\"食品生产许可证编号\": [\"SC11435052404694\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-1",
+        "kind": "product_attributes",
+        "label": "产品标准代码",
+        "locator": "sheet2!L14/attr-1",
+        "text": "{\"产品标准代码\": [\"GB/T 30357.2\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-2",
+        "kind": "product_attributes",
+        "label": "产地与包装",
+        "locator": "sheet2!L14/attr-2",
+        "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-3",
+        "kind": "product_attributes",
+        "label": "贮存条件",
+        "locator": "sheet2!L14/attr-3",
+        "text": "{\"贮存条件\": [\"冷冻存放、清洁、干燥、无异味、无污染\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-4",
+        "kind": "product_attributes",
+        "label": "配料表",
+        "locator": "sheet2!L14/attr-4",
+        "text": "{\"配料表\": [\"铁观音鲜叶\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-5",
+        "kind": "product_attributes",
+        "label": "生产企业名称",
+        "locator": "sheet2!L14/attr-5",
+        "text": "{\"生产企业名称\": [\"福建省安溪顺华韵农业综合发展有限公司\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-6",
+        "kind": "product_attributes",
+        "label": "品牌",
+        "locator": "sheet2!L14/attr-6",
+        "text": "{\"品牌\": [\"茶嫂当家 茶\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-7",
+        "kind": "product_attributes",
+        "label": "生产企业地址",
+        "locator": "sheet2!L14/attr-7",
+        "text": "{\"生产企业地址\": [\"福建省泉州市安溪县西坪镇松岩村瓦窑口29号\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-8",
+        "kind": "product_attributes",
+        "label": "是否地理标志品种",
+        "locator": "sheet2!L14/attr-8",
+        "text": "{\"是否地理标志品种\": [\"否\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-9",
+        "kind": "product_attributes",
+        "label": "单件净含量",
+        "locator": "sheet2!L14/attr-9",
+        "text": "{\"单件净含量\": [\"8g\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-10",
+        "kind": "product_attributes",
+        "label": "商品等级",
+        "locator": "sheet2!L14/attr-10",
+        "text": "{\"商品等级\": [\"特级\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-11",
+        "kind": "product_attributes",
+        "label": "地理标志品种",
+        "locator": "sheet2!L14/attr-11",
+        "text": "{\"地理标志品种\": [\"无\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-12",
+        "kind": "product_attributes",
+        "label": "产品名称",
+        "locator": "sheet2!L14/attr-12",
+        "text": "{\"产品名称\": [\"铁观音\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-13",
+        "kind": "product_attributes",
+        "label": "保质期",
+        "locator": "sheet2!L14/attr-13",
+        "text": "{\"保质期\": [\"18月\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-14",
+        "kind": "product_attributes",
+        "label": "净含量",
+        "locator": "sheet2!L14/attr-14",
+        "text": "{\"净含量\": [\"250g\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-15",
+        "kind": "product_attributes",
+        "label": "商品类型",
+        "locator": "sheet2!L14/attr-15",
+        "text": "{\"商品类型\": [\"铁观音\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "attr-16",
+        "kind": "product_attributes",
+        "label": "品质认证",
+        "locator": "sheet2!L14/attr-16",
+        "text": "{\"品质认证\": [\"无认证\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "specs",
+        "kind": "specification",
+        "label": "原始规格列表",
+        "locator": "sheet2!L14/specs",
+        "text": "{\"child_spec_seq\": [\"净重\"], \"spec_values_seq\": [[\"250g*1盒\", \"250g*2盒\", \"500g*1盒\"]]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "merchant"
+      },
+      {
+        "id": "copy-0",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-0",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"优质评价多\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-1",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-1",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"同款好评率97.5%\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-2",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L14/copy-2",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"耐泡，甘醇不涩口\", \"香气干净，入口清甜\", \"口感清香有回甘\", \"干茶遒劲馨香\", \"味道还不错，耐泡\", \"香气四溢，耐泡\", \"清香带有回甘\", \"入口醇香有回甘\", \"茶叶质量好，口味纯真\", \"茶色不错，口感很好\", \"茶汤金黄透亮\", \"长久耐泡，口感回香\", \"茶汤金黄，味道也不错\", \"香气扑鼻口味甘醇\", \"做工精细，口感香\", \"汤色纯正，不苦不涩\", \"口感甘醇，香气浓郁\", \"色泽鲜明、香味浓郁\", \"茶色透亮，甘醇可口\", \"入口顺滑，淡雅自然\", \"叶底肥厚，兰香浓郁\", \"新茶，耐泡度高\", \"香味足，很耐泡\", \"香气纯正，口有余香\", \"茶汤清澈透亮纯干\", \"茶汤清澈透黄\", \"茶汤清澈透亮\", \"品质很好，口感细腻\", \"口感醇厚细腻\", \"香味怡人，回味无穷\", \"茶叶香气浓郁，耐泡\", \"口感醇厚顺滑\", \"香味纯正，茶汤自然\", \"很香，很浓\", \"回甘利落，余韵悠长\", \"茶汤金黄透亮\", \"落口回甘，很值得拥有\", \"茶香十足，很满意\", \"入口绵柔，回甘持久\", \"品质优良，香气足\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-3",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-3",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-4",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L14/copy-4",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"达人短视频带过\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-5",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L14/copy-5",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-6",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L14/copy-6",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-7",
+        "kind": "marketing_copy",
+        "label": "店铺文描卖点",
+        "locator": "sheet2!L14/copy-7",
+        "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"茶道中人好店\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-8",
+        "kind": "marketing_copy",
+        "label": "达人交互关系卖点",
+        "locator": "sheet2!L14/copy-8",
+        "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"茶嫂当家（茶山直供）达人粉丝爱买\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-9",
+        "kind": "marketing_copy",
+        "label": "店铺文描卖点",
+        "locator": "sheet2!L14/copy-9",
+        "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"茶道中人\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-10",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L14/copy-10",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"千人加购\", \"千人加购\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-11",
+        "kind": "marketing_copy",
+        "label": "商品消费行为卖点",
+        "locator": "sheet2!L14/copy-11",
+        "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热搜度超99%同类品\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-12",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-12",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"同款有4千+人评价\\\"味道不错\\\"\", \"同款有3千+人评价\\\"茶叶很好\\\"\", \"同款有2千+人评价\\\"口感不错\\\"\", \"同款有2千+人评价\\\"香气浓郁\\\"\", \"同款有1千+人评价\\\"品质很好\\\"\", \"同款有192人评价\\\"品质好\\\"\", \"同款有1千+人评价\\\"茶汤清澈\\\"\", \"同款有109人评价\\\"味道很好\\\"\", \"同款有1千+人评价\\\"耐泡\\\"\", \"同款有1千+人评价\\\"回甘\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-13",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-13",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"98%好评\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-14",
+        "kind": "marketing_copy",
+        "label": "商品基础属性卖点",
+        "locator": "sheet2!L14/copy-14",
+        "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"味道不错\", \"茶叶很好\", \"口感不错\", \"香气浓郁\", \"品质很好\", \"茶汤清澈\", \"回甘\", \"耐泡\", \"包装完好\", \"描述相符\", \"味道不错\", \"茶叶很好\", \"口感不错\", \"香气浓郁\", \"品质很好\", \"茶汤清澈\", \"回甘\", \"耐泡\", \"包装完好\", \"描述相符\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "copy-15",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-15",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"冲天香，国色天香。茶如其名👍 口感清香，回甘持久。巨耐泡，物超所值！发货很快，店家服务很好，还会回购的。\", \"货已收到！回来就泡上了，闻杯盖香茶汤清澈。价格实惠！好评！\", \"购买一款冲天香还送国色天香一包确实不错好喝，而且价格合理，汤色纯正，不苦不涩，好喝，以后继续回购你家茶叶。有需要亲们可以可以赶紧下单哦！眼见为实，有图有真相。\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-16",
+        "kind": "buyer_review",
+        "label": "商品评价卖点",
+        "locator": "sheet2!L14/copy-16",
+        "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"334人说\\\"味道不错\\\"\", \"329人说\\\"茶叶很好\\\"\", \"230人说\\\"口感不错\\\"\", \"116人说\\\"香味浓郁\\\"\", \"134人说\\\"品质好\\\"\", \"99人说\\\"茶汤清澈\\\"\", \"90人说\\\"回甘\\\"\", \"84人说\\\"耐泡\\\"\", \"90人说\\\"冲天香\\\"\", \"90人说\\\"包装完好\\\"\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "copy-17",
+        "kind": "marketing_copy",
+        "label": "功能优点",
+        "locator": "sheet2!L14/copy-17",
+        "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"卷曲肥壮·饱满重实\", \"茶汤清亮·入口回甘\", \"叶底肥厚·饱满匀整\", \"茶汤层次感强\", \"充足的生长周期,内含物质更丰富\", \"色泽绿褐鲜润\", \"冲泡后汤色金黄明亮\", \"叶片红绿相间\", \"绿叶红镶边之美感\", \"独特兰花香韵\"]}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "review-0",
+        "kind": "buyer_review",
+        "label": "买家评价1",
+        "locator": "sheet2!L14/review-0",
+        "text": "这款茶叶真的超出预期！干茶条索完整干净，冲泡后香气浓郁不刺鼻，茶汤清亮通透，入口顺滑回甘明显，一点不苦涩。包装严实无破损，分量实在，性价比拉满，已经推荐给身边茶友，无限回购，五星好评！\n\n\n茶叶品质绝佳，香气持久，口感醇厚回甘，冲泡多次仍有滋味，包装精美，发货速度快，值得入手，满分五星！\n\n\n收到拆开就能闻到淡淡的茶香，干茶无碎渣，水温把控简单，第一泡香气就释放出来。茶汤口感温润，喝完喉间清甜，耐泡度很高，日常自饮、待客都合适，店家服务贴心，必须五星！\n\n\n\n茶叶包装大气上档次，拿来送礼特别有面子。茶叶本身品质在线，香气纯正，口感柔和不寡淡，礼盒完好无磕碰，物流也快，送人自留都优选，五星推荐！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-1",
+        "kind": "buyer_review",
+        "label": "买家评价2",
+        "locator": "sheet2!L14/review-1",
+        "text": "茶叶品质：入口第一感受是顺滑温润，几乎没有突兀的苦涩感，舌尖刚触到茶汤就泛起清甜，咽下去之后喉间的回甘慢慢铺展开来，从舌根漫到整个口腔，连喉咙都润润的 。它的香气藏在茶汤里不飘不浮，喝完许久唇齿间还留着淡淡的兰花香，真正做到了七泡有余香​，连喝七八道之后滋味依然在线，从浓醇到清甜层层递进，越品越有味道",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-2",
+        "kind": "buyer_review",
+        "label": "买家评价3",
+        "locator": "sheet2!L14/review-2",
+        "text": "6月8日会员日购买的茶叶还没安顿好，又趁着618搞活动，一下子买了这么多，并且都是2026的新茶，暂时还用不上，先放冰柜，到需要时取出自用或者送人！因为信任茶嫂当家，所以我会安心加购！还送了大师古法手工茶国色天香，等出去旅游时带出去和朋友一起品尝！谢谢",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-3",
+        "kind": "buyer_review",
+        "label": "买家评价4",
+        "locator": "sheet2!L14/review-3",
+        "text": "茶叶品质：品质挺好的！没有碎末，\n香气口感：一开始不懂以为冲天香是浓香型茶叶，收到后才知道冲天香属于清香型，在网上查的，慢慢细品感觉还不错，清香回甘！\n耐泡程度：一小包可以泡一天，反正够我喝的了！\n包装设计：金色包装大气上档次！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-4",
+        "kind": "buyer_review",
+        "label": "买家评价5",
+        "locator": "sheet2!L14/review-4",
+        "text": "从5月底到6月初的10天，连续在茶嫂家的直播间下单的冲天香到家了，还送了国色天香。就是一个字“香，香，香”，👍👍👍认识茶嫂太晚了，以前的铁观音都白喝了！以后就认定茶嫂家的“观音茶”！谢谢茶农，你们辛苦了！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-5",
+        "kind": "buyer_review",
+        "label": "买家评价6",
+        "locator": "sheet2!L14/review-5",
+        "text": "这个铁观音，干茶油润饱满，沸水冲泡香气满屋，茶汤温润绵滑，滋味饱满甘甜，回甘持久悠长。没有杂碎劣茶，耐泡度在线，饭后冲泡一杯解腻舒缓，口感均衡不刺激，不管自饮还是待客都合适，真心推荐爱喝茶的朋友入手。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-6",
+        "kind": "buyer_review",
+        "label": "买家评价7",
+        "locator": "sheet2!L14/review-6",
+        "text": "超赞！250g/包还送10小包国色天香！\n收到冲天香铁观音茶，赶紧冲了两泡，茶汤清亮，入口甘甜，回甘也久，入口顺滑！是最好的一次购茶体验。商家服务好！物流也快，超赞！以后购茶就认准茶嫂当家的了！",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-7",
+        "kind": "buyer_review",
+        "label": "买家评价8",
+        "locator": "sheet2!L14/review-7",
+        "text": "茶嫂家茶叶品质靠谱，干茶香气十足，沸水冲泡后茶香四溢，茶汤顺滑，入口清甜回甘。茶叶干净无碎渣，品饮体验很棒。商家活动诚意满满，服务周到。日常自饮非常合适，口粮茶优选，十分满意，后续会继续回购。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-8",
+        "kind": "buyer_review",
+        "label": "买家评价9",
+        "locator": "sheet2!L14/review-8",
+        "text": "一直都是喝他家的茶叶，喝了这么多年的茶叶还是他家的味道比较纯正，价格也是很贴心，叶底完整肥厚，满口芳香、韵味十足，可以冲泡6-7次水，总体来说这款性价比非常高，爱喝铁观音的朋友们可以试试这款。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "review-9",
+        "kind": "buyer_review",
+        "label": "买家评价10",
+        "locator": "sheet2!L14/review-9",
+        "text": "服务态度：一直都很好\n包装：完好\n描述相符：自从在茶嫂当家够买茶叶后，就再也不去第二家买过铁观音了，家里，宿舍，办公室里的铁观音都换成了茶嫂当家了\n物流速度：快\n性价比：性价比高\n发货速度：快",
+        "image_path": "",
+        "image_token": "",
+        "origin": "buyer"
+      },
+      {
+        "id": "ai-review-summary",
+        "kind": "ai_derived",
+        "label": "旧AI评价摘要",
+        "locator": "sheet2!L14/ai-review-summary",
+        "text": "不少买家认为这款铁观音茶叶的香气馥郁，冲泡后兰花香持久，茶汤金黄透亮，入口醇厚甘鲜，回甘迅速且持久。同时，茶叶的条索紧实，叶片厚实完整，耐泡度高。此外，其包装用心，密封性良好。",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "ai-category",
+        "kind": "ai_derived",
+        "label": "旧模型行业判断",
+        "locator": "sheet2!L14/ai-category",
+        "text": "{\"first_industry\": {\"industry_code\": \"1909\", \"industry_name\": \"家居建材\"}, \"second_industry\": {\"industry_code\": \"190931\", \"industry_name\": \"厨具\"}, \"third_industry\": {\"industry_code\": 19090702, \"industry_name\": \"水具\"}}",
+        "image_path": "",
+        "image_token": "",
+        "origin": "ai"
+      },
+      {
+        "id": "short-name",
+        "kind": "marketing_copy",
+        "label": "旧商品短名",
+        "locator": "sheet2!L14/short-name",
+        "text": "特级浓香冲天香铁观音",
+        "image_path": "",
+        "image_token": "",
+        "origin": "platform"
+      },
+      {
+        "id": "image-E",
+        "kind": "image",
+        "label": "商品图E",
+        "locator": "sheet2!E14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-E-0.jpg",
+        "image_token": "RXsZbX2hXoR2M0xPO1QcjIB6nQh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-F",
+        "kind": "image",
+        "label": "商品图F",
+        "locator": "sheet2!F14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-F-0.jpg",
+        "image_token": "H0mhbY6fboR2NoxaOd4cVlkBnCh",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-G",
+        "kind": "image",
+        "label": "商品图G",
+        "locator": "sheet2!G14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-G-0.jpg",
+        "image_token": "EiH1bIcTMoBcwWx0KnocAQyun4d",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-H",
+        "kind": "image",
+        "label": "商品图H",
+        "locator": "sheet2!H14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-H-0.jpg",
+        "image_token": "KNSZbPWURoFxVdxz8pncJk1Fnzg",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-I",
+        "kind": "image",
+        "label": "商品图I",
+        "locator": "sheet2!I14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-I-0.jpg",
+        "image_token": "DXi4b9AuqozVJcxit6jckq4ynte",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-J",
+        "kind": "image",
+        "label": "商品图J",
+        "locator": "sheet2!J14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-J-0.jpg",
+        "image_token": "GHSLbKLlPofEw1xBBARc2sJnnih",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-K",
+        "kind": "image",
+        "label": "商品图K",
+        "locator": "sheet2!K14:y=0..800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-K-0.jpg",
+        "image_token": "E4egbvU07oddQMxRAyNcncWnndP",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M",
+        "kind": "image",
+        "label": "商品详情长图 · 片段1",
+        "locator": "sheet2!M14:y=0..1800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-0.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-2",
+        "kind": "image",
+        "label": "商品详情长图 · 片段2",
+        "locator": "sheet2!M14:y=1800..3600",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-1.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-3",
+        "kind": "image",
+        "label": "商品详情长图 · 片段3",
+        "locator": "sheet2!M14:y=3600..5400",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-2.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-4",
+        "kind": "image",
+        "label": "商品详情长图 · 片段4",
+        "locator": "sheet2!M14:y=5400..7200",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-3.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-5",
+        "kind": "image",
+        "label": "商品详情长图 · 片段5",
+        "locator": "sheet2!M14:y=7200..9000",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-4.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-6",
+        "kind": "image",
+        "label": "商品详情长图 · 片段6",
+        "locator": "sheet2!M14:y=9000..10800",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-5.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-7",
+        "kind": "image",
+        "label": "商品详情长图 · 片段7",
+        "locator": "sheet2!M14:y=10800..12600",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-6.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      },
+      {
+        "id": "image-M-part-8",
+        "kind": "image",
+        "label": "商品详情长图 · 片段8",
+        "locator": "sheet2!M14:y=12600..13363",
+        "text": "",
+        "image_path": "data/assets/3823726720842858647/image-M-7.jpg",
+        "image_token": "VoH9bgq0KoasVixS3fPcfRLJnmf",
+        "origin": "merchant"
+      }
+    ]
+  },
+  "status": "complete",
+  "confirmation_mode": "用户明确授权统一批量生成，非逐条人工审核",
+  "started_at": "2026-10-28T09:59:11Z",
+  "profile": {
+    "product_info": {
+      "name": "茶嫂当家 冲天香 铁观音 2026新茶",
+      "category": "茶叶 > 乌龙茶（铁观音）",
+      "ingredients": [
+        "铁观音鲜叶",
+        "高山红心观音叶片"
+      ],
+      "attributes": [
+        "产品名称：铁观音",
+        "商品等级：特级",
+        "香型：浓香型",
+        "单件净含量：8g",
+        "净含量：250g",
+        "保质期：18个月",
+        "贮存条件：冷冻存放，清洁、干燥、无异味、无污染",
+        "产地：福建省泉州市（安溪西坪）",
+        "国产-预包装食品",
+        "食品生产许可证编号：SC11435052404694",
+        "产品标准代码：GB/T 30357.2",
+        "生产企业：福建省安溪顺华韵农业综合发展有限公司",
+        "生产企业地址：福建省泉州市安溪县西坪镇松岩村瓦窑口29号",
+        "品牌：茶嫂当家 茶",
+        "是否地理标志品种：否；地理标志品种：无",
+        "品质认证：无认证",
+        "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长"
+      ]
+    },
+    "specifications": [
+      {
+        "name": "250g*1盒",
+        "details": [
+          "单盒净含量250g，含8g小泡装",
+          "买半斤送10泡国色天香小泡"
+        ]
+      },
+      {
+        "name": "250g*2盒",
+        "details": [
+          "两盒装"
+        ]
+      },
+      {
+        "name": "500g*1盒",
+        "details": [
+          "一斤装",
+          "买一斤送20包国色天香小泡"
+        ]
+      }
+    ],
+    "original_selling_points": [
+      "安溪铁观音，干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，整体似蜻蜓头",
+      "茶汤清亮、入口回甘，茶汤层次感强，汤色金黄明亮，绿叶红镶边",
+      "叶底肥厚、饱满匀整",
+      "只采春秋正季茶青，充足生长周期，内含物质更丰富",
+      "寻味西坪·观音之源，源自铁观音发源地安溪西坪，核心产区高山茶园，红心观音好喝不好栽，纯种铁观音特征",
+      "独特兰花香韵：香气纯正、滋味厚重；绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久",
+      "茶师力作，摇出经典兰韵：红心观音叶肥厚，重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长，摇青叶厚度由薄到厚，第三、四次摇青必须摇到青味浓强、鲜叶硬挺，俗称“还田”，直至梗叶水分重新分布平衡",
+      "严格筛选：手工9道工序层层筛选，颗颗精挑细选，品质好茶；优中择优，每斤只严选3两",
+      "冲泡方法：投茶→洗茶→倒出→注水→静置→出汤，将茶水倒入杯中静观汤色、嗅茶香品茶",
+      "饮茶场景：商务会谈、好友相聚均可，茶是享受，不用刻意去懂，觉得好喝就行，喝茶是一件轻松、享受而健康的事情",
+      "购买赠送：买半斤送10泡国色天香小泡，买一斤送20包国色天香小泡",
+      "四重保障：到货可免费试喝5包（不满意包退）、安溪西坪原产地茶、赠运费险7天无理由退换（来回运费商家承担）、质检合格正品保证",
+      "六大服务保障：防破碎安全包装、假一赔四、品质服务保证、正规发票、一对一服务、七天无理由退换货",
+      "茶道中人好店，茶嫂当家（茶山直供）"
+    ],
+    "buyer_feedback": [
+      "正面关注口感与香气：味道不错、口感顺滑、醇厚回甘、清香不苦涩、兰花香持久，多次冲泡仍有滋味（七泡有余香）",
+      "正面关注耐泡度：一小包可泡一天，耐泡度高",
+      "正面关注茶叶干净度：干茶条索完整、无碎渣",
+      "正面关注包装：金色包装大气上档次，礼盒完好无磕碰，适合送礼；日常自饮、待客都合适",
+      "部分买家提到为2026新茶，需暂放冰柜冷藏",
+      "个人感受：有买家原以为冲天香是浓香型，收到细品为清香型回甘",
+      "个人感受：认为性价比高、价格实惠，多次回购并推荐"
+    ],
+    "cautions": [
+      "商品标题及详情标为“浓香型”，但买家评价提到实际口感偏清香型，香型存在描述与体验不一致，需待确认",
+      "商品名称/短名“特级浓香冲天香铁观音”与详情“浓香型”一致，但买家体验有清香描述，未擅自合并",
+      "图片显示买半斤送10包、买一斤送20包国色天香小泡，评价中也有“买一款冲天香还送国色天香一包”，赠品数量与规格对应需确认",
+      "“是否地理标志品种：否”与“地理标志品种：无”字段含义不同，不视为冲突，仅记录两个原始口径",
+      "旧模型行业判断为“家居建材/厨具/水具”，与商品实际类目“茶叶/乌龙茶”明显不符，仅作线索，不采用",
+      "旧AI评价摘要仅作线索，未作为确定属性依据",
+      "商品页出现“双11”“618”“会员日”等不同活动节点及价格“¥95起”，当前规格与活动价对应关系未明确",
+      "标题写“2026新茶”，详情写“生产日期：见包装”，具体生产日期以实物包装为准",
+      "买家评价提到收到赠送“大师古法手工茶国色天香”，赠品内容及工艺说明无独立商品资料支撑",
+      "包装形式：商品图为金色小泡装盒装，评价提到“250g/包”，存在“盒/包”表述差异，暂不判定冲突，按规格口径记录",
+      "品质认证为“无认证”，但图片宣传“质检合格、产品均通过严格检测”，认证与检测口径不同，未作为确定性认证卖点",
+      "商品详情长图逐段读取图片，但未提供营养成分表，配料仅能确认含红心观音叶片；包装文字仅见部分，未显示完整配料表",
+      "本批资料未提供买家评价，无法总结买家反馈",
+      "图片中标注“买半斤送10泡国色天香小泡、买一斤送20泡国色天香小泡”，但未说明赠品是否为同款、赠品数量与总装规格之间的对应关系，也未提供各规格单价或净含量等完整规格信息"
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3823726720842858647",
+      "material_revision": "dcfa22363d20185574dd56ac319522178ba6f96468c918e18db69d579ec030ec",
+      "sources": {
+        "茶嫂当家 冲天香 铁观音 2026新茶": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "茶叶 > 乌龙茶（铁观音）": {
+          "source_ids": [
+            "identity"
+          ],
+          "kind": "fact"
+        },
+        "铁观音鲜叶": {
+          "source_ids": [
+            "attr-4"
+          ],
+          "kind": "fact"
+        },
+        "高山红心观音叶片": {
+          "source_ids": [
+            "image-M-part-5"
+          ],
+          "kind": "fact"
+        },
+        "产品名称：铁观音": {
+          "source_ids": [
+            "attr-12"
+          ],
+          "kind": "fact"
+        },
+        "商品等级：特级": {
+          "source_ids": [
+            "attr-10"
+          ],
+          "kind": "fact"
+        },
+        "香型：浓香型": {
+          "source_ids": [
+            "identity",
+            "image-M-part-3",
+            "image-M-part-6"
+          ],
+          "kind": "fact"
+        },
+        "单件净含量：8g": {
+          "source_ids": [
+            "attr-9"
+          ],
+          "kind": "fact"
+        },
+        "净含量：250g": {
+          "source_ids": [
+            "attr-14"
+          ],
+          "kind": "fact"
+        },
+        "保质期：18个月": {
+          "source_ids": [
+            "attr-13",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "贮存条件：冷冻存放，清洁、干燥、无异味、无污染": {
+          "source_ids": [
+            "attr-3",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "产地：福建省泉州市（安溪西坪）": {
+          "source_ids": [
+            "attr-7",
+            "image-K",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "国产-预包装食品": {
+          "source_ids": [
+            "attr-2"
+          ],
+          "kind": "fact"
+        },
+        "食品生产许可证编号：SC11435052404694": {
+          "source_ids": [
+            "attr-0"
+          ],
+          "kind": "fact"
+        },
+        "产品标准代码：GB/T 30357.2": {
+          "source_ids": [
+            "attr-1"
+          ],
+          "kind": "fact"
+        },
+        "生产企业：福建省安溪顺华韵农业综合发展有限公司": {
+          "source_ids": [
+            "attr-5"
+          ],
+          "kind": "fact"
+        },
+        "生产企业地址：福建省泉州市安溪县西坪镇松岩村瓦窑口29号": {
+          "source_ids": [
+            "attr-7"
+          ],
+          "kind": "fact"
+        },
+        "品牌：茶嫂当家 茶": {
+          "source_ids": [
+            "attr-6"
+          ],
+          "kind": "fact"
+        },
+        "是否地理标志品种：否；地理标志品种：无": {
+          "source_ids": [
+            "attr-8",
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "品质认证：无认证": {
+          "source_ids": [
+            "attr-16"
+          ],
+          "kind": "fact"
+        },
+        "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长": {
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-4"
+          ],
+          "kind": "fact"
+        },
+        "250g*1盒": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "单盒净含量250g，含8g小泡装": {
+          "source_ids": [
+            "attr-9",
+            "attr-14",
+            "image-F"
+          ],
+          "kind": "fact"
+        },
+        "买半斤送10泡国色天香小泡": {
+          "source_ids": [
+            "image-J",
+            "image-M-part-7"
+          ],
+          "kind": "fact"
+        },
+        "250g*2盒": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "两盒装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "500g*1盒": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "一斤装": {
+          "source_ids": [
+            "specs"
+          ],
+          "kind": "fact"
+        },
+        "买一斤送20包国色天香小泡": {
+          "source_ids": [
+            "image-J",
+            "image-M-part-7"
+          ],
+          "kind": "fact"
+        },
+        "安溪铁观音，干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，整体似蜻蜓头": {
+          "source_ids": [
+            "image-E",
+            "image-F",
+            "copy-17",
+            "image-M-part-5"
+          ],
+          "kind": "description"
+        },
+        "茶汤清亮、入口回甘，茶汤层次感强，汤色金黄明亮，绿叶红镶边": {
+          "source_ids": [
+            "image-H",
+            "copy-17",
+            "image-M-part-5"
+          ],
+          "kind": "description"
+        },
+        "叶底肥厚、饱满匀整": {
+          "source_ids": [
+            "image-I",
+            "copy-17"
+          ],
+          "kind": "description"
+        },
+        "只采春秋正季茶青，充足生长周期，内含物质更丰富": {
+          "source_ids": [
+            "image-M-part-2",
+            "copy-17"
+          ],
+          "kind": "description"
+        },
+        "寻味西坪·观音之源，源自铁观音发源地安溪西坪，核心产区高山茶园，红心观音好喝不好栽，纯种铁观音特征": {
+          "source_ids": [
+            "image-M-part-2",
+            "image-M-part-3",
+            "image-K"
+          ],
+          "kind": "description"
+        },
+        "独特兰花香韵：香气纯正、滋味厚重；绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久": {
+          "source_ids": [
+            "copy-17",
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        "茶师力作，摇出经典兰韵：红心观音叶肥厚，重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长，摇青叶厚度由薄到厚，第三、四次摇青必须摇到青味浓强、鲜叶硬挺，俗称“还田”，直至梗叶水分重新分布平衡": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "严格筛选：手工9道工序层层筛选，颗颗精挑细选，品质好茶；优中择优，每斤只严选3两": {
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        "冲泡方法：投茶→洗茶→倒出→注水→静置→出汤，将茶水倒入杯中静观汤色、嗅茶香品茶": {
+          "source_ids": [
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        "饮茶场景：商务会谈、好友相聚均可，茶是享受，不用刻意去懂，觉得好喝就行，喝茶是一件轻松、享受而健康的事情": {
+          "source_ids": [
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        "购买赠送：买半斤送10泡国色天香小泡，买一斤送20包国色天香小泡": {
+          "source_ids": [
+            "image-J",
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        "四重保障：到货可免费试喝5包（不满意包退）、安溪西坪原产地茶、赠运费险7天无理由退换（来回运费商家承担）、质检合格正品保证": {
+          "source_ids": [
+            "image-K"
+          ],
+          "kind": "description"
+        },
+        "六大服务保障：防破碎安全包装、假一赔四、品质服务保证、正规发票、一对一服务、七天无理由退换货": {
+          "source_ids": [
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        "茶道中人好店，茶嫂当家（茶山直供）": {
+          "source_ids": [
+            "copy-7",
+            "copy-8"
+          ],
+          "kind": "description"
+        },
+        "正面关注口感与香气：味道不错、口感顺滑、醇厚回甘、清香不苦涩、兰花香持久，多次冲泡仍有滋味（七泡有余香）": {
+          "source_ids": [
+            "review-0",
+            "review-1",
+            "review-4",
+            "review-6",
+            "review-8"
+          ],
+          "kind": "feedback"
+        },
+        "正面关注耐泡度：一小包可泡一天，耐泡度高": {
+          "source_ids": [
+            "review-3",
+            "review-5",
+            "review-7"
+          ],
+          "kind": "feedback"
+        },
+        "正面关注茶叶干净度：干茶条索完整、无碎渣": {
+          "source_ids": [
+            "review-0",
+            "review-3",
+            "review-7"
+          ],
+          "kind": "feedback"
+        },
+        "正面关注包装：金色包装大气上档次，礼盒完好无磕碰，适合送礼；日常自饮、待客都合适": {
+          "source_ids": [
+            "review-0",
+            "review-3",
+            "review-5"
+          ],
+          "kind": "feedback"
+        },
+        "部分买家提到为2026新茶，需暂放冰柜冷藏": {
+          "source_ids": [
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：有买家原以为冲天香是浓香型，收到细品为清香型回甘": {
+          "source_ids": [
+            "review-3"
+          ],
+          "kind": "feedback"
+        },
+        "个人感受：认为性价比高、价格实惠，多次回购并推荐": {
+          "source_ids": [
+            "review-5",
+            "review-7",
+            "review-9"
+          ],
+          "kind": "feedback"
+        },
+        "商品标题及详情标为“浓香型”，但买家评价提到实际口感偏清香型，香型存在描述与体验不一致，需待确认": {
+          "source_ids": [
+            "identity",
+            "review-3"
+          ],
+          "kind": "fact"
+        },
+        "商品名称/短名“特级浓香冲天香铁观音”与详情“浓香型”一致，但买家体验有清香描述，未擅自合并": {
+          "source_ids": [
+            "short-name",
+            "review-3"
+          ],
+          "kind": "description"
+        },
+        "图片显示买半斤送10包、买一斤送20包国色天香小泡，评价中也有“买一款冲天香还送国色天香一包”，赠品数量与规格对应需确认": {
+          "source_ids": [
+            "image-J",
+            "copy-15",
+            "image-M-part-7"
+          ],
+          "kind": "fact"
+        },
+        "“是否地理标志品种：否”与“地理标志品种：无”字段含义不同，不视为冲突，仅记录两个原始口径": {
+          "source_ids": [
+            "attr-8",
+            "attr-11"
+          ],
+          "kind": "fact"
+        },
+        "商品页出现“双11”“618”“会员日”等不同活动节点及价格“¥95起”，当前规格与活动价对应关系未明确": {
+          "source_ids": [
+            "image-M",
+            "review-2"
+          ],
+          "kind": "fact"
+        },
+        "标题写“2026新茶”，详情写“生产日期：见包装”，具体生产日期以实物包装为准": {
+          "source_ids": [
+            "identity",
+            "image-M-part-3"
+          ],
+          "kind": "fact"
+        },
+        "买家评价提到收到赠送“大师古法手工茶国色天香”，赠品内容及工艺说明无独立商品资料支撑": {
+          "source_ids": [
+            "review-2"
+          ],
+          "kind": "feedback"
+        },
+        "包装形式：商品图为金色小泡装盒装，评价提到“250g/包”，存在“盒/包”表述差异，暂不判定冲突，按规格口径记录": {
+          "source_ids": [
+            "image-F",
+            "review-6"
+          ],
+          "kind": "fact"
+        },
+        "品质认证为“无认证”，但图片宣传“质检合格、产品均通过严格检测”，认证与检测口径不同，未作为确定性认证卖点": {
+          "source_ids": [
+            "attr-16",
+            "image-K"
+          ],
+          "kind": "fact"
+        },
+        "商品详情长图逐段读取图片，但未提供营养成分表，配料仅能确认含红心观音叶片；包装文字仅见部分，未显示完整配料表": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "fact"
+        },
+        "本批资料未提供买家评价，无法总结买家反馈": {
+          "source_ids": [
+            "image-M-part-4"
+          ],
+          "kind": "fact"
+        },
+        "图片中标注“买半斤送10泡国色天香小泡、买一斤送20泡国色天香小泡”，但未说明赠品是否为同款、赠品数量与总装规格之间的对应关系，也未提供各规格单价或净含量等完整规格信息": {
+          "source_ids": [
+            "image-M-part-7"
+          ],
+          "kind": "fact"
+        }
+      },
+      "batches": 2
+    }
+  },
+  "result": {
+    "selling_points": [
+      {
+        "text": "安溪西坪源产｜来自铁观音发源地安溪西坪的高山茶园，选用高山红心观音叶片，呈现纯种铁观音特征",
+        "priority": 1
+      },
+      {
+        "text": "重摇做青出兰韵｜红心观音叶肥厚，摇青共5~6次，摊置由短到长、摇青叶由薄到厚，第三四次摇到青味浓强、鲜叶硬挺的“还田”状态，直到梗叶水分重新分布平衡",
+        "priority": 2
+      },
+      {
+        "text": "手工9道工序｜采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干层层走完，每斤只严选3两，颗颗精挑细选",
+        "priority": 3
+      },
+      {
+        "text": "干茶紧结似蜻蜓头｜干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，条索完整、无碎渣",
+        "priority": 4
+      },
+      {
+        "text": "入口回甘有层次｜茶汤金黄明亮，入口回甘、层次感强，绿叶红镶边；兰香纯正、滋味厚重，绵甜甘醇，韵味久久不散",
+        "priority": 5
+      },
+      {
+        "text": "只采春秋正季茶青｜茶青生长周期充足，内含物质更丰富",
+        "priority": 6
+      },
+      {
+        "text": "8g小泡装好取用｜250g盒装内含8g小泡装，一次一泡，取茶不用称量，冲泡投茶更省事",
+        "priority": 7
+      },
+      {
+        "text": "耐泡有余香｜有买家反馈一小包能泡上一天，多次冲泡仍有滋味，七泡有余香",
+        "priority": 8
+      },
+      {
+        "text": "金色礼盒待客送礼｜有买家反馈金色包装大气，礼盒完好无磕碰，适合送礼；日常自饮、待客也合适，商务会谈、好友相聚都能泡上一壶",
+        "priority": 9
+      },
+      {
+        "text": "冲泡步骤清晰｜投茶、洗茶、倒出、注水、静置、出汤，把茶汤倒入杯中，观汤色、嗅茶香、慢品即可",
+        "priority": 10
+      },
+      {
+        "text": "下单有赠饮｜选250g*1盒送10泡国色天香小泡，选500g*1盒送20包国色天香小泡",
+        "priority": 11
+      },
+      {
+        "text": "售后有保障｜到货可先免费试喝5包，不满意包退；赠运费险，7天无理由退换，来回运费商家承担",
+        "priority": 12
+      }
+    ],
+    "_meta": {
+      "contract_version": 2,
+      "product_id": "3823726720842858647",
+      "material_revision": "dcfa22363d20185574dd56ac319522178ba6f96468c918e18db69d579ec030ec",
+      "knowledge_revision": "bb940498257e1125ef09a6143fe723091020704750a3b6d94461d26a3e3362f8",
+      "support": [
+        {
+          "basis": [
+            "高山红心观音叶片",
+            "产地：福建省泉州市（安溪西坪）",
+            "寻味西坪·观音之源，源自铁观音发源地安溪西坪，核心产区高山茶园，红心观音好喝不好栽，纯种铁观音特征"
+          ],
+          "source_ids": [
+            "image-M-part-5",
+            "attr-7",
+            "image-K",
+            "image-M-part-3",
+            "image-M-part-2"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长",
+            "茶师力作，摇出经典兰韵：红心观音叶肥厚，重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长，摇青叶厚度由薄到厚，第三、四次摇青必须摇到青味浓强、鲜叶硬挺，俗称“还田”，直至梗叶水分重新分布平衡"
+          ],
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长",
+            "严格筛选：手工9道工序层层筛选，颗颗精挑细选，品质好茶；优中择优，每斤只严选3两"
+          ],
+          "source_ids": [
+            "image-M-part-5",
+            "image-M-part-4"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "安溪铁观音，干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，整体似蜻蜓头",
+            "正面关注茶叶干净度：干茶条索完整、无碎渣"
+          ],
+          "source_ids": [
+            "image-E",
+            "image-F",
+            "copy-17",
+            "image-M-part-5",
+            "review-0",
+            "review-3",
+            "review-7"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "茶汤清亮、入口回甘，茶汤层次感强，汤色金黄明亮，绿叶红镶边",
+            "独特兰花香韵：香气纯正、滋味厚重；绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久"
+          ],
+          "source_ids": [
+            "image-H",
+            "copy-17",
+            "image-M-part-5",
+            "image-M-part-6"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "只采春秋正季茶青，充足生长周期，内含物质更丰富"
+          ],
+          "source_ids": [
+            "image-M-part-2",
+            "copy-17"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "单件净含量：8g",
+            "单盒净含量250g，含8g小泡装"
+          ],
+          "source_ids": [
+            "attr-9",
+            "attr-14",
+            "image-F"
+          ],
+          "kind": "fact"
+        },
+        {
+          "basis": [
+            "正面关注口感与香气：味道不错、口感顺滑、醇厚回甘、清香不苦涩、兰花香持久，多次冲泡仍有滋味（七泡有余香）",
+            "正面关注耐泡度：一小包可泡一天，耐泡度高"
+          ],
+          "source_ids": [
+            "review-0",
+            "review-1",
+            "review-4",
+            "review-6",
+            "review-8",
+            "review-3",
+            "review-5",
+            "review-7"
+          ],
+          "kind": "feedback"
+        },
+        {
+          "basis": [
+            "饮茶场景：商务会谈、好友相聚均可，茶是享受，不用刻意去懂，觉得好喝就行，喝茶是一件轻松、享受而健康的事情",
+            "正面关注包装：金色包装大气上档次，礼盒完好无磕碰，适合送礼；日常自饮、待客都合适"
+          ],
+          "source_ids": [
+            "image-M-part-6",
+            "review-0",
+            "review-3",
+            "review-5"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "冲泡方法：投茶→洗茶→倒出→注水→静置→出汤，将茶水倒入杯中静观汤色、嗅茶香品茶"
+          ],
+          "source_ids": [
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "买半斤送10泡国色天香小泡",
+            "买一斤送20包国色天香小泡",
+            "购买赠送：买半斤送10泡国色天香小泡，买一斤送20包国色天香小泡"
+          ],
+          "source_ids": [
+            "image-J",
+            "image-M-part-7"
+          ],
+          "kind": "description"
+        },
+        {
+          "basis": [
+            "四重保障：到货可免费试喝5包（不满意包退）、安溪西坪原产地茶、赠运费险7天无理由退换（来回运费商家承担）、质检合格正品保证"
+          ],
+          "source_ids": [
+            "image-K"
+          ],
+          "kind": "description"
+        }
+      ],
+      "target_specifications": []
+    }
+  },
+  "profile_history": [
+    {
+      "version": 1,
+      "revision": "bb940498257e1125ef09a6143fe723091020704750a3b6d94461d26a3e3362f8",
+      "origin": "agent",
+      "created_at": "2026-10-28T09:59:40.870967+00:00",
+      "profile": {
+        "product_info": {
+          "name": "茶嫂当家 冲天香 铁观音 2026新茶",
+          "category": "茶叶 > 乌龙茶（铁观音）",
+          "ingredients": [
+            "铁观音鲜叶",
+            "高山红心观音叶片"
+          ],
+          "attributes": [
+            "产品名称：铁观音",
+            "商品等级：特级",
+            "香型：浓香型",
+            "单件净含量：8g",
+            "净含量：250g",
+            "保质期：18个月",
+            "贮存条件：冷冻存放，清洁、干燥、无异味、无污染",
+            "产地：福建省泉州市（安溪西坪）",
+            "国产-预包装食品",
+            "食品生产许可证编号：SC11435052404694",
+            "产品标准代码：GB/T 30357.2",
+            "生产企业：福建省安溪顺华韵农业综合发展有限公司",
+            "生产企业地址：福建省泉州市安溪县西坪镇松岩村瓦窑口29号",
+            "品牌：茶嫂当家 茶",
+            "是否地理标志品种：否；地理标志品种：无",
+            "品质认证：无认证",
+            "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长"
+          ]
+        },
+        "specifications": [
+          {
+            "name": "250g*1盒",
+            "details": [
+              "单盒净含量250g，含8g小泡装",
+              "买半斤送10泡国色天香小泡"
+            ]
+          },
+          {
+            "name": "250g*2盒",
+            "details": [
+              "两盒装"
+            ]
+          },
+          {
+            "name": "500g*1盒",
+            "details": [
+              "一斤装",
+              "买一斤送20包国色天香小泡"
+            ]
+          }
+        ],
+        "original_selling_points": [
+          "安溪铁观音，干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，整体似蜻蜓头",
+          "茶汤清亮、入口回甘，茶汤层次感强，汤色金黄明亮，绿叶红镶边",
+          "叶底肥厚、饱满匀整",
+          "只采春秋正季茶青，充足生长周期，内含物质更丰富",
+          "寻味西坪·观音之源，源自铁观音发源地安溪西坪，核心产区高山茶园，红心观音好喝不好栽，纯种铁观音特征",
+          "独特兰花香韵：香气纯正、滋味厚重；绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久",
+          "茶师力作，摇出经典兰韵：红心观音叶肥厚，重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长，摇青叶厚度由薄到厚，第三、四次摇青必须摇到青味浓强、鲜叶硬挺，俗称“还田”，直至梗叶水分重新分布平衡",
+          "严格筛选：手工9道工序层层筛选，颗颗精挑细选，品质好茶；优中择优，每斤只严选3两",
+          "冲泡方法：投茶→洗茶→倒出→注水→静置→出汤，将茶水倒入杯中静观汤色、嗅茶香品茶",
+          "饮茶场景：商务会谈、好友相聚均可，茶是享受，不用刻意去懂，觉得好喝就行，喝茶是一件轻松、享受而健康的事情",
+          "购买赠送：买半斤送10泡国色天香小泡，买一斤送20包国色天香小泡",
+          "四重保障：到货可免费试喝5包（不满意包退）、安溪西坪原产地茶、赠运费险7天无理由退换（来回运费商家承担）、质检合格正品保证",
+          "六大服务保障：防破碎安全包装、假一赔四、品质服务保证、正规发票、一对一服务、七天无理由退换货",
+          "茶道中人好店，茶嫂当家（茶山直供）"
+        ],
+        "buyer_feedback": [
+          "正面关注口感与香气：味道不错、口感顺滑、醇厚回甘、清香不苦涩、兰花香持久，多次冲泡仍有滋味（七泡有余香）",
+          "正面关注耐泡度：一小包可泡一天，耐泡度高",
+          "正面关注茶叶干净度：干茶条索完整、无碎渣",
+          "正面关注包装：金色包装大气上档次，礼盒完好无磕碰，适合送礼；日常自饮、待客都合适",
+          "部分买家提到为2026新茶，需暂放冰柜冷藏",
+          "个人感受：有买家原以为冲天香是浓香型，收到细品为清香型回甘",
+          "个人感受：认为性价比高、价格实惠，多次回购并推荐"
+        ],
+        "cautions": [
+          "商品标题及详情标为“浓香型”，但买家评价提到实际口感偏清香型，香型存在描述与体验不一致，需待确认",
+          "商品名称/短名“特级浓香冲天香铁观音”与详情“浓香型”一致，但买家体验有清香描述，未擅自合并",
+          "图片显示买半斤送10包、买一斤送20包国色天香小泡，评价中也有“买一款冲天香还送国色天香一包”，赠品数量与规格对应需确认",
+          "“是否地理标志品种：否”与“地理标志品种：无”字段含义不同，不视为冲突，仅记录两个原始口径",
+          "旧模型行业判断为“家居建材/厨具/水具”，与商品实际类目“茶叶/乌龙茶”明显不符，仅作线索，不采用",
+          "旧AI评价摘要仅作线索，未作为确定属性依据",
+          "商品页出现“双11”“618”“会员日”等不同活动节点及价格“¥95起”，当前规格与活动价对应关系未明确",
+          "标题写“2026新茶”，详情写“生产日期：见包装”，具体生产日期以实物包装为准",
+          "买家评价提到收到赠送“大师古法手工茶国色天香”，赠品内容及工艺说明无独立商品资料支撑",
+          "包装形式：商品图为金色小泡装盒装，评价提到“250g/包”，存在“盒/包”表述差异，暂不判定冲突，按规格口径记录",
+          "品质认证为“无认证”，但图片宣传“质检合格、产品均通过严格检测”，认证与检测口径不同，未作为确定性认证卖点",
+          "商品详情长图逐段读取图片，但未提供营养成分表，配料仅能确认含红心观音叶片；包装文字仅见部分，未显示完整配料表",
+          "本批资料未提供买家评价，无法总结买家反馈",
+          "图片中标注“买半斤送10泡国色天香小泡、买一斤送20泡国色天香小泡”，但未说明赠品是否为同款、赠品数量与总装规格之间的对应关系，也未提供各规格单价或净含量等完整规格信息"
+        ],
+        "_meta": {
+          "contract_version": 2,
+          "product_id": "3823726720842858647",
+          "material_revision": "dcfa22363d20185574dd56ac319522178ba6f96468c918e18db69d579ec030ec",
+          "sources": {
+            "茶嫂当家 冲天香 铁观音 2026新茶": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "茶叶 > 乌龙茶（铁观音）": {
+              "source_ids": [
+                "identity"
+              ],
+              "kind": "fact"
+            },
+            "铁观音鲜叶": {
+              "source_ids": [
+                "attr-4"
+              ],
+              "kind": "fact"
+            },
+            "高山红心观音叶片": {
+              "source_ids": [
+                "image-M-part-5"
+              ],
+              "kind": "fact"
+            },
+            "产品名称：铁观音": {
+              "source_ids": [
+                "attr-12"
+              ],
+              "kind": "fact"
+            },
+            "商品等级：特级": {
+              "source_ids": [
+                "attr-10"
+              ],
+              "kind": "fact"
+            },
+            "香型：浓香型": {
+              "source_ids": [
+                "identity",
+                "image-M-part-3",
+                "image-M-part-6"
+              ],
+              "kind": "fact"
+            },
+            "单件净含量：8g": {
+              "source_ids": [
+                "attr-9"
+              ],
+              "kind": "fact"
+            },
+            "净含量：250g": {
+              "source_ids": [
+                "attr-14"
+              ],
+              "kind": "fact"
+            },
+            "保质期：18个月": {
+              "source_ids": [
+                "attr-13",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "贮存条件：冷冻存放，清洁、干燥、无异味、无污染": {
+              "source_ids": [
+                "attr-3",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "产地：福建省泉州市（安溪西坪）": {
+              "source_ids": [
+                "attr-7",
+                "image-K",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "国产-预包装食品": {
+              "source_ids": [
+                "attr-2"
+              ],
+              "kind": "fact"
+            },
+            "食品生产许可证编号：SC11435052404694": {
+              "source_ids": [
+                "attr-0"
+              ],
+              "kind": "fact"
+            },
+            "产品标准代码：GB/T 30357.2": {
+              "source_ids": [
+                "attr-1"
+              ],
+              "kind": "fact"
+            },
+            "生产企业：福建省安溪顺华韵农业综合发展有限公司": {
+              "source_ids": [
+                "attr-5"
+              ],
+              "kind": "fact"
+            },
+            "生产企业地址：福建省泉州市安溪县西坪镇松岩村瓦窑口29号": {
+              "source_ids": [
+                "attr-7"
+              ],
+              "kind": "fact"
+            },
+            "品牌：茶嫂当家 茶": {
+              "source_ids": [
+                "attr-6"
+              ],
+              "kind": "fact"
+            },
+            "是否地理标志品种：否；地理标志品种：无": {
+              "source_ids": [
+                "attr-8",
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "品质认证：无认证": {
+              "source_ids": [
+                "attr-16"
+              ],
+              "kind": "fact"
+            },
+            "工艺：手工9道工序（采青、晒青、晾青、摇青、炒青、揉捻、初培、烘干），重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长": {
+              "source_ids": [
+                "image-M-part-5",
+                "image-M-part-4"
+              ],
+              "kind": "fact"
+            },
+            "250g*1盒": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "单盒净含量250g，含8g小泡装": {
+              "source_ids": [
+                "attr-9",
+                "attr-14",
+                "image-F"
+              ],
+              "kind": "fact"
+            },
+            "买半斤送10泡国色天香小泡": {
+              "source_ids": [
+                "image-J",
+                "image-M-part-7"
+              ],
+              "kind": "fact"
+            },
+            "250g*2盒": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "两盒装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "500g*1盒": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "一斤装": {
+              "source_ids": [
+                "specs"
+              ],
+              "kind": "fact"
+            },
+            "买一斤送20包国色天香小泡": {
+              "source_ids": [
+                "image-J",
+                "image-M-part-7"
+              ],
+              "kind": "fact"
+            },
+            "安溪铁观音，干茶卷曲肥壮、饱满重实，色泽绿褐鲜润，整体似蜻蜓头": {
+              "source_ids": [
+                "image-E",
+                "image-F",
+                "copy-17",
+                "image-M-part-5"
+              ],
+              "kind": "description"
+            },
+            "茶汤清亮、入口回甘，茶汤层次感强，汤色金黄明亮，绿叶红镶边": {
+              "source_ids": [
+                "image-H",
+                "copy-17",
+                "image-M-part-5"
+              ],
+              "kind": "description"
+            },
+            "叶底肥厚、饱满匀整": {
+              "source_ids": [
+                "image-I",
+                "copy-17"
+              ],
+              "kind": "description"
+            },
+            "只采春秋正季茶青，充足生长周期，内含物质更丰富": {
+              "source_ids": [
+                "image-M-part-2",
+                "copy-17"
+              ],
+              "kind": "description"
+            },
+            "寻味西坪·观音之源，源自铁观音发源地安溪西坪，核心产区高山茶园，红心观音好喝不好栽，纯种铁观音特征": {
+              "source_ids": [
+                "image-M-part-2",
+                "image-M-part-3",
+                "image-K"
+              ],
+              "kind": "description"
+            },
+            "独特兰花香韵：香气纯正、滋味厚重；绵甜甘醇，兰香凝韵，后知后觉的韵味，令人回味许久": {
+              "source_ids": [
+                "copy-17",
+                "image-M-part-6"
+              ],
+              "kind": "description"
+            },
+            "茶师力作，摇出经典兰韵：红心观音叶肥厚，重摇并延长做青时间，摇青共5~6次，摇青后摊置时长由短到长，摇青叶厚度由薄到厚，第三、四次摇青必须摇到青味浓强、鲜叶硬挺，俗称“还田”，直至梗叶水分重新分布平衡": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "严格筛选：手工9道工序层层筛选，颗颗精挑细选，品质好茶；优中择优，每斤只严选3两": {
+              "source_ids": [
+                "image-M-part-5",
+                "image-M-part-4"
+              ],
+              "kind": "description"
+            },
+            "冲泡方法：投茶→洗茶→倒出→注水→静置→出汤，将茶水倒入杯中静观汤色、嗅茶香品茶": {
+              "source_ids": [
+                "image-M-part-7"
+              ],
+              "kind": "description"
+            },
+            "饮茶场景：商务会谈、好友相聚均可，茶是享受，不用刻意去懂，觉得好喝就行，喝茶是一件轻松、享受而健康的事情": {
+              "source_ids": [
+                "image-M-part-6"
+              ],
+              "kind": "description"
+            },
+            "购买赠送：买半斤送10泡国色天香小泡，买一斤送20包国色天香小泡": {
+              "source_ids": [
+                "image-J",
+                "image-M-part-7"
+              ],
+              "kind": "description"
+            },
+            "四重保障：到货可免费试喝5包（不满意包退）、安溪西坪原产地茶、赠运费险7天无理由退换（来回运费商家承担）、质检合格正品保证": {
+              "source_ids": [
+                "image-K"
+              ],
+              "kind": "description"
+            },
+            "六大服务保障：防破碎安全包装、假一赔四、品质服务保证、正规发票、一对一服务、七天无理由退换货": {
+              "source_ids": [
+                "image-M-part-7"
+              ],
+              "kind": "description"
+            },
+            "茶道中人好店，茶嫂当家（茶山直供）": {
+              "source_ids": [
+                "copy-7",
+                "copy-8"
+              ],
+              "kind": "description"
+            },
+            "正面关注口感与香气：味道不错、口感顺滑、醇厚回甘、清香不苦涩、兰花香持久，多次冲泡仍有滋味（七泡有余香）": {
+              "source_ids": [
+                "review-0",
+                "review-1",
+                "review-4",
+                "review-6",
+                "review-8"
+              ],
+              "kind": "feedback"
+            },
+            "正面关注耐泡度：一小包可泡一天，耐泡度高": {
+              "source_ids": [
+                "review-3",
+                "review-5",
+                "review-7"
+              ],
+              "kind": "feedback"
+            },
+            "正面关注茶叶干净度：干茶条索完整、无碎渣": {
+              "source_ids": [
+                "review-0",
+                "review-3",
+                "review-7"
+              ],
+              "kind": "feedback"
+            },
+            "正面关注包装：金色包装大气上档次，礼盒完好无磕碰，适合送礼；日常自饮、待客都合适": {
+              "source_ids": [
+                "review-0",
+                "review-3",
+                "review-5"
+              ],
+              "kind": "feedback"
+            },
+            "部分买家提到为2026新茶，需暂放冰柜冷藏": {
+              "source_ids": [
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：有买家原以为冲天香是浓香型，收到细品为清香型回甘": {
+              "source_ids": [
+                "review-3"
+              ],
+              "kind": "feedback"
+            },
+            "个人感受：认为性价比高、价格实惠，多次回购并推荐": {
+              "source_ids": [
+                "review-5",
+                "review-7",
+                "review-9"
+              ],
+              "kind": "feedback"
+            },
+            "商品标题及详情标为“浓香型”，但买家评价提到实际口感偏清香型，香型存在描述与体验不一致，需待确认": {
+              "source_ids": [
+                "identity",
+                "review-3"
+              ],
+              "kind": "fact"
+            },
+            "商品名称/短名“特级浓香冲天香铁观音”与详情“浓香型”一致，但买家体验有清香描述，未擅自合并": {
+              "source_ids": [
+                "short-name",
+                "review-3"
+              ],
+              "kind": "description"
+            },
+            "图片显示买半斤送10包、买一斤送20包国色天香小泡，评价中也有“买一款冲天香还送国色天香一包”，赠品数量与规格对应需确认": {
+              "source_ids": [
+                "image-J",
+                "copy-15",
+                "image-M-part-7"
+              ],
+              "kind": "fact"
+            },
+            "“是否地理标志品种：否”与“地理标志品种：无”字段含义不同，不视为冲突，仅记录两个原始口径": {
+              "source_ids": [
+                "attr-8",
+                "attr-11"
+              ],
+              "kind": "fact"
+            },
+            "商品页出现“双11”“618”“会员日”等不同活动节点及价格“¥95起”，当前规格与活动价对应关系未明确": {
+              "source_ids": [
+                "image-M",
+                "review-2"
+              ],
+              "kind": "fact"
+            },
+            "标题写“2026新茶”，详情写“生产日期：见包装”，具体生产日期以实物包装为准": {
+              "source_ids": [
+                "identity",
+                "image-M-part-3"
+              ],
+              "kind": "fact"
+            },
+            "买家评价提到收到赠送“大师古法手工茶国色天香”，赠品内容及工艺说明无独立商品资料支撑": {
+              "source_ids": [
+                "review-2"
+              ],
+              "kind": "feedback"
+            },
+            "包装形式：商品图为金色小泡装盒装，评价提到“250g/包”，存在“盒/包”表述差异，暂不判定冲突，按规格口径记录": {
+              "source_ids": [
+                "image-F",
+                "review-6"
+              ],
+              "kind": "fact"
+            },
+            "品质认证为“无认证”，但图片宣传“质检合格、产品均通过严格检测”，认证与检测口径不同，未作为确定性认证卖点": {
+              "source_ids": [
+                "attr-16",
+                "image-K"
+              ],
+              "kind": "fact"
+            },
+            "商品详情长图逐段读取图片，但未提供营养成分表，配料仅能确认含红心观音叶片；包装文字仅见部分，未显示完整配料表": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "fact"
+            },
+            "本批资料未提供买家评价，无法总结买家反馈": {
+              "source_ids": [
+                "image-M-part-4"
+              ],
+              "kind": "fact"
+            },
+            "图片中标注“买半斤送10泡国色天香小泡、买一斤送20泡国色天香小泡”，但未说明赠品是否为同款、赠品数量与总装规格之间的对应关系，也未提供各规格单价或净含量等完整规格信息": {
+              "source_ids": [
+                "image-M-part-7"
+              ],
+              "kind": "fact"
+            }
+          },
+          "batches": 2
+        }
+      },
+      "confirmed_at": "2026-10-28T09:59:40.875467+00:00"
+    }
+  ],
+  "elapsed_seconds": 36.7,
+  "trace": []
+}

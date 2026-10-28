@@ -1,0 +1,182 @@
+{
+  "run_date": "2026-10-28",
+  "product_count": 14,
+  "point_count": 132,
+  "accuracy_counts": {
+    "supported": 542,
+    "contradicted": 2,
+    "insufficient": 263
+  },
+  "human_evaluation": "not_rated",
+  "software_tests": 88,
+  "samples": [
+    {
+      "product_id": "3825952452159603168",
+      "name": "矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心",
+      "status": "complete",
+      "point_count": 6,
+      "elapsed_seconds": 38.3,
+      "accuracy": {
+        "supported": 50,
+        "contradicted": 0,
+        "insufficient": 15
+      }
+    },
+    {
+      "product_id": "3790885783632740691",
+      "name": "【到手3条】徽渔桂臭鳜鱼带包装0.6-1斤/条安徽特产正宗三去臭桂鱼",
+      "status": "complete",
+      "point_count": 10,
+      "elapsed_seconds": 41.8,
+      "accuracy": {
+        "supported": 17,
+        "contradicted": 0,
+        "insufficient": 25
+      }
+    },
+    {
+      "product_id": "3763095539286147186",
+      "name": "【拍一发8袋】清真鲜牛肉羊肉蒸煮煎炸水饺皮薄馅大夜宵早餐面点",
+      "status": "complete",
+      "point_count": 8,
+      "elapsed_seconds": 40.8,
+      "accuracy": {
+        "supported": 38,
+        "contradicted": 1,
+        "insufficient": 22
+      }
+    },
+    {
+      "product_id": "3700339768698208495",
+      "name": "【纯手工现做现发】江西特产鲜虾饼虾巴花生巴香酥脆休闲零食解馋",
+      "status": "complete",
+      "point_count": 9,
+      "elapsed_seconds": 20.0,
+      "accuracy": {
+        "supported": 49,
+        "contradicted": 0,
+        "insufficient": 29
+      }
+    },
+    {
+      "product_id": "3645981724996963935",
+      "name": "【618超值购85袋赠2袋试吃】烧仙草免煮白凉粉双皮奶果冻小零食饮料",
+      "status": "complete",
+      "point_count": 10,
+      "elapsed_seconds": 19.0,
+      "accuracy": {
+        "supported": 41,
+        "contradicted": 0,
+        "insufficient": 27
+      }
+    },
+    {
+      "product_id": "3651744482107512728",
+      "name": "拾兄弟东北黑米当季新米优质黑大米粗粮米饭五谷杂粮粥饭健康",
+      "status": "complete",
+      "point_count": 13,
+      "elapsed_seconds": 28.8,
+      "accuracy": {
+        "supported": 40,
+        "contradicted": 0,
+        "insufficient": 21
+      }
+    },
+    {
+      "product_id": "3691449360224223435",
+      "name": "【焕新季·暑期大促】云南白背毛木耳丝干货免切 螺蛳粉炒菜火锅凉拌",
+      "status": "complete",
+      "point_count": 8,
+      "elapsed_seconds": 24.9,
+      "accuracy": {
+        "supported": 22,
+        "contradicted": 0,
+        "insufficient": 27
+      }
+    },
+    {
+      "product_id": "3798810219644059864",
+      "name": "羽晨妈妈新鲜墨鱼仔鲜甜脆嫩足斤足两去皮去脏乌贼火锅烧烤食材",
+      "status": "complete",
+      "point_count": 8,
+      "elapsed_seconds": 26.6,
+      "accuracy": {
+        "supported": 47,
+        "contradicted": 0,
+        "insufficient": 7
+      }
+    },
+    {
+      "product_id": "3734999074340995521",
+      "name": "拾兄弟正宗5斤东北大碴粥大碴子粥芸豆玉米碴五谷杂粮健康粗粮",
+      "status": "complete",
+      "point_count": 10,
+      "elapsed_seconds": 26.8,
+      "accuracy": {
+        "supported": 34,
+        "contradicted": 0,
+        "insufficient": 18
+      }
+    },
+    {
+      "product_id": "3827273478864765310",
+      "name": "益生元枇杷山楂糕鲜果打浆酸甜软糯大人小孩健康营养解馋小零食",
+      "status": "complete",
+      "point_count": 7,
+      "elapsed_seconds": 20.3,
+      "accuracy": {
+        "supported": 29,
+        "contradicted": 0,
+        "insufficient": 15
+      }
+    },
+    {
+      "product_id": "3784624034847785001",
+      "name": "渝烧白【3碗老字号】手工制作五花肉烧白扣肉夹沙扣肉粉蒸扣肉",
+      "status": "complete",
+      "point_count": 12,
+      "elapsed_seconds": 41.7,
+      "accuracy": {
+        "supported": 59,
+        "contradicted": 1,
+        "insufficient": 20
+      }
+    },
+    {
+      "product_id": "3812950621942841566",
+      "name": "曲奇四重奏蝴蝶酥香港进口曲奇下午茶糕点礼盒零食饼干伴手礼七夕",
+      "status": "complete",
+      "point_count": 13,
+      "elapsed_seconds": 35.2,
+      "accuracy": {
+        "supported": 38,
+        "contradicted": 0,
+        "insufficient": 11
+      }
+    },
+    {
+      "product_id": "3823726720842858647",
+      "name": "茶嫂当家冲天香铁观音2026新茶正宗安溪铁观音新款茶叶浓香型茶叶",
+      "status": "complete",
+      "point_count": 12,
+      "elapsed_seconds": 36.7,
+      "accuracy": {
+        "supported": 50,
+        "contradicted": 0,
+        "insufficient": 12
+      }
+    },
+    {
+      "product_id": "3830421054380179802",
+      "name": "椰谷燃燃椰左旋肉碱椰子水健身代餐鲜椰水官方正品580g*8瓶",
+      "status": "complete",
+      "point_count": 6,
+      "elapsed_seconds": 11.4,
+      "accuracy": {
+        "supported": 28,
+        "contradicted": 0,
+        "insufficient": 14
+      }
+    }
+  ]
+}

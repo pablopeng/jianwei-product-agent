@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "product_id": "3812950621942841566",
+  "display_name": "曲奇四重奏蝴蝶酥香港进口曲奇下午茶糕点礼盒零食饼干伴手礼七夕",
+  "materials": [
+    {
+      "id": "identity",
+      "kind": "product_attributes",
+      "label": "商品名与原始类目",
+      "locator": "sheet2!L13/identity",
+      "text": "{\"product_name\": \"曲奇四重奏蝴蝶酥香港进口曲奇下午茶糕点礼盒零食饼干伴手礼七夕\", \"product_category\": {\"first_category\": {\"category_name\": \"休闲食品\", \"category_code\": 1000000724}, \"second_category\": {\"category_name\": \"糕点/点心\", \"category_code\": 1000000730}, \"third_category\": {\"category_name\": \"蝴蝶酥\", \"category_code\": 1000000804}}, \"brand_name\": \"\"}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-0",
+      "kind": "product_attributes",
+      "label": "品牌",
+      "locator": "sheet2!L13/attr-0",
+      "text": "{\"品牌\": [\"COOKIES\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-1",
+      "kind": "product_attributes",
+      "label": "配料表",
+      "locator": "sheet2!L13/attr-1",
+      "text": "{\"配料表\": [\"请置于阴凉干燥处密封保存,避免潮湿/阳光直射环境及高温,拆封后尽快食用。\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-2",
+      "kind": "product_attributes",
+      "label": "产地",
+      "locator": "sheet2!L13/attr-2",
+      "text": "{\"产地\": [\"中国香港特别行政区\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-3",
+      "kind": "product_attributes",
+      "label": "保质期",
+      "locator": "sheet2!L13/attr-3",
+      "text": "{\"保质期\": [\"6个月\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-4",
+      "kind": "product_attributes",
+      "label": "产地与包装",
+      "locator": "sheet2!L13/attr-4",
+      "text": "{\"产地与包装\": [\"进口食品\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-5",
+      "kind": "product_attributes",
+      "label": "贮存条件",
+      "locator": "sheet2!L13/attr-5",
+      "text": "{\"贮存条件\": [\"请置于阴凉干燥处密封保存,避免潮湿/阳光直射环境及高温,拆封后尽快食用。\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-6",
+      "kind": "product_attributes",
+      "label": "产品名称",
+      "locator": "sheet2!L13/attr-6",
+      "text": "{\"产品名称\": [\"尊贵杂锦蝴蝶酥礼盒-黄金版\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-7",
+      "kind": "product_attributes",
+      "label": "储存温度",
+      "locator": "sheet2!L13/attr-7",
+      "text": "{\"储存温度\": [\"常温\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "specs",
+      "kind": "specification",
+      "label": "原始规格列表",
+      "locator": "sheet2!L13/specs",
+      "text": "{\"child_spec_seq\": [\"规格\"], \"spec_values_seq\": [[\"尊贵杂锦蝴蝶酥礼盒（天鹅款）-黄金版211g*1盒\"]]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "copy-0",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L13/copy-0",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热搜度超99%同类品\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-1",
+      "kind": "marketing_copy",
+      "label": "产品卖点",
+      "locator": "sheet2!L13/copy-1",
+      "text": "{\"sale_point_category\": \"产品卖点\", \"sale_points\": [\"香脆浓郁\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "ai-category",
+      "kind": "ai_derived",
+      "label": "旧模型行业判断",
+      "locator": "sheet2!L13/ai-category",
+      "text": "{\"first_industry\": {\"industry_code\": \"1903\", \"industry_name\": \"食品饮料\"}, \"second_industry\": {\"industry_code\": \"190301\", \"industry_name\": \"休闲食品\"}, \"third_industry\": {\"industry_code\": 19030112, \"industry_name\": \"糕点/点心/面包\"}}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "short-name",
+      "kind": "marketing_copy",
+      "label": "旧商品短名",
+      "locator": "sheet2!L13/short-name",
+      "text": "尊贵杂锦蝴蝶酥礼盒黄金版",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "image-E",
+      "kind": "image",
+      "label": "商品图E",
+      "locator": "sheet2!E13:y=0..1080",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-E-0.jpg",
+      "image_token": "GIdIbyvLHoiTdBxISw6cSaBCnoe",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-F",
+      "kind": "image",
+      "label": "商品图F",
+      "locator": "sheet2!F13:y=0..1080",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-F-0.jpg",
+      "image_token": "QThZb4WHyoES8Jxuajic6RlKnae",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-G",
+      "kind": "image",
+      "label": "商品图G",
+      "locator": "sheet2!G13:y=0..1080",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-G-0.jpg",
+      "image_token": "XNWNbVlFpoqDwTxz4mac8TNvnwe",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-H",
+      "kind": "image",
+      "label": "商品图H",
+      "locator": "sheet2!H13:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-H-0.jpg",
+      "image_token": "WcR4bhAiOolOxJx9JZPcJyawnif",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-I",
+      "kind": "image",
+      "label": "商品图I",
+      "locator": "sheet2!I13:y=0..790",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-I-0.jpg",
+      "image_token": "GUwabrq1woydFXxUh5mc040Xn1e",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-J",
+      "kind": "image",
+      "label": "商品图J",
+      "locator": "sheet2!J13:y=0..712",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-J-0.jpg",
+      "image_token": "Vg6PbPo7sotvDJxYgl0c35vSnUg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-K",
+      "kind": "image",
+      "label": "商品图K",
+      "locator": "sheet2!K13:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-K-0.jpg",
+      "image_token": "G81XbVaWfohyU6xMXpAcivmlnWd",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M",
+      "kind": "image",
+      "label": "商品详情长图 · 片段1",
+      "locator": "sheet2!M13:y=0..1800",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-0.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-2",
+      "kind": "image",
+      "label": "商品详情长图 · 片段2",
+      "locator": "sheet2!M13:y=1800..3600",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-1.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-3",
+      "kind": "image",
+      "label": "商品详情长图 · 片段3",
+      "locator": "sheet2!M13:y=3600..5400",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-2.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-4",
+      "kind": "image",
+      "label": "商品详情长图 · 片段4",
+      "locator": "sheet2!M13:y=5400..7200",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-3.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-5",
+      "kind": "image",
+      "label": "商品详情长图 · 片段5",
+      "locator": "sheet2!M13:y=7200..9000",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-4.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-6",
+      "kind": "image",
+      "label": "商品详情长图 · 片段6",
+      "locator": "sheet2!M13:y=9000..10800",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-5.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-7",
+      "kind": "image",
+      "label": "商品详情长图 · 片段7",
+      "locator": "sheet2!M13:y=10800..12600",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-6.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-8",
+      "kind": "image",
+      "label": "商品详情长图 · 片段8",
+      "locator": "sheet2!M13:y=12600..14400",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-7.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-part-9",
+      "kind": "image",
+      "label": "商品详情长图 · 片段9",
+      "locator": "sheet2!M13:y=14400..15550",
+      "text": "",
+      "image_path": "data/assets/3812950621942841566/image-M-8.jpg",
+      "image_token": "FOPcbHdPfo0zyexzwHjc5sRJnii",
+      "origin": "merchant"
+    }
+  ]
+}

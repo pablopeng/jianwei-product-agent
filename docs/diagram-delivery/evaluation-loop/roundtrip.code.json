@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "syntax_type": "mermaid",
+  "source_output": "roundtrip.mmd",
+  "code": "flowchart LR\n  subgraph RULE[\"规则配置 · 一期已实现\"]\n    R(\"Schema ＋ Prompt<br/>食品饮料 Skill\")\n  end\n  subgraph PROD[\"产物与过程 · 一期已实现\"]\n    P(\"主 Agent 按需生产<br/>商品档案 → 确认 → 卖点\") --> S(\"冻结版本快照<br/>原始输入 · 商品档案<br/>卖点 · 工具调用轨迹\")\n  end\n  subgraph EVAL[\"批量评测与反馈 · 一期已实现\"]\n    S1(\"机评：信息准确性<br/>规则检查：Agent 轨迹\") --> J(\"整批回收与统计<br/>逐维分数 · 人工备注<br/>Prompt／Skill 迭代建议\")\n    H(\"人工：3 底线 · 5 高标<br/>飞书批量 0／1／2 评分\") --> J\n    J --> U(\"人工定位问题<br/>修改规则与提示词<br/>同批样本复测\")\n  end\n  subgraph FUT[\"二期规划 · 尚未实现\"]\n    F(\"分行业 Auto Rubrics<br/>二阶段 SFT 模型<br/>图文商品详情页重构\")\n  end\n  R --> P\n  S --> S1\n  S --> H\n  U -.反馈迭代.-> R\n  J -.沉淀评测与训练资产.-> F\n  classDef normal fill:#ffffff,stroke:#5b8ff9,color:#1f2329;\n  classDef hint fill:#f3f1eb,stroke:#8e877a,color:#1f2329;\n  class R,P,S,S1,H,J,U normal;\n  class F hint;\n  style RULE fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n  style PROD fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n  style EVAL fill:#f7f8fa,stroke:#98a2b3,stroke-dasharray:5 5;\n  style FUT fill:#f3f1eb,stroke:#8e877a,stroke-dasharray:5 5;\n",
+  "whiteboard_token": "B3jOwz3NuhknUNb3tqHczpkXn4b",
+  "block_id": "doxcn1uatdOVdzhXyqWBh6BcRGd",
+  "document_url": "https://bytedance.larkoffice.com/docx/TMEDdKO4xoQWhAxx8vjckdpXnvu",
+  "preview": "feishu-v2.jpg",
+  "notes": "源码由lark-cli whiteboard +export --output-type source实际回读，CLI按真实源类型输出.mmd；预览为飞书实际导出。"
+}

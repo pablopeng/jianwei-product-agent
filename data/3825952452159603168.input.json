@@ -1,0 +1,647 @@
+{
+  "schema_version": "1.0",
+  "product_id": "3825952452159603168",
+  "display_name": "矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心",
+  "materials": [
+    {
+      "id": "identity",
+      "kind": "product_attributes",
+      "label": "商品名与原始类目",
+      "locator": "sheet2!L2/identity",
+      "text": "{\"product_name\": \"矮子馅饼蜂蜜花生麻花甜香酥脆传统糕点休闲解馋办公室零食点心\", \"product_category\": {\"first_category\": {\"category_name\": \"休闲食品\", \"category_code\": 1000000724}, \"second_category\": {\"category_name\": \"糕点/点心\", \"category_code\": 1000000730}, \"third_category\": {\"category_name\": \"麻花\", \"category_code\": 1000000790}}, \"brand_name\": \"矮子馅饼\"}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-0",
+      "kind": "product_attributes",
+      "label": "贮存条件",
+      "locator": "sheet2!L2/attr-0",
+      "text": "{\"贮存条件\": [\"常温\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-1",
+      "kind": "product_attributes",
+      "label": "包装类型",
+      "locator": "sheet2!L2/attr-1",
+      "text": "{\"包装类型\": [\"包装\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-2",
+      "kind": "product_attributes",
+      "label": "生产企业地址",
+      "locator": "sheet2!L2/attr-2",
+      "text": "{\"生产企业地址\": [\"湖北省武汉市东西湖区兴工九路福气面团2号楼四层五层\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-3",
+      "kind": "product_attributes",
+      "label": "食品生产许可证编号",
+      "locator": "sheet2!L2/attr-3",
+      "text": "{\"食品生产许可证编号\": [\"SC12442011252580\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-4",
+      "kind": "product_attributes",
+      "label": "产品标准代码",
+      "locator": "sheet2!L2/attr-4",
+      "text": "{\"产品标准代码\": [\"GB7099\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-5",
+      "kind": "product_attributes",
+      "label": "保质期",
+      "locator": "sheet2!L2/attr-5",
+      "text": "{\"保质期\": [\"180天\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-6",
+      "kind": "product_attributes",
+      "label": "产地与包装",
+      "locator": "sheet2!L2/attr-6",
+      "text": "{\"产地与包装\": [\"国产-预包装食品\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-7",
+      "kind": "product_attributes",
+      "label": "产品名称",
+      "locator": "sheet2!L2/attr-7",
+      "text": "{\"产品名称\": [\"蜂蜜花生味麻花\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-8",
+      "kind": "product_attributes",
+      "label": "营养成分表",
+      "locator": "sheet2!L2/attr-8",
+      "text": "{\"营养成分表\": [\"能量 2485kJ、蛋白质 7.1g、脂肪 40.6g、饱和脂肪（酸） 15.5g、碳水化合物 50.7g、糖（乳糖） 12.5g、钠 199mg\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-9",
+      "kind": "product_attributes",
+      "label": "配料表",
+      "locator": "sheet2!L2/attr-9",
+      "text": "{\"配料表\": [\"小麦粉、植物油、白砂糖、花生(≥5%)、麦芽糖浆、芝麻(≥3%)、蜂蜜(≥0.7%)、食用盐、复配膨松剂(焦磷酸二氢二钠、碳酸氢钠、磷酸二氢钙、碳酸钙、柠檬酸、玉米淀粉)、碳酸氢钠、磷脂、高活性干酵母、天然酵母预拌粉(小麦粉、大米粉、葡萄糖、天然酵母(小麦、大麦、大米、葡萄干、蜂蜜)玉米淀粉)(添加量≥0.03%)、三氯蔗糖\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-10",
+      "kind": "product_attributes",
+      "label": "品牌",
+      "locator": "sheet2!L2/attr-10",
+      "text": "{\"品牌\": [\"矮子馅饼\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-11",
+      "kind": "product_attributes",
+      "label": "产地",
+      "locator": "sheet2!L2/attr-11",
+      "text": "{\"产地\": [\"中国大陆\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-12",
+      "kind": "product_attributes",
+      "label": "生产企业名称",
+      "locator": "sheet2!L2/attr-12",
+      "text": "{\"生产企业名称\": [\"湖北省崇阳县君欢食品有限责任公司\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "attr-13",
+      "kind": "product_attributes",
+      "label": "净含量",
+      "locator": "sheet2!L2/attr-13",
+      "text": "{\"净含量\": [\"278克\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "specs",
+      "kind": "specification",
+      "label": "原始规格列表",
+      "locator": "sheet2!L2/specs",
+      "text": "{\"child_spec_seq\": [\"规格\"], \"spec_values_seq\": [[\"【蜂蜜花生麻花】278g*1袋\", \"【蜂蜜花生麻花】278g*2袋\", \"【蜂蜜花生麻花】278g*3袋\"]]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "merchant"
+    },
+    {
+      "id": "copy-0",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L2/copy-0",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"百人加购\", \"百人加购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-1",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L2/copy-1",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"100%好评\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-2",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L2/copy-2",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"60+达人推荐\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-3",
+      "kind": "marketing_copy",
+      "label": "商品文描卖点",
+      "locator": "sheet2!L2/copy-3",
+      "text": "{\"sale_point_category\": \"商品文描卖点\", \"sale_points\": [\"人气新品\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-4",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L2/copy-4",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"麻花酥脆香甜，花生口味，独立小包装干净又方便，越嚼越香！\", \"麻花非常好吃。吃起来酥脆可口，一点不甜腻。口感非常好。一大包份量很足。独立包装的，干净又方便。价格也实惠。\", \"入口香甜酥脆，脆而不硬，不会过分甜腻。独立小包装方便收纳，随身放办公室，饿了、嘴馋的时候来一根\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-5",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L2/copy-5",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门加购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-6",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L2/copy-6",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"特别好吃，酥酥脆脆\", \"鲜香酥脆\", \"又脆又香\", \"酥酥脆脆很好吃\", \"吃起来酥脆可口\", \"脆而不硬，很新鲜\", \"独立包装的，携带方便\", \"一大包份量很足\", \"独立小包装方便收纳\", \"日期新鲜，配料干净\", \"酥酥脆脆的，很香\", \"香而不腻 脆而不硬\", \"日期新鲜 酥脆可口\", \"好吃，又香又甜\", \"甜而不腻，脆而不硬\", \"口感很脆，非常好吃\", \"酥脆香甜，花生口味\", \"干净又方便\", \"脆甜，口感不错\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-7",
+      "kind": "marketing_copy",
+      "label": "达人交互关系卖点",
+      "locator": "sheet2!L2/copy-7",
+      "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"矮子馅饼官方旗舰店达人粉丝爱买\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-8",
+      "kind": "marketing_copy",
+      "label": "达人交互关系卖点",
+      "locator": "sheet2!L2/copy-8",
+      "text": "{\"sale_point_category\": \"达人交互关系卖点\", \"sale_points\": [\"达人短视频带过\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-9",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L2/copy-9",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"13人说\\\"酥脆\\\"\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-10",
+      "kind": "marketing_copy",
+      "label": "商品基础属性卖点",
+      "locator": "sheet2!L2/copy-10",
+      "text": "{\"sale_point_category\": \"商品基础属性卖点\", \"sale_points\": [\"味道不错\", \"酥脆\", \"味道不错\", \"酥脆\", \"独立包装\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-11",
+      "kind": "marketing_copy",
+      "label": "店铺文描卖点",
+      "locator": "sheet2!L2/copy-11",
+      "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"零食达人好店\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-12",
+      "kind": "marketing_copy",
+      "label": "商品消费行为卖点",
+      "locator": "sheet2!L2/copy-12",
+      "text": "{\"sale_point_category\": \"商品消费行为卖点\", \"sale_points\": [\"热门复购\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-13",
+      "kind": "marketing_copy",
+      "label": "商品文描卖点",
+      "locator": "sheet2!L2/copy-13",
+      "text": "{\"sale_point_category\": \"商品文描卖点\", \"sale_points\": [\"人气上新·三重发酵麻花\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-14",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L2/copy-14",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"好评TOP\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-15",
+      "kind": "marketing_copy",
+      "label": "店铺文描卖点",
+      "locator": "sheet2!L2/copy-15",
+      "text": "{\"sale_point_category\": \"店铺文描卖点\", \"sale_points\": [\"零食达人\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-16",
+      "kind": "marketing_copy",
+      "label": "店铺消费行为卖点",
+      "locator": "sheet2!L2/copy-16",
+      "text": "{\"sale_point_category\": \"店铺消费行为卖点\", \"sale_points\": [\"店铺回头客9.5万\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-17",
+      "kind": "buyer_review",
+      "label": "商品评价卖点",
+      "locator": "sheet2!L2/copy-17",
+      "text": "{\"sale_point_category\": \"商品评价卖点\", \"sale_points\": [\"优质评价多\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "copy-18",
+      "kind": "marketing_copy",
+      "label": "达人推荐卖点",
+      "locator": "sheet2!L2/copy-18",
+      "text": "{\"sale_point_category\": \"达人推荐卖点\", \"sale_points\": [\"热销带货达人楚铃推荐\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "copy-19",
+      "kind": "marketing_copy",
+      "label": "功能优点",
+      "locator": "sheet2!L2/copy-19",
+      "text": "{\"sale_point_category\": \"功能优点\", \"sale_points\": [\"酥脆解馋 香甜不腻\", \"大方用料 美味的关键\", \"清甜不腻优质蜂蜜\", \"清甜不齁,刚好解馋\", \"撵平芝麻醇香\", \"独立包装 便携卫生\", \"独立包装\", \"三麻发酵\", \"花生蜂蜜\", \"开袋即食\"]}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "review-0",
+      "kind": "buyer_review",
+      "label": "买家评价1",
+      "locator": "sheet2!L2/review-0",
+      "text": "独立小包装的很方便，麻花吃起来酥酥脆脆的，很香！一点都不会腻，一大袋价格也很划算，他家的馅饼也好吃，夯爆了！",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-1",
+      "kind": "buyer_review",
+      "label": "买家评价2",
+      "locator": "sheet2!L2/review-1",
+      "text": "麻花非常好吃。吃起来酥脆可口，一点不甜腻。口感非常好。一大包份量很足。独立包装的，干净又方便。价格也实惠。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-2",
+      "kind": "buyer_review",
+      "label": "买家评价3",
+      "locator": "sheet2!L2/review-2",
+      "text": "好吃哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-3",
+      "kind": "buyer_review",
+      "label": "买家评价4",
+      "locator": "sheet2!L2/review-3",
+      "text": "入口香甜酥脆，脆而不硬，不会过分甜腻。独立小包装方便收纳，随身放办公室，饿了、嘴馋的时候来一根",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-4",
+      "kind": "buyer_review",
+      "label": "买家评价5",
+      "locator": "sheet2!L2/review-4",
+      "text": "描述相符：相符好吃\n服务态度：好\n物流速度：快\n可以\n发货速度：快\n性价比：好",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-5",
+      "kind": "buyer_review",
+      "label": "买家评价6",
+      "locator": "sheet2!L2/review-5",
+      "text": "口味特色：甜而不腻，脆而不硬，很新鲜，外观造型好看，吃了呱呱香，值得推荐",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-6",
+      "kind": "buyer_review",
+      "label": "买家评价7",
+      "locator": "sheet2!L2/review-6",
+      "text": "日期新鲜，配料干净，独立包装的，携带方便，口感好，满意，打算再来一些",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-7",
+      "kind": "buyer_review",
+      "label": "买家评价8",
+      "locator": "sheet2!L2/review-7",
+      "text": "酥酥脆脆很好吃，没包的量也挺多，携带也方便，上班饿的时候吃个解解馋",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-8",
+      "kind": "buyer_review",
+      "label": "买家评价9",
+      "locator": "sheet2!L2/review-8",
+      "text": "好吃，又香又甜，我都买了好多次了，一大袋我两天解决，又准备回购了🤣",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "review-9",
+      "kind": "buyer_review",
+      "label": "买家评价10",
+      "locator": "sheet2!L2/review-9",
+      "text": "味道很好，挺好吃，发货很快，包装很好，快递也很给力，好评！",
+      "image_path": "",
+      "image_token": "",
+      "origin": "buyer"
+    },
+    {
+      "id": "ai-review-summary",
+      "kind": "ai_derived",
+      "label": "旧AI评价摘要",
+      "locator": "sheet2!L2/ai-review-summary",
+      "text": "很多买家表示这款麻花口感酥脆，具有浓郁的花生香味，且甜度适中，不会过于甜腻。同时，该麻花采用独立包装，既干净又方便，非常适合办公室等场景。此外，其价格实惠，不少买家对此表示满意。",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "ai-category",
+      "kind": "ai_derived",
+      "label": "旧模型行业判断",
+      "locator": "sheet2!L2/ai-category",
+      "text": "{\"first_industry\": {\"industry_code\": \"1909\", \"industry_name\": \"家居建材\"}, \"second_industry\": {\"industry_code\": \"190931\", \"industry_name\": \"厨具\"}, \"third_industry\": {\"industry_code\": 19090702, \"industry_name\": \"水具\"}}",
+      "image_path": "",
+      "image_token": "",
+      "origin": "ai"
+    },
+    {
+      "id": "short-name",
+      "kind": "marketing_copy",
+      "label": "旧商品短名",
+      "locator": "sheet2!L2/short-name",
+      "text": "矮子馅饼蜂蜜花生麻花甜香",
+      "image_path": "",
+      "image_token": "",
+      "origin": "platform"
+    },
+    {
+      "id": "image-E",
+      "kind": "image",
+      "label": "商品图E",
+      "locator": "sheet2!E2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-E-0.jpg",
+      "image_token": "HscdbnIg3oOAUxxRwjncWQDenVc",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-F",
+      "kind": "image",
+      "label": "商品图F",
+      "locator": "sheet2!F2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-F-0.jpg",
+      "image_token": "JFLAbJvIZoTeUsxQCuWcPIu7n9d",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-G",
+      "kind": "image",
+      "label": "商品图G",
+      "locator": "sheet2!G2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-G-0.jpg",
+      "image_token": "Y6DKbmKhAo2vtuxqN1ccuTRCnWg",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-H",
+      "kind": "image",
+      "label": "商品图H",
+      "locator": "sheet2!H2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-H-0.jpg",
+      "image_token": "SqKLbX1FTomYNjxYEk2cNrR6n6b",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-I",
+      "kind": "image",
+      "label": "商品图I",
+      "locator": "sheet2!I2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-I-0.jpg",
+      "image_token": "TIv3bFSvOoYeizx2QUCcw4BMnmd",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-J",
+      "kind": "image",
+      "label": "商品图J",
+      "locator": "sheet2!J2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-J-0.jpg",
+      "image_token": "TxhPbC7KEoqBrgx2qGwc5QYpnIh",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-K",
+      "kind": "image",
+      "label": "商品图K",
+      "locator": "sheet2!K2:y=0..800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/image-K-0.jpg",
+      "image_token": "PrIMbGJXAoIT2fxDuuDcvuWjnzJ",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-0",
+      "kind": "image",
+      "label": "详情长图片段1",
+      "locator": "sheet2!M2: y=0..1800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-0.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-1",
+      "kind": "image",
+      "label": "详情长图片段2",
+      "locator": "sheet2!M2: y=1800..3600",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-1.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-2",
+      "kind": "image",
+      "label": "详情长图片段3",
+      "locator": "sheet2!M2: y=3600..5400",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-2.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-3",
+      "kind": "image",
+      "label": "详情长图片段4",
+      "locator": "sheet2!M2: y=5400..7200",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-3.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-4",
+      "kind": "image",
+      "label": "详情长图片段5",
+      "locator": "sheet2!M2: y=7200..9000",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-4.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-5",
+      "kind": "image",
+      "label": "详情长图片段6",
+      "locator": "sheet2!M2: y=9000..10800",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-5.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-6",
+      "kind": "image",
+      "label": "详情长图片段7",
+      "locator": "sheet2!M2: y=10800..12600",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-6.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    },
+    {
+      "id": "image-M-7",
+      "kind": "image",
+      "label": "详情长图片段8",
+      "locator": "sheet2!M2: y=12600..12974",
+      "text": "",
+      "image_path": "data/assets/3825952452159603168/detail-7.jpg",
+      "image_token": "X5pub2DEUokIDdxXN2VcAemVn1g",
+      "origin": "merchant"
+    }
+  ]
+}
